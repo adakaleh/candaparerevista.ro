@@ -7,42 +7,49 @@ paginate        = 12
 #SectionPagesMenu = "main"
 canonifyurls    = true
 
-# the length of text to show in a .Summary
+# câte cuvinte să fie afișate în cardurile
+# de pe prima pagină (.Summary)
 summaryLength = 40
 
 # toate variabilele aici:
 # https://gohugo.io/getting-started/configuration/
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   title       = "Când Apare Revista"
   subtitle    = "Blogul Comunității Level"
   copyright   = "© 2018"
+  description = "Comunitatea revistei Level. Da, aceea de demult. Revista nu mai e, dar a a rămas forumul să stingă lumina şi lumina nu se mai stinge. Aşa că încă suntem aici: discutăm una-alta, schimbăm jocuri, scriem articole şi ne mai şi jucăm. Jocuri."
 
+  # imagine de fundal pentru site header
   cover       = ""
-  description = "Here is a description of your site."
+
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = ["css/main-override.css", "css/art-override.css"]
   RSSLink = ""
 
-  fbName = "fakeghost"
-  githubName = "eueung"
+  # linkuri facebook și github
+  fbName = "comunitatealevel"
+  githubName = "adakaleh/candaparerevista.ro"
 
+  # logo site
   logo = "img/car_logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  # autor și avatar default
+  author = "LVL"
+  authorAvatar = "img/lvl_profile.png"
+  authorDescription = "În spatele LVL e mulți."
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "404 - Pagina nu gândește, deci nu există"
 
   #casper or caspertwo
   singleViewStyle = "casper"
+
+  # override CSS tema
+  customCSS = ["css/main-override.css", "css/art-override.css", "css/mobile-override.css"]
 
 [permalinks]
   post = "/post/:slug/"

@@ -1,0 +1,98 @@
+/* ------------------------*/
+/* ---- article page ---- */
+/* -----------------------*/
+
+
+/* body */
+/* body {
+	background: none;
+} */
+
+.post-template.site-wrapper {
+    /* padding-bottom: 4vw; */
+    /* background-image: url('../img/blackpaper_w.jpg'); */
+}
+
+.post-template .site-main {
+    padding-bottom: 3vw;
+}
+
+#site-main {
+  /* background-image: none; */
+  /* background-image: url('../img/blackpaper_w.jpg'); */
+}
+
+/* titlu articol */
+.post-full-header {
+    padding: 4vh 3vh 3vh;
+    /* border-bottom: 3px double rgba(128,128,128, 0.8); */
+    margin-bottom: 1vw;
+}
+
+.post-full-title-author-name:before {
+  content: "de ";
+}
+
+/* imagine principala */
+.post-full-image {
+	/*margin:0 -10vw -100px;*/
+	margin:0 -2vw -2vw;
+	/* height:600px; */
+  min-height: 30vh;
+	height: 55vh;
+
+}
+
+/* umbra stanga si dreapta de la suprapunerea articolui peste main image */
+.post-full-content:after, .post-full-content:before {
+    top: 0;
+    /* width: 20px; */
+    /* height: 250px; */
+		height: 10vw;
+    filter: blur(4px)
+}
+
+/* container text articol - primul paragraf */
+.post-template .kg-card-markdown>p:first-child {
+    font-size:1.15em;
+    line-height:1.5em;
+    font-style:italic;
+}
+
+/* container text articol */
+.post-full-content {
+    font-size:1.9rem;
+    line-height:1.5em;
+    /*border: solid 1px lightgray;*/
+		max-width: 1040px;
+    /* background: rgba(250,250,250, 1); */
+    background-color: rgba(255,250,245, 1);
+    border: 1px solid rgba(128,128,128, 0.2);
+
+}
+
+
+/* caseta autor */
+
+.post-full-footer {
+  padding: 2vw 0 0;
+  max-width: 1040px;
+}
+
+.author-card {
+  padding: 2vw;
+  background-color: rgba(255,255,255,1);
+  border-radius: 5px;
+  border: 1px solid rgba(128,128,128, 0.2);
+}
+
+.author-card p {
+  font-style: italic;
+}
+
+/* aside read next */
+.site-wrapper aside {
+  /* border-top: 3px double rgba(128,128,128, 0.4); */
+  background: none;
+  background-image: url('../img/blackpaper_b_lighter.jpg');
+}
