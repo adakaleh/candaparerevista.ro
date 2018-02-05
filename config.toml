@@ -1,0 +1,68 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-casper-two"
+disqusShortname = ""
+paginate        = 12
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+# the length of text to show in a .Summary
+summaryLength = 40
+
+# toate variabilele aici:
+# https://gohugo.io/getting-started/configuration/
+
+[params]
+  title       = "Când Apare Revista"
+  subtitle    = "Blogul Comunității Level"
+  copyright   = "© 2018"
+
+  cover       = ""
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = ["css/main-override.css", "css/art-override.css"]
+  RSSLink = ""
+
+  fbName = "fakeghost"
+  githubName = "eueung"
+
+  logo = "img/car_logo.png"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Your description here"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 100
+
+[[menu.main]]
+  name = "Categorii"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "Forum"
+  url = "https://forum.candaparerevista.ro"
+  weight = 95
