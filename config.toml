@@ -17,6 +17,7 @@ summaryLength = 40
 [taxonomies]
   tag = "tags"
   category = "categories"
+  author = "authors"
 
 [params]
   title       = "Când Apare Revista"
@@ -36,11 +37,11 @@ summaryLength = 40
   githubName = "adakaleh/candaparerevista.ro"
 
   # logo site
-  logo = "img/car_logo.png"
+  logo = "/img/car_logo.png"
 
   # autor și avatar default
   author = "LVL"
-  authorAvatar = "img/lvl_profile.png"
+  authorAvatar = "/img/lvl_profile.png"
   authorDescription = "În spatele LVL e mulți."
 
   pageNotFoundTitle = "404 - Pagina nu gândește, deci nu există"
@@ -68,6 +69,11 @@ summaryLength = 40
   name = "Categorii"
   url = "/categories/"
   weight = 99
+
+[[menu.main]]
+  name = "Autori"
+  url = "/authors/"
+  weight = 98
 
 [[menu.main]]
   name = "Forum"

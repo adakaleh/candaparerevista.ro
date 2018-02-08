@@ -1,10 +1,18 @@
-<article class="post-full post"> 
+<article class="post-full post">
+
+    {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
+    {{$authorName := $author.name  }}
+    {{$authorThumbnail := $author.thumbnail  }}
+    {{$authorDescription := $author.description }}
+    {{$authorWebsite := $author.website }}
+
     <header class="post-full-header">
         <section class="post-full-meta">
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>{{if .Params.tags }}
                 <span class="date-divider">/</span> {{ range $index, $tag := .Params.tags }}{{if lt $index 2}}<a href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;{{end}}{{end}}{{ end }}
         </section>
         <h1 class="post-full-title">{{.Title}}</h1>
+        <h4 class="post-full-title-author-name">{{$authorName}}</h4>
     </header>
     {{if .Params.image}}
     <figure class="post-full-image" style="background-image: url({{.Params.image | absURL}})">
@@ -20,10 +28,10 @@
 
     <footer class="post-full-footer">
       <section class="author-card">
-        <img class="author-profile-image" src="{{ (.Params.authorAvatar | default .Site.Params.authorAvatar) | absURL}}" alt="Author" />
+        <img class="author-profile-image" src="{{ $authorThumbnail | absURL}}" alt="Author" />
         <section class="author-card-content">
-            <h4 class="author-card-name"><a href="{{"/" | absURL}}">{{.Params.author | default .Site.Params.author}}</a></h4>
-                <p>{{.Params.authorDescription | default .Site.Params.authorDescription}}</p>
+            <h4 class="author-card-name"><a href="/authors/{{.Params.authors}}">{{$authorName}}</a></h4>
+                <p>{{$authorDescription}}</p>
         </section>
       </section>
     </footer>
