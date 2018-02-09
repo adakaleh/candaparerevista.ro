@@ -100,17 +100,21 @@ body {
 
 /* normal cards */
 .post-card {
-  -ms-flex:1 1 250px;
-  flex:1 1 250px;
-  margin:0 10px 20px;
+	-ms-flex:1 1 250px;
+	flex:1 1 250px;
+	margin:0 10px 20px;
 	max-width: 400px;
 	/*border: solid 1px lightgray;*/
 	border: 1px solid rgba(128,128,128, 0.4);
-  -webkit-background-clip: padding-box; /* for Safari */
-  background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
-
+	-webkit-background-clip: padding-box; /* for Safari */
+	background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
 	background-color: rgba(255,250,245, 0.7);
 }
+
+.post-card:hover {
+	transform: translate3D(0, -5px, 0)
+}
+
 /* normal cards image */
 .post-card-image-link {
 }
@@ -123,10 +127,12 @@ body {
 .post-card-content-link {
 	/*padding: 25px 25px 0;*/
 	padding: 1.2em 1.2em 0;
+	color: rgba(0,0,0,.75);
 }
 
 /* text card */
 .post-card-excerpt p {
+	font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
 	margin-bottom: 1em;
 }
 

@@ -9,7 +9,7 @@ canonifyurls    = true
 
 # câte cuvinte să fie afișate în cardurile
 # de pe prima pagină (.Summary)
-summaryLength = 40
+summaryLength = 35
 
 # toate variabilele aici:
 # https://gohugo.io/getting-started/configuration/
@@ -52,7 +52,7 @@ summaryLength = 40
   singleViewStyle = "casper"
 
   # override CSS tema
-  customCSS = ["css/main-override.css", "css/art-override.css", "css/mobile-override.css"]
+  customCSS = ["css/main-override.css", "css/art-override.css", "css/mobile-override.css", "css/fonts.css"]
 
 [permalinks]
   post = "/post/:slug/"
