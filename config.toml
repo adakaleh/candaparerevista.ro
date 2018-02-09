@@ -25,19 +25,21 @@ summaryLength = 40
   copyright   = "© 2018"
   description = "Comunitatea revistei Level. Da, aceea de demult. Revista nu mai e, dar a a rămas forumul să stingă lumina şi lumina nu se mai stinge. Aşa că încă suntem aici: discutăm una-alta, schimbăm jocuri, scriem articole şi ne mai şi jucăm. Jocuri."
 
-  # imagine de fundal pentru site header
-  cover       = ""
+  # linkuri facebook și github
+  fbName = "comunitatealevel"
+  githubName = "adakaleh/candaparerevista.ro"
 
   metaDescription = ""
   googleAnalytics = ""
   RSSLink = ""
 
-  # linkuri facebook și github
-  fbName = "comunitatealevel"
-  githubName = "adakaleh/candaparerevista.ro"
-
-  # logo site
+  # logo site si imagine fundal pentru header
   logo = "/img/car_logo.png"
+  cover       = ""
+
+  # contribuitori
+  paginaContribuitori = "/contribuie"
+  labelButonContribuie = "Contribuie"
 
   # autor și avatar default
   author = "LVL"

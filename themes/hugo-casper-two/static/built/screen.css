@@ -637,7 +637,7 @@ body {
     height: 1.9rem
 }
 
-.subscribe-button {
+.contribuie-button {
     display: block;
     padding: 4px 10px;
     border: 1px solid #fff;
@@ -648,7 +648,7 @@ body {
     opacity: .8
 }
 
-.subscribe-button:hover {
+.contribuie-button:hover {
     text-decoration: none;
     opacity: 1
 }
