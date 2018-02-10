@@ -13,11 +13,12 @@ html {
 body {
 	background-color: none;
 	background-image: url('../img/blackpaper_w_yellowish.jpg');
+	font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
 }
 
 #site-main {
-  background-image: none;
-  background-image: url('../img/blackpaper_w_yellowish.jpg');
+    background-image: none;
+    background-image: url('../img/blackpaper_w_yellowish.jpg');
 }
 
 /* textura fundal - tot ce e sub banner*/
@@ -34,13 +35,21 @@ body {
 }
 
 .site-header-content {
-    padding: 2vw 2vw;
-    min-height: 200px;
+    padding: 1vw;
+    min-height: 150px;
     max-height: 200px;
 }
 
 .site-logo{
-	max-height:100%;
+	max-height:90%;
+}
+
+.site-description{
+	/*border-top: 2px solid #fff;*/
+	/*border-bottom: 2px solid #fff;*/
+	/*font-family: Georgia, serif;*/
+	font-size: 1.7rem;
+	font-style: italic;
 }
 
 .site-nav {
@@ -60,14 +69,14 @@ body {
 @media (min-width: 900px) {
     .author-template .post-feed, .home-template .post-feed, .tag-template .post-feed {
         /* margin-top: 10px; */
-				margin-top: 1em;
+		margin-top: 1em;
         padding-top: 0
     }
 
     .home-template .site-nav {
         position: relative;
         /* top: 10px */
-				top: 1em;
+		top: 1em;
     }
 }
 
@@ -103,7 +112,7 @@ body {
 	-ms-flex:1 1 250px;
 	flex:1 1 250px;
 	margin:0 10px 20px;
-	max-width: 400px;
+	max-width: 600px; /* jumatate din max-width de la .inner */
 	/*border: solid 1px lightgray;*/
 	border: 1px solid rgba(128,128,128, 0.4);
 	-webkit-background-clip: padding-box; /* for Safari */
@@ -115,11 +124,14 @@ body {
 }
 
 .post-card:hover {
-	transform: translate3D(0, -5px, 0)
+	/*transform: translate3D(0, -5px, 0)*/
+	transition: all .15s ease;
+	transform: initial;
 }
 
 /* normal cards image */
 .post-card-image-link {
+
 }
 
 /* normal cards continut container */
@@ -143,6 +155,7 @@ body {
 .post-card-excerpt p {
 	font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
 	margin-bottom: 1em;
+	line-height: 1.4em;
 }
 
 /* normal cards footer (autor, data) */

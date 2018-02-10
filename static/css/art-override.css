@@ -29,6 +29,16 @@
     margin-bottom: 1vw;
 }
 
+.post-full-title {
+    font-family: Georgia, serif;
+    margin-top: 1vh;
+    font-size: 3.5em;
+}
+
+.post-full-title-author-name {
+    /*font-style: italic;*/
+}
+
 .post-full-title-author-name:before {
   content: "de ";
 }
@@ -38,9 +48,8 @@
 	/*margin:0 -10vw -100px;*/
 	margin:0 -2vw -2vw;
 	/* height:600px; */
-  min-height: 30vh;
+    min-height: 30vh;
 	height: 55vh;
-
 }
 
 /* umbra stanga si dreapta de la suprapunerea articolui peste main image */
@@ -48,7 +57,7 @@
     top: 0;
     /* width: 20px; */
     /* height: 250px; */
-		height: 10vw;
+	height: 10vw;
     filter: blur(4px)
 }
 
@@ -61,11 +70,14 @@
 
 /* container text articol */
 .post-full-content {
-    font-size:1.9rem;
+    font-size: 1.8rem;
     line-height:1.5em;
     /*border: solid 1px lightgray;*/
-		max-width: 1040px;
+	max-width: 1040px;
     /* background: rgba(250,250,250, 1); */
+    padding: 70px 100px;
+
+    /*font-family: Georgia, serif;*/
 
     background-color: rgba(255,250,245, 1);
     background-image: url('../img/whitepaper.png');
@@ -106,7 +118,7 @@
   border-radius: 5px;
   width: 100%;
   background-color: rgba(255,255,255,1);
-  background-image: url('../img/whitepaper.png');
+  /*background-image: url('../img/whitepaper.png');*/
   border: 1px solid rgba(128,128,128, 0.2);
 }
 
