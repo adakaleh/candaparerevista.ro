@@ -48,6 +48,9 @@ summaryLength = 35
 
   pageNotFoundTitle = "404 - Pagina nu gândește, deci nu există"
 
+  # alte labels
+  labelReadNext = "Alte Articole"
+
   #casper or caspertwo
   singleViewStyle = "casper"
 

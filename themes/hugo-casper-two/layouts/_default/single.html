@@ -35,7 +35,8 @@
 {{if eq .Site.Params.singleViewStyle "casper"}}
 <aside class="read-next outer">
   <div class="inner">
-    <div class="read-next-feed">      
+    <div class="separator-read-next">{{.Site.Params.labelReadNext}}</div>
+    <div class="read-next-feed">
       {{ partial "readnext-random-sori" . }}
       {{with .NextInSection}}
       {{ partial "readnext-article-sori" . }}
