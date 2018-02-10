@@ -21,7 +21,7 @@ summaryLength = 35
 
 [params]
   title       = "Când Apare Revista"
-  subtitle    = "Blogul Comunității Level"
+  subtitle    = "Cu un picior în trecut, ochii spre viitor și... restul în prezent"
   copyright   = "© 2018"
   description = "Comunitatea revistei Level. Da, aceea de demult. Revista nu mai e, dar a a rămas forumul să stingă lumina şi lumina nu se mai stinge. Aşa că încă suntem aici: discutăm una-alta, schimbăm jocuri, scriem articole şi ne mai şi jucăm. Jocuri."
 
@@ -42,7 +42,7 @@ summaryLength = 35
   labelButonContribuie = "Contribuie"
 
   # autor și avatar default
-  author = "LVL"
+  author = "car-lvl"
   authorAvatar = "/img/lvl_profile.png"
   authorDescription = "În spatele LVL e mulți."
 

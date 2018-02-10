@@ -1,7 +1,7 @@
 ---
 title: A Plain Markdown Post
 type: post
-author: Autor Articol
+author: car-lvl
 date: '2017-02-14'
 categories:
   - Example
@@ -10,6 +10,9 @@ tags:
   - blogdown
   - markdown
   - sample
+  - altul
+  - inca-unul
+  - ultimul
 image: https://forum.candaparerevista.ro/styles/digi/theme/images/logo.png
 ---
 
@@ -23,7 +26,7 @@ image: https://forum.candaparerevista.ro/styles/digi/theme/images/logo.png
 
 A paragraph (with a footnote):
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.^[I'm sure you are bored by the text here.]
+**Lorem ipsum** <!--more-->dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.^[I'm sure you are bored by the text here.]
 
 A blockquote (a gray bar at the left and lightgray background):
 
