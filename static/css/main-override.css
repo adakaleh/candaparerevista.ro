@@ -129,8 +129,14 @@ body {
 
 .post-card-content-link {
 	/*padding: 25px 25px 0;*/
-	padding: 1.2em 1.2em 0;
+	padding: 1.2em 1.5em 0;
 	color: rgba(0,0,0,.75);
+}
+
+.post-card-tags {
+	margin-bottom: 1em;
+	color: rgba(128,128,128, 0.8);
+	font-size: 1.1rem;
 }
 
 /* text card */
@@ -139,10 +145,26 @@ body {
 	margin-bottom: 1em;
 }
 
-/* normal cards footer */
+/* normal cards footer (autor, data) */
 .post-card-meta {
 	border-top: 1px solid rgba(128,128,128, 0.2);
-	padding: 0.5em 2em 1em;
+	padding: 0.7em 1.5em;
+	display: flex;
+	line-height: 1em;
+}
+
+.author-profile-image {
+	/*flex: 1 1 auto;*/
+}
+
+.post-card-author {
+	display: block;
+}
+
+.post-card-date {
+	/*margin-bottom: 1em;*/
+	color: rgba(128,128,128, 0.8);
+	font-size: 1.1rem;
 }
 
 /*.post-feed article {

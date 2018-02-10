@@ -15,13 +15,13 @@
     <div class="post-card-content">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
+              <h2 class="post-card-title">{{.Title}}</h2>
               {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
               #{{$tag}} {{end}} </span>
               {{ end }}
-              <h2 class="post-card-title">{{.Title}}</h2>
           </header>
           <section class="post-card-excerpt">
-              {{ if .Description }} 
+              {{ if .Description }}
                 <p>{{ .Description | markdownify }}</p>
               {{else}}
                 <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
@@ -36,7 +36,12 @@
             {{$authorLink := .Params.authors }}
 
             <img class="author-profile-image" src="{{ $authorThumbnail}}" alt="Author" />
-            <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
+            <div>
+              <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
+              <span class="post-card-date">{{ .Date.Format "2-01-06" | safeHTML }}</span>
+            </div>
+
+
 
         </footer>
     </div>
