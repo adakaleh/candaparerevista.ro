@@ -74,6 +74,25 @@
     box-shadow: 2px 2px 10px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
 }
 
+/* linkul catre sursa originala (ex: blogul autorului */
+.post-original-source-link {
+    font-style: italic;
+    margin-top: 1em;
+}
+
+/* linkul catre forum de la sfarsitul articolului */
+.post-forum-link {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 0;
+    margin-top: 1em;
+    padding-top: 1.5em;
+    border-top: 1px solid rgba(128,128,128, 0.2);
+}
+
+.post-forum-link a {
+    background-color: rgba(255,255,0, 0.7);
+}
 
 /* caseta autor */
 

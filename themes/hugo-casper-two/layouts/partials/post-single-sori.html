@@ -22,8 +22,14 @@
 
     <section class="post-full-content">
         <div class="kg-card-markdown">
-        {{ .Content }}    
+        {{ .Content }}
+        {{ if .Params.linkOriginal }}
+        <p class = "post-original-source-link">(Articol publicat inițial <a href = "{{.Params.linkOriginal}}">aici</a>)</p>
+        {{ end }}
         </div>
+        {{ if .Params.linkForum }}
+        <p class = "post-forum-link">Pentru comentarii și discuții despre articol vă invităm să vizitați <a href = "{{.Params.linkForum}}">secțiunea dedicată de pe forum</a>.</p>
+        {{ end }}
     </section>
 
     <footer class="post-full-footer">
