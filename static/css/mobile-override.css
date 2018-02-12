@@ -1,0 +1,51 @@
+
+
+/* article override */
+@media (max-width: 1170px) {
+    .post-full-content {
+        padding: 5vw 7vw 0
+    }
+
+    .post-full-image {
+        margin:0 -2vw -4vw;
+        min-height: 25vh;
+        height: 50vh;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .post-full-title {
+        font-size: 4rem
+    }
+
+    .post-full-image {
+        margin:0 -2vw -5vw;
+        min-height: 10vh;
+        height: 40vh;
+    }
+
+    .post-full-content {
+        font-size: 1.9rem;
+        padding: 4vw;
+    }
+
+    .post-template .kg-card-markdown>p:first-child {
+        font-size:1em;
+        line-height:1.4em;
+        font-style:italic;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .post-full-title {
+        font-size: 3rem
+    }
+
+    .post-full-image {
+        margin:0 -2vw -5vw;
+        min-height: 10vh;
+        height: 30vh;
+    }
+}
