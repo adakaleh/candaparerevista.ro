@@ -19,6 +19,10 @@
         font-size: 4rem
     }
 
+    .post-full-subtitle {
+        font-size: 2.5rem
+    }
+
     .post-full-image {
         margin:0 -2vw -5vw;
         min-height: 10vh;
@@ -41,6 +45,10 @@
 
     .post-full-title {
         font-size: 3rem
+    }
+
+    .post-full-subtitle {
+        font-size: 1.8rem
     }
 
     .post-full-image {

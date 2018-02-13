@@ -1,15 +1,22 @@
 ---
+
+# (OBLIGATORIU)
 title: Titlul Noului Articol
 
-# data publicării de forma `2018-02-10T17:38:18+02:00`
+# (OBLIGATORIU)
+type: post
+
+# (optional) Subtitlul Articolului
+subtitle: 
+
+# (OBLIGATORIU) data publicării de forma `2018-02-10T17:38:18+02:00`
 # (ora poate lipsi)
 date: {{ .Date }}
 
-type: post
-
-# aici se trece numele fisierului ce contine autorului; 
+# (OBLIGATORIU, aproape) aici se trece numele fisierului ce contine autorului; 
 # exemplu: pentru din `data/authors/someone-name.yml`
 # se va completa `authors: someone-name`
+# daca lipseste, autorul va fi cel default, adica site-ul
 authors: 
 
 # (optional, recomandat) url-ul imaginii principale a articolului; 

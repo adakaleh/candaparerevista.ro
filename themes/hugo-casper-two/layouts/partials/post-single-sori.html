@@ -12,6 +12,7 @@
                 <span class="date-divider">/</span> {{ range $index, $tag := .Params.tags }}{{if lt $index 2}}<a href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;{{end}}{{end}}{{ end }}
         </section>
         <h1 class="post-full-title">{{.Title}}</h1>
+        {{if (.Params.subtitle)}}<h2 class="post-full-subtitle">&mdash; {{.Params.subtitle}} &mdash;</h2>{{end}}
         <h4 class="post-full-title-author-name">{{$authorName}}</h4>
     </header>
     {{if .Params.image}}

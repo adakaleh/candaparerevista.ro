@@ -27,7 +27,7 @@
 * [ ] Licența materiale din `/content/posts`
 * [ ] Casetă tehnică joc, cu linkuri?
 * [ ] Suport notă ?
-* [ ] Suport subtitluri
+* [x] Suport subtitluri
 
 ## Autori
 * [ ] Suplimentat caseta autorului cu date contact, dacă există

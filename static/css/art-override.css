@@ -35,6 +35,13 @@
     font-size: 3.5em;
 }
 
+.post-full-subtitle {
+    font-family: Georgia, serif;
+    font-style: italic;
+    margin-top: 1vh;
+    font-size: 2em;
+}
+
 .post-full-title-author-name {
     /*font-style: italic;*/
 }
