@@ -1,6 +1,7 @@
 ## General
 * [ ] Readme
 * [ ] Embed fonturi
+* [x] Favicon
 
 ## Navbar
 * [x] De scos linkuri FB şi GH
