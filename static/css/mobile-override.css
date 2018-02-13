@@ -11,6 +11,10 @@
         min-height: 25vh;
         height: 50vh;
     }
+
+    .post-full-content img {
+        margin: 0 auto;
+    }
 }
 
 @media (max-width: 800px) {

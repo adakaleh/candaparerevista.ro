@@ -119,8 +119,11 @@ body {
 	flex:1 1 250px;
 	margin:0 10px 20px;
 	max-width: 600px; /* jumatate din max-width de la .inner */
+
 	/*border: solid 1px lightgray;*/
-	border: 1px solid rgba(128,128,128, 0.4);
+	/*border: 1px solid rgba(128,128,128, 0.4);*/
+	box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);
+
 	-webkit-background-clip: padding-box; /* for Safari */
 	background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
 	background-color: rgba(255,250,245, 0.7);
