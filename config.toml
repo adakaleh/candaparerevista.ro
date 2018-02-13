@@ -61,19 +61,14 @@ summaryLength = 35
   post = "/post/:slug/"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
+  name = "Articole"
+  url = "/categories/"
+  weight = 100
 
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 100
-
-[[menu.main]]
-  name = "Categorii"
-  url = "/categories/"
-  weight = 99
+    weight = 99
 
 [[menu.main]]
   name = "Autori"

@@ -3,7 +3,7 @@
 * [ ] Embed fonturi
 
 ## Navbar
-* [ ] De scos linkuri FB şi GH
+* [x] De scos linkuri FB şi GH
 * [ ] De mutat buton Forum în dreapta
 
 ## Prima pagină
