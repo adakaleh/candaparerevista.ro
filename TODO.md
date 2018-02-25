@@ -28,8 +28,8 @@
 
 ## Articole
 * [ ] Licența materiale din `/content/posts`
-* [ ] Casetă tehnică joc, cu linkuri?
-* [ ] Suport notă ?
+* [ ] Casetă tehnică joc si suport nota?
+* [x] Linkuri suplimentare articol
 * [x] Suport subtitluri
 
 ## Autori

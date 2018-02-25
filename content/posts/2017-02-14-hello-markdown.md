@@ -13,6 +13,19 @@ tags:
   - altul
   - inca-unul
   - ultimul
+sursa:
+  text: blogul autorului
+  link: https://github.com/eueung/hugo-casper-two
+resurse:
+  res-toml-yaml:
+    text: Deep dive into TOML, JSON and YAML
+    link: https://gohugohq.com/howto/toml-json-yaml-comparison/
+    desc: O scurtă comparaţie între formatele folosite de Hugo pentru front-matter.
+  templating-help:
+    text: Hugo Translator
+    link: https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/
+    desc: Un mic ajutor pentru a înţelege mai bine cum se foloseşte Go în template-urile Hugo, având şi comparaţii cu PHP sau JavaScript.
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=28&p=77237  
 image: https://forum.candaparerevista.ro/styles/digi/theme/images/logo.png
 ---
 

@@ -9,8 +9,7 @@ type: post
 # (optional) Subtitlul Articolului
 subtitle: 
 
-# (OBLIGATORIU) data publicării de forma `2018-02-10T17:38:18+02:00`
-# (ora poate lipsi)
+# (OBLIGATORIU) data publicării de forma `2018-02-10T17:38:18+02:00` (ora poate lipsi)
 date: {{ .Date }}
 
 # (OBLIGATORIU, aproape) aici se trece numele fisierului ce contine autorului; 
@@ -43,8 +42,26 @@ description:
 
 # (optional) link către site-ul unde a fost publicat prima dată 
 # articolul, dacă e cazul (ex: blogul autorului)
-linkOriginal: 
+sursa:
+   text: 
+   link:
 
+# (optional) listă de forma `tags: ["tag1", "tag2", "tag3"]`
+# sau
+# `tags:`
+# `  - tag1`
+# `  - tag2`
+tags: 
+
+# (optional) diverse linkuri suplimentare, relevante pentru articol
+# trebuie sa fie o structura de tipul
+# `resurse:`
+# `  resursa-1:`
+# `    text: textul ce va apărea ca link`
+# `    link: https://url.ul/resursei`
+# `    desc: O scurtă descriere a resursei`
+resurse:
+ 
 # (optional) link către postul deschis pe forum pentru articol 
 # pentru comentarii și discuții
 linkForum: 
