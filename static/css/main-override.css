@@ -154,6 +154,14 @@ body {
 	color: rgba(0,0,0,.75);
 }
 
+.post-card-categories {
+	text-transform:uppercase;
+	text-align:center;
+	border-bottom: 1px solid rgba(128,128,128, 0.2);
+	font-size: 1.2rem;
+	margin-bottom: 1em;
+}
+
 .post-card-tags {
 	margin-bottom: 1em;
 	color: rgba(128,128,128, 0.8);

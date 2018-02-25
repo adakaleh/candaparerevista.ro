@@ -15,6 +15,8 @@
     <div class="post-card-content">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
+              {{if .Params.categories }}<div class="post-card-categories"><span>{{ range $index, $categ := .Params.categories }}
+              {{$categ}} {{end}} </span></div>{{end}}
               <h2 class="post-card-title">{{.Title}}</h2>
               {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
               #{{$tag}} {{end}} </span>

@@ -2,6 +2,8 @@
 * [ ] Readme
 * [ ] Embed fonturi
 * [x] Favicon
+* [x] Evidențiere categorie (ex: "[Review]") în card/articol
+* [ ] De stabilit categorii fixe
 
 ## Navbar
 * [x] De scos linkuri FB şi GH
