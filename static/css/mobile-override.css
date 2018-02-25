@@ -2,9 +2,7 @@
 
 /* article override */
 @media (max-width: 1170px) {
-    .post-full-content {
-        padding: 5vw 7vw 0
-    }
+
 
     .post-full-image {
         margin:0 -2vw -4vw;

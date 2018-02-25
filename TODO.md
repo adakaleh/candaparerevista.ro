@@ -1,9 +1,12 @@
 ## General
-* [ ] Readme
 * [ ] Embed fonturi
 * [x] Favicon
 * [x] Evidențiere categorie (ex: "[Review]") în card/articol
 * [ ] De stabilit categorii fixe
+
+## Documentaţie
+* [ ] Readme
+* [ ] Pagină-exemplu cu formatare
 
 ## Navbar
 * [x] De scos linkuri FB şi GH
@@ -12,6 +15,7 @@
 ## Prima pagină
 * [ ] De testat și modificat pentru cazurile cu autor/avatar lipsă sau default
 * [ ] Link autor pentru posturile cu autor default (car-lvl) duc doar către pagina de autori (vezi post-list.html)
+* [ ] Featured/pinned posts (categorie noua)
 
 ## Pagina articol
 * [ ] De căutat font nou serif
@@ -24,7 +28,7 @@
 * [ ] De testat înălțime header cu multe categorii / taguri
 
 ## Mobile
-* [ ] Fix mobile css
+* [x] Fix mobile css
 
 ## Articole
 * [ ] Licența materiale din `/content/posts`
@@ -40,7 +44,9 @@
 * [ ] Galerie de imagini
 * [ ] Search
 * [ ] Arhivă toate posturile
+* [ ] Dark theme
 
 ## Secţiuni suplimentare
 * [ ] Proiectele comunităţii
 * [ ] Istoric Level / Arhiva reviste
+* [ ] Sidebar/Footbar cu noutăți comunitate

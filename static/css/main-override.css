@@ -62,7 +62,7 @@ body {
 /* container principal continut */
 .inner {
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1400px;
     width: 100%
 }
 
@@ -102,7 +102,7 @@ body {
 	}
 
 	.home-template .post-feed .post-card:nth-child(0n+1):not(.no-image) .post-card-content-link {
-		padding: 1.5em 1.5em 0.5em;
+		padding: 0.8em 1.5em 0.5em;
 	}
 
 	/* main card footer */
@@ -118,7 +118,7 @@ body {
 	-ms-flex:1 1 250px;
 	flex:1 1 250px;
 	margin:0 10px 20px;
-	max-width: 600px; /* jumatate din max-width de la .inner */
+	max-width: 700px; /* jumatate din max-width de la .inner */
 
 	/*border: solid 1px lightgray;*/
 	/*border: 1px solid rgba(128,128,128, 0.4);*/
@@ -150,7 +150,7 @@ body {
 
 .post-card-content-link {
 	/*padding: 25px 25px 0;*/
-	padding: 1.2em 1.5em 0;
+	padding: 0.5em 1.5em 0;
 	color: rgba(0,0,0,.75);
 }
 

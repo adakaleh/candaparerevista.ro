@@ -3,13 +3,13 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-casper-two"
 disqusShortname = ""
-paginate        = 12
+paginate        = 11
 #SectionPagesMenu = "main"
 canonifyurls    = true
 
 # câte cuvinte să fie afișate în cardurile
 # de pe prima pagină (.Summary)
-summaryLength = 35
+summaryLength = 25
 
 # toate variabilele aici:
 # https://gohugo.io/getting-started/configuration/
