@@ -31,6 +31,7 @@
 * [ ] Casetă tehnică joc si suport nota?
 * [x] Linkuri suplimentare articol
 * [x] Suport subtitluri
+* [x] Improve carduri read next-prev
 
 ## Autori
 * [ ] Suplimentat caseta autorului cu date contact, dacă există

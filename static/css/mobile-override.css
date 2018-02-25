@@ -43,6 +43,11 @@
         line-height:1.4em;
         font-style:italic;
     }
+
+    /* cardurile read next-previous din articol */
+    .read-next-feed .post-card {
+        max-width: 100%;
+    }
 }
 
 @media (max-width: 500px) {

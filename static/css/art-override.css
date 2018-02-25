@@ -151,6 +151,17 @@
   font-style: italic;
 }
 
+/* aside read prev - next */
+.site-wrapper aside {
+    /* border-top: 3px double rgba(128,128,128, 0.4); */
+    background: none;
+    background-image: url('../img/blackpaper_w_yellowish.jpg');
+    max-width: 1040px;
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
 .separator-read-next {
     display:table;
     white-space:nowrap;
@@ -183,9 +194,49 @@
     background-position: left 1em top 50%;
 }
 
-/* aside read next */
-.site-wrapper aside {
-  /* border-top: 3px double rgba(128,128,128, 0.4); */
-  background: none;
-  background-image: url('../img/blackpaper_w_yellowish.jpg');
+/* carduri prev-next */
+.read-next-feed {
+    /* efectul e vizibil doar cand e un singur card pe rand, adica pentru primul si ultimul articol,
+    acela va fi aliniat la dreapta; pentru primul card asta va fi corect (va duce la Previous article),
+    dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
+    e mai important sa fie aici corect. */
+    justify-content: flex-end;
+}
+
+.read-next-feed .post-card {
+    flex-direction: row;
+    min-height: 0;
+    max-width: 50%;
+    line-height: 1em;
+}
+
+.read-next-feed .post-card-image {
+    height: 100%;
+}
+
+.read-next-feed .post-card-image-link {
+    flex: 1 1 70%;
+    border-radius: 0 0 0 0;
+}
+
+.read-next-feed .post-card-categories {
+    /*font-size: 0.9em;*/
+    line-height: 2em;
+}
+
+.read-next-feed .post-card-title {
+    font-size: 1.4em;
+}
+
+.read-next-feed .post-card p {
+    line-height: 1.3em;
+    margin: 0 0 1.2em;
+}
+
+.read-next-feed .post-card-content-link {
+    padding: 0.3em 1em 0;
+}
+
+.read-next-feed .post-card-meta{
+    padding: 0.5em 1em;
 }
