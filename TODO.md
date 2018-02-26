@@ -10,12 +10,12 @@
 
 ## Navbar
 * [x] De scos linkuri FB şi GH
-* [ ] De mutat buton Forum în dreapta
+* [x] De mutat buton Forum în dreapta
 
 ## Prima pagină
 * [ ] De testat și modificat pentru cazurile cu autor/avatar lipsă sau default
 * [ ] Link autor pentru posturile cu autor default (car-lvl) duc doar către pagina de autori (vezi post-list.html)
-* [ ] Featured/pinned posts (categorie noua)
+* [x] Featured/pinned posts (categorie nouă)
 
 ## Pagina articol
 * [ ] De căutat font nou serif
@@ -50,3 +50,6 @@
 * [ ] Proiectele comunităţii
 * [ ] Istoric Level / Arhiva reviste
 * [ ] Sidebar/Footbar cu noutăți comunitate
+
+## Cod
+* [ ] CI

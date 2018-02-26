@@ -41,6 +41,10 @@ summaryLength = 25
   paginaContribuitori = "/contribuie"
   labelButonContribuie = "Contribuie"
 
+  # forum
+  linkForum = "https://forum.candaparerevista.ro"
+  labelButonForum = "Forum"
+
   # autor și avatar default
   author = "car-lvl"
   authorAvatar = "/img/lvl_profile.png"
@@ -66,6 +70,11 @@ summaryLength = 25
   weight = 100
 
 [[menu.main]]
+  name = "Featured"
+  url = "/categories/featured/"
+  weight = 100
+
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 99
@@ -79,8 +88,3 @@ summaryLength = 25
   name = "Despre"
   url = "/despre/"
   weight = 97
-
-[[menu.main]]
-  name = "Forum"
-  url = "https://forum.candaparerevista.ro"
-  weight = 95

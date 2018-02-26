@@ -12,8 +12,8 @@
     <div class="post-card-content">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
-              {{if .Params.categories }}<div class="post-card-categories"><span>{{ range $index, $categ := .Params.categories }}
-              {{$categ}} {{end}} </span></div>{{end}}
+              {{if .Params.categories }}<div class="post-card-categories">{{ range $index, $categ := .Params.categories }}
+              {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}</div>{{end}}
               {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
               #{{$tag}} {{end}} </span>
               {{ end }}

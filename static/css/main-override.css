@@ -162,6 +162,20 @@ body {
 	margin-bottom: 1em;
 }
 
+.post-card-categories .featured {
+	font-weight: bold;
+	color: darkred;
+	/*text-shadow:*/
+		/*-1px -1px 0 gold,*/
+		/*1px -1px 0 gold,*/
+		/*-1px 1px 0 gold,*/
+		/*1px 1px 0 gold;*/
+}
+
+.post-card-categories span {
+	padding: 0 0.5em;
+}
+
 .post-card-tags {
 	margin-bottom: 1em;
 	color: rgba(128,128,128, 0.8);
