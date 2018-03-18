@@ -85,6 +85,11 @@ summaryLength = 25
   weight = 98
 
 [[menu.main]]
+  name = "Community Blog"
+  url = "/blog/"
+  weight = 98
+
+[[menu.main]]
   name = "Despre"
   url = "/despre/"
   weight = 97

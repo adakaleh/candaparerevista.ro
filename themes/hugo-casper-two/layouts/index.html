@@ -10,6 +10,14 @@
       {{ partial "post-list" . }}
     </div>
 
+    {{if eq .Paginator.PageNumber 1}}
+    <div>
+      <hr>
+      <p>COMMUNITY BLOG:</p>
+      {{ partial "blog-list" . }}
+    </div>
+    {{end}}
+
     <nav class="pagination" role="navigation">
       {{if .Paginator.HasPrev}}
           <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>

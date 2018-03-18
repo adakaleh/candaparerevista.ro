@@ -1,0 +1,26 @@
+{{ $pages := (where .Data.Pages "Type" "blog") }}
+{{ range $pages.ByDate.Reverse }}
+<!-- TODO trebuie layout nou pentru community blog -->
+
+<article class="blog-card post">
+
+    <div class="blog-card-content">
+      <a class="blog-card-content-link" href="{{ .Permalink }}">
+          <header class="post-card-header">
+              <h2 class="post-card-title">{{.Title}}</h2>
+              {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
+              #{{$tag}} {{end}} </span>
+              {{ end }}
+          </header>
+          <section class="blog-card-excerpt">
+              {{ if .Description }}
+                <p>{{ .Description | markdownify }}</p>
+              {{else}}
+                <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
+              {{end}}
+          </section>
+      </a>
+
+    </div>
+</article>
+{{ end }}
