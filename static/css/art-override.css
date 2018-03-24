@@ -154,7 +154,6 @@
 /* aside read prev - next */
 .site-wrapper aside {
     /* border-top: 3px double rgba(128,128,128, 0.4); */
-    background: none;
     background-image: url('../img/blackpaper_w_yellowish.jpg');
     max-width: 1040px;
     padding: 0;
