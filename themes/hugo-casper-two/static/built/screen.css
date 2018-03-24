@@ -20,7 +20,6 @@ blockquote, q {
 }
 
 blockquote:after, blockquote:before, q:after, q:before {
-    content: "";
     content: none
 }
 
@@ -635,22 +634,6 @@ body {
 
 .social-link-rss svg {
     height: 1.9rem
-}
-
-.contribuie-button {
-    display: block;
-    padding: 4px 10px;
-    border: 1px solid #fff;
-    color: #fff;
-    font-size: 1.2rem;
-    line-height: 1em;
-    border-radius: 10px;
-    opacity: .8
-}
-
-.contribuie-button:hover {
-    text-decoration: none;
-    opacity: 1
 }
 
 .rss-button {
