@@ -1,0 +1,241 @@
+/* ------------------------*/
+/* ---- article page ---- */
+/* -----------------------*/
+
+
+/* body */
+/* body {
+	background: none;
+} */
+
+.post-template.site-wrapper {
+    /* padding-bottom: 4vw; */
+    /* background-image: url('../img/blackpaper_w.jpg'); */
+}
+
+.post-template .site-main {
+    padding-bottom: 3vw;
+}
+
+#site-main {
+  /* background-image: none; */
+  /* background-image: url('../img/blackpaper_w.jpg'); */
+}
+
+/* titlu articol */
+.post-full-header {
+    padding: 4vh 3vh 3vh;
+    /* border-bottom: 3px double rgba(128,128,128, 0.8); */
+    margin-bottom: 1vw;
+}
+
+.post-full-title {
+    font-family: Georgia, serif;
+    margin-top: 1vh;
+    font-size: 3.5em;
+}
+
+.post-full-subtitle {
+    font-family: Georgia, serif;
+    font-style: italic;
+    margin-top: 1vh;
+    font-size: 2em;
+}
+
+.post-full-title-author-name {
+    /*font-style: italic;*/
+}
+
+.post-full-title-author-name:before {
+  content: "de ";
+}
+
+/* imagine principala */
+.post-full-image {
+	/*margin:0 -10vw -100px;*/
+	margin:0 -2vw -2vw;
+	/* height:600px; */
+    min-height: 30vh;
+	height: 55vh;
+}
+
+/* umbra stanga si dreapta de la suprapunerea articolui peste main image */
+.post-full-content:after, .post-full-content:before {
+    top: 0;
+    /* width: 20px; */
+    /* height: 250px; */
+	height: 10vw;
+    filter: blur(4px)
+}
+
+/* container text articol - primul paragraf */
+.post-template .kg-card-markdown>p:first-child {
+    font-size:1.15em;
+    line-height:1.5em;
+    font-style:italic;
+}
+
+/* container text articol */
+.post-full-content {
+    font-size: 1.8rem;
+    line-height:1.5em;
+    /*border: solid 1px lightgray;*/
+	max-width: 1040px;
+    /* background: rgba(250,250,250, 1); */
+
+    /*font-family: Georgia, serif;*/
+    padding: 5em;
+    background-color: rgba(255,250,245, 1);
+    background-image: url('../img/whitepaper.png');
+    border: 1px solid rgba(128,128,128, 0.2);
+    color: rgba(0,0,0,.75);
+    box-shadow: 2px 2px 10px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
+}
+
+/* separator footnotes si metadata */
+.post-full-content hr {
+    margin: 1.5em 0 3em;
+}
+
+/* articol metadata*/
+.post-full-article-metadata {
+
+}
+.post-full-article-extra {
+    background-color: rgba(62, 176, 239, 0.1);
+    padding: 1em 1em 0.5em;
+    border-left: 3px solid rgba(62, 176, 239, 1);
+    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-size: 1.5rem;
+}
+
+.post-full-article-extra p {
+    margin: 0 0 0.5em;
+}
+
+.post-full-article-extra-categ {
+    font-weight: bold;
+}
+
+/* linkul catre forum de la sfarsitul articolului */
+.post-forum-link {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 0;
+    /*margin-top: 1em;*/
+    padding-top: 2em;
+    /*border-top: 1px solid rgba(128,128,128, 0.2);*/
+}
+
+.post-forum-link a {
+    background-color: rgba(255,255,0, 0.7);
+}
+
+/* caseta autor */
+
+.post-full-footer {
+  padding: 2vw 0 0;
+  max-width: 1040px;
+}
+
+.author-card {
+  padding: 2vw;
+  border-radius: 5px;
+  width: 100%;
+  background-color: rgba(255,255,255,1);
+  /*background-image: url('../img/whitepaper.png');*/
+  border: 1px solid rgba(128,128,128, 0.2);
+}
+
+.author-card p {
+  font-style: italic;
+}
+
+/* aside read prev - next */
+.site-wrapper aside {
+    /* border-top: 3px double rgba(128,128,128, 0.4); */
+    background-image: url('../img/blackpaper_w_yellowish.jpg');
+    max-width: 1040px;
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.separator-read-next {
+    display:table;
+    white-space:nowrap;
+    line-height:1;
+}
+
+.separator-read-next {
+    line-height:1;
+    height:0;
+    font-weight:700;
+    text-transform:uppercase;
+    text-align:center
+}
+
+.separator-read-next::after, .separator-read-next::before {
+    content:'';
+    display:table-cell;
+    position:relative;
+    top:50%;
+    width:50%;
+    background-repeat:no-repeat;
+    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAACCAYAAACuTHuKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1OThBRDY4OUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1OThBRDY4QUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU5OEFENjg3Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU5OEFENjg4Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+VU513gAAADVJREFUeNrs0DENACAQBDBIWLGBJQby/mUcJn5sJXQmOQMAAAAAAJqt+2prAAAAAACg2xdgANk6BEVuJgyMAAAAAElFTkSuQmCC);
+}
+
+.separator-read-next::before {
+    background-position: right 1em top 50%;
+}
+
+.separator-read-next::after {
+    background-position: left 1em top 50%;
+}
+
+/* carduri prev-next */
+.read-next-feed {
+    /* efectul e vizibil doar cand e un singur card pe rand, adica pentru primul si ultimul articol,
+    acela va fi aliniat la dreapta; pentru primul card asta va fi corect (va duce la Previous article),
+    dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
+    e mai important sa fie aici corect. */
+    justify-content: flex-end;
+}
+
+.read-next-feed .post-card {
+    flex-direction: row;
+    min-height: 0;
+    max-width: 50%;
+    line-height: 1em;
+}
+
+.read-next-feed .post-card-image {
+    height: 100%;
+}
+
+.read-next-feed .post-card-image-link {
+    flex: 1 1 70%;
+    border-radius: 0 0 0 0;
+}
+
+.read-next-feed .post-card-categories {
+    /*font-size: 0.9em;*/
+    line-height: 2em;
+}
+
+.read-next-feed .post-card-title {
+    font-size: 1.4em;
+}
+
+.read-next-feed .post-card p {
+    line-height: 1.3em;
+    margin: 0 0 1.2em;
+}
+
+.read-next-feed .post-card-content-link {
+    padding: 0.3em 1em 0;
+}
+
+.read-next-feed .post-card-meta{
+    padding: 0.5em 1em;
+}

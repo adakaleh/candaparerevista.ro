@@ -1,0 +1,63 @@
+/* article override */
+@media (max-width: 1170px) {
+
+    .post-full-image {
+        margin: 0 -2vw -4vw;
+        min-height: 25vh;
+        height: 50vh;
+    }
+
+    .post-full-content img {
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .post-full-title {
+        font-size: 4rem
+    }
+
+    .post-full-subtitle {
+        font-size: 2.5rem
+    }
+
+    .post-full-image {
+        margin: 0 -2vw -5vw;
+        min-height: 10vh;
+        height: 40vh;
+    }
+
+    .post-full-content {
+        font-size: 1.9rem;
+        padding: 4vw;
+    }
+
+    .post-template .kg-card-markdown > p:first-child {
+        font-size: 1em;
+        line-height: 1.4em;
+        font-style: italic;
+    }
+
+    /* cardurile read next-previous din articol */
+    .read-next-feed .post-card {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .post-full-title {
+        font-size: 3rem
+    }
+
+    .post-full-subtitle {
+        font-size: 1.8rem
+    }
+
+    .post-full-image {
+        margin: 0 -2vw -5vw;
+        min-height: 10vh;
+        height: 30vh;
+    }
+}
