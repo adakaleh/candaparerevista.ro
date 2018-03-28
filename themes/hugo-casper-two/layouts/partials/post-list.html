@@ -1,7 +1,9 @@
 {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") }}
-{{ range $paginator.Pages }}
+{{ $pageNumber := .Paginator.PageNumber}}
+{{ range $cardIndex, $cardPage := $paginator.Pages }}
 
-<article class="post-card post"> 
+{{ $firstCardCssClass := cond (and (eq $pageNumber 1) (eq $cardIndex 0)) "first-card" "" }}
+<article class="post-card post {{ $firstCardCssClass }}">
     {{if .Params.image}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
       <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
