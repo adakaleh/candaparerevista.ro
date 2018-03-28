@@ -25,6 +25,8 @@ a{
 
 .site-header {
     background-image: url('../img/blackpaper_b_lighter.jpg');
+    background-size: auto;
+    background-repeat: repeat-x;
 }
 
 .site-header-content {
@@ -144,6 +146,7 @@ a{
     background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
     background-color: rgba(255, 250, 245, 0.7);
     background-image: url('../img/whitepaper.png');
+    background-size: auto;
 }
 
 .post-card:hover {
