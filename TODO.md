@@ -81,7 +81,7 @@
 ### Cod
 * [ ] Documentaţie-Readme
 * [ ] CI
-* [ ] Page Bundles / Resources + image resize
+* [x] Page Bundles / Resources + image resize
 
 
 ## Next releases
@@ -91,6 +91,11 @@
 
 ### Pagina articol
 * [ ] Fix/improve layout imagini
+
+### Cod
+* [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
+* [ ] De văzut unde sunt folosite parţialele `meta-twitter` şi `meta-facebook` şi eliminat
+* [ ] De elimimat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources
 
 ### Functionalitati suplimentare
 * [ ] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3) 

@@ -37,6 +37,11 @@ summaryLength = 25
   logo = "/img/car_logo.png"
   cover       = ""
 
+  # dimensiuni pentru resize cover image din cards
+  # (resize Height prop.: "x350", resize Width prop.: "350x")
+  firstCardThumbSize = "x500"
+  cardThumbSize = "x350"
+
   # contribuitori
   paginaContribuitori = "/contribuie"
   labelButonContribuie = "Contribuie"

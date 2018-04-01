@@ -26,7 +26,9 @@ resurse:
     link: https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/
     desc: Un mic ajutor pentru a înţelege mai bine cum se foloseşte Go în template-urile Hugo, având şi comparaţii cu PHP sau JavaScript.
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=28&p=77237  
-image: https://forum.candaparerevista.ro/styles/digi/theme/images/logo.png
+resources :
+  - src: "images/car-cover.png"
+    name: "cover-image"
 ---
 
 # Sample Text

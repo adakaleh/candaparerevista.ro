@@ -1,0 +1,55 @@
+--------------------------
+\layouts
+--------------------------
+404.html
+index.html
+
+
+--------------------------
+\layouts\_default
+--------------------------
+list.html
+single.html
+taxonomy.html
+terms.html
+
+
+--------------------------
+\layouts\page
+--------------------------
+single.html
+
+
+--------------------------
+\layouts\partials
+--------------------------
+blog-list.html
+disqus.html
+footer.html
+head.html
+
+header-floating-sori.html
+header-sori-error.html
+header-sori-tag.html
+header-sori-term.html
+header-sori.html
+header.html
+
+js-sori.html
+js.html
+
+meta-facebook.html
+meta-twitter.html
+
+page-single-sori.html
+page-single.html					- (casper-single layout) pagina separata
+
+post-list-term.html					- lista carduri random afişate în pagina tags
+post-list.html                      - lista carduri main site
+
+post-single-sori.html               - pagina articol normal
+post-single.html					- (casper-single layout) pagina articol normal
+
+readnext-article-sori.html
+readnext-random-sori.html
+
