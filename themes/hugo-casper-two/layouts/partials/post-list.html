@@ -57,4 +57,9 @@
         </footer>
     </div>
 </article>
+
+    {{/* ----- Card Blogul Comunităţii - doar pe prima pagină, după cardul principal ----- */}}
+    {{ if $isFirstCard }}
+        {{ partial "blog-list-card" $ }}
+    {{ end }}
 {{ end }}

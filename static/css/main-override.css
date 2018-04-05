@@ -104,8 +104,8 @@ a{
 /* main card */
 @media (min-width: 795px) {
     .home-template .post-feed .first-card  {
-        -ms-flex: 1 1 100%;
-        flex: 1 1 100%;
+        -ms-flex: 1 1 70%;
+        flex: 1 1 70%;
         -ms-flex-direction: row;
         flex-direction: row;
         max-width: 100%;
@@ -235,6 +235,7 @@ a{
     line-height: 1em;
 }
 
+/* autor card */
 .author-profile-image {
     /*flex: 1 1 auto;*/
 }
@@ -252,3 +253,47 @@ a{
 /*.post-feed article {
   max-height: 400px;
 }*/
+
+
+/* card blog/stiri */
+.blog-card {
+    /* modificare proprietati mostenite de la post-card */
+    -ms-flex: 1 1 350px;
+    flex: 1 1 350px;
+
+    border: 3px double gray;
+
+    /* dezactivare proprietati mostenite de la post-card */
+    box-shadow: none;
+    /*border-radius: 0;*/
+
+    /* proprietati noi */
+    padding: 0.5em;
+    background: none;
+    /*background-image: url('../img/whitepaper.png');*/
+    /*background-color: rgba(255, 250, 245, 1);*/
+    background-color: rgba(62, 176, 239, 0.1);
+    font-family: Georgia, serif;
+}
+
+.blog-post {
+    padding: 0.5em 1em 0;
+    /*border: solid 1px rgba(190, 190, 190, 1);*/
+    border: solid 1px rgba(62, 176, 239, 0.4);
+    border-left: 0.6em solid rgba(62, 176, 239, 0.6);
+    margin: 0 0.5em 1em;
+    background: #fff;
+    max-width: 700px;
+}
+
+.blog-post a {
+    color: rgba(0, 0, 0, .7);
+}
+
+.blog-post-label {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto 0.5em;
+    color: rgba(62, 176, 239, 1);
+}
+

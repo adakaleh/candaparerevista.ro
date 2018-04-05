@@ -23,7 +23,9 @@ single.html
 --------------------------
 \layouts\partials
 --------------------------
-blog-list.html
+blog-list-card.html					- cardul de pe prima pagină cu ştirile din comunitate (blog)
+blog-list.html						- pagina separată cu ştirile din comunitate (blog)
+
 disqus.html
 footer.html
 head.html

@@ -48,7 +48,7 @@
 ## v1.0 release
 ### General
 * [ ] De stabilit categorii fixe
-* [ ] Sidebar/Footbar cu noutăți comunitate
+* [x] Sidebar/Footbar cu noutăți comunitate
 
 ### Pagina articol
 * [ ] De căutat font nou serif
@@ -91,6 +91,9 @@
 
 ### Pagina articol
 * [ ] Fix/improve layout imagini
+
+### Pagini categorii
+* [ ] Blog - fix/improve layout carduri ştiri
 
 ### Cod
 * [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie

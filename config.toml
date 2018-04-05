@@ -50,6 +50,9 @@ summaryLength = 25
   linkForum = "https://forum.candaparerevista.ro"
   labelButonForum = "Forum"
 
+  # blogul comunităţii
+  labelSectiuneBlog = "Blogul Comunităţii"
+
   # autor și avatar default
   author = "car-lvl"
   authorAvatar = "/img/lvl_profile.png"
@@ -90,7 +93,7 @@ summaryLength = 25
   weight = 98
 
 [[menu.main]]
-  name = "Community Blog"
+  name = "Blog"
   url = "/blog/"
   weight = 98
 
