@@ -1,0 +1,10 @@
+{{with .Resources.Match "gallery/*" }}
+<section class="post-full-content-gallery">
+  <hr>
+  <h4>Galerie imagini</h4>
+  {{ range .ByType "image" }}
+  {{ $thumb := .Fill "180x120" }}
+  <a href = "{{ .RelPermalink }}"><img src="{{ $thumb.Permalink }}" style="display: inline-block;" ></a>
+  {{ end }}
+</section>
+{{ end }}
