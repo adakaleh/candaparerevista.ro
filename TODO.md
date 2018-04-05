@@ -22,7 +22,7 @@
 ## Beta release
 ### General
 * [ ] Logo
-* [ ] Tagline
+* [x] Tagline
 
 ### Conţinut
 #### Articole
