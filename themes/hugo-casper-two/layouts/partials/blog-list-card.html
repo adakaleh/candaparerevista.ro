@@ -1,6 +1,6 @@
 {{ with (where .Data.Pages.ByDate.Reverse "Type" "blog") }}
   <article class="post-card blog-card">
-    <div class="blog-post-label">{{ $.Site.Params.labelSectiuneBlog }}</div>
+    <div class="blog-card-label">{{ $.Site.Params.labelSectiuneBlog }}</div>
     {{ range first 2 . }}
 
     <article class="blog-post">
