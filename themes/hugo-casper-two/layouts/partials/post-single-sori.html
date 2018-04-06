@@ -6,6 +6,7 @@
     {{$authorDescription := $author.description }}
     {{$authorWebsite := $author.website }}
 
+    {{/* ----- Imagine principală articol ----- */}}
     <header class="post-full-header">
         <section class="post-full-meta">
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
@@ -15,22 +16,29 @@
         <h4 class="post-full-title-author-name">{{$authorName}}</h4>
     </header>
 
+    {{/* ----- Imagine principală articol ----- */}}
     {{if .Params.image}}
         <figure class="post-full-image" style="background-image: url({{.Params.image | absURL }})"></figure>
+
     {{else}}
         {{ with .Resources.GetMatch "cover-image" }}
         <figure class="post-full-image" style="background-image: url({{ .Permalink }})"></figure>
         {{ end }}
     {{end}}
 
-    {{ $hasNoImage := and (not .Params.image) (not (.Resources.GetMatch "cover-image")) }}
+    {{ $hasNoImage := and (not .Params.image) (not (.Resources.GetMatch "cover-image")) (not (.Resources.GetMatch "card-cover-image"))}}
     {{ $noImageCssClass := cond $hasNoImage "no-image" "" }}
 
+    {{/* ----- Corpul articolului ----- */}}
     <section class="post-full-content {{ $noImageCssClass }}">
         <div class="kg-card-markdown">
         {{ .Content }}
         </div>
+
+        {{/* ----- Galeria de la sfârşit (imaginile din /gallery ) ----- */}}
         {{ partial "gallery-all" . }}
+
+        {{/* ----- Caseta informaţii suplimentare articol ----- */}}
         {{ if or .Params.sursa .Params.tags .Params.resurse .Params.linkForum }}
         <section class="post-full-article-metadata">
             <hr>
@@ -56,6 +64,7 @@
         {{ end }}
     </section>
 
+    {{/* ----- Caseta autor ----- */}}
     <footer class="post-full-footer">
       <section class="author-card">
         <img class="author-profile-image" src="{{ $authorThumbnail | absURL}}" alt="Author" />

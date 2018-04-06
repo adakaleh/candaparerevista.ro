@@ -18,10 +18,6 @@ date: {{ .Date }}
 # daca lipseste, autorul va fi cel default, adica site-ul
 authors: 
 
-# (optional, recomandat) url-ul imaginii principale a articolului; 
-# dacă lipsește, va fi înlocuită cu o imagine generică
-image: 
-
 # (optional) listă de forma `categories: ["cat1", "cat2", "cat3"]`
 # sau
 # `categories:`
@@ -65,6 +61,19 @@ resurse:
 # (optional) link către postul deschis pe forum pentru articol 
 # pentru comentarii și discuții
 linkForum: 
+
+
+# (optional, recomandat) calea către imaginea articolului, relativ la directorul articolului:
+# - pentru card, va fi căutată una dintre cele două imagini, în ordina de mai jos, sau, 
+#   dacă lipsește, va fi înlocuită cu o imagine generică;
+# - pentru imaginea principală a articolului, va fi căutată doar imaginea "cover-image"
+# Se completează doar src astfel: `src: "images/coperta.jpg"`
+resources:
+  - src: 
+    name: "card-cover-image"
+
+  - src: 
+    name: "cover-image"
 
 ---
 

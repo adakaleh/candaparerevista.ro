@@ -29,6 +29,9 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=28&p=77237
 resources :
   - src: "images/car-cover.png"
     name: "cover-image"
+    
+  - src: "images/car-cover.png"
+    name: "card-cover-image"
 ---
 
 # Sample Text
