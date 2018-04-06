@@ -13,6 +13,7 @@
           <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
           {{end}}
         </section>
+        <div class="post-card-date"><span>{{ .Date.Format "2-01-06" | safeHTML }}</span></div>
       </a>
     </article>
 

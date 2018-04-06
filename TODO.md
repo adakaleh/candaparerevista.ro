@@ -50,6 +50,9 @@
 * [ ] De stabilit categorii fixe
 * [x] Sidebar/Footbar cu noutăți comunitate
 
+### Blog comunitate
+* [ ] Fix layout flex vertical (justify) 
+
 ### Pagina articol
 * [ ] De căutat font nou serif
 

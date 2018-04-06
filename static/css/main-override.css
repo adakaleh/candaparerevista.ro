@@ -321,3 +321,11 @@ a{
     font-size: 1.7rem;
     margin: 0.5em 0;
 }
+
+.blog-post p {
+    margin: 0;
+}
+
+.blog-post .post-card-date {
+    text-align: right;
+}
