@@ -24,6 +24,9 @@
 * [ ] Logo
 * [x] Tagline
 
+### Pagina articol
+* [x] De adăugat info data originală a articolului în caseta tehnică 
+
 ### Conţinut
 #### Articole
 * [ ] Selecţie şi formatare primul set de articole
