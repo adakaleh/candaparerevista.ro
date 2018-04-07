@@ -9,7 +9,7 @@ index.html
 \layouts\_default
 --------------------------
 list.html
-single.html
+single.html							- template principal pentru un singur articol
 taxonomy.html
 terms.html
 
@@ -49,8 +49,8 @@ page-single.html					- (casper-single layout) pagina separata
 post-list-term.html					- lista carduri random afişate în pagina tags
 post-list.html                      - lista carduri main site
 
-post-single-sori.html               - pagina articol normal
-post-single.html					- (casper-single layout) pagina articol normal
+post-single-sori.html               - continut pagina articol normal (-> single.html)
+post-single.html					- (casper-single layout) pagina articol normal (-> single.html)
 
 readnext-article-sori.html
 readnext-random-sori.html

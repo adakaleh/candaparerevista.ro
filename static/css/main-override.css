@@ -287,6 +287,9 @@ a{
 }
 
 .blog-post {
+    /* umple tot spatiul vertical din blog-card */
+    flex-grow: 1;
+
     padding: 0.5em 1em 0;
     border-left: 0.6em solid rgba(0, 0, 0, 0.6);
     box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);

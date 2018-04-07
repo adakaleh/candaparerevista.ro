@@ -40,7 +40,7 @@
     }
 
     /* cardurile read next-previous din articol */
-    .read-next-feed .post-card {
+    .read-next-feed .post-card, .read-next-feed .blog-post {
         max-width: 100%;
     }
 }

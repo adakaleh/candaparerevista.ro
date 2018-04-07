@@ -204,6 +204,8 @@
     dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
     e mai important sa fie aici corect. */
     justify-content: flex-end;
+
+    padding: 2em 0;
 }
 
 .read-next-feed .post-card {
@@ -242,4 +244,8 @@
 
 .read-next-feed .post-card-meta{
     padding: 0.5em 1em;
+}
+
+.read-next-feed .blog-post {
+    max-width: 47%;
 }

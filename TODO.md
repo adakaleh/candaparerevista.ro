@@ -51,7 +51,8 @@
 * [x] Sidebar/Footbar cu noutăți comunitate
 
 ### Blog comunitate
-* [ ] Fix layout flex vertical (justify) 
+* [x] Fix layout flex vertical (~~justify~~ flex-grow) 
+* [ ] Îmbunătăţiri layout
 
 ### Pagina articol
 * [ ] De căutat font nou serif
