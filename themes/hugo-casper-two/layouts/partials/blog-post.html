@@ -1,0 +1,15 @@
+<article class="blog-post">
+  <a class="blog-card-content-link" href="{{ .Permalink }}">
+    <header class="post-card-header">
+      <h2 class="post-card-title">{{.Title}}</h2>
+    </header>
+    <section class="blog-card-excerpt">
+      {{ if .Description }}
+      <p>{{ .Description | markdownify }}</p>
+      {{else}}
+      <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
+      {{end}}
+    </section>
+    <div class="post-card-date"><span>{{ .Date.Format "2-01-06" | safeHTML }}</span></div>
+  </a>
+</article>

@@ -72,6 +72,13 @@
 
     {{/* ----- Card Blogul Comunităţii - doar pe prima pagină, după cardul principal ----- */}}
     {{ if $isFirstCard }}
-        {{ partial "blog-list-card" $ }}
+      {{ with (where $.Data.Pages.ByDate.Reverse "Type" "blog") }}
+        <article class="post-card blog-card">
+          <div class="blog-card-label">{{ $.Site.Params.labelSectiuneBlog }}</div>
+            {{ range first 2 . }}
+              {{ partial "blog-post" . }}
+            {{ end }}
+        </article>
+      {{ end }}
     {{ end }}
 {{ end }}
