@@ -39,7 +39,7 @@
         {{ partial "gallery-all" . }}
 
         {{/* ----- Caseta informaţii suplimentare articol ----- */}}
-        {{ if or .Params.sursa .Params.tags .Params.resurse .Params.linkForum }}
+        {{ if or .Params.sursa .Params.tags .Params.linkuriExterne .Params.linkForum }}
         <section class="post-full-article-metadata">
             <hr>
             <!--h2>Despre</h2-->
@@ -58,8 +58,8 @@
                     </p>
                 {{end}}
 
-                {{with .Params.resurse}}
-                    <p><span class="post-full-article-extra-categ">Resurse suplimentare</span>:</p>
+                {{with .Params.linkuriExterne}}
+                    <p><span class="post-full-article-extra-categ">Linkuri externe</span>:</p>
                         <ul>
                             {{ range . }}
                                 <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>

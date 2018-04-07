@@ -3,7 +3,7 @@
   <hr>
   <h4>Galerie imagini</h4>
   {{ range .ByType "image" }}
-  {{ $thumb := .Fill "180x120" }}
+  {{ $thumb := .Fill $.Site.Params.galerieThumbSize }}
   <a href = "{{ .RelPermalink }}"><img src="{{ $thumb.Permalink }}" style="display: inline-block;" ></a>
   {{ end }}
 </section>

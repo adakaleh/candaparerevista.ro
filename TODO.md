@@ -26,6 +26,7 @@
 
 ### Pagina articol
 * [x] De adăugat info data originală a articolului în caseta tehnică 
+* [ ] De adăugat info licenţă în caseta tehnică 
 
 ### Conţinut
 #### Articole

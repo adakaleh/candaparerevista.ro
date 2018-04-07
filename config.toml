@@ -41,6 +41,7 @@ summaryLength = 25
   # (resize Height prop.: "x350", resize Width prop.: "350x")
   firstCardThumbSize = "x500"
   cardThumbSize = "x350"
+  galerieThumbSize = "180x120"
 
   # contribuitori
   paginaContribuitori = "/contribuie"

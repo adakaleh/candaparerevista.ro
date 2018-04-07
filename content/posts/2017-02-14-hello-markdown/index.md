@@ -16,7 +16,7 @@ tags:
 sursa:
   text: blogul autorului
   link: https://github.com/eueung/hugo-casper-two
-resurse:
+linkuriExterne:
   res-toml-yaml:
     text: Deep dive into TOML, JSON and YAML
     link: https://gohugohq.com/howto/toml-json-yaml-comparison/
