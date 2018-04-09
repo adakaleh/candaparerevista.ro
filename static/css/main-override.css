@@ -25,7 +25,7 @@ a{
 
 .site-header {
     background-image: url('../img/blackpaper_b_lighter.jpg');
-    background-size: auto;
+    background-size: contain;
     background-repeat: repeat-x;
 }
 

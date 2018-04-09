@@ -42,7 +42,7 @@
 
 ### Cod
 * [ ] Embed fonturi
-* [ ] De scos request-uri 3rd party (img, css, js)
+* [x] De scos request-uri 3rd party (img, css, js) - img-urile se vor face direct pe versiune live
 
 
 ## v1.0 release

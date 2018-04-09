@@ -1,61 +1,61 @@
 <article class="post-full post">
 
-    {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
-    {{$authorName := $author.name  }}
-    {{$authorThumbnail := $author.thumbnail  }}
-    {{$authorDescription := $author.description }}
-    {{$authorWebsite := $author.website }}
+  {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
+  {{$authorName := $author.name  }}
+  {{$authorThumbnail := $author.thumbnail  }}
+  {{$authorDescription := $author.description }}
+  {{$authorWebsite := $author.website }}
 
-    <header class="post-full-header">
-        <section class="post-full-meta">
-            <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
-        </section>
-        <h1 class="post-full-title">{{.Title}}</h1>
-        {{if (.Params.subtitle)}}<h2 class="post-full-subtitle">&mdash; {{.Params.subtitle}} &mdash;</h2>{{end}}
-        <h4 class="post-full-title-author-name">{{$authorName}}</h4>
-    </header>
-    {{if .Params.image}}
-    <figure class="post-full-image" style="background-image: url({{.Params.image | absURL}})">
-    </figure>{{else}}
-    <figure class="post-full-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)">
-    </figure>{{end}}
-
-    <section class="post-full-content">
-        <div class="kg-card-markdown">
-        {{ .Content }}
-        </div>
-        {{ if or .Params.sursa .Params.tags .Params.resurse .Params.linkForum }}
-        <section class="post-full-article-metadata">
-            <hr>
-            <!--h2>Despre</h2-->
-            <div class = "post-full-article-extra">
-                {{if .Params.tags}} <p><span class="post-full-article-extra-categ">Tags</span>: {{ range $tag := .Params.tags }}<a href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;&nbsp;{{ end }}</p>{{end}}
-                {{if .Params.sursa}}<p><span class="post-full-article-extra-categ">Sursa</span>: <a href="{{ .Params.sursa.link }}">{{ or .Params.sursa.text "link"}}</a></p>{{end}}
-                {{if .Params.resurse}}<p><span class="post-full-article-extra-categ">Resurse suplimentare</span>:</p>
-                        <ul>
-                            {{ range .Params.resurse }}
-                                <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>
-                            {{ end }}
-                        </ul>
-                {{end}}
-            </div>
-            {{ if .Params.linkForum }}
-                <p class = "post-forum-link">
-                <span class ="post-forum-link-icon"><svg width="1.5em" height="1.5em"  viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/></svg></span>
-                Pentru comentarii și discuții despre articol vă invităm să vizitați <a href = "{{.Params.linkForum}}">secțiunea dedicată de pe forum</a>.
-                </p>
-            {{end}}
-        </section>
-        {{ end }}
+  <header class="post-full-header">
+    <section class="post-full-meta">
+      <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
     </section>
+    <h1 class="post-full-title">{{.Title}}</h1>
+    {{if (.Params.subtitle)}}<h2 class="post-full-subtitle">&mdash; {{.Params.subtitle}} &mdash;</h2>{{end}}
+    <h4 class="post-full-title-author-name">{{$authorName}}</h4>
+  </header>
+  {{if .Params.image}}
+  <figure class="post-full-image" style="background-image: url({{.Params.image | absURL}})">
+  </figure>{{else}}
+  <figure class="post-full-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)">
+  </figure>{{end}}
 
-    <footer class="post-full-footer">
-      <section class="author-card">
-        <img class="author-profile-image" src="{{ $authorThumbnail | absURL}}" alt="Author" />
-        <section class="author-card-content">
-            <h4 class="author-card-name"><a href="/authors/{{.Params.authors}}">{{$authorName}}</a></h4>
-                <p>{{$authorDescription}}</p>
-        </section>
+  <section class="post-full-content">
+    <div class="kg-card-markdown">
+      {{ .Content }}
+    </div>
+    {{ if or .Params.sursa .Params.tags .Params.resurse .Params.linkForum }}
+    <section class="post-full-article-metadata">
+      <hr>
+      <!--h2>Despre</h2-->
+      <div class = "post-full-article-extra">
+        {{if .Params.tags}} <p><span class="post-full-article-extra-categ">Tags</span>: {{ range $tag := .Params.tags }}<a href="{{$.Site.BaseURL}}tags/{{ $tag | urlize }}/">#{{$tag}}</a>&nbsp;&nbsp;{{ end }}</p>{{end}}
+        {{if .Params.sursa}}<p><span class="post-full-article-extra-categ">Sursa</span>: <a href="{{ .Params.sursa.link }}">{{ or .Params.sursa.text "link"}}</a></p>{{end}}
+        {{if .Params.resurse}}<p><span class="post-full-article-extra-categ">Resurse suplimentare</span>:</p>
+        <ul>
+          {{ range .Params.resurse }}
+          <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>
+          {{ end }}
+        </ul>
+        {{end}}
+      </div>
+      {{ if .Params.linkForum }}
+      <p class = "post-forum-link">
+        <span class ="post-forum-link-icon"><svg width="1.5em" height="1.5em"  viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/></svg></span>
+        Pentru comentarii și discuții despre articol vă invităm să vizitați <a href = "{{.Params.linkForum}}">secțiunea dedicată de pe forum</a>.
+      </p>
+      {{end}}
+    </section>
+    {{ end }}
+  </section>
+
+  <footer class="post-full-footer">
+    <section class="author-card">
+      <img class="author-profile-image" src="{{ $authorThumbnail | absURL}}" alt="Author" />
+      <section class="author-card-content">
+        <h4 class="author-card-name"><a href="/authors/{{.Params.authors}}">{{$authorName}}</a></h4>
+        <p>{{$authorDescription}}</p>
       </section>
-    </footer>
+    </section>
+  </footer>
 </article>
