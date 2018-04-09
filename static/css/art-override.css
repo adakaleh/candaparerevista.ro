@@ -2,7 +2,6 @@
 /* ---- article page ---- */
 /* -----------------------*/
 
-
 /* body */
 /* body {
 	background: none;
@@ -18,8 +17,8 @@
 }
 
 #site-main {
-  /* background-image: none; */
-  /* background-image: url('../img/blackpaper_w.jpg'); */
+    background-image: url('../img/blackpaper_w.jpg');
+    background-size: contain;
 }
 
 /* titlu articol */
@@ -47,16 +46,16 @@
 }
 
 .post-full-title-author-name:before {
-  content: "de ";
+    content: "de ";
 }
 
 /* imagine principala */
 .post-full-image {
-	/*margin:0 -10vw -100px;*/
-	margin:0 -2vw -2vw;
-	/* height:600px; */
+    /*margin:0 -10vw -100px;*/
+    margin: 0 -2vw -2vw;
+    /* height:600px; */
     min-height: 30vh;
-	height: 55vh;
+    height: 55vh;
 }
 
 /* umbra stanga si dreapta de la suprapunerea articolui peste main image */
@@ -64,7 +63,7 @@
     top: 0;
     /* width: 20px; */
     /* height: 250px; */
-	height: 10vw;
+    height: 10vw;
     filter: blur(4px)
 }
 
@@ -85,15 +84,15 @@
     font-size: 1.7rem;
     line-height:1.5em;
     /*border: solid 1px lightgray;*/
-	max-width: 1040px;
+    max-width: 1040px;
     /* background: rgba(250,250,250, 1); */
 
     font-family: Merriweather, serif;
     padding: 5em;
-    background-color: rgba(255,250,245, 1);
+    background-color: rgba(255, 250, 245, 1);
     background-image: url('../img/whitepaper.png');
-    border: 1px solid rgba(128,128,128, 0.2);
-    color: rgba(0,0,0,.75);
+    border: 1px solid rgba(128, 128, 128, 0.2);
+    color: rgba(0, 0, 0, .75);
     box-shadow: 2px 2px 10px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
 }
 
@@ -106,6 +105,7 @@
 .post-full-article-metadata {
 
 }
+
 .post-full-article-extra {
     background-color: rgba(62, 176, 239, 0.1);
     padding: 1em 1em 0.5em;
@@ -133,27 +133,27 @@
 }
 
 .post-forum-link a {
-    background-color: rgba(255,255,0, 0.7);
+    background-color: rgba(255, 255, 0, 0.7);
 }
 
 /* caseta autor */
 
 .post-full-footer {
-  padding: 2vw 0 0;
-  max-width: 1040px;
+    padding: 2vw 0 0;
+    max-width: 1040px;
 }
 
 .author-card {
-  padding: 2vw;
-  border-radius: 5px;
-  width: 100%;
-  background-color: rgba(255,255,255,1);
-  /*background-image: url('../img/whitepaper.png');*/
-  border: 1px solid rgba(128,128,128, 0.2);
+    padding: 2vw;
+    border-radius: 5px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    /*background-image: url('../img/whitepaper.png');*/
+    border: 1px solid rgba(128, 128, 128, 0.2);
 }
 
 .author-card p {
-  font-style: italic;
+    font-style: italic;
 }
 
 /* aside read prev - next */
@@ -167,27 +167,27 @@
 }
 
 .separator-read-next {
-    display:table;
-    white-space:nowrap;
-    line-height:1;
+    display: table;
+    white-space: nowrap;
+    line-height: 1;
 }
 
 .separator-read-next {
-    line-height:1;
-    height:0;
-    font-weight:700;
-    text-transform:uppercase;
-    text-align:center
+    line-height: 1;
+    height: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center
 }
 
 .separator-read-next::after, .separator-read-next::before {
-    content:'';
-    display:table-cell;
-    position:relative;
-    top:50%;
-    width:50%;
-    background-repeat:no-repeat;
-    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAACCAYAAACuTHuKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1OThBRDY4OUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1OThBRDY4QUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU5OEFENjg3Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU5OEFENjg4Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+VU513gAAADVJREFUeNrs0DENACAQBDBIWLGBJQby/mUcJn5sJXQmOQMAAAAAAJqt+2prAAAAAACg2xdgANk6BEVuJgyMAAAAAElFTkSuQmCC);
+    content: '';
+    display: table-cell;
+    position: relative;
+    top: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAACCAYAAACuTHuKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1OThBRDY4OUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1OThBRDY4QUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU5OEFENjg3Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU5OEFENjg4Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+VU513gAAADVJREFUeNrs0DENACAQBDBIWLGBJQby/mUcJn5sJXQmOQMAAAAAAJqt+2prAAAAAACg2xdgANk6BEVuJgyMAAAAAElFTkSuQmCC);
 }
 
 .separator-read-next::before {
@@ -243,7 +243,7 @@
     padding: 0.3em 1em 0;
 }
 
-.read-next-feed .post-card-meta{
+.read-next-feed .post-card-meta {
     padding: 0.5em 1em;
 }
 

@@ -13,7 +13,7 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
 }
 
-a{
+a {
     transition: 0.2s color ease;
 }
 
@@ -25,7 +25,7 @@ a{
 
 .site-header {
     background-image: url('../img/blackpaper_b_lighter.jpg');
-    background-size: auto;
+    background-size: contain;
     background-repeat: repeat-x;
 }
 
@@ -50,11 +50,11 @@ a{
     font-size: 100%;
 }
 
-.site-nav-left{
+.site-nav-left {
     padding-bottom: 0;
 }
 
-.forum-button{
+.forum-button {
 
 }
 
@@ -73,7 +73,6 @@ a{
     text-decoration: none;
     opacity: 1
 }
-
 
 /* --- body --- */
 
