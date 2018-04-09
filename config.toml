@@ -21,7 +21,7 @@ summaryLength = 25
 
 [params]
   title       = "Când Apare Revista"
-  subtitle    = "Cu un picior în trecut, ochii spre viitor și... restul în prezent"
+  subtitle    = "Site-ul comunității LEVEL"
   copyright   = "© 2018"
   description = "Comunitatea revistei Level. Da, aceea de demult. Revista nu mai e, dar a a rămas forumul să stingă lumina şi lumina nu se mai stinge. Aşa că încă suntem aici: discutăm una-alta, schimbăm jocuri, scriem articole şi ne mai şi jucăm. Jocuri."
 
@@ -37,6 +37,12 @@ summaryLength = 25
   logo = "/img/car_logo.png"
   cover       = ""
 
+  # dimensiuni pentru resize cover image din cards
+  # (resize Height prop.: "x350", resize Width prop.: "350x")
+  firstCardThumbSize = "x500"
+  cardThumbSize = "x350"
+  galerieThumbSize = "180x120"
+
   # contribuitori
   paginaContribuitori = "/contribuie"
   labelButonContribuie = "Contribuie"
@@ -44,6 +50,9 @@ summaryLength = 25
   # forum
   linkForum = "https://forum.candaparerevista.ro"
   labelButonForum = "Forum"
+
+  # blogul comunităţii
+  labelSectiuneBlog = "Blogul Comunităţii"
 
   # autor și avatar default
   author = "car-lvl"
@@ -85,7 +94,7 @@ summaryLength = 25
   weight = 98
 
 [[menu.main]]
-  name = "Community Blog"
+  name = "Blog"
   url = "/blog/"
   weight = 98
 

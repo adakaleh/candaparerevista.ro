@@ -16,7 +16,7 @@ tags:
 sursa:
   text: blogul autorului
   link: https://github.com/eueung/hugo-casper-two
-resurse:
+linkuriExterne:
   res-toml-yaml:
     text: Deep dive into TOML, JSON and YAML
     link: https://gohugohq.com/howto/toml-json-yaml-comparison/
@@ -26,7 +26,12 @@ resurse:
     link: https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/
     desc: Un mic ajutor pentru a înţelege mai bine cum se foloseşte Go în template-urile Hugo, având şi comparaţii cu PHP sau JavaScript.
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=28&p=77237  
-image: https://forum.candaparerevista.ro/styles/digi/theme/images/logo.png
+resources :
+  - src: "images/car-cover.png"
+    name: "cover-image"
+    
+  - src: "images/car-cover.png"
+    name: "card-cover-image"
 ---
 
 # Sample Text

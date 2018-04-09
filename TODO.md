@@ -22,7 +22,11 @@
 ## Beta release
 ### General
 * [ ] Logo
-* [ ] Tagline
+* [x] Tagline
+
+### Pagina articol
+* [x] De adăugat info data originală a articolului în caseta tehnică 
+* [ ] De adăugat info licenţă în caseta tehnică 
 
 ### Conţinut
 #### Articole
@@ -41,14 +45,20 @@
 * [ ] Buton Forum mai proeminent
 
 ### Cod
-* [ ] Embed fonturi
-* [x] De scos request-uri 3rd party (img, css, js) - img-urile se vor face direct pe versiune live
+* [x] Embed fonturi
+* [x] De scos request-uri 3rd party (img, css, js)
+* [ ] Optimizare fonturi (de scos fonturi nefolosite, unicode ranges) - ?
 
 
 ## v1.0 release
 ### General
 * [ ] De stabilit categorii fixe
-* [ ] Sidebar/Footbar cu noutăți comunitate
+* [x] Sidebar/Footbar cu noutăți comunitate
+
+### Blog comunitate
+* [x] Fix layout flex vertical (~~justify~~ flex-grow) 
+* [ ] Îmbunătăţiri layout
+* [ ] Link pe card
 
 ### Pagina articol
 * [ ] De căutat font nou serif
@@ -81,7 +91,7 @@
 ### Cod
 * [ ] Documentaţie-Readme
 * [ ] CI
-* [ ] Page Bundles / Resources + image resize
+* [x] Page Bundles / Resources + image resize
 
 
 ## Next releases
@@ -91,6 +101,11 @@
 
 ### Pagina articol
 * [ ] Fix/improve layout imagini
+
+### Cod
+* [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
+* [ ] De văzut unde sunt folosite parţialele `meta-twitter` şi `meta-facebook` şi eliminat
+* [ ] De elimimat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources
 
 ### Functionalitati suplimentare
 * [ ] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3) 

@@ -29,13 +29,13 @@
 }
 
 .post-full-title {
-    font-family: Georgia, serif;
+    font-family: 'Merriweather', serif;
     margin-top: 1vh;
     font-size: 3.5em;
 }
 
 .post-full-subtitle {
-    font-family: Georgia, serif;
+    font-family: 'Merriweather', serif;
     font-style: italic;
     margin-top: 1vh;
     font-size: 2em;
@@ -67,22 +67,27 @@
     filter: blur(4px)
 }
 
+.post-full-content.no-image:after, .post-full-content.no-image:before {
+    display: none;
+}
+
 /* container text articol - primul paragraf */
-.post-template .kg-card-markdown > p:first-child {
-    font-size: 1.15em;
-    line-height: 1.5em;
-    font-style: italic;
+.post-template .kg-card-markdown>p:first-child {
+    font-size:1.9rem;
+    line-height:1.5em;
+    font-style:italic;
+    font-weight:300;
 }
 
 /* container text articol */
 .post-full-content {
-    font-size: 1.8rem;
-    line-height: 1.5em;
+    font-size: 1.7rem;
+    line-height:1.5em;
     /*border: solid 1px lightgray;*/
     max-width: 1040px;
     /* background: rgba(250,250,250, 1); */
 
-    /*font-family: Georgia, serif;*/
+    font-family: Merriweather, serif;
     padding: 5em;
     background-color: rgba(255, 250, 245, 1);
     background-image: url('../img/whitepaper.png');
@@ -105,7 +110,7 @@
     background-color: rgba(62, 176, 239, 0.1);
     padding: 1em 1em 0.5em;
     border-left: 3px solid rgba(62, 176, 239, 1);
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.5rem;
 }
 
@@ -200,6 +205,8 @@
     dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
     e mai important sa fie aici corect. */
     justify-content: flex-end;
+
+    padding: 2em 0;
 }
 
 .read-next-feed .post-card {
@@ -238,4 +245,8 @@
 
 .read-next-feed .post-card-meta {
     padding: 0.5em 1em;
+}
+
+.read-next-feed .blog-post {
+    max-width: 47%;
 }

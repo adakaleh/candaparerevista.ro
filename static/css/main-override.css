@@ -10,7 +10,7 @@ html {
 
 body {
     background-image: url('../img/blackpaper_w_yellowish.jpg');
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 a {
@@ -42,7 +42,6 @@ a {
 .site-description {
     /*border-top: 2px solid #fff;*/
     /*border-bottom: 2px solid #fff;*/
-    /*font-family: Georgia, serif;*/
     font-size: 1.7rem;
     font-style: italic;
 }
@@ -102,9 +101,9 @@ a {
 
 /* main card */
 @media (min-width: 795px) {
-    .home-template .post-feed .first-card {
-        -ms-flex: 1 1 100%;
-        flex: 1 1 100%;
+    .home-template .post-feed .first-card  {
+        -ms-flex: 1 1 70%;
+        flex: 1 1 70%;
         -ms-flex-direction: row;
         flex-direction: row;
         max-width: 100%;
@@ -135,7 +134,7 @@ a {
     }
 
     .home-template .post-feed .first-card p {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
         line-height: 1.55em
     }
 
@@ -221,9 +220,11 @@ a {
 
 /* text card */
 .post-card-excerpt p {
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     margin-bottom: 1em;
     line-height: 1.4em;
+    font-size: 1.4rem;
+    font-weight: 300;
 }
 
 /* normal cards footer (autor, data) */
@@ -234,6 +235,7 @@ a {
     line-height: 1em;
 }
 
+/* autor card */
 .author-profile-image {
     /*flex: 1 1 auto;*/
 }
@@ -251,3 +253,83 @@ a {
 /*.post-feed article {
   max-height: 400px;
 }*/
+
+
+/* card blog/stiri */
+.blog-card {
+    /* modificare proprietati mostenite de la post-card */
+    -ms-flex: 1 1 350px;
+    flex: 1 1 350px;
+
+    border: 1px solid rgba(10, 10, 10, 1);
+
+    /* dezactivare proprietati mostenite de la post-card */
+    box-shadow: none;
+    border-radius: 0;
+
+    /* proprietati noi */
+    padding-bottom: 1em;
+    background: none;
+    background-color: rgba(62, 176, 239, 0.1);
+    /*font-family: Georgia, serif;*/
+}
+
+.blog-card-label {
+    text-transform: uppercase;
+    /*font-weight: bold;*/
+    color: rgba(255, 250, 245, 1);
+    width: 100%;
+    background-image: url('../img/blackpaper_b_lighter.jpg');
+    opacity: 0.9;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 3em;
+}
+
+.blog-post {
+    /* umple tot spatiul vertical din blog-card */
+    flex-grow: 1;
+
+    padding: 0.5em 1em 0;
+    border-left: 0.6em solid rgba(0, 0, 0, 0.6);
+    box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);
+    margin: 1em 1em 0;
+    background: #fff;
+    max-width: 650px;
+    background-image: url("http://localhost:1313/img/whitepaper.png");
+    line-height: 1.3em;
+}
+
+.blog-post:hover {
+    /*transform: translate3D(0, -5px, 0)*/
+    box-shadow: none;
+    transition: all .15s ease;
+    transform: initial;
+}
+
+.blog-post a {
+    color: rgba(0, 0, 0, .7);
+}
+
+.blog-post a:hover {
+    text-decoration: none;
+}
+
+/* link colorat diferit doar pe prima pagina */
+/*.blog-card a {*/
+    /*color: rgba(124, 31, 28, 1);*/
+/*}*/
+
+.blog-post h2 {
+    font-size: 1.7rem;
+    margin: 0.5em 0;
+}
+
+.blog-post p {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.blog-post .post-card-date {
+    text-align: right;
+}
