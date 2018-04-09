@@ -215,10 +215,15 @@ a {
 .post-card-tags {
     margin-bottom: 1em;
     color: rgba(128, 128, 128, 0.8);
-    font-size: 1.1rem;
+    font-size: 1.05rem;
 }
 
 /* text card */
+.post-card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
 .post-card-excerpt p {
     font-family: 'Merriweather Sans', sans-serif;
     margin-bottom: 1em;

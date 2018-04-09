@@ -9,7 +9,7 @@ canonifyurls    = true
 
 # câte cuvinte să fie afișate în cardurile
 # de pe prima pagină (.Summary)
-summaryLength = 100
+summaryLength = 50
 
 # toate variabilele aici:
 # https://gohugo.io/getting-started/configuration/

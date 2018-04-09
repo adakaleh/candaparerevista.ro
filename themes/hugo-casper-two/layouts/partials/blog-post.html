@@ -4,12 +4,14 @@
       <h2 class="post-card-title">{{.Title}}</h2>
     </header>
     <section class="blog-card-excerpt">
-      {{ if .Description }}
-      <p>{{ .Description | markdownify }}</p>
-      {{else}}
-      <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
-      {{end}}
+      <p class="js-text-clamp">
+        {{ if .Description }}
+          {{ .Description | markdownify }}</p>
+        {{else}}
+          {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
+        {{end}}
+      </p>
     </section>
-    <div class="post-card-date"><span>{{ .Date.Format "2-01-06" | safeHTML }}</span></div>
+    <div class="post-card-date"><span>{{ .Date.Format "2/01/06" | safeHTML }}</span></div>
   </a>
 </article>
