@@ -30,13 +30,13 @@
 }
 
 .post-full-title {
-    font-family: Georgia, serif;
+    font-family: 'Merriweather', serif;
     margin-top: 1vh;
     font-size: 3.5em;
 }
 
 .post-full-subtitle {
-    font-family: Georgia, serif;
+    font-family: 'Merriweather', serif;
     font-style: italic;
     margin-top: 1vh;
     font-size: 2em;
@@ -74,20 +74,21 @@
 
 /* container text articol - primul paragraf */
 .post-template .kg-card-markdown>p:first-child {
-    font-size:1.15em;
+    font-size:1.9rem;
     line-height:1.5em;
     font-style:italic;
+    font-weight:300;
 }
 
 /* container text articol */
 .post-full-content {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     line-height:1.5em;
     /*border: solid 1px lightgray;*/
 	max-width: 1040px;
     /* background: rgba(250,250,250, 1); */
 
-    /*font-family: Georgia, serif;*/
+    font-family: Merriweather, serif;
     padding: 5em;
     background-color: rgba(255,250,245, 1);
     background-image: url('../img/whitepaper.png');
@@ -109,7 +110,7 @@
     background-color: rgba(62, 176, 239, 0.1);
     padding: 1em 1em 0.5em;
     border-left: 3px solid rgba(62, 176, 239, 1);
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.5rem;
 }
 

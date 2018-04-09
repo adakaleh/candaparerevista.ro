@@ -45,8 +45,9 @@
 * [ ] Buton Forum mai proeminent
 
 ### Cod
-* [ ] Embed fonturi
-* [ ] De scos request-uri 3rd party (img, css, js)
+* [x] Embed fonturi
+* [x] De scos request-uri 3rd party (img, css, js)
+* [ ] Optimizare fonturi (de scos fonturi nefolosite, unicode ranges) - ?
 
 
 ## v1.0 release

@@ -62,3 +62,12 @@ Dimensiunile pentru redimensionare sunt stabilite la nivel de site și stocate �
 Hugo Page Bundles: https://gohugo.io/content-management/page-bundles
 Hugo Page Resources: https://gohugo.io/content-management/page-resources/
 Hugo Image Processing: https://gohugo.io/content-management/image-processing/
+
+[...] TODO mai mult conținut
+
+# Credits
+* Hugo static site generator: [website](https://gohugo.io/) | [github](https://github.com/gohugoio/hugo)
+* Casper Two Hugo Theme: [github](https://github.com/eueung/hugo-casper-two)
+* Merriweather font: [github](https://github.com/EbenSorkin/Merriweather)
+* Merriweather Sans font: [github](https://github.com/EbenSorkin/Merriweather-Sans)
+

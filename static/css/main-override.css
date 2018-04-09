@@ -10,7 +10,7 @@ html {
 
 body {
     background-image: url('../img/blackpaper_w_yellowish.jpg');
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 a{
@@ -42,7 +42,6 @@ a{
 .site-description {
     /*border-top: 2px solid #fff;*/
     /*border-bottom: 2px solid #fff;*/
-    /*font-family: Georgia, serif;*/
     font-size: 1.7rem;
     font-style: italic;
 }
@@ -136,7 +135,7 @@ a{
     }
 
     .home-template .post-feed .first-card p {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
         line-height: 1.55em
     }
 
@@ -222,9 +221,11 @@ a{
 
 /* text card */
 .post-card-excerpt p {
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     margin-bottom: 1em;
     line-height: 1.4em;
+    font-size: 1.4rem;
+    font-weight: 300;
 }
 
 /* normal cards footer (autor, data) */
@@ -327,6 +328,7 @@ a{
 
 .blog-post p {
     margin: 0;
+    font-size: 1.3rem;
 }
 
 .blog-post .post-card-date {
