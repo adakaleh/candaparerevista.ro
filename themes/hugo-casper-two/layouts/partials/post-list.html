@@ -47,11 +47,13 @@
               {{ end }}
           </header>
           <section class="post-card-excerpt">
+            <p class="js-text-clamp">
               {{ if .Description }}
-                <p>{{ .Description | markdownify }}</p>
-              {{else}}
-                <p>{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
-              {{end}}
+                {{ .Description | markdownify }}
+                  {{ else}}
+                    {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
+              {{ end}}
+            </p>
           </section>
       </a>
 
