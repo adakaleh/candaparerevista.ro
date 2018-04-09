@@ -61,7 +61,8 @@
 * [ ] Link pe card
 
 ### Pagina articol
-* [ ] De căutat font nou serif
+* [x] De căutat font nou serif
+* [x] De rearanjat layout titlu - subtitlu - data - autor - categorii
 
 ### Pagini taguri/categorii
 * [ ] ~~De testat înălțime header cu multe categorii / taguri~~

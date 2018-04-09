@@ -8,12 +8,20 @@
 
     {{/* ----- Imagine principală articol ----- */}}
     <header class="post-full-header">
+        {{with .Params.categories }}
+            <div class="post-full-categories">
+                {{ range $index, $categ := . }}
+                {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}
+            </div>
+        {{end}}
+        <h1 class="post-full-title">{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+            <h2 class="post-full-subtitle"> {{ . }} </h2>
+        {{ end }}
         <section class="post-full-meta">
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
+            <div class="post-full-meta-author">{{$authorName}}</div>
         </section>
-        <h1 class="post-full-title">{{.Title}}</h1>
-        {{if (.Params.subtitle)}}<h2 class="post-full-subtitle">&mdash; {{.Params.subtitle}} &mdash;</h2>{{end}}
-        <h4 class="post-full-title-author-name">{{$authorName}}</h4>
     </header>
 
     {{/* ----- Imagine principală articol ----- */}}
