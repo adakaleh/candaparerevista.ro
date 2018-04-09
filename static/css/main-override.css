@@ -13,7 +13,7 @@ body {
     font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
 }
 
-a{
+a {
     transition: 0.2s color ease;
 }
 
@@ -51,11 +51,11 @@ a{
     font-size: 100%;
 }
 
-.site-nav-left{
+.site-nav-left {
     padding-bottom: 0;
 }
 
-.forum-button{
+.forum-button {
 
 }
 
@@ -74,7 +74,6 @@ a{
     text-decoration: none;
     opacity: 1
 }
-
 
 /* --- body --- */
 
@@ -103,7 +102,7 @@ a{
 
 /* main card */
 @media (min-width: 795px) {
-    .home-template .post-feed .first-card  {
+    .home-template .post-feed .first-card {
         -ms-flex: 1 1 100%;
         flex: 1 1 100%;
         -ms-flex-direction: row;
