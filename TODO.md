@@ -75,7 +75,7 @@
 ### Conţinut 
 
 #### Articole
-* [ ] Licența materiale din `/content/posts`
+* [x] Licența materiale din `/content/posts`
 * [ ] Casetă tehnică joc si suport nota ?
 
 #### Autori

@@ -37,6 +37,12 @@ tags:
 # înlocuit cu primele cuvinte din articol
 description: 
 
+# (opțional) tipul de licență atribuit articolelor de tipul 'post'
+# trebuie să corespundă unui fișier din directorul `licenses` 
+# ca în exemplul: `mit` pentru fișierul `LICENSE-mit.md`;
+# dacă lipsește, va fi afișată licența `default`
+licenta: 
+
 # (optional) link către site-ul unde a fost publicat prima dată articolul,
 # dacă e cazul, unde `text` e numele linkului (ex: "Blogul autorului")
 # iar `data` este data originală de publicare, în format `YYYY-MM-DD`

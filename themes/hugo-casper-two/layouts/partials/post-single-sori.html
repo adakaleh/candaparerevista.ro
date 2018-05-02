@@ -47,11 +47,22 @@
         {{ partial "gallery-all" . }}
 
         {{/* ----- Caseta informaţii suplimentare articol ----- */}}
-        {{ if or .Params.sursa .Params.tags .Params.linkuriExterne .Params.linkForum }}
+        {{ if or .Params.sursa .Params.tags .Params.linkuriExterne .Params.linkForum (eq .Section "posts") }}
         <section class="post-full-article-metadata">
             <hr>
             <!--h2>Despre</h2-->
             <div class = "post-full-article-extra">
+
+
+                {{/* afisam info licenta doar pentru articolele din categoria 'posts', pentru celelalte se presupune ca e cea default */}}
+                {{ if eq .Section "posts" }}
+                    {{ $licentaFile := printf "LICENSE-%s.md" (or .Params.licenta "default") }}
+                    {{ $licentaArticol := .Site.GetPage "page" "licenses" $licentaFile }}
+
+                    {{ with $licentaArticol }}
+                        <p><span class="post-full-article-extra-categ">Licență articol</span>: <a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp;&nbsp;</p>
+                    {{end}}
+                {{ end }}
 
                 {{with .Params.tags}}
                     <p><span class="post-full-article-extra-categ">Tags</span>: {{ range . }}<a href="{{$.Site.BaseURL}}tags/{{ . | urlize }}/">#{{ . }}</a>&nbsp;&nbsp;{{ end }}</p>

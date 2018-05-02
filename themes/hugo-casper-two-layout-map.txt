@@ -9,22 +9,28 @@ index.html
 \layouts\_default
 --------------------------
 list.html
-single.html							- template principal pentru un singur articol
+single.html							- template principal default pentru un articol singular (conținut de tip 'post' sau altul fără un tip cu layout definit)
 taxonomy.html
 terms.html
 
 
 --------------------------
+\layouts\license
+--------------------------
+single.html							- template principal pentru paginile de tip 'license'
+
+
+--------------------------
 \layouts\page
 --------------------------
-single.html
+single.html							- template principal pentru paginile de tip 'page'
 
 
 --------------------------
 \layouts\partials
 --------------------------
-blog-list-card.html					- cardul de pe prima pagină cu ştirile din comunitate (blog)
 blog-list.html						- pagina separată cu ştirile din comunitate (blog)
+blog-post.html						- card pentru ştirile din comunitate (blog)
 
 disqus.html
 footer.html
@@ -40,6 +46,9 @@ header.html
 js-sori.html
 js.html
 
+license-list.html					- card pentru paginile cu licențe
+license-post.html					- lista carduri licențe
+
 meta-facebook.html
 meta-twitter.html
 
@@ -49,8 +58,8 @@ page-single.html					- (casper-single layout) pagina separata
 post-list-term.html					- lista carduri random afişate în pagina tags
 post-list.html                      - lista carduri main site
 
-post-single-sori.html               - continut pagina articol normal (-> single.html)
-post-single.html					- (casper-single layout) pagina articol normal (-> single.html)
+post-single-sori.html               - parțial conținut pentru paginile de tip 'post' sau altul fără un tip cu layout definit  (-> /_default/single.html)
+post-single.html					- (casper-single layout) pagina articol normal (-> /_default/single.html)
 
 readnext-article-sori.html
 readnext-random-sori.html

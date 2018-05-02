@@ -9,6 +9,8 @@
     <div class="post-feed">
       {{ if eq .Section "blog" }}
         {{ partial "blog-list" . }}
+      {{ else if eq .Section "licenses" }}
+        {{ partial "license-list" . }}
       {{ else }}
         {{ partial "post-list" . }}
       {{ end }}
