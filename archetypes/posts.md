@@ -51,13 +51,6 @@ sursa:
    text: 
    data:
 
-# (optional) listă de forma `tags: ["tag1", "tag2", "tag3"]`
-# sau
-# `tags:`
-# `  - tag1`
-# `  - tag2`
-tags: 
-
 # (optional) diverse linkuri suplimentare, relevante pentru articol
 # trebuie sa fie o structura de tipul
 # `linkuriExterne:`
