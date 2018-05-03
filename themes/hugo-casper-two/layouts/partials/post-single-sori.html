@@ -100,7 +100,8 @@
     {{/* ----- Caseta autor ----- */}}
     <footer class="post-full-footer">
       <section class="author-card">
-        <img class="author-profile-image" src="{{ $authorThumbnail | absURL}}" alt="Author" />
+        {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
+        <img class="author-profile-image" src="{{ $authorThumbnailFile | absURL}}" alt="{{ $authorName }}" />
         <section class="author-card-content">
             <h4 class="author-card-name"><a href="/authors/{{.Params.authors}}">{{$authorName}}</a></h4>
                 <p>{{$authorDescription}}</p>

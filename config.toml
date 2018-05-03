@@ -56,7 +56,7 @@ summaryLength = 50
 
   # autor și avatar default
   author = "car-lvl"
-  authorAvatar = "/img/lvl_profile.png"
+  authorAvatar = "car-lvl.png"
   authorDescription = "În spatele LVL e mulți."
 
   pageNotFoundTitle = "404 - Pagina nu gândește, deci nu există"

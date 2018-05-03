@@ -107,6 +107,7 @@
 * [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
 * [ ] De văzut unde sunt folosite parţialele `meta-twitter` şi `meta-facebook` şi eliminat
 * [ ] De elimimat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources
+* [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 
 ### Functionalitati suplimentare
 * [ ] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3) 
