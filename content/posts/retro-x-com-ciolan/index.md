@@ -2,7 +2,7 @@
 title: Retrospectiva X-Com
 subtitle: Țară, țară, vrem ostași!
 type: post
-date: 2017-05-03
+date: 2018-05-14
 authors: ciolan
 categories:
     - Retrospectivă
