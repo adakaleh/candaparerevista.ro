@@ -77,6 +77,7 @@
 #### Articole
 * [x] Licența materiale din `/content/posts`
 * [ ] Casetă tehnică joc si suport nota ?
+* [x] Suport pentru aside (casete cu text adiţional)
 
 #### Autori
 * [ ] Suplimentat caseta autorului cu date contact, dacă există
@@ -102,6 +103,7 @@
 
 ### Pagina articol
 * [ ] Fix/improve layout imagini
+* [ ] Aside cu float left/width 50%
 
 ### Cod
 * [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
