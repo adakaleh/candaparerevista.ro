@@ -1,9 +1,9 @@
 name: ""
 
-# link către poza/avatarul autorului
+# numele fişierului din `static/img/author-avatars`
 thumbnail: ""
 
-# scurtă descriere (dar nu prea scurtă)
+# descrierea/biografia autorului
 description: ""
 
 # site-ul/blogul autorului

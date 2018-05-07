@@ -4,6 +4,13 @@ Codul sursă pentru site-ul [candaparerevista.ro](https://candaparerevista.ro)
 
 # [...] TODO mai mult conținut
 
+# Conţinut
+
+## Aside
+Pentru a introduce o casetă de text separată de corpul articolului, trebuie folosit parţialul `aside`, astfel:
+* ` {{< aside >}} text aici {{< /aside >}} `
+* ` {{% aside %}} text aici {{% /aside %}} `
+cu deosebirea că a doua variantă procesează şi conţinutul markdown, ca de exemplu ` ## Header ` sau ` **bold** `
 
 # Cod
 
