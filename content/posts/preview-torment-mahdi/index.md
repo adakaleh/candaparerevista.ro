@@ -13,14 +13,14 @@ sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1460
    text: Articolele Comunității / Nivelul 2 Community Edition - Numărul 2
    data: 2017-02-12
- 
+
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1460
 
 resources:
-  - src: gallery/TToN1.jpg
+  - src:
     name: "card-cover-image"
 
-  - src: gallery/TToN1.jpg
+  - src: images/TToN-card.png
     name: "cover-image"
 ---
 
