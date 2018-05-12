@@ -8,6 +8,8 @@ categories:
 tags:
     - "80 Days"
 
+description: "Premisa de la care pleacă povestea jocului și a cărții din care a fost inspirat e probabil larg cunoscută. Pe scurt, un excentric gentleman englez, pariază suma de 20.000 de lire (echivalentul a câtorva milioane de azi) pe faptul că va reuși să circumnavigheze Pământul în cel mult 80 de zile."
+
 licenta:
 
 sursa:
