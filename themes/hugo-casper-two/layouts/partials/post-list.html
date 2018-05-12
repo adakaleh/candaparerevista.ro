@@ -77,7 +77,7 @@
     {{ if $isFirstCard }}
       {{ with (where $.Data.Pages.ByDate.Reverse "Type" "blog") }}
         <article class="post-card blog-card">
-          <div class="blog-card-label">{{ $.Site.Params.labelSectiuneBlog }}</div>
+          <a href="/blog"><div class="blog-card-label">{{ $.Site.Params.labelSectiuneBlog }}</div></a>
             {{ range first 2 . }}
               {{ partial "blog-post" . }}
             {{ end }}

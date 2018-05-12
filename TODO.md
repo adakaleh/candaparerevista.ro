@@ -26,7 +26,6 @@
 
 ### Pagina articol
 * [x] De adăugat info data originală a articolului în caseta tehnică 
-* [ ] De adăugat info licenţă în caseta tehnică 
 
 ### Conţinut
 #### Articole
@@ -56,7 +55,9 @@
 * [x] Sidebar/Footbar cu noutăți comunitate
 
 ### Blog comunitate
-* [x] Fix layout flex vertical (~~justify~~ flex-grow) 
+* [x] Fix layout flex vertical (~~justify~~ flex-grow)
+* [x] Font sans serif
+* [x] Eliminare info autor
 * [ ] Îmbunătăţiri layout
 * [ ] Link pe card
 

@@ -29,11 +29,11 @@
     }
 
     .post-full-content {
-        font-size: 1.9rem;
+        font-size: 1.7rem;
         padding: 4vw;
     }
 
-    .post-template .kg-card-markdown > p:first-child {
+    .post-template .kg-card-markdown:not(.blog) > p:first-child {
         font-size: 1em;
         line-height: 1.4em;
         font-style: italic;

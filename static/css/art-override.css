@@ -52,10 +52,13 @@
     font-size: 1.8em;
 }
 
-.post-full-meta {
+.post-full-meta:not(.blog) {
     justify-content: space-between;
     border-top: 1px solid #090a0b;
     border-bottom: 1px solid #090a0b;
+}
+
+.post-full-meta {
     padding: 0.5em 0;
     margin: 2em 0 0;
     font-weight: 300;
@@ -97,7 +100,7 @@
 }
 
 /* container text articol - primul paragraf */
-.post-template .kg-card-markdown>p:first-child {
+.post-template .kg-card-markdown:not(.blog)>p:first-child {
     font-size:1.9rem;
     line-height:1.5em;
     font-style:italic;
@@ -290,6 +293,20 @@
 
 .read-next-feed .post-card-meta {
     padding: 0.5em 1em;
+}
+
+/* --- formatare separata blog posts --- */
+
+.blog .post-full-title,
+.blog .post-full-subtitle,
+.blog .post-full-content {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* primul paragraf din articol, suprascriere screen.css */
+.post-template .kg-card-markdown.blog>p:first-child {
+    font-size: 1.7rem;
+    line-height:1.5em;
 }
 
 .read-next-feed .blog-post {

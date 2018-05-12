@@ -1,4 +1,7 @@
-<article class="post-full post">
+{{$isBlogPage := eq .Section "blog"}}
+{{$blogPostCssClass := cond $isBlogPage "blog" "" }}
+
+<article class="post-full {{ $blogPostCssClass }} post">
 
     {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
     {{$authorName := $author.name  }}
@@ -18,9 +21,12 @@
         {{ with .Params.subtitle }}
             <h2 class="post-full-subtitle"> {{ . }} </h2>
         {{ end }}
-        <section class="post-full-meta">
+        <section class="post-full-meta {{ $blogPostCssClass }}">
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
-            <div class="post-full-meta-author">{{$authorName}}</div>
+            {{ if not $isBlogPage }}
+                {{/* nu afisam autorul in paginile de blog */}}
+                <div class="post-full-meta-author">{{$authorName}}</div>
+            {{ end }}
         </section>
     </header>
 
@@ -39,7 +45,7 @@
 
     {{/* ----- Corpul articolului ----- */}}
     <section class="post-full-content {{ $noImageCssClass }}">
-        <div class="kg-card-markdown">
+        <div class="kg-card-markdown {{ $blogPostCssClass }}">
         {{ .Content }}
         </div>
 
@@ -98,6 +104,8 @@
     </section>
 
     {{/* ----- Caseta autor ----- */}}
+    {{ if not $isBlogPage }}
+    {{/* nu afisam autorul in paginile de blog */}}
     <footer class="post-full-footer">
       <section class="author-card">
         {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
@@ -108,4 +116,5 @@
         </section>
       </section>
     </footer>
+    {{ end }}
 </article>
