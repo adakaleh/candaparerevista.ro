@@ -1,4 +1,11 @@
 /* article override */
+@media (max-width: 1040px) {
+    .post-full-content img.gallery-thumb {
+        width: auto;
+        max-width: 45%;
+    }
+}
+
 @media (max-width: 1170px) {
 
     .post-full-image {

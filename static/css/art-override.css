@@ -95,7 +95,7 @@
     filter: blur(4px)
 }
 
-.post-full-content.no-image:after, .post-full-content.no-image:before {
+.post-full-content.no-cover-image:after, .post-full-content.no-cover-image:before {
     display: none;
 }
 
@@ -124,6 +124,11 @@
     box-shadow: 2px 2px 10px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
 }
 
+/* suprascriere proprietate din screen.css care afecteaza paginile de tip 'page' (ex: Despre) */
+.no-image .post-full-content {
+    padding-top: 5em;
+}
+
 /* casete separate text */
 .post-full-content-aside {
     background-color: rgba(255, 255, 255, 1);
@@ -135,10 +140,12 @@
     font-size: 1.6rem;
     line-height:1.3em;
 }
+
 .post-full-content-aside em,
 .post-full-content-aside strong {
     color: rgba(70, 26, 18, 0.75);
 }
+
 .post-full-content-aside h2 {
     color: rgba(70, 26, 18, 0.75);
     font-size: 2.5rem;
@@ -192,7 +199,7 @@
 }
 
 .author-card {
-    padding: 2vw;
+    padding: 1.5em;
     border-radius: 5px;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);

@@ -40,8 +40,8 @@
         {{ end }}
     {{end}}
 
-    {{ $hasNoImage := and (not .Params.image) (not (.Resources.GetMatch "cover-image")) (not (.Resources.GetMatch "card-cover-image"))}}
-    {{ $noImageCssClass := cond $hasNoImage "no-image" "" }}
+    {{ $hasNoImage := and (not .Params.image) (not (.Resources.GetMatch "cover-image"))}}
+    {{ $noImageCssClass := cond $hasNoImage "no-cover-image" "" }}
 
     {{/* ----- Corpul articolului ----- */}}
     <section class="post-full-content {{ $noImageCssClass }}">
@@ -112,7 +112,7 @@
         <img class="author-profile-image" src="{{ $authorThumbnailFile | absURL}}" alt="{{ $authorName }}" />
         <section class="author-card-content">
             <h4 class="author-card-name"><a href="/authors/{{.Params.authors}}">{{$authorName}}</a></h4>
-                <p>{{ $authorDescription | safeHTML }}</p>
+                {{ with $authorDescription }} <p>{{ . | safeHTML }}</p> {{ end }}
         </section>
       </section>
     </footer>
