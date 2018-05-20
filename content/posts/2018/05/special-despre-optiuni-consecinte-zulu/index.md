@@ -2,7 +2,7 @@
 title: "Despre opțiuni și consecințe"
 subtitle: "Expuneri prin metoda de încercare și eroare"
 type: post
-date: 2018-05-20
+date: 2018-05-20T20:00:04+02:00
 authors: zulu
 categories:
     - Special

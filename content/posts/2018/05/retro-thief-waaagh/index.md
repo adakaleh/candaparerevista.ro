@@ -2,7 +2,7 @@
 title: "Trilogia Thief - o retrospectivă"
 subtitle:
 type: post
-date: 2018-05-20
+date: 2018-05-20T20:00:06+02:00
 authors: waaagh
 categories:
     - Retrospectivă

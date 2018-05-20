@@ -1,7 +1,7 @@
 ---
 title: "Torment: Tides of Numenera"
 type: post
-date: 2018-05-20
+date: 2018-05-20T20:00:05+02:00
 authors: mahdi
 categories:
     - Preview

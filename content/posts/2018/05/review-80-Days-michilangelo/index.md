@@ -1,7 +1,7 @@
 ---
 title: "80 Days - Ocolul pământului în n zile"
 type: post
-date: 2018-05-20
+date: 2018-05-20T20:00:02+02:00
 authors: michilangelo
 categories:
     - Review

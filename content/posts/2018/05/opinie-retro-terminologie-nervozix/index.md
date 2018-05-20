@@ -2,7 +2,7 @@
 title: Jocuri și recenzii retro
 subtitle: Probleme de terminologie
 type: post
-date: 2018-05-20
+date: 2018-05-20T20:00:08+02:00
 authors: nervozix
 categories:
     - Opinie
