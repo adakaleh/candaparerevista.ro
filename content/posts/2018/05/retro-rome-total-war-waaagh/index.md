@@ -2,7 +2,7 @@
 title: "ROME: TOTAL WAR"
 subtitle: Timidi mater non flet
 type: post
-date: 2018-05-15
+date: 2018-05-20
 authors: waaagh
 categories:
     - Retrospectivă

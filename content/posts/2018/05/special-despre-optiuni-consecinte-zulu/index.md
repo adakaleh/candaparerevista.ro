@@ -2,7 +2,7 @@
 title: "Despre opțiuni și consecințe"
 subtitle: "Expuneri prin metoda de încercare și eroare"
 type: post
-date: 2018-05-12
+date: 2018-05-20
 authors: zulu
 categories:
     - Special
@@ -35,7 +35,7 @@ resources:
 
 Acum, jocuri cu o scriitură de calitate sunt destule, nu are rost să intru în detaliu și să inventariez titluri aiurea, ci vreau să aduc în lumina reflectoarelor un stil apărut după anii 2000 și care și-a propus, odată ce tehnologia a devenit mai avansată iar motoarele jocurilor mai capabile, să arunce jucătorul într-o cu totul altă aventură senzorială, bazată pe incertitudine și încercarea de a se apropia cât mai mult de dorința unei experiențe reale, daca putem să-i zicem așa. Și nu, nu mă refer aici la tehnologia VR, ci la un alt concept ce pare să fie adoptat în ultima vreme de cât mai multe case de producție, indie sau altcumva. Mă refer îndeosebi la trendul ascendent (ca număr de titluri prezente pe piață) de a încorpora într-un joc mecanica popular cunoscută sub titulatura de ”Construiește-ți singur povestea”.
 
-***The bird is such a unique animal. It can spend its entire life locked up in a cage and yet, still keep on singing away.***
+### _The bird is such a unique animal. It can spend its entire life locked up in a cage and yet, still keep on singing away._
 
 Enter Fahrenheit. În opinia mea și poate și a altora, unul dintre pionierii acestui stil de gameplay, titlu care la vremea lansării (2005) și-a primit o porție suficientă de laude precum și de critici din simplul fapt că încerca ceva altfel. Deși nu a fost niciodată vândut sub blazonul expresiei ”Construiește-ți singur povestea”, undeva acolo în studio, un producer/game designer a aruncat la fileu o idee ce a ajuns, zece ani mai târziu, să ducă pe umerii săi un trend întreg.
 
@@ -45,7 +45,7 @@ Fahrenheit a fost caracterizat de cei de la Quantic Dream ca fiind un film inter
 
 Care ițe se dovedesc a fi până la urmă și marele minus jocului, scenariul de tip X-Files evoluând în actul final în ceva peste puterile noastre de înțelegere, noi fiind evident muritorii de rând și nu cei care au scris liniile de dialog în original. Din pură curiozitate am terminat până la urmă jocul, nu puține fiind momentele în care am preferat totuși să-mi dau ochii peste cap și să aleg mecanic o opțiune din cele disponibile pe ecran, doar pentru a avansa în poveste. În final i-am iertat totuși toate păcatele și mi-a rămas în memorie ca o experiență inedită, ce nu poate fi cuantificată subiectiv, dar imperios necesară pentru evoluția genului.
 
-***When the parents came home from church, all their children were gone. They searched and called for them, they cried and begged, but it was to no avail. The children were never seen again.***
+### _When the parents came home from church, all their children were gone. They searched and called for them, they cried and begged, but it was to no avail. The children were never seen again._
 
 Mai trec cinci ani și, deloc surprinzător, aceiași Quantic Dream sunt cei care se întorc pe piață cu încă un titlu bazat pe mecanica de tip încercare și eroare, de data asta exclusiv pe PS3, numit Heavy Rain. Nu prea ai cum să nu fi auzit de el, apare și pe IMDB, a luat ceva premii BAFTA (orice ar însemna asta, dar nu cred că e de la românescul baftă) și a fost primit în general cu recenzii favorabile. Nici în acest caz nu ne este băgată pe gât într-un mod expres ideea de a ne construi singuri drumul prin făgașul scriitoricesc, ci pur și simplu mecanicile de joc prezente în Fahrenheit sunt aduse la zi, șlefuite puțin în principal sub forma simplificării schemei de control (sau cel puțin asta a fost ideea generală a publicului, pentru mine, care puneam prima oară mâna pe un controller de consolă, nu a fost deloc ușor) și apoi împachetate într-un scenariu nou, tot de tip thriller interactiv.
 
@@ -59,11 +59,7 @@ Așadar, cu ce am rămas dupa experiența Heavy Rain? Păi, cu multă ploaie, ce
 
 More of the same, cum ar spune un clasic nemuritor.
 
-***- Do you know how to pick a lock?*** </br>
-***- No, why?*** </br>
-***- Because you're... urban?*** </br>
-***- Oh you did NOT just say what I thought you did!*** </br>
-***- Sorry man. I'm from Florida, weird shit comes out of my mouth.***
+### - Do you know how to pick a lock? </br> - No, why? </br> - Because you're... urban? </br> - Oh you did NOT just say what I tought you did! </br> - Sorry man. I'm from Florida, weird shit comes out of my mouth._
 
 Între timp se face anul 2012 iar băieții și fetele de la Telltale Games, după ce au luat probabil aminte la isprăvile celor de la Quantic Dreams, se agață de licența binecunoscutei francize The Walking Dead pentru a livra primul joc aferent universului respectiv. Deși personajele sunt de concepție proprie, Telltale păstrează tematica universului intactă, construind o în schimb o poveste cu totul nouă, cu accentul pus pe ambientul de gore&dread, că altfel nu știu cum să îi spun, emanat de comic-uri și serial.
 
@@ -83,8 +79,7 @@ Efectiv am ajuns la începutul episodului patru și dintr-o dată nu se mai potr
 
 Telltale, în schimb, nu se dezminte și continuă să mulgă proverbialul uger prin munca în paralel la alte trei producții pe lângă The Walking Dead. Poate le știți, poate nu, în orice caz Google este prietenul vostru în caz de doriți mai multe informații. Între timp, eu voi muta analiza către un alt IP ce a pornit la drum cu scopul clar de a ”revoluționa jocurile cu mecanică de tip alegere/consecință”, conform descrierii de pe Steam. Cine poate fi oare, stimați concetățeni?
 
-***To all of you American girls in the movies*** </br>
-***No one can tell where your heart is...***
+### _To all of you American girls in the movies </br> No one can tell where your heart is..._
 
 Ultimul titlu pe care vreau să-l prind în această analiză este "Life Is Strange", a doua producție a destul de tânărului studio Dontnod Entertainment. Ca un făcut, și acești distinși domni sunt tot din Franța, tărâmul pe care sălășluiesc cei de la Quantic Dream. O fi microbul mai mare acolo pesemne, de toți se înghesuie la rând pentru a crea produse video din această nișă. În orice caz, de Life Is Strange (hai să-i zicem LIS de aici încolo) nu am dat pentru că am căutat alte jocuri din acest stil, ci doar intrasem pe pagina studioului pentru a vedea ce le mai coace mintea dupa debutul pe piață ce a fost ‘Remember Me’ (un beat-em up futuristic ce a pierdut mult din simplul fapt că au ales să nu exploateze la potențial maxim universul creat).
 
@@ -98,7 +93,7 @@ Din păcate nici în LIS lucrurile nu-s chiar roz bonbon până la capăt, ultim
 
 Adică nu-i perfect, dar se apropie destul de mult de ce ar fi în viziunea mea un titlu cu o astfel de abordare.
 
-***They say that every story has a beginning and an end, but sometimes the two are one and the same.***
+### _They say that every story has a beginning and an end, but sometimes the two are one and the same._
 
 Aș vrea să fac o paranteză și să abordez puțin problema spinoasă a lansărilor episodice. Ceea ce a început ca o unealtă utilă pentru producător de a-și drămui munca și de a integra sugestii de îmbunătățire din partea comunității în episoadele nelansate s-a transformat, în unele cazuri, în pură frustrare pentru unii jucători (și mă includ aici pe listă).
 
@@ -114,7 +109,7 @@ Da, ați citit bine, Octombrie 2014! Nu știu ce credeți voi, dar ceva e putred
 
 ![Life Is Strange](gallery/life is strange 1.jpg)
 
-***Our merciful father alone will be my judge. It is my duty to inform you that one of your flock is still unaccounted for. I leave this terrible secret in your hands to do with what you will.***
+### _Our merciful father alone will be my judge. It is my duty to inform you that one of your flock is still unaccounted for. I leave this terrible secret in your hands to do with what you will._
 
 Înainte să încep această lungă pledoarie pe care sper să o citiți până la capăt, îmi propusesem să fac o analiză ceva mai atentă care să implice și ceva referințe, legături, eventual chiar paralele cu alte titluri ce nu se încadrează în această categorie stilistică restrânsă. O categorie ce pare, de la un an la altul, să urmeze o direcție dictată de o vicisitudine autoimpusă a studiourilor de creație, ce în goana de a realiza improbabilul (adică o poveste cu adevărate ramificații ale scenariului) ajung să facă poate mai multe compromisuri decât e necesar.
 
@@ -122,12 +117,12 @@ Da, ați citit bine, Octombrie 2014! Nu știu ce credeți voi, dar ceva e putred
 
 Sigur, asta sună a utopie, dar nu mă oprește nimeni să sper, pentru că aș vrea să vină și acel joc ce nu are o poveste fixă și care să mă poată inspira să-mi imaginez un spin-off chiar și la ani de zile după parcurgerea inițială. Pentru că da, nici unul din titlurile pe care le-am experimentat și care aderă la această sintagmă de "Construiește-ți singur povestea" nu a reușit încă să mă facă să compun un fragment ca cel de mai jos, fragment inspirat dintr-un clasic cu un scenariu fix, dar făcut cum trebuie. Să vedem dacă recunoașteți sursa, întrucât nu vreau să lungesc artificial acest articol ce și așa s-a cam dus pe căi nebănuite (poate e rost de vreo parte a doua cândva în viitor, de s-or alinia planetele favorabil).
 
-Pace vouă, și Valar Morghulis tuturor!
+Pace vouă, și Valar Morghulis tuturor! ■
 
 
 {{% aside %}}
 
-Am învățat că o poveste poate exista și fără personaje sau, după caz, fără vreun fir narativ propriu-zis. Am învățat că protagonistul poate fi un om, un animal, uneori chiar și un obiect inanimat. Am trăit eu însumi zicala 'Călătoria este câteodată mai importantă decât destinația'. Acestea sunt concluziile mele după o viață întreagă de preumblat prin lume, iar dacă bunul Dumnezeu mă va întreba înainte să ajung în Rai care este țara ce mi-a plăcut cel mai mult, aș alege fără regrete Rusia. În mare parte rece și pustiită, în mică parte primitoare și binevoitoare - la fel ca inima mea - dar în totalitate o adevărată 'Mamă', Mama Rusia, cum este alintată ea încă de la începuturile vremii. Deși nu aici mi-a fost sortit să mă nasc, cu siguranță acesta este locul unde voi muri și voi fi îngropat.
+_Am învățat că o poveste poate exista și fără personaje sau, după caz, fără vreun fir narativ propriu-zis. Am învățat că protagonistul poate fi un om, un animal, uneori chiar și un obiect inanimat. Am trăit eu însumi zicala 'Călătoria este câteodată mai importantă decât destinația'. Acestea sunt concluziile mele după o viață întreagă de preumblat prin lume, iar dacă bunul Dumnezeu mă va întreba înainte să ajung în Rai care este țara ce mi-a plăcut cel mai mult, aș alege fără regrete Rusia. În mare parte rece și pustiită, în mică parte primitoare și binevoitoare - la fel ca inima mea - dar în totalitate o adevărată 'Mamă', Mama Rusia, cum este alintată ea încă de la începuturile vremii. Deși nu aici mi-a fost sortit să mă nasc, cu siguranță acesta este locul unde voi muri și voi fi îngropat._
 
 Jurnalul nu era semnat. Era un carnețel micuț de vreo cincizezi de pagini, ordonat, având acel scris ce se aseamănă literelor de tipar. Îl cumpărasem dintr-un anticariat înainte să mă sui în tren din simplul motiv că era singurul lucru pe care l-am găsit ce nu era scris în limba rusă.
 Deși era abia prima pagină, l-am închis și l-am pus înapoi în servietă. Mă simțeam prea obosit pentru a continua să citesc, iar căldura din vagon mă făcea să ațipesc foarte ușor. Rămăsesem singur în compartiment așa că am tras zăvorul la ușă, m-am schimbat în niște haine ceva mai comfortabile și am profitat de confortul vagonului-cușetă pentru a mă întinde să mă odihnesc. Următoarea stație era la doisprezece ore distanță, așadar timp aveam destul.
@@ -146,19 +141,19 @@ Dezamăgit, am urcat înapoi în tren și m-am îndreptat către vagonul restaur
 
 M-am întors în compartimentul meu și în timp ce mâncam am deschis din nou jurnalul, la o pagină aleatoare:
 
-Helena nu mi-a spus că s-ar fi oprit vreodată aici dar, în sinea mea, știam acest lucru. Și de l-aș fi știut mai devreme poate aș fi convins-o să nu facă această oprire. S-ar fi evitat, poate, multe situații neplăcute. Dar acum nu mai contează. Căldura ei nu mai există de mult, iar odată cu ea a murit până și căldura din sufletul meu.
+_Helena nu mi-a spus că s-ar fi oprit vreodată aici dar, în sinea mea, știam acest lucru. Și de l-aș fi știut mai devreme poate aș fi convins-o să nu facă această oprire. S-ar fi evitat, poate, multe situații neplăcute. Dar acum nu mai contează. Căldura ei nu mai există de mult, iar odată cu ea a murit până și căldura din sufletul meu._
 
-Oscar știa mai bine. Știa că prietenia adevărată valorează mult mai mult decât o iubire închipuită. Știa, de asemenea, că eu nu am fost capabil niciodată nici să iubesc, fie închipuit sau real, nici să fiu prietenul cuiva. Știa toate astea, dar fără ca eu să-i fi dezvăluit ceva. Cumva, creierul lui trecuse într-un nou stadiu de conștientizare, stadiu pe care nu l-am prevăzut atunci când l-am proiectat. Ca urmare, devenise capabil să citească trăirile cuiva și să le interpreteze.
+_Oscar știa mai bine. Știa că prietenia adevărată valorează mult mai mult decât o iubire închipuită. Știa, de asemenea, că eu nu am fost capabil niciodată nici să iubesc, fie închipuit sau real, nici să fiu prietenul cuiva. Știa toate astea, dar fără ca eu să-i fi dezvăluit ceva. Cumva, creierul lui trecuse într-un nou stadiu de conștientizare, stadiu pe care nu l-am prevăzut atunci când l-am proiectat. Ca urmare, devenise capabil să citească trăirile cuiva și să le interpreteze._
 
-Tata nu m-ar fi crezut niciodată. Ar fi acceptat ideea că am reușit să creez un automaton funcțional, dar nu ar fi crezut că acesta ar fi capabil să-și depășească – și nu cu puțin – condiția primordială, și anume aceea de a servi.
+_Tata nu m-ar fi crezut niciodată. Ar fi acceptat ideea că am reușit să creez un automaton funcțional, dar nu ar fi crezut că acesta ar fi capabil să-și depășească – și nu cu puțin – condiția primordială, și anume aceea de a servi._
 
 Pasajul mi-a stârnit interesul mai mult decât aș fi vrut. Un automaton? Ce poate fi acest lucru, această ființă de care se vorbește în text? Am deschis jurnalul de la început, căutând atent prima referință către numele Oscar. Am găsit-o undeva în primele pagini – un fel de 'Capitolul I' ce urma introducerii un pic prea extinse și cu o vagă tentă lacrimogenă:
 
-Astăzi am realizat primul model de hartă neuronală. Conexiunea cu procesorul pare a fi mai complicată decât anticipasem, numărul de algoritmi și funcții binare estimat nu pare a fi suficient pentru fuziunea celor două. Sper din tot sufletul ca vârsta biologică a subiectului de la care s-a preluat informația pentru hartă să nu fie factorul problemă, ci mai degrabă incompatibilitatea de ordin tehnic.
+_Astăzi am realizat primul model de hartă neuronală. Conexiunea cu procesorul pare a fi mai complicată decât anticipasem, numărul de algoritmi și funcții binare estimat nu pare a fi suficient pentru fuziunea celor două. Sper din tot sufletul ca vârsta biologică a subiectului de la care s-a preluat informația pentru hartă să nu fie factorul problemă, ci mai degrabă incompatibilitatea de ordin tehnic._
 
 Automaton? Hartă neuronală? Cineva avea o imaginație foarte bogată. Am mai răsfoit câteva pagini și abia atunci mi-am dat seama că cerneala avea aceeași culoare de la început până la sfârșitul jurnalului. Cu alte cuvinte nu prea era jurnal, ci doar o scriere ce păstra structura unuia. Totuși, acest lucru era mai puțin important. Textul mă acaparase așa că am citit mai departe.
 
-După câteva zile de teste și încercări am determinat că la folosirea uneia dintre combinațiile de algoritmi de lucru temperatura procesorului creștea cu aproximativ 20 °C, așa că am izolat pachetul respectiv și am decis încărcarea succesivă a acestuia. În mod normal, luând în calcul viteza de lucru a procesorului, informațiile ar fi fost absorbite și analizate în totalitate în maxim 48 de ore. Ceea ce s-a și întâmplat de altfel. După o zi și jumătate conexiunea cu harta neuronală fusese realizată așa că am continuat cu încărcarea algoritmului de vocabular, iar apoi cu Prima Întrebare, cum obișnuia sa îi spună tatăl meu contactului de ordin audio-cognitiv realizat prima oară cu aparatul. Și, precum el, am folosit aceeași interacțiune, o propoziție simplă rostită în microfon, menită să pornească efectiv programul: 'Cine ești tu?' Iar răspunsul nu a ezitat să vină, sub forma unei voci metalice ce a răzbătut din difuzoarele conectate la linia directă audio a aparatului:
+_După câteva zile de teste și încercări am determinat că la folosirea uneia dintre combinațiile de algoritmi de lucru temperatura procesorului creștea cu aproximativ 20 °C, așa că am izolat pachetul respectiv și am decis încărcarea succesivă a acestuia. În mod normal, luând în calcul viteza de lucru a procesorului, informațiile ar fi fost absorbite și analizate în totalitate în maxim 48 de ore. Ceea ce s-a și întâmplat de altfel. După o zi și jumătate conexiunea cu harta neuronală fusese realizată așa că am continuat cu încărcarea algoritmului de vocabular, iar apoi cu Prima Întrebare, cum obișnuia sa îi spună tatăl meu contactului de ordin audio-cognitiv realizat prima oară cu aparatul. Și, precum el, am folosit aceeași interacțiune, o propoziție simplă rostită în microfon, menită să pornească efectiv programul: 'Cine ești tu?' Iar răspunsul nu a ezitat să vină, sub forma unei voci metalice ce a răzbătut din difuzoarele conectate la linia directă audio a aparatului:_
 
-'Numele meu este Oscar. Încântat de cunoștință.'
+_'Numele meu este Oscar. Încântat de cunoștință.'_
 {{% /aside %}}

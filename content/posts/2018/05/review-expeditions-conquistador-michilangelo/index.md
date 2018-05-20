@@ -1,7 +1,7 @@
 ---
 title: "Expeditions: Conquistador"
 type: post
-date: 2018-05-14
+date: 2018-05-20
 authors: michilangelo
 categories:
     - Review

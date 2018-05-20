@@ -2,7 +2,7 @@
 title: "Trilogia Thief - o retrospectivă"
 subtitle:
 type: post
-date: 2018-05-13
+date: 2018-05-20
 authors: waaagh
 categories:
     - Retrospectivă
@@ -116,4 +116,4 @@ TDS ar fi putut fi o revenire la magia eluzivă a primului joc, dar potenţialul
 
 ![](gallery/Thief-screenshot-7.jpg)
 
-Din punct de vedere narativ, trilogia închide un cerc perfect. Chestia frumoasă este că în ciuda poticnirilor care apar pe parcurs, fiecare joc te ia pe sus spre final, aruncându-te în vârtejul unor evenimente mult prea mari pentru un biet hoţ. Provocarea pare insurmontabilă, iar dacă rămân neconvins de trimiterile arturiene, aş zice totuşi că de sub gluga lui Garrett mai că se mijesc mustăţile vulpoiului Renart. Astfel, atât Oraşul, cât mai ales buzunarele, sunt până la urmă puse în siguranţă. Şi un eretic neclintit trebuie să se întrebe dacă la mijloc n-o fi totuşi voia Făurarului. Până la urmă, căile Sale rămân nebănuite chiar şi pentru cei mai fervenţi adepţi.
+Din punct de vedere narativ, trilogia închide un cerc perfect. Chestia frumoasă este că în ciuda poticnirilor care apar pe parcurs, fiecare joc te ia pe sus spre final, aruncându-te în vârtejul unor evenimente mult prea mari pentru un biet hoţ. Provocarea pare insurmontabilă, iar dacă rămân neconvins de trimiterile arturiene, aş zice totuşi că de sub gluga lui Garrett mai că se mijesc mustăţile vulpoiului Renart. Astfel, atât Oraşul, cât mai ales buzunarele, sunt până la urmă puse în siguranţă. Şi un eretic neclintit trebuie să se întrebe dacă la mijloc n-o fi totuşi voia Făurarului. Până la urmă, căile Sale rămân nebănuite chiar şi pentru cei mai fervenţi adepţi. ■

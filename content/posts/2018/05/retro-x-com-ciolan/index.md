@@ -2,7 +2,7 @@
 title: Retrospectiva X-Com
 subtitle: Țară, țară, vrem ostași!
 type: post
-date: 2018-05-14
+date: 2018-05-20
 authors: ciolan
 categories:
     - Retrospectivă
@@ -55,7 +55,7 @@ De X-Com m-am îndrăgostit la prima vedere. Nici măcar nu rula pe PC-ul meu, u
 
 Pe scurt, în cele două jocuri X-Com, ți se dă șefia unei organizații internaționale de combatere a amenințărilor extraterestre. Scenariu clasic de B-movie. De fapt, una dintre sursele majore de inspirație a seriei a fost serialul britanic UFO, difuzat prin anii ’70 de BBC. Urgia extraterestră are nevoie de organe. Noi, sapienșii avem organe. A match made in Cosmos. Drept urmare, urgia extraterestră a încălecat pe-un ozeneu și s-a pus pe recoltat respectivele organe și pe desenat figuri geometrice în lanurile de porumb, ca să se știe cine te-a lăsat fără colon cînd te întorceai singur cuc de la cârciumă. Guvernele au făcut ce știau ele mai bine, au început să arunce cu bani în niște oameni înarmați care să le rezolve problema cu musafirii neinvitați. La conducerea acelor oameni cu arme, printre care s-au strecurat și cîțiva oameni cu microscop și alți cîțiva cu chei franceze, ești tu, Mânuitorul De Mouse, Biciul lui Uncle Sam (asta dacă-ți faci bază pe teritoriul Statelor Unite), Sectoidofagul, Devoratorul de Crustacee Galactice etc. 
 
-## SC X-Com SA
+### SC X-Com SA
 
 Ca proaspăt administrator al X-Com-ului, vei lupta pe două fronturi. Cel economic, căci fondurile nu sunt infinite (dacă nu ești cumpătat, îți poți duce firmulița la faliment și adio umanitate), și cel militar unde, dacă aplici tactica “pe ei pe ei, pe eprubeta care i-a născut!”, irosești resursa umană, și iar te întorci pe frontul economic după mai multă resursă umană, ceea ce te poate duce la faliment și … ați prins ideea.
 
@@ -71,19 +71,8 @@ Puțin și despre cercetare și despre războiul tehnologic. În primul rând, c
 
 Revenind la tehnologiile mai puțin dumnezeiești decît PSI-ul, o să amintesc doar faptul că o anumită tehnologie (să zicem … LASER) nu era invalidată automat de tier-ul următor. De exemplu, nu am renunțat la puștile cu laser cînd am descoperit plasma. De ce? Foarte simplu. Tehnologia laser nu necesita muniție. Și, mai important, cred că am mai spus-o și prin alte părți, consumul mic de time units (mai jos despre ele). Adică 2 (DOUĂ) aimed shots pe tură, chestiune care m-a convins s-o păstrez în dotarea lunetiștilor mei cu mult timp după ce restul răcanilor trecuseră pe plasmă. De asemenea, erau unele dintre cele mai profitabile produse (am făcut miliarde vînzînd laser cannon pe piața neagră). 
 
-> ### OpenXcom
-> 
-> Realizat de o mână de oamenidepeinternet™, OpenXcom este un source port care vă elimină ultima scuză pentru a nu încerca două dintre celemaibunejocurifăcutevreodată™. Mulțumită lui OpenXcom, care e o prezență constantă pe hardul meu încă de la versiunea 0.9, adică de peste doi ani, m-am convins o dată pentru totdeauna că nu ochelarii rozalii ai nostalgiei, cu filtru pentru lumina căcănie, sunt responsabili pentru venerația de care se bucură X-Com-urile cele antice. Mă joc X-Com destul de des și nu-mi vine să cred cît de bine se ține pentru un „moș” de 20 de ani (1500 în ani de joc). Jocul este foarte solid, mecanicile sunt actuale, singurul lucru care a „îmbătrînit” e grafica. Și asta o spun doar cu jumătate de gură, căci eu mă dau în vînt după pixeli. Și, oricum, văd că look-ul „retro” și pixel art-ul sunt la mare căutare printre devoratorii de și producătorii de indie. 
-> 
-> Ce aduce OpenXcom? În primul rînd compatibilitate cu toate sistemele de operare (există și o versiune pentru Android) și repară cîteva dintre bug-urile enervante. Mai avem suport pentru moduri, unele dintre ele sunt absolut demențiale și schimbă complet experiența, cum ar fi *Piratez* sau *UFO Redux* (acum *Area 51*); căutați-le neapărat. 
-> 
-> Spuneam prin articol că nu micromanagementul ne omoară ci, în majoritatea cazurilor, interfața. În acest scop, în OpenXcom au fost implementate o serie de funcționalități care mi-au ușurat viața exponențial. Un exemplu aleatoriu ar fi posibilitatea de a specifica în ecranul de Manufacturing că toată producția e destinată vînzării. Din acel moment, un obiect este vîndut automat după ce este produs scutindu-te pe tine de o excursie săptămînală în ecranul de Sell/Sack. Un alt exemplu, de data aceasta bine ales, ar fi posibilitatea de a salva echipamentul soldaților pentru a nu mai fi nevoie să-i înarmezi și să-i îmbraci înainte de fiecare misiune. Oricum, îmbunătățirile sunt prea multe pentru a fi pomenite aici, vizitați voi [openxcom.org](https://openxcom.org/) și citiți. După care instalați-l. După care mulțumiți-mi. Și dacă nu se va rupe ceva în voi, nu sunteți oameni și nu vă meritați PC-urile.
-> 
-> Ca o paranteză interesantă, oamenii care-au lucrat la OpenXcom au încercat să îmbunătățească AI-ul. Fiindcă AI-ul era hardcodat, a trebuit rescris. Rezultatul a fost Satana în persoană. Există posibilitatea să îl selectați din opțiuni și vi-l recomand doar în cazul în care puteți termina X-Com pe Superhuman (care nu se mai resetează la Beginner cînd încărcați un joc, bug-ul a fost strivit!) cu ochii închiși. 
-> 
-> Gata cu vorba, go play!
 
-## Battlescape
+### Battlescape
 
 M-am întins ca o lepră și încă n-am apucat să vă povestesc despre Battlescape, locul și timpul cînd lucrurile devin personale și recruții voștri de 30 000 de dolari au șansa să-și dovedească utilitatea. Și toți o vor face, indiferent de cît de mediocre sunt atributele lor (căci da, modelul matematic al unui soldat din subordine este foarte complex, fiecare dintre cele nouă atribute care definesc o entitate purtătoare de armă are un rol foarte important pe cîmpul de luptă). Cei slabi vor fi carne de tun (coboară primii din avion, atrag focul inamic etc), oricît de cinic sună, cei puternici vor trage în inamicii descoperiți de carnea de tun (aka Scouts, ca să nu se simtă prost). Că tot am adus în discuție carnea de tun, avem de-a face cu un delicios paradox surprins doar parțial de XCOM-ul celor de la Firaxis. Numărul maxim de soldați pe care-i poți arunca în luptă este situat între 14 și 26 (după un salt tehnologic). Deși te vei atașa de soldații tăi botezați cu numele cunoscuților, știi că oricât de grijuliu ai fi, vor muri oameni. Și încerci să eficientizezi procesul. Îmi și închipui diferențele de discurs motivațional dintre un ofițer din X-Com și unul din XCOM. _„Băieți, sunteți paisprezece, unii dintre voi vor muri, că așa e în firea lucrurilor, dar veți muri pentru o cauză nobilă bla bla bla, steag, neatârnare, barză, varză, mânz, tu, ăla cu Bravery 10, treci în față, ia un pistol, o grenadă cu fum și ieși primul” versus „Doar pe voi patru vă am. Avesaloame, dacă te pune dracu să mori rămîn fără sniper de nivel patru și pe tot ce am mai sfînt, vin după tine și te aduc înapoi cu puterea sfîntului Load”_.
 
@@ -100,4 +89,18 @@ Am lăsat la urmă comportamentul extratereștrilor pe harta tactică. Sunt acti
 Cu părere de rău, deja mi-am depășit de vreo patru ori spațiul alocat, deci ar fi timpul să trag o concluzie care îmi stă pe creier încă din 2012. X-Com este un joc pe PC care nu ar putea exista decît sub formă de biți, în timp ce XCOM ar putea fi la fel de bine un boardgame. Asta am încercat să explic în multe pagini și sper că am reușit să transmit măcar jumătate din ce vroiam. Aproape tot ce ține de XCOM (2012) poate fi simulat cu soldăței, carton și un zar, fără a fi nevoie de milioane de operații pe secundă. Îmi plac boardgame-urile, dar le prefer pe cele fizice. Îmi place și XCOM (și doiul, mai nou), a fost un proiect foarte curajos din partea Firaxis, dar în opinia mea sinceră îi lipsesc geniul, frumusețea și claritatea design-ului, armonia mecanicilor și prospețimea bătrînelor X-Com. Serios, X-Com este o lecție de game design perfect care-ar trebui predată fiecărui amator, sau profesionist, din Industrie. ■
 
 
-P.S.: Pe tot parcursul articolului m-am referit în special la primul X-Com (Enemy Unknown sau UFO Defense), dar tot ce-am spus este valabil și pentru Terror from the Deep. Care e aceeași Mărie cu o pălărie subacvatică iar diferența majoră este că frații Gollop n-au avut de-a face cu el. Dar mecanicile sunt copiate atît de fidel, încît nu mai contează atît de mult. 
+P.S.: Pe tot parcursul articolului m-am referit în special la primul X-Com (Enemy Unknown sau UFO Defense), dar tot ce-am spus este valabil și pentru Terror from the Deep. Care e aceeași Mărie cu o pălărie subacvatică iar diferența majoră este că frații Gollop n-au avut de-a face cu el. Dar mecanicile sunt copiate atît de fidel, încît nu mai contează atît de mult.
+
+{{% aside %}}
+### OpenXcom
+
+Realizat de o mână de oamenidepeinternet™, OpenXcom este un source port care vă elimină ultima scuză pentru a nu încerca două dintre celemaibunejocurifăcutevreodată™. Mulțumită lui OpenXcom, care e o prezență constantă pe hardul meu încă de la versiunea 0.9, adică de peste doi ani, m-am convins o dată pentru totdeauna că nu ochelarii rozalii ai nostalgiei, cu filtru pentru lumina căcănie, sunt responsabili pentru venerația de care se bucură X-Com-urile cele antice. Mă joc X-Com destul de des și nu-mi vine să cred cît de bine se ține pentru un „moș” de 20 de ani (1500 în ani de joc). Jocul este foarte solid, mecanicile sunt actuale, singurul lucru care a „îmbătrînit” e grafica. Și asta o spun doar cu jumătate de gură, căci eu mă dau în vînt după pixeli. Și, oricum, văd că look-ul „retro” și pixel art-ul sunt la mare căutare printre devoratorii de și producătorii de indie. 
+
+Ce aduce OpenXcom? În primul rînd compatibilitate cu toate sistemele de operare (există și o versiune pentru Android) și repară cîteva dintre bug-urile enervante. Mai avem suport pentru moduri, unele dintre ele sunt absolut demențiale și schimbă complet experiența, cum ar fi *Piratez* sau *UFO Redux* (acum *Area 51*); căutați-le neapărat. 
+
+Spuneam prin articol că nu micromanagementul ne omoară ci, în majoritatea cazurilor, interfața. În acest scop, în OpenXcom au fost implementate o serie de funcționalități care mi-au ușurat viața exponențial. Un exemplu aleatoriu ar fi posibilitatea de a specifica în ecranul de Manufacturing că toată producția e destinată vînzării. Din acel moment, un obiect este vîndut automat după ce este produs scutindu-te pe tine de o excursie săptămînală în ecranul de Sell/Sack. Un alt exemplu, de data aceasta bine ales, ar fi posibilitatea de a salva echipamentul soldaților pentru a nu mai fi nevoie să-i înarmezi și să-i îmbraci înainte de fiecare misiune. Oricum, îmbunătățirile sunt prea multe pentru a fi pomenite aici, vizitați voi [openxcom.org](https://openxcom.org/) și citiți. După care instalați-l. După care mulțumiți-mi. Și dacă nu se va rupe ceva în voi, nu sunteți oameni și nu vă meritați PC-urile.
+
+Ca o paranteză interesantă, oamenii care-au lucrat la OpenXcom au încercat să îmbunătățească AI-ul. Fiindcă AI-ul era hardcodat, a trebuit rescris. Rezultatul a fost Satana în persoană. Există posibilitatea să îl selectați din opțiuni și vi-l recomand doar în cazul în care puteți termina X-Com pe Superhuman (care nu se mai resetează la Beginner cînd încărcați un joc, bug-ul a fost strivit!) cu ochii închiși. 
+
+Gata cu vorba, go play!
+{{% /aside %}}
