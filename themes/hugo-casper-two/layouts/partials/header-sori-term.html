@@ -12,6 +12,9 @@
               <a href="{{.URL}}">{{.Name}}</a>
             </li>
         {{end}}{{end}}
+          <li>
+            <a class="forum-button" href="{{.Site.Params.linkForum}}">{{.Site.Params.labelButonForum}}</a>
+          </li>
       </ul></div>
 
       <div class="site-nav-right">
@@ -29,11 +32,6 @@
           {{end*/}}
         </div>
 
-        <ul class="nav" role="menu">
-          <li>
-            <a class="forum-button" href="{{.Site.Params.linkForum}}">{{.Site.Params.labelButonForum}}</a>
-          </li>
-        </ul>
         <a class="contribuie-button" href="{{.Site.Params.paginaContribuitori}}">{{.Site.Params.labelButonContribuie}}</a>
 
     </div>

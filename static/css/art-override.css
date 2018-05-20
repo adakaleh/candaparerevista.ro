@@ -52,10 +52,13 @@
     font-size: 1.8em;
 }
 
-.post-full-meta {
+.post-full-meta:not(.blog) {
     justify-content: space-between;
     border-top: 1px solid #090a0b;
     border-bottom: 1px solid #090a0b;
+}
+
+.post-full-meta {
     padding: 0.5em 0;
     margin: 2em 0 0;
     font-weight: 300;
@@ -92,12 +95,12 @@
     filter: blur(4px)
 }
 
-.post-full-content.no-image:after, .post-full-content.no-image:before {
+.post-full-content.no-cover-image:after, .post-full-content.no-cover-image:before {
     display: none;
 }
 
 /* container text articol - primul paragraf */
-.post-template .kg-card-markdown>p:first-child {
+.post-template .kg-card-markdown:not(.blog)>p:first-child {
     font-size:1.9rem;
     line-height:1.5em;
     font-style:italic;
@@ -120,6 +123,49 @@
     color: rgba(0, 0, 0, .75);
     box-shadow: 2px 2px 10px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
 }
+.post-full-content em,
+.post-full-content strong {
+    color: rgba(0, 0, 0, .75);
+}
+
+/* suprascriere proprietate din screen.css care afecteaza paginile de tip 'page' (ex: Despre) */
+.no-image .post-full-content {
+    padding-top: 5em;
+}
+
+/* titluri si subtitluri */
+.post-full-content h1 {
+    margin: .5em 0;
+    text-decoration: underline;
+    font-size: 1.7em;
+    line-height:1.6em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.post-full-content h2 {
+    margin: 1em 0;
+    font-size: 1.5em;
+    line-height:1.5em;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(0, 0, 0, .75);
+}
+
+.post-full-content h3 {
+    margin: 1em 0;
+    font-size: 1.35em;
+    line-height:1.35em;
+    font-weight: bold;
+    color: rgba(0, 0, 0, .75);
+}
+
+.post-full-content h4 {
+    margin: .75em 0 .5em;
+    text-decoration: underline;
+    font-size: 1.3em;
+    font-weight: 500;
+}
 
 /* casete separate text */
 .post-full-content-aside {
@@ -132,13 +178,18 @@
     font-size: 1.6rem;
     line-height:1.3em;
 }
+
 .post-full-content-aside em,
 .post-full-content-aside strong {
     color: rgba(70, 26, 18, 0.75);
 }
-.post-full-content-aside h2 {
+
+.post-full-content-aside h1,
+.post-full-content-aside h2,
+.post-full-content-aside h3,
+.post-full-content-aside h4 {
     color: rgba(70, 26, 18, 0.75);
-    font-size: 2.5rem;
+    /*font-size: 2.5rem;*/
 }
 
 /* separator footnotes si metadata */
@@ -146,7 +197,7 @@
     margin: 1.5em 0 3em;
 }
 
-/* articol metadata*/
+/* metadata articol */
 .post-full-article-metadata {
 
 }
@@ -189,7 +240,7 @@
 }
 
 .author-card {
-    padding: 2vw;
+    padding: 1.5em;
     border-radius: 5px;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);
@@ -265,8 +316,14 @@
     height: 100%;
 }
 
+.read-next-feed .post-card-content {
+    /*flex: 0 1 357px;*/
+    flex: 0 1 66%;
+}
+
 .read-next-feed .post-card-image-link {
-    flex: 1 1 70%;
+    /*flex: 1 1 70%;*/
+    flex: 1 1 auto;
     border-radius: 0 0 0 0;
 }
 
@@ -290,6 +347,20 @@
 
 .read-next-feed .post-card-meta {
     padding: 0.5em 1em;
+}
+
+/* --- formatare separata blog posts --- */
+
+.blog .post-full-title,
+.blog .post-full-subtitle,
+.blog .post-full-content {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* primul paragraf din articol, suprascriere screen.css */
+.post-template .kg-card-markdown.blog>p:first-child {
+    font-size: 1.7rem;
+    line-height:1.5em;
 }
 
 .read-next-feed .blog-post {

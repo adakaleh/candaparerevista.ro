@@ -279,16 +279,26 @@ a {
     /*font-family: Georgia, serif;*/
 }
 
+.blog-card-content-link,
+.blog-card-content-link:hover {
+    color: rgba(0, 0, 0, .7);
+    text-decoration: none;
+}
+
 .blog-card-label {
     text-transform: uppercase;
     /*font-weight: bold;*/
-    color: rgba(255, 250, 245, 1);
+    color: rgba(255, 250, 245, 0.8);
     width: 100%;
     background-image: url('../img/blackpaper_b_lighter.jpg');
     opacity: 0.9;
     text-align: center;
     font-size: 1.2rem;
     line-height: 3em;
+}
+
+.blog-card-label:hover {
+    color: #fff;
 }
 
 .blog-post {
@@ -310,14 +320,6 @@ a {
     box-shadow: none;
     transition: all .15s ease;
     transform: initial;
-}
-
-.blog-post a {
-    color: rgba(0, 0, 0, .7);
-}
-
-.blog-post a:hover {
-    text-decoration: none;
 }
 
 /* link colorat diferit doar pe prima pagina */
