@@ -774,7 +774,10 @@ body {
     text-transform: uppercase
 }
 
-@media (min-width: 795px) {
+/* dezactivat selector pentru 0n+1 si inlocuit cu clasa .first-card pentru a selecta
+primul card doar de pe *prima* pagina, in loc de primul card din *fiecare* pagina */
+
+/*@media (min-width: 795px) {
     .home-template .post-feed .post-card:nth-child(0n+1):not(.no-image) {
         -ms-flex: 1 1 100%;
         flex: 1 1 100%;
@@ -816,7 +819,7 @@ body {
     .home-template .post-feed .post-card:nth-child(0n+1):not(.no-image) .post-card-meta {
         padding: 0 40px 30px
     }
-}
+}*/
 
 .home-template .site-header:after {
     display: none

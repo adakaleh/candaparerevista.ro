@@ -1,9 +1,9 @@
 <header class="site-header outer " {{if .Site.Params.cover}} style="background-image: url({{.Site.Params.cover | absURL}})" {{end}} >
   <div class="inner">
     <div class="site-header-content">
-      <h1 class="site-title">{{ if .Site.Params.logo }}
-        <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" />
-      {{else}} {{ .Site.Params.title }} {{end}} </h1>
+      <h1 class="site-title"> <a href="{{"/"|absURL}}">{{ if .Site.Params.logo }}
+       <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" />
+      {{else}} {{ .Site.Params.title }} {{end}} </a></h1>
         <h2 class="site-description">{{ .Site.Params.subtitle }} </h2>
     </div>
 
@@ -16,6 +16,9 @@
               <a href="{{.URL}}">{{.Name}}</a>
             </li>
         {{end}}{{end}}
+        <li >
+          <a class="forum-button" href="{{.Site.Params.linkForum}}">{{.Site.Params.labelButonForum}}</a>
+        </li>
       </ul></div>
 
       <div class="site-nav-right">
@@ -33,11 +36,6 @@
           {{end*/}}
         </div>
 
-        <ul class="nav" role="menu">
-          <li>
-            <a class="forum-button" href="{{.Site.Params.linkForum}}">{{.Site.Params.labelButonForum}}</a>
-          </li>
-        </ul>
         <a class="contribuie-button" href="{{.Site.Params.paginaContribuitori}}">{{.Site.Params.labelButonContribuie}}</a>
 
       </div>

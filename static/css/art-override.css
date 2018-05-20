@@ -2,7 +2,6 @@
 /* ---- article page ---- */
 /* -----------------------*/
 
-
 /* body */
 /* body {
 	background: none;
@@ -18,8 +17,7 @@
 }
 
 #site-main {
-  /* background-image: none; */
-  /* background-image: url('../img/blackpaper_w.jpg'); */
+    background-image: url('../img/blackpaper_w.jpg');
 }
 
 /* titlu articol */
@@ -29,34 +27,63 @@
     margin-bottom: 1vw;
 }
 
+.post-full-categories {
+    text-transform:uppercase;
+    text-align:center;
+    font-size: 1.2rem;
+    margin-bottom: 1em;
+    color: #3eb0ef;
+}
+
+.post-full-categories span {
+    padding: 0 0.5em;
+}
+
 .post-full-title {
-    font-family: Georgia, serif;
-    margin-top: 1vh;
-    font-size: 3.5em;
+    font-family: 'Merriweather', serif;
+    margin-top: 1.5vh;
+    font-size: 3em;
 }
 
 .post-full-subtitle {
-    font-family: Georgia, serif;
-    font-style: italic;
-    margin-top: 1vh;
-    font-size: 2em;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    margin-top: 1.5vh;
+    font-size: 1.8em;
 }
 
-.post-full-title-author-name {
+.post-full-meta:not(.blog) {
+    justify-content: space-between;
+    border-top: 1px solid #090a0b;
+    border-bottom: 1px solid #090a0b;
+}
+
+.post-full-meta {
+    padding: 0.5em 0;
+    margin: 2em 0 0;
+    font-weight: 300;
+}
+
+.post-full-meta-date, .post-full-meta-author {
+    color: #090a0b;
+}
+
+.post-full-meta-author {
     /*font-style: italic;*/
+    text-transform: none;
 }
 
-.post-full-title-author-name:before {
-  content: "de ";
+.post-full-meta-author:before {
+    content: "de ";
 }
 
 /* imagine principala */
 .post-full-image {
-	/*margin:0 -10vw -100px;*/
-	margin:0 -2vw -2vw;
-	/* height:600px; */
+    /*margin:0 -10vw -100px;*/
+    margin: 0 -2vw -2vw;
+    /* height:600px; */
     min-height: 30vh;
-	height: 55vh;
+    height: 55vh;
 }
 
 /* umbra stanga si dreapta de la suprapunerea articolui peste main image */
@@ -64,32 +91,105 @@
     top: 0;
     /* width: 20px; */
     /* height: 250px; */
-	height: 10vw;
+    height: 10vw;
     filter: blur(4px)
 }
 
+.post-full-content.no-cover-image:after, .post-full-content.no-cover-image:before {
+    display: none;
+}
+
 /* container text articol - primul paragraf */
-.post-template .kg-card-markdown>p:first-child {
-    font-size:1.15em;
+.post-template .kg-card-markdown:not(.blog)>p:first-child {
+    font-size:1.9rem;
     line-height:1.5em;
     font-style:italic;
+    font-weight:300;
 }
 
 /* container text articol */
 .post-full-content {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     line-height:1.5em;
     /*border: solid 1px lightgray;*/
-	max-width: 1040px;
+    max-width: 1040px;
     /* background: rgba(250,250,250, 1); */
 
-    /*font-family: Georgia, serif;*/
+    font-family: Merriweather, serif;
     padding: 5em;
-    background-color: rgba(255,250,245, 1);
+    background-color: rgba(255, 250, 245, 1);
     background-image: url('../img/whitepaper.png');
-    border: 1px solid rgba(128,128,128, 0.2);
-    color: rgba(0,0,0,.75);
+    border: 1px solid rgba(128, 128, 128, 0.2);
+    color: rgba(0, 0, 0, .75);
     box-shadow: 2px 2px 10px rgba(39, 44, 49, .06), 1px 3px 8px rgba(39, 44, 49, .03);
+}
+.post-full-content em,
+.post-full-content strong {
+    color: rgba(0, 0, 0, .75);
+}
+
+/* suprascriere proprietate din screen.css care afecteaza paginile de tip 'page' (ex: Despre) */
+.no-image .post-full-content {
+    padding-top: 5em;
+}
+
+/* titluri si subtitluri */
+.post-full-content h1 {
+    margin: .5em 0;
+    text-decoration: underline;
+    font-size: 1.7em;
+    line-height:1.6em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.post-full-content h2 {
+    margin: 1em 0;
+    font-size: 1.5em;
+    line-height:1.5em;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(0, 0, 0, .75);
+}
+
+.post-full-content h3 {
+    margin: 1em 0;
+    font-size: 1.35em;
+    line-height:1.35em;
+    font-weight: bold;
+    color: rgba(0, 0, 0, .75);
+}
+
+.post-full-content h4 {
+    margin: .75em 0 .5em;
+    text-decoration: underline;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+/* casete separate text */
+.post-full-content-aside {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 1em;
+    color: rgba(70, 26, 18, 0.75);
+    border: 1em solid rgba(255, 255, 0, 1);
+    margin: 0 0 1.5em;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height:1.3em;
+}
+
+.post-full-content-aside em,
+.post-full-content-aside strong {
+    color: rgba(70, 26, 18, 0.75);
+}
+
+.post-full-content-aside h1,
+.post-full-content-aside h2,
+.post-full-content-aside h3,
+.post-full-content-aside h4 {
+    color: rgba(70, 26, 18, 0.75);
+    /*font-size: 2.5rem;*/
 }
 
 /* separator footnotes si metadata */
@@ -97,15 +197,16 @@
     margin: 1.5em 0 3em;
 }
 
-/* articol metadata*/
+/* metadata articol */
 .post-full-article-metadata {
 
 }
+
 .post-full-article-extra {
     background-color: rgba(62, 176, 239, 0.1);
     padding: 1em 1em 0.5em;
     border-left: 3px solid rgba(62, 176, 239, 1);
-    font-family: Lato, Open Sans, Helvetica Neue, sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.5rem;
 }
 
@@ -128,27 +229,27 @@
 }
 
 .post-forum-link a {
-    background-color: rgba(255,255,0, 0.7);
+    background-color: rgba(255, 255, 0, 0.7);
 }
 
 /* caseta autor */
 
 .post-full-footer {
-  padding: 2vw 0 0;
-  max-width: 1040px;
+    padding: 2vw 0 0;
+    max-width: 1040px;
 }
 
 .author-card {
-  padding: 2vw;
-  border-radius: 5px;
-  width: 100%;
-  background-color: rgba(255,255,255,1);
-  /*background-image: url('../img/whitepaper.png');*/
-  border: 1px solid rgba(128,128,128, 0.2);
+    padding: 1.5em;
+    border-radius: 5px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    /*background-image: url('../img/whitepaper.png');*/
+    border: 1px solid rgba(128, 128, 128, 0.2);
 }
 
 .author-card p {
-  font-style: italic;
+    font-style: italic;
 }
 
 /* aside read prev - next */
@@ -162,27 +263,27 @@
 }
 
 .separator-read-next {
-    display:table;
-    white-space:nowrap;
-    line-height:1;
+    display: table;
+    white-space: nowrap;
+    line-height: 1;
 }
 
 .separator-read-next {
-    line-height:1;
-    height:0;
-    font-weight:700;
-    text-transform:uppercase;
-    text-align:center
+    line-height: 1;
+    height: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center
 }
 
 .separator-read-next::after, .separator-read-next::before {
-    content:'';
-    display:table-cell;
-    position:relative;
-    top:50%;
-    width:50%;
-    background-repeat:no-repeat;
-    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAACCAYAAACuTHuKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1OThBRDY4OUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1OThBRDY4QUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU5OEFENjg3Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU5OEFENjg4Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+VU513gAAADVJREFUeNrs0DENACAQBDBIWLGBJQby/mUcJn5sJXQmOQMAAAAAAJqt+2prAAAAAACg2xdgANk6BEVuJgyMAAAAAElFTkSuQmCC);
+    content: '';
+    display: table-cell;
+    position: relative;
+    top: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAACCAYAAACuTHuKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1OThBRDY4OUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1OThBRDY4QUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU5OEFENjg3Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU5OEFENjg4Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+VU513gAAADVJREFUeNrs0DENACAQBDBIWLGBJQby/mUcJn5sJXQmOQMAAAAAAJqt+2prAAAAAACg2xdgANk6BEVuJgyMAAAAAElFTkSuQmCC);
 }
 
 .separator-read-next::before {
@@ -200,6 +301,8 @@
     dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
     e mai important sa fie aici corect. */
     justify-content: flex-end;
+
+    padding: 2em 0;
 }
 
 .read-next-feed .post-card {
@@ -213,8 +316,14 @@
     height: 100%;
 }
 
+.read-next-feed .post-card-content {
+    /*flex: 0 1 357px;*/
+    flex: 0 1 66%;
+}
+
 .read-next-feed .post-card-image-link {
-    flex: 1 1 70%;
+    /*flex: 1 1 70%;*/
+    flex: 1 1 auto;
     border-radius: 0 0 0 0;
 }
 
@@ -236,6 +345,24 @@
     padding: 0.3em 1em 0;
 }
 
-.read-next-feed .post-card-meta{
+.read-next-feed .post-card-meta {
     padding: 0.5em 1em;
+}
+
+/* --- formatare separata blog posts --- */
+
+.blog .post-full-title,
+.blog .post-full-subtitle,
+.blog .post-full-content {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* primul paragraf din articol, suprascriere screen.css */
+.post-template .kg-card-markdown.blog>p:first-child {
+    font-size: 1.7rem;
+    line-height:1.5em;
+}
+
+.read-next-feed .blog-post {
+    max-width: 47%;
 }

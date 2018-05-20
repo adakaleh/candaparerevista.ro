@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Site-ul comunității LEVEL"
 theme = "hugo-casper-two"
 disqusShortname = ""
 paginate        = 11
@@ -9,7 +9,7 @@ canonifyurls    = true
 
 # câte cuvinte să fie afișate în cardurile
 # de pe prima pagină (.Summary)
-summaryLength = 25
+summaryLength = 50
 
 # toate variabilele aici:
 # https://gohugo.io/getting-started/configuration/
@@ -21,9 +21,9 @@ summaryLength = 25
 
 [params]
   title       = "Când Apare Revista"
-  subtitle    = "Cu un picior în trecut, ochii spre viitor și... restul în prezent"
+  subtitle    = "Site-ul comunității LEVEL (beta)"
   copyright   = "© 2018"
-  description = "Comunitatea revistei Level. Da, aceea de demult. Revista nu mai e, dar a a rămas forumul să stingă lumina şi lumina nu se mai stinge. Aşa că încă suntem aici: discutăm una-alta, schimbăm jocuri, scriem articole şi ne mai şi jucăm. Jocuri."
+  description = "candaparerevista.ro este site-ul vechii comunități a revistei Level, una dintre cele mai longevive publicații despre gaming din România. După dispariția revistei în 2013, vechii utilizatori și fani s-au regrupat pe un nou forum. Pe site sunt publicate articolele și creațiile membrilor și update-uri ale proiectelor din comunitate."
 
   # linkuri facebook și github
   fbName = "comunitatealevel"
@@ -37,6 +37,12 @@ summaryLength = 25
   logo = "/img/car_logo.png"
   cover       = ""
 
+  # dimensiuni pentru resize cover image din cards
+  # (resize Height prop.: "x350", resize Width prop.: "350x")
+  firstCardThumbSize = "x500"
+  cardThumbSize = "x350"
+  galerieThumbSize = "150x100"
+
   # contribuitori
   paginaContribuitori = "/contribuie"
   labelButonContribuie = "Contribuie"
@@ -45,10 +51,13 @@ summaryLength = 25
   linkForum = "https://forum.candaparerevista.ro"
   labelButonForum = "Forum"
 
+  # blogul comunităţii
+  labelSectiuneBlog = "Blogul Comunităţii"
+
   # autor și avatar default
   author = "car-lvl"
-  authorAvatar = "/img/lvl_profile.png"
-  authorDescription = "În spatele LVL e mulți."
+  authorAvatar = "car-lvl.png"
+  authorDescription = "Dacă vezi acest text, mâine vei câștiga la loto."
 
   pageNotFoundTitle = "404 - Pagina nu gândește, deci nu există"
 
@@ -85,7 +94,7 @@ summaryLength = 25
   weight = 98
 
 [[menu.main]]
-  name = "Community Blog"
+  name = "Blog"
   url = "/blog/"
   weight = 98
 

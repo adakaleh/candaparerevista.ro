@@ -1,10 +1,16 @@
 {{ $pages := ((where .Site.Pages "Type" "post") | shuffle) }}
 {{ range first 3 $pages}} 
 
-<article class="post-card post"> 
+<article class="post-card post">
     {{if .Params.image}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
       <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
+    </a>
+    {{else if .Resources.GetMatch "cover-image"}}
+    {{ $coverImage := .Resources.GetMatch "cover-image" }}
+    {{ $resizedCover := $coverImage.Resize .Site.Params.cardThumbSize }}
+    <a class="post-card-image-link" href="{{ .Permalink }}">
+      <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
     </a>
     {{else}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
@@ -37,10 +43,11 @@
           {{$authorThumbnail := $author.thumbnail }}
           {{$authorLink := .Params.authors }}
 
-          <img class="author-profile-image" src="{{ $authorThumbnail}}" alt="Author" />
+          {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
+          <img class="author-profile-image" src="{{ $authorThumbnailFile }}" alt="{{ $authorName }}" />
           <div>
             <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
-            <span class="post-card-date">{{ .Date.Format "2-01-06" | safeHTML }}</span>
+            <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
           </div>
       </footer>
     </div>

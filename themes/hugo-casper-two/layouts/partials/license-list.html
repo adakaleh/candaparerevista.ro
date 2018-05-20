@@ -1,0 +1,7 @@
+{{ with (where .Data.Pages.ByDate.Reverse "Type" "license") }}
+  {{ range . }}
+
+    {{ partial "license-post" . }}
+
+  {{ end }}
+{{ end }}

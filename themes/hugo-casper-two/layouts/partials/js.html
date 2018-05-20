@@ -1,6 +1,15 @@
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="{{ "js/libs/highlight/highlight.pack.js" | absURL}}"></script>
+<script type="text/javascript" src="{{ "js/jquery-3.2.1.min.js" | absURL}}"></script>
 <script type="text/javascript" src="{{ "js/jquery.fitvids.js" | absURL}}"></script>
+<script type="text/javascript" src="{{ "js/clamp.min.js" | absURL}}"></script>
+<script type="text/javascript" src="{{ "js/custom.js" | absURL}}"></script>
+
+<!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
+{{ if ($.Scratch.Get "photoswipeloaded") }}
+<script src="/js/load-photoswipe.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+{{ end }}
 
 <script>hljs.initHighlightingOnLoad();</script>
 

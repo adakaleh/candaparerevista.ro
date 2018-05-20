@@ -1,57 +1,51 @@
-## Pre-release - alpha
-### General
-* [x] Favicon
-* [x] Evidențiere categorie (ex: "[Review]") în card/articol
-
-### Mobile
-* [x] Fix mobile css
-
-### Prima pagină
-* [x] Featured/pinned posts (categorie nouă)
-
-### Navbar
-* [x] De scos linkuri FB şi GH
-* [x] De mutat buton Forum în dreapta
-
-### Articole
-* [x] Linkuri suplimentare articol
-* [x] Suport subtitluri
-* [x] Improve carduri read next-prev
-
-
 ## Beta release
 ### General
-* [ ] Logo
-* [ ] Tagline
+
+* [x] Tagline
+
+### Pagina articol
+* [x] De adăugat info data originală a articolului în caseta tehnică 
 
 ### Conţinut
 #### Articole
-* [ ] Selecţie şi formatare primul set de articole
+* [x] Selecţie şi formatare primul set de articole
 
 #### Autori
-* [ ] Pagini autori
+* [x] Pagini autori
 
 #### Site
-* [ ] Pagina Despre
+* [x] Pagina Despre
 
 ### Pagina single
-* [ ] Fix margins
+* [x] Fix margins
 
-### Navbar
-* [ ] Buton Forum mai proeminent
+
 
 ### Cod
-* [ ] Embed fonturi
-* [ ] De scos request-uri 3rd party (img, css, js)
+* [x] Embed fonturi
+* [x] De scos request-uri 3rd party (img, css, js)
+* [ ] Optimizare fonturi (de scos fonturi nefolosite, unicode ranges) - ?
 
 
 ## v1.0 release
 ### General
 * [ ] De stabilit categorii fixe
-* [ ] Sidebar/Footbar cu noutăți comunitate
+* [x] Sidebar/Footbar cu noutăți comunitate
+* [ ] Logo - improve
+
+### Navbar
+* [ ] Buton Forum mai proeminent (?)
+
+### Blog comunitate
+* [x] Fix layout flex vertical (~~justify~~ flex-grow)
+* [x] Font sans serif
+* [x] Eliminare info autor
+* [ ] Îmbunătăţiri layout
+* [ ] Link pe card
 
 ### Pagina articol
-* [ ] De căutat font nou serif
+* [x] De căutat font nou serif
+* [x] De rearanjat layout titlu - subtitlu - data - autor - categorii
 
 ### Pagini taguri/categorii
 * [ ] ~~De testat înălțime header cu multe categorii / taguri~~
@@ -64,8 +58,9 @@
 ### Conţinut 
 
 #### Articole
-* [ ] Licența materiale din `/content/posts`
+* [x] Licența materiale din `/content/posts`
 * [ ] Casetă tehnică joc si suport nota ?
+* [x] Suport pentru aside (casete cu text adiţional)
 
 #### Autori
 * [ ] Suplimentat caseta autorului cu date contact, dacă există
@@ -81,7 +76,7 @@
 ### Cod
 * [ ] Documentaţie-Readme
 * [ ] CI
-* [ ] Page Bundles / Resources + image resize
+* [x] Page Bundles / Resources + image resize
 
 
 ## Next releases
@@ -91,6 +86,13 @@
 
 ### Pagina articol
 * [ ] Fix/improve layout imagini
+* [ ] Aside cu float left/width 50%
+
+### Cod
+* [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
+* [ ] De văzut unde sunt folosite parţialele `meta-twitter` şi `meta-facebook` şi eliminat
+* [ ] De elimimat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources
+* [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 
 ### Functionalitati suplimentare
 * [ ] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3) 

@@ -1,4 +1,11 @@
 /* article override */
+@media (max-width: 1040px) {
+    .post-full-content img.gallery-thumb {
+        width: auto;
+        max-width: 45%;
+    }
+}
+
 @media (max-width: 1170px) {
 
     .post-full-image {
@@ -29,18 +36,18 @@
     }
 
     .post-full-content {
-        font-size: 1.9rem;
+        font-size: 1.7rem;
         padding: 4vw;
     }
 
-    .post-template .kg-card-markdown > p:first-child {
+    .post-template .kg-card-markdown:not(.blog) > p:first-child {
         font-size: 1em;
         line-height: 1.4em;
         font-style: italic;
     }
 
     /* cardurile read next-previous din articol */
-    .read-next-feed .post-card {
+    .read-next-feed .post-card, .read-next-feed .blog-post {
         max-width: 100%;
     }
 }

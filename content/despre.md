@@ -1,18 +1,34 @@
 ---
-title: Despre noi
+title: Despre site
 type: page
 ---
 
-### Când Apare Revista?
-Bună întrebare.
+**candaparerevista.ro** este site-ul vechii comunități a revistei Level, una dintre cele mai longevive publicații despre gaming din România.
 
-_A fost odată revista Level. Apoi site-ul Level. Apoi forumul Level._
+După dispariția revistei şi a forumului în 2013, vechii utilizatori și fani s-au regrupat pe [un nou forum](https://forum.candaparerevista.ro), propunându-şi să nu lase şi comunitatea să dispară. Astfel, noul forum a păstrat structura vechiului forum, precum şi tot materialul care a mai putut fi recuperat indirect, atrăgând și o bună parte din membrii activi ai vechi comunități.
 
-_Apoi revista n-a mai fost. Nici site-ul._
+În 2018 s-a lansat și acest site, unde sunt publicate articolele și creațiile membrilor, precum și update-uri despre evenimentele și proiectele din comunitate.
 
-_Comunitatea a rămas._
+#### Ce s-a întâmplat cu Level și cu vechiul forum?
+În 2013 revista a început să aibă probleme cu apariția: unele ediții erau comasate pentru a acoperi mai multe luni, iar revista ajungea cu întârziere la chioșcuri. Ediția lunii noiembrie 2013 a fost ultima publicată, iar revista a intrat în faliment. Odată cu revista au dispărut și site-ul și forumul, împreună cu toată istoria de mai bine de 10 ani a comunității, iar încercările de a recupera baza de date de la vechii administratori au fost fără succes.
 
-Revista Level a dispărut la sfârşitul anului 2013. Odată cu aceasta, au dispărut brusc și site-ul şi forumul Level, împreună cu toată istoria de mai bine de 10 ani a comunității. Câteva luni mai târziu, membrii forumului au făcut un forum nou, propunându-şi să nu lase comunitatea să dispară. Astfel, noul forum a păstrat structura vechiului forum, precum şi tot materialul care a mai putut fi recuperat indirect, atrăgând și o bună parte din membrii activi ai vechi comunități. Apoi, când foștii redactorii ai revistei Level au revenit într-o nouă formulă, întâi cu un site, apoi cu o revistă nouă, forumul i s-a alăturat în spiritul vechii simbioze. Simbioză care nu s-a realizat pe deplin, astfel că, spre sfârşitul lui 2017, forumul redevine independent şi se modernizează cu un nume şi un domeniu nou, păstrând însă legătura cu originile şi punând şi mai mult accentul pe comunitate.
-Terminând în sfârşit cu introducerea sforăitoare, nu mai rămâne de spus decât: jump to the next.... ăăă, când apare revista?
+#### Ce s-a întâmplat cu revista Nivelul 2?
+După un început promițător, N2 s-a confruntat cu o serie de probleme care au dus la întârzieri din ce în ce mai mari. Ultimul număr a apărut în ianuarie 2017. În septembrie 2017, Kimo și-a exprimat într-un post pe site intenția de a reveni la apariția lunară a revistei, însă nu s-a concretizat nimic până acum. Momentan [Nivelul 2](http://nivelul2.ro/) își continuă activitatea în mediul online.
 
-(Pentru cei care nu sunt în temă, noul nume e doar o veche glumă a forumului: întrebarea inevitabilă care se punea pe forum înainte de apariţia fiecărui număr al revistei Level; a fost primul nume, temporar, al noului forum, după dispariţia revistei Level, şi numele oficial de acum).
+#### Unde pot găsi Level și alte reviste de pe vremuri?
+În momentul de față există două proiecte de arhivare electronică a revistelor vechi:
+
+* https://revistevechi.awiki.org/ - wiki cu informații despre reviste vechi și linkuri către arhive de unde se pot descărca.
+* http://arhivarevistevechi.mythweb.ro/ - bază de date cu arhiva (aproape) integrală a revistelor (Level și Game Over în principal), în care se poate căuta ușor după articolele și numerele dorite.
+
+Pentru update-uri și noi adiții la colecții se poate urmări și [thread-ul dedicat](https://forum.candaparerevista.ro/viewtopic.php?f=16&t=200).
+Pentru a cumpăra reviste vechi se poate consulta [secțiunea de Buy/Sell de pe forum](https://forum.candaparerevista.ro/viewforum.php?f=22).
+
+#### Cum pot contribui?
+* Scriind recenzii și articole în care să ne împărtășești pasiunile tale legate de jocuri. Poți să ne trimiți un review, preview, retrospectivă, critică, eseu, analiză de strategie, sau chiar let's play-uri și tutoriale. Vezi [secțiunea de pe forum](https://forum.candaparerevista.ro/viewforum.php?f=77).
+* Participând la activitățile și concursurile organizate pe forum.
+* Scanând numere de reviste vechi care ne lipsesc și postându-le pe [thread-ul dedicat](https://forum.candaparerevista.ro/viewtopic.php?f=16&t=200).
+* Invitând persoane care ar putea fi interesate de comunitatea noastră.
+
+#### De ce se numește așa? Ce revistă?
+Întrebarea „Când apare revista?” este un vechi laitmotiv al forumului, alături de „Vrem joc full și poster în revistă”. Inițial se referea la revista Level. Apoi s-a referit la Nivelul 2. Iar acum, cine știe? Poate că a rămas o interogație nostalgică (*où sont les neiges d'antan?*). Sau poate că se referă chiar la [revista forumului](https://forum.candaparerevista.ro/viewforum.php?f=80).
