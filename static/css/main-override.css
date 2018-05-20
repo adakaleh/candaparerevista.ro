@@ -279,7 +279,8 @@ a {
     /*font-family: Georgia, serif;*/
 }
 
-.blog-card a {
+.blog-card-content-link,
+.blog-card-content-link:hover {
     color: rgba(0, 0, 0, .7);
     text-decoration: none;
 }

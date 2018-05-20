@@ -1,27 +1,6 @@
-## Pre-release - alpha
-### General
-* [x] Favicon
-* [x] Evidențiere categorie (ex: "[Review]") în card/articol
-
-### Mobile
-* [x] Fix mobile css
-
-### Prima pagină
-* [x] Featured/pinned posts (categorie nouă)
-
-### Navbar
-* [x] De scos linkuri FB şi GH
-* [x] De mutat buton Forum în dreapta
-
-### Articole
-* [x] Linkuri suplimentare articol
-* [x] Suport subtitluri
-* [x] Improve carduri read next-prev
-
-
 ## Beta release
 ### General
-* [ ] Logo
+
 * [x] Tagline
 
 ### Pagina articol
@@ -29,19 +8,18 @@
 
 ### Conţinut
 #### Articole
-* [ ] Selecţie şi formatare primul set de articole
+* [x] Selecţie şi formatare primul set de articole
 
 #### Autori
-* [ ] Pagini autori
+* [x] Pagini autori
 
 #### Site
-* [ ] Pagina Despre
+* [x] Pagina Despre
 
 ### Pagina single
-* [ ] Fix margins
+* [x] Fix margins
 
-### Navbar
-* [ ] Buton Forum mai proeminent
+
 
 ### Cod
 * [x] Embed fonturi
@@ -53,6 +31,10 @@
 ### General
 * [ ] De stabilit categorii fixe
 * [x] Sidebar/Footbar cu noutăți comunitate
+* [ ] Logo - improve
+
+### Navbar
+* [ ] Buton Forum mai proeminent (?)
 
 ### Blog comunitate
 * [x] Fix layout flex vertical (~~justify~~ flex-grow)
