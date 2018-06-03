@@ -1,4 +1,6 @@
-baseURL = "/"
+# Merge si doar "/", dar e nevoie de baseUrl pentru a forma url-uri
+# absolute necesare pentru share pe facebook
+baseURL = "http://candaparerevista.ro/"
 languageCode = "en-us"
 title = "Site-ul comunității LEVEL"
 theme = "hugo-casper-two"
@@ -35,7 +37,7 @@ summaryLength = 50
 
   # logo site si imagine fundal pentru header
   logo = "/img/car_logo.png"
-  cover       = ""
+  cover       = "/img/site_cover.jpg"
 
   # dimensiuni pentru resize cover image din cards
   # (resize Height prop.: "x350", resize Width prop.: "350x")
