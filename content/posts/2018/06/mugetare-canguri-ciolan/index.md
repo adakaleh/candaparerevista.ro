@@ -2,6 +2,7 @@
 title: Australia, pământ românesc
 type: post
 date: 2018-06-09
+draft: true
 authors: ciolan
 categories:
     - Mugetare

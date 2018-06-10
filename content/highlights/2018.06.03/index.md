@@ -1,7 +1,7 @@
 ---
 title: "Retrospectiva săptămânii 2018.06.03"
 type: post
-date: 2018-06-10
+date: 2018-06-10T09:00:10+02:00
 categories:
     - Highlights
 
@@ -10,7 +10,7 @@ tags:
     - Gray Dawn
     - Shadow Tactics
 
-description:
+description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața."
 
 resources:
   - src: images/Shadow-Tactics-02-HD-textless.jpg

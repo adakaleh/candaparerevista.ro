@@ -1,5 +1,6 @@
 ---
-title: "80 Days - Ocolul pământului în n zile"
+title: 80 Days
+subtitle: Ocolul pământului în n zile
 type: post
 date: 2018-05-20T20:00:02+02:00
 authors: michilangelo
