@@ -218,6 +218,17 @@ a {
     font-size: 1.05rem;
 }
 
+.post-card-subtitle {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #738a94;
+    font-size: 1.3rem;
+    line-height: 1.15em;
+    font-weight: 500;
+    letter-spacing: .5px;
+    text-transform: uppercase
+}
+
 /* text card */
 .post-card-title {
     font-size: 1.8rem;

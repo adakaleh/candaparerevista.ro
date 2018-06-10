@@ -1,5 +1,6 @@
 ---
 title: A Plain Markdown Post
+subtitle: A post subtitle
 type: post
 author: car-lvl
 date: '2017-02-14'
