@@ -48,6 +48,7 @@ Forma articolului s-ar putea să mai sufere modificări, așa că să nu fiți s
 * [Being the boss of Dragon Age](https://www.eurogamer.net/articles/2018-05-25-being-the-boss-of-dragon-age): Mike Laidlow despre 15 ani de jocuri la BioWare (Eurogamer)
 * [Tim Schafer: “I haven't made my best game yet”](https://www.gamesindustry.biz/articles/2018-05-23-tim-schafer-i-havent-made-my-best-game-yet) (gamesindustry.biz)
 * [FTL and Into the Breach: Two-of-an-unkind](https://www.gamesindustry.biz/articles/2018-05-23-ftl-and-into-the-breach-two-of-an-unkind) (gamesindustry.biz)
+* [Does 'Role-Playing Game' Mean What it Did a Decade Ago?](http://www.kotaku.co.uk/2018/05/30/does-role-playing-game-mean-what-it-did-a-decade-ago) (Kotaku)
 
 ### Made în România
 * 20 mai: s-a închis forumul computergames.ro. Anunţul fusese făcut cu o lună în urmă, pe 20 aprilie, odată cu [închiderea site-ului](https://www.paginademedia.ro/2018/04/site-ul-computergamesro-s-a-inchis-dupa-20-de-ani-de-ce). O parte dintre useri încearcă să reconstruiască forumul [aici](https://forum.computergamers.ro/). Arhive ale forumului pot fi găsite [aici](https://revistevechi.awiki.org/computer_games).
@@ -57,7 +58,8 @@ Forma articolului s-ar putea să mai sufere modificări, așa că să nu fiți s
 ### Anunţuri şi lansări de jocuri
 #### Anunţate
 * 23 mai: [Battlefield V](https://www.rockpapershotgun.com/2018/05/23/battlefield-v-is-about-making-friends-building-forts-and-daily-chores/)
-* **Stoneshard**, un roguelike open-world cu estetică pixel art, are acum o [campanie pe kickstarter](https://www.kickstarter.com/projects/1926605606/stoneshard-open-world-roguelike-rpg-with-tactical). Jocul va fi lansat în early access în decembrie 2018.
+* 23 mai: [Leisure Suit Larry: Wet Dreams Don’t Dry](https://www.hardcoregamer.com/2018/05/23/leisure-suit-larry-wet-dreams-dont-dry-officially-announced-for-2018/300093/)
+* **Stoneshard**, un roguelike open-world cu estetică pixel art, are acum o [campanie pe kickstarter](https://www.kickstarter.com/projects/1926605606/stoneshard-open-world-roguelike-rpg-with-tactical). Jocul va fi lansat în early access în decembrie 2018
 
 #### Lansate
 * 21 mai: [The Elder Scrolls Online: Summerset](https://www.elderscrollsonline.com/en-us/updates/chapter/summerset), un nou expansion pentru ESO.
