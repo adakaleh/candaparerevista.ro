@@ -2,6 +2,7 @@
     <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Params.Title }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     {{if .Site.Params.fbName}}<meta property="article:publisher" content="https://www.facebook.com/{{.Site.Params.fbName}}" />{{end}}
+
 {{ if .IsPage }}
     <meta property="og:type" content="article" />
     <meta property="og:description" content="{{ .Description  | default (substr .Summary 0 160) }}" />
@@ -11,7 +12,18 @@
 {{ else }}
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ .Site.Params.description }}" />
-{{ end }}{{if .Params.image }}
+{{ end }}
+
+{{if .Params.image }}
     <meta property="og:image" content="{{ .Params.image | absURL}}"/>
-{{else}}{{if .Site.Params.cover}}
-    <meta property="og:image" content="{{ .Site.Params.cover | absURL}}"/>{{end}}{{end}}
+{{else if .Resources.GetMatch "cover-image"}}
+    {{ $image := .Resources.GetMatch "cover-image"}}
+      <meta property="og:image" content="{{ $image.Permalink}}"/>
+{{else if .Resources.GetMatch "card-cover-image"}}
+    {{ $image := .Resources.GetMatch "card-cover-image"}}
+      <meta property="og:image" content="{{ $image.Permalink}}"/>
+{{else}}
+  {{if .Site.Params.cover}}
+      <meta property="og:image" content="{{ .Site.Params.cover | absURL}}"/>
+  {{end}}
+{{end}}

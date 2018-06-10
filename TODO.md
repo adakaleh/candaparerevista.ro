@@ -90,8 +90,8 @@
 
 ### Cod
 * [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
-* [ ] De văzut unde sunt folosite parţialele `meta-twitter` şi `meta-facebook` şi eliminat
-* [ ] De elimimat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources
+* [ ] De testat si modificat daca e cazul parţialul `meta-twitter`
+* [ ] De eliminat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources (o eliminam sau o pastram pe post de override?)
 * [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 
 ### Functionalitati suplimentare

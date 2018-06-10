@@ -1,4 +1,6 @@
-<header class="site-header outer " {{if .Site.Params.cover}} style="background-image: url({{.Site.Params.cover | absURL}})" {{end}} >
+<header class="site-header outer "
+        {{/*Site Cover e folosit de facebook pentru share website, dar nu vrem sa fie afisat pe site*/}}
+        {{/*if .Site.Params.cover}} style="background-image: url({{.Site.Params.cover | absURL}})" {{end*/}} >
   <div class="inner">
     <div class="site-header-content">
       <h1 class="site-title"> <a href="{{"/"|absURL}}">{{ if .Site.Params.logo }}
