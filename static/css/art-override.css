@@ -84,6 +84,7 @@
     /* height:600px; */
     min-height: 30vh;
     height: 55vh;
+    border-radius: 0;
 }
 
 /* umbra stanga si dreapta de la suprapunerea articolui peste main image */
