@@ -129,6 +129,18 @@
     color: rgba(0, 0, 0, .75);
 }
 
+/* imagini articol */
+.post-full-content figure figcaption {
+    font-weight: 300;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: italic;
+    color: #3eb0ef;
+    text-align: center;
+    padding: 0 5em;
+    font-size: 1.5rem;
+    line-height:1.3em;
+}
+
 /* suprascriere proprietate din screen.css care afecteaza paginile de tip 'page' (ex: Despre) */
 .no-image .post-full-content {
     padding-top: 5em;

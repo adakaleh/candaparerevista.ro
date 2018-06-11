@@ -84,4 +84,11 @@ An image (automatically centered when it is appropriate):
 
 ![Happy Elmo](https://slides.yihui.name/gif/happy-elmo.gif)
 
+
+Imagine cu caption:
+
+{{< figure  src="gallery/1.jpg" caption="Caption imagine aici dedesubt" >}}
+
+{{< figure  src="gallery/2.jpg" caption="consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.^[I'm sure you are bored by the text here" >}}
+
 Looks good?
