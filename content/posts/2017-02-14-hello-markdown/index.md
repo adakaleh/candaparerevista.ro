@@ -89,6 +89,14 @@ Imagine cu caption:
 
 {{< figure  src="gallery/1.jpg" caption="Caption imagine aici dedesubt" >}}
 
-{{< figure  src="gallery/2.jpg" caption="consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.^[I'm sure you are bored by the text here" >}}
+Galerie de imagini cu caption (merg oricâte, dar ar trebui să ne limităm la 2):
+
+{{< figure-multi
+    "gallery/1.jpg|Lorem ipsum caption1 dolor sit amet, consectetur adipiscing elit"
+    "gallery/2.jpg|Lorem ipsum caption2|altdescription2"
+    "gallery/3.jpg|Caption 3|altdescription3"
+    "gallery/4.jpg|Caption4"
+    "gallery/5.jpg||altdescription5"
+>}}
 
 Looks good?
