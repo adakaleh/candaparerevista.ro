@@ -9,11 +9,13 @@
       "src" and "caption" must be specified -->
       {{ if ge $itemCount 2 }}
         <figure>
-            <!-- TODO adaugam si link pe imagine catre imaginea mare? -->
+          <a href = "{{ index $items 0 }}">
             <img
                 src="{{ index $items 0 }}"
                 alt="{{ if ge $itemCount 2 }}{{ index $items 2 }}{{ else }}{{ "" }}{{ end }}"
             >
+          </a>
+
           <figcaption>
             <span> {{ index $items 1 }} </span>
           </figcaption>

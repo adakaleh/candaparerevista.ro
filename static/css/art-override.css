@@ -129,7 +129,7 @@
     color: rgba(0, 0, 0, .75);
 }
 
-/* imagini articol */
+/* imagini articol - figure cu caption */
 .post-full-content figure figcaption {
     font-weight: 300;
     font-family: 'Merriweather Sans', sans-serif;
@@ -141,22 +141,27 @@
     line-height:1.3em;
 }
 
-/* TODO formatare cu flex si egalizare height */
+/* imagini articol - multi-figure cu caption */
 .post-full-content .figure-gallery {
     width: 1040px;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
     margin-bottom: 1.5em;
 }
 
 .post-full-content .figure-gallery figure {
-    display:inline-block;
-    max-width: 49.5%;
     padding: 0 .1em;
     vertical-align: top;
+    flex: 1 1 33%;
+    margin-bottom: 1.5em;
 }
 
 .post-full-content .figure-gallery img {
-    max-width: 100%;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    margin: 1em auto;
 }
 
 /* suprascriere proprietate din screen.css care afecteaza paginile de tip 'page' (ex: Despre) */
