@@ -17,6 +17,14 @@
     .post-full-content img {
         margin: 0 auto;
     }
+
+    .post-full-content .figure-gallery {
+        width: 100%;
+    }
+
+    .post-full-content .figure-gallery figure {
+        flex: 1 1 49%;
+    }
 }
 
 @media (max-width: 800px) {
@@ -44,6 +52,10 @@
         font-size: 1em;
         line-height: 1.4em;
         font-style: italic;
+    }
+
+    .post-full-content .figure-gallery figure {
+        flex: 1 1 100%;
     }
 
     /* cardurile read next-previous din articol */

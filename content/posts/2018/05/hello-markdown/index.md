@@ -78,4 +78,19 @@ An image (automatically centered when it is appropriate):
 
 ![Happy Elmo](https://slides.yihui.name/gif/happy-elmo.gif)
 
+
+Imagine cu caption:
+
+{{< figure  src="gallery/1.jpg" caption="Caption imagine aici dedesubt" >}}
+
+Galerie de imagini cu caption (merg oricâte, dar ar trebui să ne limităm la 2):
+
+{{< figure-multi
+    "gallery/1.jpg|Lorem ipsum caption1 dolor sit amet, consectetur adipiscing elit"
+    "gallery/2.jpg|Lorem ipsum caption2|altdescription2"
+    "gallery/3.jpg|Caption 3|altdescription3"
+    "gallery/4.jpg|Caption4"
+    "gallery/5.jpg||altdescription5"
+>}}
+
 Looks good?
