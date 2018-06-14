@@ -1,0 +1,61 @@
+<div class="caseta-tehnica">
+  <div class="caseta-tehnica-title">OSÂNDA</div>
+  <div class="rating-container">
+
+    {{ if or .nota .verdict .plusuri .minusuri }}
+    <div class="caseta-tehnica-section nota-plus-minus">
+
+      <div class="rating">
+        {{ with .nota }}
+        <p class="nota">{{ . }}</p>
+        {{ end }}
+
+        {{with .verdict}}
+        <p class="verdict">{{ . }}</p>
+        {{end}}
+      </div>
+
+      {{with .plusuri}}
+      <div class="pluses">
+        <p class="label">Cele bune</p>
+        <ul>
+          {{ range .}}
+          <li>{{.}}</li>
+          {{end}}
+        </ul>
+      </div>
+      {{end}}
+
+      {{with .minusuri}}
+      <div class="minuses">
+        <p class="label">Cele rele</p>
+        <ul>
+          {{ range .}}
+          <li>{{.}}</li>
+          {{end}}
+        </ul>
+      </div>
+      {{end}}
+    </div>
+    {{ end }}
+
+    {{with .concluzie}}
+    <div class="caseta-tehnica-section conclusion">
+      <p class="label">Pe scurt</p>
+      <p>{{.}}</p>
+    </div>
+    {{end}}
+
+    {{ with .alternativa }}
+    <div class="caseta-tehnica-section alternative">
+      <p class="label">Alternativă</p>
+      {{ if .link }}
+      <p><a href = " {{ .link }}"><span class="joc-recomandat">{{ .nume }}</span></a>: {{ .descriere }}</p>
+      {{ else }}
+      <p><span class="joc-recomandat">{{ .nume }}</span>: {{ .descriere }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </div>
+</div>

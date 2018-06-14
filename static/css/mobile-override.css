@@ -58,6 +58,15 @@
         flex: 1 1 100%;
     }
 
+    .nota-plus-minus {
+        flex-direction: column;
+    }
+
+    .nota-plus-minus div {
+        flex: 1 1 100%;
+        padding: 1em;
+    }
+
     /* cardurile read next-previous din articol */
     .read-next-feed .post-card, .read-next-feed .blog-post {
         max-width: 100%;

@@ -130,8 +130,12 @@
 }
 
 /* imagini articol - figure cu caption */
+.post-full-content figure {
+    margin-bottom: 1.5em;
+}
+
 .post-full-content figure figcaption {
-    font-weight: 300;
+    font-weight: 400;
     font-family: 'Merriweather Sans', sans-serif;
     font-style: italic;
     color: #3eb0ef;
@@ -139,6 +143,7 @@
     padding: 0 5em;
     font-size: 1.5rem;
     line-height:1.3em;
+    letter-spacing: 0.04em;
 }
 
 /* imagini articol - multi-figure cu caption */
@@ -402,3 +407,109 @@
 .read-next-feed .blog-post {
     max-width: 47%;
 }
+
+
+/* --- caseta tehnica rating/nota --- */
+
+.caseta-tehnica {
+    width: 100%;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 0.9em;
+    margin: 2em 0;
+}
+
+.caseta-tehnica-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: #fff;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.nota-plus-minus {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.caseta-tehnica-section {
+    padding: 1em 0;
+    border-bottom: 1px solid rgba(0,0,0,0.7);
+}
+
+.nota-plus-minus div {
+    padding: 0 1em;
+}
+
+.nota-plus-minus .rating {
+    text-align: center;
+    flex: 1 1 20%;
+
+    /* setari pentru nota si verdict */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nota-plus-minus .minuses,
+.nota-plus-minus .pluses {
+    flex: 1 1 40%;
+}
+
+.caseta-tehnica-section .alternative,
+.caseta-tehnica-section .conclusion {
+    width: 100%;
+}
+
+.caseta-tehnica-section .joc-recomandat {
+    font-weight: bold;
+}
+
+.nota-plus-minus ul {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nota-plus-minus .nota {
+    font-weight: bold;
+    font-size: 4em;
+}
+
+.nota-plus-minus .verdict {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.rating-container ul {
+    list-style: none;
+    line-height: 20%;
+}
+
+.rating-container li {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    margin-left: 0.1em;
+}
+
+.rating-container p {
+    margin-bottom: 0.3em;
+}
+
+.caseta-tehnica-section .label {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pluses li:before,
+.minuses li:before {
+    margin-right: 0.7em;
+    font-weight: 900;
+    background-color: rgba(0,0,0,0.65);
+    color: white;
+    border-radius: 3px;
+    padding: 0 3px;
+}
+
+.pluses li:before { content: "+"; }
+.minuses li:before { content: "–"; }

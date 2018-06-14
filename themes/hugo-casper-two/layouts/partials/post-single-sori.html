@@ -47,6 +47,11 @@
     <section class="post-full-content {{ $noImageCssClass }}">
         <div class="kg-card-markdown {{ $blogPostCssClass }}">
         {{ .Content }}
+
+            {{ with .Params.casetaTehnica }}
+                {{ partial "caseta-tehnica" . }}
+            {{ end }}
+
         </div>
 
         {{/* ----- Galeria de la sfârşit (imaginile din /gallery ) ----- */}}
@@ -81,6 +86,21 @@
                             (<span>{{ dateFormat "2-01-2006" . | safeHTML }}</span>)
                         {{ end }}
                     </p>
+                {{end}}
+
+                {{with .Params.download }}
+                {{ if eq (len .) 1 }}
+                    {{ range . }}
+                        <p><span class="post-full-article-extra-categ">Download</span>: <a href = "{{ .link }}">{{ .text }}</a> - {{ .desc }}</p>
+                    {{end}}
+                {{ else }}
+                    <p><span class="post-full-article-extra-categ">Download</span>:</p>
+                    <ul>
+                        {{ range . }}
+                        <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>
+                        {{ end }}
+                    </ul>
+                {{end}}
                 {{end}}
 
                 {{with .Params.linkuriExterne}}
