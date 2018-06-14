@@ -47,6 +47,11 @@
     <section class="post-full-content {{ $noImageCssClass }}">
         <div class="kg-card-markdown {{ $blogPostCssClass }}">
         {{ .Content }}
+
+            {{ with .Params.casetaTehnica }}
+                {{ partial "caseta-tehnica" . }}
+            {{ end }}
+
         </div>
 
         {{/* ----- Galeria de la sfârşit (imaginile din /gallery ) ----- */}}

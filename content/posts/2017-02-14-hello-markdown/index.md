@@ -2,6 +2,7 @@
 title: A Plain Markdown Post
 subtitle: A post subtitle
 type: post
+draft: true
 author: car-lvl
 date: '2017-02-14'
 categories:
@@ -27,7 +28,26 @@ linkuriExterne:
     text: Hugo Translator
     link: https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/
     desc: Un mic ajutor pentru a înţelege mai bine cum se foloseşte Go în template-urile Hugo, având şi comparaţii cu PHP sau JavaScript.
-linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=28&p=77237  
+casetaTehnica:
+  nota: 6.8
+  verdict: "Nașpa."
+  concluzie: "Nu recomand. Deloc. Decît dacă aflați despre un val de comentarii pozitive online la adresa acestui titlu, apărut după eventuala rezolvare a numeroaselor probleme care îl grevează. Și dacă producătorii și distribuitorii se pocăiesc. Public. Cu umilință."
+  alternativa:
+    nume: "Seria Total War"
+    descriere: "La noi în țară, titlurile din seria Total War anterioare Rome II se vînd la prețuri foarte mici. Este vorba de jocuri care merită toată atenția noastră de pasionați, realizate mult mai bine decît Rome II. Ele sînt alternativa. Și își fac toți banii, cu vîrf și îndesat."
+    imagine: gallery/1.jp
+    link: https://store.steampowered.com/app/4760/Rome_Total_War__Collection/
+
+  plusuri:
+    - "împărțirea administrativ-teritorială"
+    - "armatele"
+
+  minusuri:
+    - "buguri numeroase, AI slab"
+    - "sistem de agenți dezechilibrat"
+    - "strategie stufoasă, neimersivă și nerealistă"
+    - "consum mare de resurse"
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=28&p=77237
 resources :
   - src: "images/car-cover.png"
     name: "cover-image"
