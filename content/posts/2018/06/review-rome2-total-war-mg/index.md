@@ -122,14 +122,14 @@ Aparent, asta e nasol. În realitate, nu este deloc așa de rău. În primul rî
 
 {{< figure-multi
     "gallery/Rome2TW_12.jpg|Suita generalului – imensă, plină de redundanțe – este inutilă dacă nu poți folosi decît un singur sfătuitor/însoțitor."
-    "gallery/Rome2TW_13.jpg|Cerul, atît de frumos, contrastează sever cu soldații care arată surprinzător de prost." >}}
+    "gallery/Rome2TW_14.jpg|Cerul, atît de frumos, contrastează sever cu soldații care arată surprinzător de prost." >}}
 
 În al doilea rînd, sistemul cel nou de organizare a armatelor, ce exclude existența unităților care se deplasează fără un general, este contrabalansat de importanța mult crescută a unităților de garnizoană ce se află „by default” în fiecare oraș. Acum, cu adevărat, contează ce unități sînt rezidente într-o localitate, ce dotări și ce pregătire au acestea, cu atît mai mult cu cît numai capitala provinciei are ziduri de protecție, în rest... canci. Dacă ești prins descoperit de un inamic, cu o armată aflată departe de o regiune a cărei localitate este asediată, depinzi exclusiv de garnizoană.
 
 Sincer, acest sistem mi se pare realist, chiar surprinzător de realist, spun eu după ce am jucat vreme mai îndelungată și am fost pus în diferite situații strategice. Așa era pe vremea aceea, așa au reușit să facă și în joc. În plus, un factor la care începi să fii mult mai atent este tipul de unitate de garnizoană care devine rezidentă în oraș la construcția unei anumite clădiri – cînd distanțele dintr-o provincie sînt foarte mari, e bine să ții cont de asta. Per total, însă, afirm cu tărie că noua organizare militară introdusă în seria Total War de Rome II este exact ceea ce era necesar, atît sub aspectul realismului, dar și al diversității și dificultății situațiilor care apar la nivel strategic.
 
 {{< figure-multi
-    "gallery/Rome2TW_14.jpg|Poate că texturile nu sînt stelare, dar apa e formidabilă."
+    "gallery/Rome2TW_13.jpg|Poate că texturile nu sînt stelare, dar apa e formidabilă."
     "gallery/Rome2TW_15.jpg|Ce caută elefanții ăia cu colții înfipți în zid? Nu pot să înțeleg." >}}
 
 ### -10
@@ -140,7 +140,7 @@ Aproape că aș zice că e normal, în fond, dar cînd cazarmele duse la nivel m
 
 {{< figure-multi
     "gallery/Rome2TW_16.jpg|Din păcate, Cartagina din campanie (vezi foto) nu seamănă deloc cu cea din trailer, care este cea folosită numai în secțiunea Historical Battles a jocului."
-    "gallery/Rome2TW_17.jpg|Din nou vă întreb: mi se pare doar mie sau Shogun 2 arată mai bine?" >}}
+    "gallery/Rome2TW_21.jpg|Din nou vă întreb: mi se pare doar mie sau Shogun 2 arată mai bine?" >}}
 
 Ceva nu merge. Este limpede că e nevoie de o anumită echilibrare a factorilor ce influențează întreaga evoluție a Republicii/Imperiului, dar opinia mea este că nu punînd arbitrar un „-10” tuturor înfăptuirilor tale se creează o aproximare realistă a unor fenomene economice, sociale și politice, de natura celor care au determinat mărirea și decăderea Imperiului Roman. Da, este într-adevăr necesar să aduci la lumină factorii care fac dintr-un imperiu, din orice imperiu (inclusiv actual – fie că este în finanțe, politică, media sau industrie), un veritabil joc piramidal, în care trebuie să furi de la alții ca să creezi realitatea creșterii și prosperității prezente, precum și iluzia lor viitoare, adică speranța motrice a oricărei societăți omenești de tip occidental/greco-roman. Dar Rome II nu reușește acest lucru. Senzația pe care mi-a lăsat-o acest sistem absurd de penalizare mecanică a upgrade-urilor este aceea a unei încropeli, din care lipsesc atît semnele unei gîndiri profunde, cît și ale subtilității cu care Creative Assembly ne-au răsfățat, tot mai mult, de la Empire încoace.
 
@@ -150,7 +150,7 @@ Bineînțeles, și în Rome II avem, pe lîngă armate, și alte tipuri de „un
 
 Aici este de discutat ceva. Există trei caracteristici principale ale fiecărui om semnificativ din Rome II: autoritatea, zelul și șiretenia. Fiecare dintre acestea are un rol în diversele acțiuni desfășurate pe harta strategică, și intră în balanță atunci cînd se calculează rezultatul acestora. Bun, am mai văzut asta și în titluri anterioare din seria Total War. Atîta doar că aici sistemul pare supraîncărcat, prea stufos, fiind și insuficient documentat. Personalitățile/agenții tăi evoluează în timp, dar arborele lor de „upgrade-uri” nu este suficient de clar, de bine vizualizat: se folosesc un fel de cărți frumos desenate care reprezintă un upgrade sau altul, ce se așează pe o tablă a aptitudinilor personajului. Asta este o idee extrem de proastă, prin comparație cu excelentul sistem de vizualizare din al doilea Shogun și din Fall of the Samurai, care era explicit, limpede, ușor de înțeles, oferind posibilitatea de a-ți plănui foarte lesne evoluția persoanei respective și de a pricepe cum se leagă și intercondiționează aptitudinile sale. Din nefericire, același sistem neintuitiv cu „carduri” este folosit și la generali și legiuni pentru vizualizarea aptitudinilor/tradițiilor, cu același efect al unei incomplete vizualizări, a unei deranjante lipse de perspectivă.
 
-{{< figure  src="gallery/Rome2TW_18.jpg" caption="Detaliu de arhitectură din Cartagina, așa cum apare aceasta în campanie. Ce caută aici elemente decorative din palatul lui Darius din Susa? Vezi frizele cu arcași și așa-numiții Nemuritori din armata persană, dar și simbolurile religioase." >}}
+{{< figure  src="gallery/Rome2TW_17.jpg" caption="Detaliu de arhitectură din Cartagina, așa cum apare aceasta în campanie. Ce caută aici elemente decorative din palatul lui Darius din Susa? Vezi frizele cu arcași și așa-numiții Nemuritori din armata persană, dar și simbolurile religioase." >}}
 
 Rămînînd în secțiunea de aptitudini a generalilor, în ea regăsim și pe membrii suitei acestuia. De data aceasta, cu efecte active sînt numai doi membri ai suitei generalului: soția sa și un sfătuitor/însoțitor. Caracterul soției are efecte asupra generalului, iar, dacă acestea sînt negative, poți decide asasinarea sărmanei femei. În ce privește pe sfătuitor/însoțitor, marea prostie este că acesta poate fi ales dintr-o mulțime întreagă care se acumulează treptat într-un fel de rezervor de însoțitori primiți automat în timp de generalii succedați la comanda repectivei legiuni, căreia îi este conducător generalul „curent”. Ori, acest rezervor de potențiali însoțitori devine imens, cu foarte multe redundanțe – adică o mulțime dintre însoțitorii disponibili au efecte similare asupra aptitudinilor generalului. Nu reușesc să-mi dau seama la ce e bun acest sistem de modelare a suitei generalului, de se acumulează atîția însoțitori/sfătuitori, mulți inutili, și de ce, dintre toți, doar unul singur poate fi activ per general...
 
@@ -159,8 +159,8 @@ Anyway, revenind la vizualizarea cu carduri a aptitudinilor, ajung să mă gînd
 Felul în care sînt reprezentate unitățile în Total War-urile anterioare nu mi-a pus niciodată o astfel de problemă. În Rome II, însă, trebuie să recunosc că sînt oarecum pus în dificultate, sub acest aspect.
 
 {{< figure-multi
-    "gallery/Rome2TW_19.jpg|Trecînd peste penibilul texturilor și necesitatea folosirii unui nivel de antialiasing care m-ar aduce la FPS negativ, peisajul este frumos."
-    "gallery/Rome2TW_20.jpg|BTW, acestea sînt setările mele grafice din Rome II." >}}
+    "gallery/Rome2TW_18.jpg|Trecînd peste penibilul texturilor și necesitatea folosirii unui nivel de antialiasing care m-ar aduce la FPS negativ, peisajul este frumos."
+    "gallery/Rome2TW_19.jpg|BTW, acestea sînt setările mele grafice din Rome II." >}}
 
 ### Doi într-un Imperiu
 
@@ -170,7 +170,7 @@ Vedeți voi, în funcție de cîte provincii controlezi (și poate și de alți 
 
 Dar Republica/Imperiul meu se întinde deja de la Alpi pîna în Libia. Puteți să vă reprezentați suprafața sa și distanțele a căror acoperire de către agenți este necesară pentru a o controla? Puteți să vă închipuiți felul în care Imperiul Roman a putut exista, în afară de puterea militară? Vă spun eu: avînd cel mai grozav aparat informativ și de propagandă din lume, pentru cel puțin cîteva sute de ani înainte. No, apăi, după ce v-ați gîndit la toate astea, bine ați venit în Rome II. Unde ai la ditai spațiul cucerit numai doi oameni de stat, doi veterani și doi spioni. WTF!?...
 
-{{< figure  src="gallery/Rome2TW_21.jpg" caption="Urît mai este făcută vegetația din harta strategică." >}}
+{{< figure  src="gallery/Rome2TW_20.jpg" caption="Urît mai este făcută vegetația din harta strategică." >}}
 
 Numărul, în sine, nu spune mare lucru. Dar, cînd ești în război cu toți cei din jurul tău, și fiecare rahățel de trib are cel puțin cîte un agent din fiecare categorie pe care îl trimite peste orașele și armatele tale, ajungi să opui doi agenți romani celor 10 – 12 ai inamicilor. Rezultatul? Ești sabotat continuu, fără oprire. În Imperiul tău agenții străini fac și desfac, după bunul lor plac, și tu nu ai suficienți oameni calificați pentru a te opune lor. Da, teoretic mai sînt anumite clădiri care te pot ajuta, dar știți ce? La penalitățile pe care upgrade-ul clădirilor le incumbă, nu prea mai poți să fii eficient cu ajutorul acestora.
 
@@ -205,8 +205,8 @@ Că tot sîntem la oamenii de pe harta strategică, ar fi bine să intrăm și �
 Documentația și explicațiile date în tutoriale de producători sînt foarte neclare în ce privește acest sistem, dar eu voi scrie aici despre cum cred eu că funcționează. Gravitas-ul poate fi cheltuit pe diverse acțiuni, cum ar fi asasinarea unui alt om de stat sau general, asasinarea soției lui, înscenarea unui divorț, lansarea de zvonuri denigratoare sau avansarea în funcții publice. Toate aceste acțiuni pot fi accesate într-o fereastră anume dedicată politicii de facțiune.
 
 {{< figure-multi
-    "gallery/Rome2TW_26.jpg|O debarcare impetuoasă."
-    "gallery/Rome2TW_27.jpg|O debarcare prea apropiată." >}}
+    "gallery/Rome2TW_27.jpg|O debarcare impetuoasă."
+    "gallery/Rome2TW_28.jpg|O debarcare prea apropiată." >}}
 
 Ideea este că, dacă familia ta ajunge să aibă un gravitas prea mare și, în consecință, un număr prea mare de senatori de partea ei, celelalte familii vor declanșa războiul civil. La fel, dacă ajungi să ai sprijin prea scăzut în Senat, vei fi exilat ca dușman al poporului roman și vei fi obligat să declanșezi războiul civil. Oricum, se pare că se ajunge întotdeauna la război civil, indiferent ce faci – spun oamenii pe net. Eu nu știu dacă așa stau lucrurile, pentru că, deși am jucat multicel Rome II, nu am ajuns într-o asemenea situație.
 
@@ -214,7 +214,7 @@ Iar asta, poate, pe undeva, pentru că am reușit, fără să vreau, să mă afl
 
 E cel puțin ciudat, zău așa... a fost scos arborele genealogic, nu mai există familia ce poate fi văzută firesc, precum în Total War-urile anterioare, au dispărut evenimentele nașterilor, fiind înlocuite cu o fereastră de politică ce este, pînă la urmă, un minijoc prea puțin clar, prea puțin transparent. Un minijoc cu cifrele dintr-un tabel, lipsit de orice naturalețe, de organicitate, mai ales prin faptul că este foarte prost spre deloc legat de restul secțiunii de strategie a jocului. Vreau să spun, ai clădiri care influențează major ordinea publică, dar care ordine publică nu are nimic de a face cu familiile care conduc Republica/Imperiul, deși acestea au puterea de a declanșa un ditamai războiul civil... Este foarte, foarte ciudată această separare a factorilor de putere în statul roman, e ca și cum plebea chiar conta fără a fi condusă de o mînă iscusită de politician/militar. Ha-ha-ha!!! Atunci, ca și acum, populația era doar o masă de manevră și nimic altceva: orice mișcare fără de sprijin din partea unei facțiuni politice se sfîrșea inexorabil cu mii de pomi de Paște ornînd „autostrăzile” romane.
 
-{{< figure  src="gallery/Rome2TW_28.jpg" caption="La cules de gali." >}}
+{{< figure  src="gallery/Rome2TW_26.jpg" caption="La cules de gali." >}}
 
 De aceea, zic eu, izolarea politicii într-un tabel de cifre fără nici o legătură cu restul elementelor de strategie ale jocului, este nerealistă. Din păcate, nu numai nerealistă, ci și extrem de neinteresantă, de plictisitoare, de neinspirată. Dacă vreau să mă uit la niște cifre mă joc ceva de genul Europa Universalis, Hearts of Iron sau Sengoku – ceea ce nu am făcut cu plăcere și nici nu cred că voi face vreodată, nu este absolut deloc genul meu de joc. Dar seria Total War era cu totul și cu totul altceva pînă acum, cu Shogun-urile recente ca strălucite exemple ale integrării naturale, dinamice, variate, realiste, imersive, a tuturor elementelor de gameplay, inclusiv istorice. Însă despre asta, mai încolo, în concluzii.
 
@@ -251,8 +251,8 @@ Ai zice că, tot după cum o dictează bunul simț, Creative Assembly și-a înv
 În primul rînd, asediile. Dacă AI-ul asediază un oraș fortificat, își folosește foarte prost spre deloc mașinile de asediu. În general, atitudinea oponentului artificial este pur și simplu pasivă, în astfel de situații, lăsîndu-ți posibilitatea să-l măcelărești la discreția trupelor înzestrate cu proiectile.
 
 {{< figure-multi
-    "gallery/Rome2TW_33.jpg|Dețin 20 de regiuni, din care 5 provincii complete – și tot numai maximum 2 agenți am voie să recrutez!..."
-    "gallery/Rome2TW_34.jpg|Din nou, una din penibilele dileme care încearcă să dea senzația unei dinamici politice în joc." >}}
+    "gallery/Rome2TW_34.jpg|Dețin 20 de regiuni, din care 5 provincii complete – și tot numai maximum 2 agenți am voie să recrutez!..."
+    "gallery/Rome2TW_35.jpg|Din nou, una din penibilele dileme care încearcă să dea senzația unei dinamici politice în joc." >}}
 
 În al doilea rînd, flexibilitatea. Aceasta a fost o problemă constantă a seriei Total War, ce nu pare să fi fost rezolvată nici acum. AI-ul nu reacționează normal, măcar vag inteligent, la schimbările rapide de situație tactică. De aceea, este foarte ușor să îl păcălești, să îi micșorezi forța de impact a frontului său compact, rupîndu-l prin simpla plimbare a unor trupe nesemnificative de cavalerie ușoară prin spatele său, căruia nu i-ar fi cauzat nimic, în nici un fel – cu atît mai mult cu cît trupele de skirmish-eri se află, de obicei, în fața liniei de atac.
 
@@ -261,22 +261,21 @@ Ai zice că, tot după cum o dictează bunul simț, Creative Assembly și-a înv
 Mă rog, AI-ul poate fi, totuși, periculos. În opinia mea, sînt configurații de teren și tipuri de lupte în care felul în care este programat AI-ul poate da rezultatele cele mai bune, oferindu-ți o provocare cu adevărat interesantă – dar asta numai pe niveluri superioare de dificultate, de la „hard” în sus (setabile separat, atît pentru secțiunea tactică, cît și pentru cea strategică, a jocului). Pot spune că am avut parte de cîteva lupte foarte, foarte faine, la care a trebuit să-mi pun capul la contribuție și să fiu foarte agil în folosirea caracteristicilor specifice fiecărei unități în parte, pentru a învinge. E drept, eram în inferioriate numerică și generalul inamic era de rang mult mai mare decît al meu, dar, na, se pune la plus o experiență de luptă reușită, nu la minus, dacă este să fim corecți.
 
 {{< figure-multi
-    "gallery/Rome2TW_35.jpg|Iar localitatea atacată de campionul barbar este aceasta. Uriașă, fortificată, și cu o legiune completă înăuntrul zidurilor. Ceea ce nu l-a oprit pe campionul inamic să-mi facă praf 5
-(cinci) clădiri majore – inclusiv sediul central al municipalității - într-o singură tură!..."
-    "gallery/Rome2TW_36.jpg|„An enemy champion has brutally attacked and devastated your settlement.”" >}}
+    "gallery/Rome2TW_36.jpg|„An enemy champion has brutally attacked and devastated your settlement.”"
+    "gallery/Rome2TW_37.jpg|Iar localitatea atacată de campionul barbar este aceasta. Uriașă, fortificată, și cu o legiune completă înăuntrul zidurilor. Ceea ce nu l-a oprit pe campionul inamic să-mi facă praf 5 (cinci) clădiri majore – inclusiv sediul central al municipalității - într-o singură tură!..." >}}
 
 ### Putere multă
 
 Sînt multe de spus la partea de tactică a jocului, dar spațiul mă strînge. Totuși, trebuie să pomenesc artileria – balistele, catapultele, scorpionii & alike. Acestea sînt, în opinia mea, excesiv de puternice și mai ales eficiente. Adică, nu doar că forța lor distructivă este incredibil de mare, dar prin precizie și cadență de tragere depășesc capacitățile de luptă ale unor piese de artilerie mult mai moderne. Ceva nu este deloc în regulă cu artileria din Rome II, care, printr-un patch, ar trebui să sufere reduceri drastice ale caracteristicilor, nu atît pentru echilibrarea artificială a diverselor unități combatante, cît pentru a respecta adevărul istoric.
 De altfel, vă spun sincer, nu am construit nici măcar una bucată de piesă de artilerie, deoarece mi-ar fi făcut praștie (sic!) experiența de joc. Adică, după ce că, pe nivelul hard la bătălii, sînt zeul lor Marte, să mă mai și gonflez iremediabil folosind o artilerie cu care l-aș detrona relaxat chiar și pe Zeus? După ce am văzut ce monstruos de puternic este AI-ul cu artileria lui – pe care am anihilat-o rapid cu o unitate de cavalerie ușoară – mi-am jurat în barbă că nu voi construi așa ceva. Pentru că, spre deosebire de AI, eu chiar știu să-mi apăr piesele de artilerie, cu care aș fi făcut prăpăd.
 
-{{< figure  src="gallery/Rome2TW_37.jpg" caption="Unitățile nu arată deloc atît de bine cum apar în trailerul corespunzător prezentat de producători. Dar chiar deloc – și sînt pe detalii maxime." >}}
+{{< figure  src="gallery/Rome2TW_39.jpg" caption="Unitățile nu arată deloc atît de bine cum apar în trailerul corespunzător prezentat de producători. Dar chiar deloc – și sînt pe detalii maxime." >}}
 
 Tot la capitolul „overpower” aș mai pomeni alergarea. Oameni buni, cred că se aleargă un pic prea repede și prea mult prin joc. Vreau să spun, am văzut infanterie AI – sulițași – alergînd după o unitate de cavalerie de-a mea pe tot cuprinsul cîmpului de bătălie, fără nici o greață, implacabil, dovedind posesia unei condiții fizice pe care nici un dopat din sportul modern nu ar putea-o egala. Pur și simplu, sînt momente în care te întrebi dacă, în loc să disloci tu frontul  inamic cu o unitate de cavalerie ușoară, nu cumva te dislocă inamicul zburdînd cu unitățile sale de infanterie de parcă ar fi pe un cocktail de amfetamine + testosteron + coniac + cola + îmbogățirea cu oxigen a sîngelui prin autotransfuzie + eritropoetină + un consilier de succes în domeniu precum Lance Armstrong.
 
 Este, ca urmare a acestui fapt, accelerată desfășurarea bătăliilor? Da și nu. Este adevărat că unele lupte se termină mult prea repede, dar, pe de altă parte, am avut parte și de confruntări care au durat și 20 de minute, deci... Să zicem că nu durata bătăliilor deranjează cel mai tare la Rome II.
 
-{{< figure  src="gallery/Rome2TW_38.jpg" caption="Măcar de un tablou cu Răpirea din Cartagina tot face." >}}
+{{< figure  src="gallery/Rome2TW_41.jpg" caption="Măcar de un tablou cu Răpirea din Cartagina tot face." >}}
 
 ### Indecizia
 
@@ -285,8 +284,8 @@ Cel mai tare deranjează la Rome II indecizia producătorilor săi. Hai să expl
 Problema este că, deși ca principiu ideea este seducătoare, ea are prea puțin de a face cu realitatea unui joc de tactică în timp real. Adică, în loc să bagi resurse de dezvoltare în direcția cinematicului, nu era mai bine să le investești într-un AI mai bun, inclusiv sub aspectul comportamentului automat al propriilor unități (și vorbesc aici de menținerea/refacerea formațiunilor de luptă pe parcursul confruntărilor)? Cum ar veni, cu ce îmi este de folos o perspectivă cinematică și o detaliere a comportamentului și faciesului individual al soldatului, cînd tot restul bătăliei se desfășoară nerealist, ciudat, dezarticulat, fără sens? La ce mă ajută pe mine faptul că s-a investit în „filmificarea” a la Hollywood a jocului, cînd, de cele mai multe ori, confruntările între unități ajung să se transforme în sesiunile clasice de „mosh pit” care au bîntuit seria Total War de la inițierea ei? Mă refer aici la îngrămădelile incredibile și imposibile de oameni pe milimetrul pătrat, cu pierderea oricărei formații de luptă...
 
 {{< figure-multi
-    "gallery/Rome2TW_39.jpg|Clasic, o imposibilă îngrămădeală de piese de „artilerie”"
-    "gallery/Rome2TW_40.jpg|Se poate opta pentru comanda unei armate duble ca dimensiuni față de cea normală, atunci cînd există întăririle necesare la începutul bătăliei." >}}
+    "gallery/Rome2TW_40.jpg|Clasic, o imposibilă îngrămădeală de piese de „artilerie”"
+    "gallery/Rome2TW_42.jpg|Se poate opta pentru comanda unei armate duble ca dimensiuni față de cea normală, atunci cînd există întăririle necesare la începutul bătăliei." >}}
 
 Nu era normal să te ocupi întîi de aceste chestiuni care sînt fundamentale pentru realismul „pe bune” (sic!) al unei confruntări tactice, decît să te rupi în figuri pentru a cosmetiza un joc vădit grevat de probleme exact în punctele esențiale pentru experiența specifică oferită de un titlu de tactică? Da, pot să privesc cinematic o bătălie care se desfășoară oricum, numai realist nu, cu un AI semicretin. Dar la ce bun?
 
@@ -294,7 +293,7 @@ Dacă secțiunea tactică și AI-ul aferent ei erau bine realizate, nici nu ai m
 
 Cu siguranță dezvoltatorii de jocuri sînt conduși de colective tembele de manageri care nu au nimic de a face cu jocurile. Se vede clar la Rome II cum ideea de evoluție a seriei nu a fost una normală din punctul de vedere al unui creator de jocuri experimentat, precum Creative Assembly, ci una firească în viziunea unui incompetent mînuitor de cifre și grafice economice. S-a marșat absurd pe elemente de arcade vizual într-un joc de tactică și strategie, și resurse importante, zic eu, s-au deșertat inutil în această direcție.
 
-{{< figure  src="gallery/Rome2TW_41.jpg" caption="Aici nu este o pintenare, ci o problemă de calcul al coliziunii." >}}
+{{< figure  src="gallery/Rome2TW_43.jpg" caption="Aici nu este o pintenare, ci o problemă de calcul al coliziunii." >}}
 
 Aici aș include și grafica din secțiunea tactică a jocului. Este vizibil faptul că s-a încercat îmbunătățirea acesteia, dar, cred eu, în exces. Și aici resurse de dezvoltare majore au fost deturnate în direcția zaharicalelor pentru ochi, cu rezultate îndoielnice. Pe nivelul Ultra al setărilor grafice, jocul nu arată deloc hotărîtor mai bine decît al doilea Shogun, în schimb consumă resurse nejustificat de mult, dînd probleme mari de lag al comenzii unităților și de sacadare masivă în anumite momente, indiferent de puterea sistemului pe care rulează.
 
