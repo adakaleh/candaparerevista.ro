@@ -66,11 +66,11 @@ Ceea ce am constat eu este faptul că industria jocurilor, reproduce, în mic, m
 
 Veți spune că exagerez. Ba bine că nu, văd cum același mecanism de funcționare a prostimii se reproduce, analog, în industria jocurilor, precum în toate celelalte domenii de existență și activitate umană. Este un simptom care trădează aceeași boală, omniprezentă în spațiul și timpul civilizației noastre. Fuck it.
 
-{{< figure  src="gallery/Rome2TW_03.jpg" caption="Furtună. Lumina fulgerelor dezvăluie indecizia celor care se îngrămădesc în jurul unui copac, împingînd niște scări de asalt către meterezele inamice." >}}
-
 O să fac o nefăcută și o să vă spun de la începutul articolului că Total War: Rome II nu merită. Nici la o treime din prețul nesimțit cerut acum pe el nu merită. Nu merită, o dată, pentru că Sega, distribuitorul, și Creative Assembly, dezvoltatorul, ne-au mințit cu nerușinare, cerîndu-ne bani pentru un produs care seamănă prea puțin cu ceea ce apărea prin trailere și prezentările de PR. În al doilea rînd, nu merită pentru că jocul este încă plin-plin de buguri. În al treilea rînd nu merită banii noștri pentru că, la un moment dat, cineva trebuie să tragă o linie, să zică hotărît „pînă aici!” și să nu mai plătească bani munciți, dîndu-i pe mizerii la care nu s-a muncit nici cît, nici cum trebuie.
 
 Fat chance...
+
+{{< figure  src="gallery/Rome2TW_03.jpg" caption="Furtună. Lumina fulgerelor dezvăluie indecizia celor care se îngrămădesc în jurul unui copac, împingînd niște scări de asalt către meterezele inamice." >}}
 
 ### Care documentație?
 
@@ -88,11 +88,11 @@ Vă spun sincer, sînt aspecte ale jocului care m-au lăsat în ceață, motiv p
 
 Dar măgăria nu se oprește aici. Fiți atenți: în Rome II a fost introdusă un fel de Civilopedia – ceea ce e bine – ce conține și niște așa numite tutoriale sub formă de filmulețe, ca un fel de mic YouTube încapsulat în joc. Trec peste faptul că filmulețele se încarcă enervant de încet, deși se află pe propriul HDD, nu pe Internet. Dar nu pot să trec peste faptul că aceste filmulețe sînt, în marea lor majoritate, inutile. Adică, într-un interval de timp mult prea scurt (30 – 40 de secunde, în medie), ni se prezintă concepte și elemente din joc, la același mod superficial, precum în manual, cu prea puține și semnificative detalii suplimentare.
 
+De fapt, întreaga „Civilopedie” din Rome II se mișcă încet, interfața ei pare a rula pe un calculator vechi de 15 ani, nu pe unul actual. Apoi, deși intră în detaliile cifrelor brute ale unităților și clădirilor/îmbunătățirilor, nu intră în detalii importante ale funcționării anumitor părți din joc, ale felului în care se leagă unele dintre acestea. Eficiența redusă și rezultatul îndoielnic al unui efort vizibil al dezvoltatorului Rome II – adică această Totalwarpedie - nu fac decît să îmi adîncească frustrarea în fața noului Total War.
+
 {{< figure-multi
     "gallery/Rome2TW_06.jpg|Unul dintre sutele de buguri: a dispărut secțiunea a doua din arborele tehnologic."
     "gallery/Rome2TW_07.jpg|Mi se pare doar mie sau iarba din Shogun 2 arată mai bine?" >}}
-
-De fapt, întreaga „Civilopedie” din Rome II se mișcă încet, interfața ei pare a rula pe un calculator vechi de 15 ani, nu pe unul actual. Apoi, deși intră în detaliile cifrelor brute ale unităților și clădirilor/îmbunătățirilor, nu intră în detalii importante ale funcționării anumitor părți din joc, ale felului în care se leagă unele dintre acestea. Eficiența redusă și rezultatul îndoielnic al unui efort vizibil al dezvoltatorului Rome II – adică această Totalwarpedie - nu fac decît să îmi adîncească frustrarea în fața noului Total War.
 
 ### Provincialism regional
 
@@ -102,11 +102,11 @@ Aș începe cu lucruri care mi-au plăcut la noul Rome, așa, că să apuc să p
 
 Interesant este faptul că efectele clădirilor/îmbunătățirilor construite într-o regiune a unei provincii afectează întreaga provincie. Spre exemplu, un templu va avea darul de a crește starea de mulțumire a populației – concretizată printr-un adaos pozitiv la valoarea parametrului ordine publică pentru toată provincia. Ori, dacă ai un atelier care îmbunătățește armurile, acesta nu trebuie neapărat să fie în orașul în care este o cazarmă, ci va determina o creștere a calității materialului militar pentru orice unitate recrutată în aceeași provincie. Mai mult decît atît, generalul care recrutează se poate afla oriunde în provincie, și unitatea recrutată va intra în componența armatei sale în turul următor, indiferent unde se află aceasta pe întinsul provinciei care a produs-o. Mă rog, acest mecanism poate fi abuzat în provinciile de foarte mari dimensiuni, precum cele din Nordul Africii. Acolo aveam cazarma în Cartagina și generalul care recruta unitatea se afla la mii de kilometri distanță, la est de Macomades... nu tocmai normală situația ca într-un singur tur să obții o astfel de deplasare, fără uzură a unității, pe uscat, în zonă deșertică, cu drumuri îndoielnice.
 
+Dar, per total, acest sistem de organizare mi-a plăcut foarte mult. Practic, ești liber să construiești ce și cum vrei – am senzația că ești, totuși, limitat la o singură fermă în regiunile mai puțin fertile, în timp ce în cele fertile poți înființa două. De aici vine o plăcută mobilitate în organizarea Republicii/Imperiului, animată de o dinamică administrativă de care Total War-urile anterioare nu au avut parte.
+
 {{< figure-multi
     "gallery/Rome2TW_09.jpg|Pe mare, problemele sînt foarte mari la formațiunile de nave, care se îngrămădesc și chiar întrepătrund deseori."
     "gallery/Rome2TW_11.jpg|La poalele Alpilor." >}}
-
-Dar, per total, acest sistem de organizare mi-a plăcut foarte mult. Practic, ești liber să construiești ce și cum vrei – am senzația că ești, totuși, limitat la o singură fermă în regiunile mai puțin fertile, în timp ce în cele fertile poți înființa două. De aici vine o plăcută mobilitate în organizarea Republicii/Imperiului, animată de o dinamică administrativă de care Total War-urile anterioare nu au avut parte.
 
 ### Un general, o legiune
 
@@ -138,11 +138,11 @@ Există, însă, o problemă la aceste clădiri din orașe. După ce le upgradez
 
 Aproape că aș zice că e normal, în fond, dar cînd cazarmele duse la nivel maxim aduc și ele -10 la ordine publică, sau cînd un port care oferă acces la esențiala mîncare de peste mări și ajută la înmulțirea locurilor de muncă și mărirea cîștigurilor populației, aduce, upgrade-at la maximum, tot -10 la ordinea publică, lucrurile încep să scîrție agresiv.
 
+Ceva nu merge. Este limpede că e nevoie de o anumită echilibrare a factorilor ce influențează întreaga evoluție a Republicii/Imperiului, dar opinia mea este că nu punînd arbitrar un „-10” tuturor înfăptuirilor tale se creează o aproximare realistă a unor fenomene economice, sociale și politice, de natura celor care au determinat mărirea și decăderea Imperiului Roman. Da, este într-adevăr necesar să aduci la lumină factorii care fac dintr-un imperiu, din orice imperiu (inclusiv actual – fie că este în finanțe, politică, media sau industrie), un veritabil joc piramidal, în care trebuie să furi de la alții ca să creezi realitatea creșterii și prosperității prezente, precum și iluzia lor viitoare, adică speranța motrice a oricărei societăți omenești de tip occidental/greco-roman. Dar Rome II nu reușește acest lucru. Senzația pe care mi-a lăsat-o acest sistem absurd de penalizare mecanică a upgrade-urilor este aceea a unei încropeli, din care lipsesc atît semnele unei gîndiri profunde, cît și ale subtilității cu care Creative Assembly ne-au răsfățat, tot mai mult, de la Empire încoace.
+
 {{< figure-multi
     "gallery/Rome2TW_16.jpg|Din păcate, Cartagina din campanie (vezi foto) nu seamănă deloc cu cea din trailer, care este cea folosită numai în secțiunea Historical Battles a jocului."
     "gallery/Rome2TW_21.jpg|Din nou vă întreb: mi se pare doar mie sau Shogun 2 arată mai bine?" >}}
-
-Ceva nu merge. Este limpede că e nevoie de o anumită echilibrare a factorilor ce influențează întreaga evoluție a Republicii/Imperiului, dar opinia mea este că nu punînd arbitrar un „-10” tuturor înfăptuirilor tale se creează o aproximare realistă a unor fenomene economice, sociale și politice, de natura celor care au determinat mărirea și decăderea Imperiului Roman. Da, este într-adevăr necesar să aduci la lumină factorii care fac dintr-un imperiu, din orice imperiu (inclusiv actual – fie că este în finanțe, politică, media sau industrie), un veritabil joc piramidal, în care trebuie să furi de la alții ca să creezi realitatea creșterii și prosperității prezente, precum și iluzia lor viitoare, adică speranța motrice a oricărei societăți omenești de tip occidental/greco-roman. Dar Rome II nu reușește acest lucru. Senzația pe care mi-a lăsat-o acest sistem absurd de penalizare mecanică a upgrade-urilor este aceea a unei încropeli, din care lipsesc atît semnele unei gîndiri profunde, cît și ale subtilității cu care Creative Assembly ne-au răsfățat, tot mai mult, de la Empire încoace.
 
 ### Vizualizare
 
