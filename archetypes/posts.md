@@ -51,10 +51,19 @@ sursa:
    text: 
    data:
 
+# (optional) diverse resurse pentru download, relevante pentru articol
+# trebuie sa fie o structura de tipul
+# `download:`
+# `  resursa-1:` # acest nume nu e relevant, nu e folosit
+# `    text: textul ce va apărea ca link pentru download`
+# `    link: download/resursa.pdf`  # link relativ catre resursa
+# `    desc: O scurtă descriere a resursei ce poate fi descărcată`
+download:
+
 # (optional) diverse linkuri suplimentare, relevante pentru articol
 # trebuie sa fie o structura de tipul
 # `linkuriExterne:`
-# `  website-1:`
+# `  website-1:`  # acest nume nu e relevant, nu e folosit
 # `    text: textul ce va apărea ca link`
 # `    link: https://url.ul/sitului`
 # `    desc: O scurtă descriere a site-ului`

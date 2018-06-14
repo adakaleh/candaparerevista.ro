@@ -130,8 +130,12 @@
 }
 
 /* imagini articol - figure cu caption */
+.post-full-content figure {
+    margin-bottom: 1.5em;
+}
+
 .post-full-content figure figcaption {
-    font-weight: 300;
+    font-weight: 400;
     font-family: 'Merriweather Sans', sans-serif;
     font-style: italic;
     color: #3eb0ef;
@@ -139,6 +143,7 @@
     padding: 0 5em;
     font-size: 1.5rem;
     line-height:1.3em;
+    letter-spacing: 0.04em;
 }
 
 /* imagini articol - multi-figure cu caption */

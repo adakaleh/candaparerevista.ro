@@ -88,6 +88,21 @@
                     </p>
                 {{end}}
 
+                {{with .Params.download }}
+                {{ if eq (len .) 1 }}
+                    {{ range . }}
+                        <p><span class="post-full-article-extra-categ">Download</span>: <a href = "{{ .link }}">{{ .text }}</a> - {{ .desc }}</p>
+                    {{end}}
+                {{ else }}
+                    <p><span class="post-full-article-extra-categ">Download</span>:</p>
+                    <ul>
+                        {{ range . }}
+                        <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>
+                        {{ end }}
+                    </ul>
+                {{end}}
+                {{end}}
+
                 {{with .Params.linkuriExterne}}
                     <p><span class="post-full-article-extra-categ">Linkuri externe</span>:</p>
                         <ul>
