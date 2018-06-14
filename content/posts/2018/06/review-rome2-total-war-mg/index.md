@@ -1,24 +1,29 @@
 ---
-title: "Rome II: Total War"
+title: "Total War: Rome II"
 type: post
-date: 2018-06-11T18:00:00+02:00
-authors: MG
+date: 2018-06-15
+authors: marius_ghinea
 categories:
     - Review
     - Featured
 tags:
-    - "Rome II: Total War"
+    - "Total War: Rome II"
     - Total War
     - Strategie
     - Creative Assembly
 
-
 sursa:
    link:
-   text:
+   text: Articolul ar fi trebuit să apară în numărul Level din decembrie 2013.
    data:
 
-linkForum:
+download:
+  versiune-pdf:
+    text: PDF version
+    link: download/review_Rome_II.pdf
+    desc: articolul aşa cum ar fi trebuit să apară în revistă.
+
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1843
 
 resources:
   - src:
