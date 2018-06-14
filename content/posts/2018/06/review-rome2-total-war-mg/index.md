@@ -24,7 +24,7 @@ resources:
   - src:
     name: "card-cover-image"
 
-  - src:
+  - src: "images/Rome-2-cover.jpg"
     name: "cover-image"
 
 casetaTehnica:
