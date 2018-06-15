@@ -5,9 +5,8 @@ date: 2018-06-09
 draft: true
 authors: ciolan
 categories:
-    - Mugetare
+    - Lunea începe sâmbăta
 tags:
-    - bixtonim
 
 sursa:
    link:
