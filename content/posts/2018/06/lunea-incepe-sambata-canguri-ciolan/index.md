@@ -1,14 +1,11 @@
 ---
 title: Australia, pământ românesc
 type: post
-date: 2018-06-09
-draft: true
+date: 2018-06-15
 authors: ciolan
 categories:
-    - Mugetare
+    - Lunea începe sâmbăta
 tags:
-    - canguri
-    - daci
 
 sursa:
    link:
