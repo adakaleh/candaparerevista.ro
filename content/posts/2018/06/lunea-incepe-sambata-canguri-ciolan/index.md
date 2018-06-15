@@ -1,18 +1,13 @@
 ---
 title: Australia, pământ românesc
 type: post
-date: 2018-06-15
+date: 2018-06-16
 authors: ciolan
 categories:
     - Lunea începe sâmbăta
 tags:
 
-sursa:
-   link:
-   text:
-   data:
-
-linkForum:
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1844
 
 resources:
   - src: images/cangur-cover.jpg

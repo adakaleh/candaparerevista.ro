@@ -1,5 +1,6 @@
 ---
 title: "Total War: Rome II"
+subtitle: Vax Romana
 type: post
 date: 2018-06-15
 authors: marius_ghinea
@@ -52,9 +53,6 @@ casetaTehnica:
     - "strategie stufoasă, neimersivă și nerealistă"
     - "consum mare de resurse"
 ---
-
-### Vax Romana.
-
 Cred că ați observat, deja, cu toții (cei interesați de jocurile de strategie), că articolul dedicat celui mai recent titlu din seria Total War, anume Rome II, a întîrziat să apară. Da, au trecut mai mult de trei luni de la apariția noului Rome, și eu încă nu am scris nimic despre dînsul. De ce? Pentru că jocul a fost la data apariției o porcărie plină de buguri, o mizerie de beta vîndută în draci la precomandă tuturor pasionaților care au pus botul la o mare și impardonabilă minciună. Pe scurt, dacă ar fi fost să scriu o recenzie la Total War: Rome II la data lansării sale, l-aș fi distrus. L-aș fi făcut praf.
 
 Întrebarea logică și de mare bun simț vine imediat din partea voastră: „bine omule, dar, dacă tu nu scrii adevărul la momentul potrivit, noi de unde să știm dacă merită să cumpărăm, sau dacă ne aruncăm banii aiurea?”. Draci, nu am alt răspuns decît acela că trebuie să vă informați de pe net. Noi nu sîntem singura sursă de informație disponibilă, există atîtea altele, poate mai bune, mai rapide, mai interactive decît noi, trebuie să o recunosc cinstit. Se vede în cazul de față, în care, spre disperarea lui KiMO, am tooot amînat articolul de Rome II, săptămînă după săptămînă, doar-doar patch-ul următor va face acest titlu mai jucabil, mai fără probleme, mai așa cum trebuia să fie din prima zi. Să nu credeți că bunul nostru redactor șef nu a insistat – și avea mare dreptate să îmi ceară articolul cît mai repede cu putință...
