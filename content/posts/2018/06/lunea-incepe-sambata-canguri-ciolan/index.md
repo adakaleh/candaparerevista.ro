@@ -15,7 +15,7 @@ sursa:
 linkForum:
 
 resources:
-  - src:
+  - src: images/cangur-cover.jpg
     name: "card-cover-image"
 
   - src:
@@ -31,3 +31,5 @@ Cangurul cu Cușmă a dispărut brusc din Dacia în jurul anului 60 î.e.n., la 
 Evenimentul, consemnat într-o scrisoare trimisă de agricultorul celt șefului de trib și interceptată de o patrulă dacă, a declanșat o reacție în lanț. Burebista s-a folosit de relele tratamente aplicate cangurului cu cușmă pentru a lansa o campanie de exterminare împotriva celților din Transilvania și, mai tîrziu, pentru a întemeia primul stat dac în amintirea lui Grigore. În paralel, și crucial pentru teoria colonizării Australiei de către daci, avertismentul emis de Grigore înainde de a-și da obștescul sfîrșit a determinat o migrație în masă a cangurilor cu cușmă (foarte buni înotători, de altfel) spre continentul cunoscut astăzi drept Australia. Cangurii au fost însoțiți de două triburi de aborigeți, al căror mijloc de existență era comerțul cu mirodeniile folosite de cangurul cu cușmă pentru a asezona carnea de oaie folosită la hrănirea puiului în primele două luni de viață. Izvoarele istorice nu consemnează (sau au fost cenzurate de scoțieni) ce s-a întîmplat, dar istoricii români presupun că dacii au înființat două colonii pe teritoriul  Perth-ului de astăzi, unde au încercat să-și continue activitatea. Din nefericire, lipsa oii din Australia de atunci a determinat o schimbare drastică a comportamentului și fiziologiei cangurului cu cușmă. După ce masculii au încercat fără succes să-și confecționeze cușme din pene de emu sau din puf de kiwi, accesoriul a dispărut. Buzunarul de pe abdomen, folosit de masculii dominați pentru a-și ascunde ghearele, a evoluat în marsupiul cunoscut astăzi, iar cangurul cu cușmă a degenerat în banalul marsupial de astăzi.
 
 Descoperirea din Hălchiu, împreună cu un plan îndrăzneț de clonare și de reintroducere a cangurului cu cușmă în ecosistemele României și al Australiei a fost comunicată guvernului australian. Deși avantajele sunt evidente (înfrățirea celor două popoare cu aceleași origini, reducerea populației de oi și reapariția unor obiceiuri străvechi, o adevărată comoară pentru etnologii australieni), propunerea a fost refuzată pe motiv că reintroducerea cangurului cu cușmă în fauna australă ar putea reînvia anumite obiceiuri care ar duce la apariția unui curent naționalist deloc benefic pentru stabilitatea Australiei. ■
+
+{{< figure  src="images/australia.jpg" attr="(sursă foto: Malburian)" attrlink="https://malburian.deviantart.com/art/Australia-pamant-romanesc-2-149179202" >}}
