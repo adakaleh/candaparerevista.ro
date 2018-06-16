@@ -12,6 +12,7 @@ tags:
     - Bioshock
     - FPS
     - Irrational Games
+draft: true
 
 sursa:
    link:
@@ -56,6 +57,8 @@ De altfel, fiind ca profesie critic de jocuri video, primesc, de cele mai multe 
 
 Nu iubesc DLC-urile. Mă enervează cînd producătorii vînd cu amănuntul elemente de joc ce ar fi trebuit să se afle în conținutul original. Foarte rar, însă, tot atunci cînd jocul îmi place foarte mult, cumpăr DLC-uri pentru că vreau să dau bani producătorului – vezi seria Total War și Civilization V. De data asta, DLC-ul în cauză nu este o bucată ruptă din Bioshock Infinite de către un Shylock al industriei de profil, ci un foarte cinstit episod separat, ce urmează acțiunii din titlul de bază. De altfel, fiind proiectat ca început al unei serii de astfel de producții „DLC-istice”, titlul său complet este Bioshock Infinite: Burial at Sea – Episode 1. Iar, dat fiind că acesta a ajuns în biblioteca mea de pe Steam fără nici o contribuție bănească din partea mea, întrebarea care se pune este: voi simți nevoia imperioasă de a face Burial at Sea cadou prietenilor mei?
 
+![](gallery/00_Burial_at_Sea_prima.jpg)
+
 ### Un început este un sfîrșit
 
 Acum, vedeți voi, ceea ce am spus mai adineauri despre Burial at Sea, anume că „urmează acțiunii din” Bioshock Infinite, s-ar putea să nu fie întrutotul exact. Treaba stă cam așa: dat fiind că povestea din Infinite are drept consecințe directe anumite jonglerii cu paradoxurile spațio-temporale interdimensionale, nu prea se mai poate vorbi de o liniaritate previzibilă a intrigii, pentru că relația cauză-efect tocmai efectuează o vizită de lucru cu satelitul, pe orbita lui Marte, undeva, între Phobos și Deimos.
@@ -67,6 +70,10 @@ Cu ocazia parcurgerii acestui Burial at Sea mi-am dat seama că producătorii se
 Se pare că în Rapture au început să dispară copii. Unul dintre aceștia, evident, o fetiță, pe nume Sally, este cea în căutarea căreia se învoiesc să pornească eroii, aceiași din Infinite: DeWitt și Elizabeth. Drumul lor subacvatic va presupune inițial contactul cu un artist decadent-psihotic, după care va trece în principal prin imensele și luxoasele spații comerciale ale orașului de sub mare, unele dintre ele aflate în ruină și folosite ca închisoare pentru susținătorii dușmanilor lui Andrew Ryan, creatorul și stăpînitorul Rapture-ului.
 
 Din fericire, ceea ce sună un pic cam prea simplu spus aici, așa, în rezumat și fără de spoilere, este nu doar mai nuanțat în joc, dar și mai interesant prin felul în care Ken Levine și oamenii lui reușesc să facă exact lucrul de care vă spuneam cu cîteva paragrafe mai devreme – anume să profite cu succes de posibilitățile deschise de Infinite și să obțină efectul maxim din acestea. Bineînțeles, pentru ca opera să fie completă este nevoie ca aceasta să fie încoronată de un sfîrșit pe măsură. În opinia mea, tocmai finalul acestui prim episod al DLC-ului Burial at Sea este cel care nu doar că îi asigură legitimitatea, dar îi și dezlănțuie potențialul epic, într-un univers eliberat de limitele convențiilor dimensionale.
+
+{{< figure-multi
+    "gallery/01_Burial_at_Sea.jpg|"
+    "gallery/04_Burial_at_Sea.jpg|" >}}
 
 ### Oamenii, înainte de oameni
 
@@ -80,6 +87,10 @@ Repet, aceștia sînt foarte bine realizați în Burial at Sea – Ep.1, sub mul
 
 Da, tabloul vizual și auditiv al acestor sărmani este unul din componentele de forță ale primului episod din Burial at Sea. Cumva, nu doar absența marilor antagoniști, dar mai ales a micilor surori, face ca rezervele de simțire, de compasiune, ale jucătorului, să își schimbe obiectivul obișnuit, exercitîndu-și acum funcția omenească la vederea ruinelor umane ale societății din Rapture – creatorii acestui DLC au reușit să le facă să semene atît de mult cu noi...
 
+{{< figure-multi
+    "gallery/06_Burial_at_Sea.jpg|"
+    "gallery/03_Burial_at_Sea.jpg|" >}}
+
 ### Fețe-fețe
 
 Sub aspect vizual, însă, oponenții afectați de excesul de plasmide beneficiază de un avantaj neașteptat în raport cu celelalte personaje, cele cu care nu te lupți, adică cetățenii obișnuiți ai Rapture-lui. Aceștia din urmă au o animație facială foarte proastă, concretizată prin imobilitate a feței și lipsă dramatică de expresivitate. Sincer, cu excepția mai mult decît notabilă a Elisabetei, în toată seria Bioshock m-a deranjat inabilitatea producătorilor de a crea personaje expresive vizual, în afara celor aflate în categoria victimelor abuzului de plasmide – acestea au fețele atît de contorsionate, sau acoperite cu măști, încît nu au nevoie de nici o animație facială suplimentară, pentru că oferă un tablou extrem de grăitor prin ele însele.
@@ -89,6 +100,10 @@ Din nefericire, nici în Burial at Sea – Ep.1 lucrurile nu stau mai bine sub a
 În rest, însă, grafica este pur și simplu superbă în Burial at Sea – Ep.1. Revenirea în Rapture înseamnă întoarcerea la acel bestial art deco „with a twist”, de data asta parcă și mai interesant, mai rafinat, dar și mai bun, atît sub aspectul detaliului, al rezoluției texturilor și liniilor trasate de graficieni, cît și al conceptului general vizual al acestui DLC, pe care îl simt ca o evoluție în serie. Pînă și puținele plante decorative din Burial at Sea – Ep.1 arată semnificativ mai bine decît în Infinite...
 
 Am apreciat în mod special mica secțiune dedicată întîlnirii dintre eroii noștri și un artist din Rapture, atins de aripa geniului, dar și a nebuniei – cum altfel, cu atît mai mult în utopicul oraș subacvatic? Acolo am avut parte de surprize interesante, atît sub aspect grafic, cît și ca atmosferă și intrigă. Păcat că prezentul episod nu este tocmai întins ca spațiu și timp, deoarece ar fi fost benefică pentru experiența jucătorului o elaborare, o amplificare, o exploatare și explorare a teritoriului infam și tulburător al creativității artistului de care vorbeam. Cine știe, nu mi se pare deloc imposibil ca prezența acestuia să fie recurentă în episoadele următoare ale seriei de DLC-uri Burial at Sea.
+
+{{< figure-multi
+    "gallery/02_Burial_at_Sea.jpg|"
+    "gallery/13_Burial_at_Sea.jpg|" >}}
 
 ### 1999
 
@@ -100,6 +115,10 @@ De care, eu unul, m-am bucurat nespus. Incredibil, a trebuit să fiu atent cum �
 
 Singurele reproșuri majore pe care le-aș fi adus seriei Bioshock pînă acum, sub aspectul dificultății luptelor, ar fi fost excesul de resurse și previzibilitatea luptelor (provenită în mare măsură din repetitivitatea acestora). De data aceasta, pe nivelul de dificultate „1999”, resursele sînt suficient de puține pentru a transforma jocul aproape într-un survival sadea. Sau sadic. O mică portiță de scăpare, totuși, ne-a fost lăsată în Burial at Sea – Ep.1: nu mai ești limitat la un maxim de 2 arme pe care le poți avea asupra ta, acum poți deține simultan toate tipurile de arme pe care le-ai găsit în joc. Avantajul este acela că  poți schimba repede pe o altă armă, atunci cînd ți se termină muniția din cea curentă. Practic, acum ai acces la întreaga cantitate de muniție pe care o porți asupra ta – iar fără această facilitate jocul ar fi devenit foarte greu, chiar și dacă te-ai fi bazat pe plasmide/vigors, pentru că „mana” s-ar fi epuizat foarte repede.
 
+{{< figure-multi
+    "gallery/19_Burial_at_Sea.jpg|"
+    "gallery/22_Burial_at_Sea.jpg|" >}}
+
 Am apreciat designul de nivel, din perspectiva luptelor. Multe din spații sînt mai largi, oferind variante diverse pentru rezolvarea confruntărilor, cu numeroase elemente de decor ce pot fi folosite drept capcane, precum butoaiele explozive, scurgerile inflamabile, bălțile de apă. Există și puncte în care poți face uz de cîrligul apărut în Bioshock Infinite pentru deplasarea pe liniile de „tramvai” aerian. Iar santinelele automate sînt de găsit în multe locuri, ceea ce, adăugat la numărul mare de oponenți de care ai parte pe „1999”, face foarte rentabilă și spectaculoasă folosirea vigorului de posedare a inamicului.
 
 În general, am fost plăcut surprins de calitatea designului de nivel. O singură nemulțumire am: consider că nu au fost folosite suficient de creativ, că nu au fost exploatate la adevăratul lor potențial puterile speciale ale Elisabetei, în special acelea de augmentare/modificare a „cîmpului de bătălie”. Sub acest aspect, Burial at Sea – Ep.1 a fost o dezamăgire pentru mine.
@@ -107,6 +126,10 @@ Am apreciat designul de nivel, din perspectiva luptelor. Multe din spații sînt
 O mențiune aparte am de făcut în ce privește oponenții. Am fost uimit să văd că există rudimentele unei tactici colective, AI-ul pare mai bun ca grup, știe să se folosească de avantajele „terenului” și să te învăluie pe flancuri, să te ocolească și să-ți cadă în spate. În plus, oponenții bazați pe lupta corp la corp se mișcă foarte rapid, dar și neașteptat, cu schimbări de ritm și direcție a deplasării care te surprind, solicitîndu-ți serios coordonarea și precizia în executarea focului, cu atît mai mult cu cît ești aproape obligat să tragi ochind prin cătarea armei, pentru a beneficia de bonusul de damage care este aplicat inamicilor pe care îi lovești.
 
 Iar la finalul acestui Burial at Sea – Ep.1 am avut parte de o surpriză pe care, din perspectiva atracției mele pentru shooterele anilor '90, eu o consider plăcută. În acele FPS-uri vechi se putea întîmpla să găsești locuri, amplasamente, în anumite niveluri – și în special în cele cu boși – care să-ți ofere un avantaj oarecum necinstit. Hmm, exact în confruntarea cu bosul final din Burial at Sea – Ep.1 am descoperit un astfel de loc, din care puteam trage fără să fiu atins de inamic. E drept, muniția mi s-a terminat repede, așa că a trebuit să am răbdare și să tot aștept ca Elizabeth să-mi mai arunce cîte o sticluță de „mana” sau cîte un încărcător de armă, dar, folosindu-mă de acest exploit nesimțit, am reușit să înving un bos destul de aspru. Da, poate că nu e frumos ceea ce am făcut, dar, pe de altă parte, am retrăit cu intensitate o anumită bucurie a descoperirii și utilizării unui astfel de exploit, cum nu am mai simțit de la 1999, toamna, încoace.
+
+{{< figure-multi
+    "gallery/21_Burial_at_Sea.jpg|"
+    "gallery/15_Burial_at_Sea.jpg|" >}}
 
 ### Angel radio...activ
 
@@ -121,3 +144,5 @@ Sîntem obișnuiți ca îngerul să fie asociat cu frumusețea, bunătatea, iubi
 Și, încă o dată, simt nevoia să fac o trimitere la gnostici (da, recunosc, în ultimul timp am ajuns un pic obsedat de paralelele tulburătoare ce se pot trasa între gnosticism și mythosul jocurilor – nu ne mai ajunge doar un simpăticuț Cărtărescu „pururi tînăr, înfășurat în pixeli”, tare bine ar fi picat și un Culianu care să călătorească prin lumile de dincolo de monitor). Elizabeth îmi aduce tot mai mult cu Sophia (cea din scrierea gnostică Pistis Sophia), iar Burial at Sea – Ep.1 nu face decît să sublinieze această asemănare a Elisabetei cu Sophia, întru aparentă contradicție a fețelor și manifestărilor, poate chiar pomenind-o pe cea a dualității fecioară - prostituată. Multe ar fi de discutat aici, spațiul nu o permite, importantă rămîne ideea complexității și consistenței extraordinarului personaj feminim central al noilor titluri Bioshock, care face tare bine și primului episod din DLC-ul Burial at Sea.
 
 Episod pe care îl recomand din toată inima. Evident, părerea mea este că trebuie să îl parcurgeți pe modul de dificultate „1999”, pentru a vă bucura plenar de ceea ce are acest DLC de oferit. Așa veți avea nevoie și de mai multă vreme pentru a-l încheia, deoarece, altfel, Burial at Sea nu este deloc lung – mie mi-au fost suficiente 5 ore de joc efectiv. Dar, pînă la urmă, lucrul cel mai important adus de acest DLC, dătător de speranțe în industria jocurilor AAA, este tocmai faptul că producătorii Bioshock ne-au arătat încă o dată că ne respectă pe noi, jucătorii, și că vor să facă efortul necesar pentru a ne oferi titluri nu doar superlative, ci de-a dreptul memorabile. ■
+
+![](gallery/00_Burial_at_Sea_ultima.jpg)
