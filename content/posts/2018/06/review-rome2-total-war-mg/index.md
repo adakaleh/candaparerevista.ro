@@ -318,4 +318,4 @@ Asta a pus capac. Deși am avut cîteva momente sublime de luptă în Rome II, a
 
 Agravant, marketingul a lucrat, însă, eficient, pentru a stoarce bani de la jucători, pe care i-a înșelat cu nerușinare prin media, folosindu-se cu succes de intrumentul precomenzii. Iar acum, tot la precomandă, este  disponibil Caesar in Gaul, un DLC semnificativ... Dar jocul de bază, în sine este, în continuare, ca vai de capul lui.
 
-Ce să mai zic? Mi-e silă.
+Ce să mai zic? Mi-e silă. ■
