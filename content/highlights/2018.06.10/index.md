@@ -12,7 +12,7 @@ tags:
     - cyberpunk
     - Everything
 
-description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața."
+description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
 
 resources:
   - src: images/Everything_KeyArt_PosterCard.jpg
@@ -21,7 +21,7 @@ resources:
   - src:
     name: "cover-image"
 ---
-> _Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. ^[Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită inclusă în retrospectiva săptămânii, te așteptăm cu recomandarea ta pe forum, pe unul din topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622), [Oferte jocuri](https://forum.candaparerevista.ro/viewtopic.php?f=62&t=25)] )
+> _Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. ^[Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită inclusă în retrospectiva săptămânii, te așteptăm cu recomandarea ta pe forum, pe unul din topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622), [Oferte jocuri](https://forum.candaparerevista.ro/viewtopic.php?f=62&t=25)] )
 
 
 ### Ştiri
@@ -93,7 +93,7 @@ A fost probabil cel mai popular joc de la E3 (cel mai vizionat trailer sigur a f
 * Microsoft [cumpără câteva studiouri de jocuri](https://www.rockpapershotgun.com/2018/06/11/microsoft-buy-forza-horizon-and-hellblade-studios/): Playground Games (Forza Horizon), Ninja Theory (Hellblade), Undead Labs (State of Decay), Compulsion Games (We Happy Few)
 * [Se stinge lumina](https://www.gamasutra.com/view/news/319866/LawBreakers_shutting_down_in_September_following_Boss_Key_closure.php) în septembrie pentru jocul LawBreakers. Pentru a îndulci pastila, jocul e gratis de acum până la capătul drumului (Gamasutra)
 * Creatorul lui Binding of Isaac, Edmund McMillen, [lucrează la un joc multiplayer](https://www.pcgamer.com/the-binding-of-isaac-creator-edmund-mcmillen-is-working-on-a-multiplayer-game/). Încă nu se cunosc prea multe detalii, dar aparent nu va avea legătură cu Binding of Isaac sau Super Meat Boy. (PC Gamer)
-* Pe 11 iunie a intrat în vigoare în SUA abrogarea reglementărilor federale privind neutralitatea internetului. Deşi marii furnizori de internet [anunţă că nu au de gând să profite](https://arstechnica.com/tech-policy/2018/06/comcast-att-verizon-say-they-have-no-paid-prioritization-plans/) de pe urma eliminiării restricţiilor, unele state au luat măsuri şi [au început să implementeze propriile legi](https://arstechnica.com/tech-policy/2018/06/first-state-net-neutrality-law-took-effect-today-countering-fcc-repeal/) pentru a reglementa serviciile de internet (Ars Technica)
+* Pe 11 iunie a intrat în vigoare în SUA abrogarea reglementărilor federale privind neutralitatea internetului. Deşi marii furnizori de internet [anunţă că nu au de gând să profite](https://arstechnica.com/tech-policy/2018/06/comcast-att-verizon-say-they-have-no-paid-prioritization-plans/) de pe urma eliminării restricţiilor, unele state au luat măsuri şi [au început să implementeze propriile legi](https://arstechnica.com/tech-policy/2018/06/first-state-net-neutrality-law-took-effect-today-countering-fcc-repeal/) pentru a reglementa serviciile de internet (Ars Technica)
 
 
 
@@ -153,7 +153,7 @@ De asemenea, **XCOM** cel nou (primul) e acum și pe gog.com, în formulă compl
 
 ![](images/Everything_KeyArt_Poster.jpg)
 
-După săptămâna recomandarea evidentă ar fi fost ceva în spiritul Cyberpunk 2077, dar în cazul ăsta lista făcută de gog.com (mai sus) e mai mult decât suficientă, având cyberpunk pentru toate gusturile (iar dacă asta nu e de ajuns, puteți căuta și text adventure-ul [CYPHER: Cyberpunk Text Adventure](https://www.cabrerabrothers.com/cypher.php), care a avut și un review mai mult decât pozitiv în Level în 2011).
+După săptămâna care a trecut, recomandarea evidentă ar fi fost ceva în spiritul Cyberpunk 2077, dar pentru asta lista făcută de gog.com (mai sus) e mai mult decât suficientă, având cyberpunk pentru toate gusturile (iar dacă asta nu e de ajuns, puteți căuta și text adventure-ul [CYPHER: Cyberpunk Text Adventure](https://www.cabrerabrothers.com/cypher.php), care a avut și un review mai mult decât pozitiv în Level în 2011).
 
 În schimb, recomandarea acestei săptămâni e ceva diferit, nu doar de genul cyberpunk, dar și de orice altceva ați mai jucat până acum.
 
