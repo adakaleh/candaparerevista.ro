@@ -81,7 +81,12 @@
 
                 {{with .Params.sursa}}
                     <p>
-                        <span class="post-full-article-extra-categ">Sursa</span>: <a href="{{ .link }}">{{ or .text "link"}}</a>
+                        <span class="post-full-article-extra-categ">Sursa</span>:
+                        {{ if .link }}
+                            <a href="{{ .link }}">{{ or .text "link"}}</a>
+                        {{ else }}
+                            {{ with .text }}{{ . }}{{ end }}
+                        {{ end }}
                         {{ with .data }}
                             (<span>{{ dateFormat "2-01-2006" . | safeHTML }}</span>)
                         {{ end }}
