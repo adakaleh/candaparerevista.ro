@@ -2,7 +2,7 @@
 title: "Bioshock Infinite: Burial at Sea – Episode 1"
 subtitle:
 type: post
-date: 2018-06-16
+date: 2018-06-22
 authors: marius_ghinea
 categories:
     - Review
@@ -12,14 +12,20 @@ tags:
     - Bioshock
     - FPS
     - Irrational Games
-draft: true
 
 sursa:
    link:
    text: Articolul ar fi trebuit să apară în numărul Level din decembrie 2013.
    data:
 
-linkForum:
+linkuriExterne:
+  Arhiva-Reviste-Vechi:
+    text: Bioshock Infinite (Arhiva Reviste Vechi)
+    link: http://arhivarevistevechi.mythweb.ro/arhiva/articole.php?editie-id=187&articol=7312
+    desc: Varianta scanată a review-ului Bioshock Infinite din revista Level nr. 185 (aprilie 2013)
+
+
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1850
 
 resources:
   - src:
@@ -49,7 +55,7 @@ casetaTehnica:
 
 ---
 
-### Un sfîrșit e un început.
+### Un sfîrșit e un început
 
 Dacă ați citit articolul meu despre Bioshock Infinite, atunci știți deja cît de mult am apreciat acest titlu – doar i-am acordat nota maximă, 10. Ce nu știți este altceva. Anume că jocul mi-a plăcut atît ce mult încît mi-am cumpărat imediat, la prima reducere, pachetul de pe Steam cu primele două Bioshock-uri. Deși cel dintîi nu m-a încîntat foarte tare, iar din al doilea m-a atras în special ultima sa treime, am simțit că Infinite este capodopera care, la modul retroactiv, legitimează, într-un fel, creațiile precedente ale aceluiași „autor”: Ken Levine. Da, știu, este o perspectivă oarecum ciudată, dar am vrut și să dau bani oamenilor care, în mijlocul acestei uluitoare invazii de titluri AAA proaste sub atît de multe aspecte, își respectă publicul plătitor și îi livrează un produs excepțional la toate capitolele, bine gîndit și bine finisat.
 
