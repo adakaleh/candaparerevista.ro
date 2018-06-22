@@ -1,22 +1,21 @@
 ---
-title: Bixtonim
+title: Mă numesc Vladimir
 type: post
-date: 2018-06-09
-draft: true
+date: 2018-06-23
 authors: ciolan
 categories:
     - Lunea începe sâmbăta
 tags:
 
 sursa:
-   link:
-   text:
-   data:
+   link: https://www.facebook.com/avesalom.pistilnicul/posts/1118896571555464
+   text: Postarea originală de pe FB
+   data: 2017-03-24
 
 linkForum:
 
 resources:
-  - src:
+  - src: images/bixtonim.png
     name: "card-cover-image"
 
   - src:
@@ -36,3 +35,5 @@ Am deschis din nou ochii, însă în locul imaginii familiare a peretelui cu un 
 De ce ți-e frică, nu scapi, mai ales într-un vis-univers aflat în plină expansiune. În timp ce căutam disperat un punct fix de care să proptesc Abisul ca o continuare firească a sărutului din ce în ce mai pasional, am realizat că singura constantă a Protouniversului din Plămîni este ușa Secretariatului.  În acel moment, imposibilul s-a produs.  La gîndul că voi face sex cu Abisul pe ușa Secretariatului chiar la ora deschiderii, nasul mi s-a înfundat subit. Panicat, am mușcat Abisul de buză, după care, încep să uit detaliile, cred că i-am ciobit și un incisiv. Surprins, Abisul a deschis larg ochii și m-a privit cu un amestec straniu de curiozitate și iritare. În acel moment de maximă intensitate, totul a explodat în jurul meu.
 
 Din centrul exploziei, explozie care putea fi la fel de bine Ochiul Abisului, poștașul chel și cei doi martori ai lui Iehova pe care-i respirasem fără voia mea în momentul Colapsului, priveau înspre mine încercînd să determine dacă sunt acasă sau nu. Mi-am dat seama că, pentru a doua oară în același vis, mă aflu la un moment de răscruce. Într-o milionime din timpul necesar nașterii unui gînd, Improbabilul a fost ridicat la grad de certitudine atunci cînd cei trei mesageri și-au îndeplinit simultan funcțiile și mi-au adus Vești. Astfel, pentru prima dată în Protouniversul Pulmonar, Ciolan Vladimir, o frunză de fag, Vestea cea Bună, Vestea Cea Proastă, Secretariatul Facultății de Electrotehnică, Nimicul și ce mai rămăsese din Abis după ce l-am mușcat de buză și a explodat, au ocupat același loc în timp și spațiu. Încovoiat de măreția momentului și de masele infinite concentrate în cel mai populat și plictisitor punct al plămînilor mei, m-am strănutat viguros într-un dormitor micuț cu pereți albi și calendar din 2017 cu oameni în halate albastre care împachetau fericiți motoare de elicoptere. ■
+
+{{< figure  src="images/bixtonim.png" attr="(sursă foto: Malburian)" attrlink="https://malburian.deviantart.com/" >}}
