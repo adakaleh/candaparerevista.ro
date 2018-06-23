@@ -12,7 +12,7 @@ sursa:
    text: Postarea originală de pe FB
    data: 2017-03-24
 
-linkForum:
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1844
 
 resources:
   - src: images/bixtonim.png
