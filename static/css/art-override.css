@@ -32,7 +32,6 @@
     text-align:center;
     font-size: 1.2rem;
     margin-bottom: 1em;
-    color: #3eb0ef;
 }
 
 .post-full-categories span {
@@ -71,6 +70,15 @@
 .post-full-meta-author {
     /*font-style: italic;*/
     text-transform: none;
+}
+
+.post-full-meta-author a {
+    color: #090a0b;
+    font-weight: 400;
+}
+
+.post-full-meta-author a:hover {
+    color: #3eb0ef;
 }
 
 .post-full-meta-author:before {
