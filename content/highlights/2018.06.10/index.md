@@ -1,5 +1,5 @@
 ---
-title: "Retrospectiva săptămânii 2018.06.10"
+title: "Retrospectiva săptămânii 10-16 iunie 2018"
 type: post
 date: 2018-06-17
 categories:
