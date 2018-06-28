@@ -1,7 +1,8 @@
 ---
 title: Vă rugăm să ne scuzați
 type: post
-date: 2018-06-28
+date: 2018-06-30
+draft: true
 authors: ciolan
 categories:
     - Lunea începe sâmbăta

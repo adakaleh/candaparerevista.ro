@@ -1,8 +1,7 @@
 ---
 title: Convoy
 type: post
-date: 2018-06-13
-draft: true
+date: 2018-06-29
 authors: nervozix
 categories:
     - Review
