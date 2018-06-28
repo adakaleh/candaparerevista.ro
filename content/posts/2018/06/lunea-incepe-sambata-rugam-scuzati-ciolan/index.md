@@ -1,22 +1,21 @@
 ---
 title: Vă rugăm să ne scuzați
 type: post
-date: 2018-06-09
-draft: true
+date: 2018-06-28
 authors: ciolan
 categories:
     - Lunea începe sâmbăta
 tags:
 
 sursa:
-   link:
-   text:
-   data:
+   link: https://www.facebook.com/avesalom.pistilnicul/posts/1248950615216725
+   text: Postarea originală de pe FB
+   data: 2017-08-18
 
 linkForum:
 
 resources:
-  - src:
+  - src: images/tren.png
     name: "card-cover-image"
 
   - src:
@@ -30,3 +29,5 @@ Nălucire diavolească sau vis profetic, nu mai contează, important e că am c�
 Ajuns la ghișeu, am scos din buzunar o bancnotă de 1000 de credite, nu cea obișnuită, ci ediția aniversară cu holograma lui Iliescu care-ți face șmecherește cu ochiul dacă o pui la lumină, și i-am înmînat-o vînzătoarei. Holograma cu părul alb din spatele gemulețului murdar s-a scuzat și mi-a spus că nu mai sunt locuri, dar pot să-mi iau bilet în picioare dacă vreau. După ce i-am confirmat că nu am neapărat nevoie de loc, a început să tasteze cu un singur deget datele mele personale din viitor, pentru a le introduce în sistemul informatic inaugurat în 2432. Zece minute mai tîrziu, cînd imprimanta matriceală cu comandă vocală reușise cu mare trudă să printeze biletul fără loc, mă deplasam zîmbind către linia trei, de unde urma să fiu teleportat la Codlea. Mi-am așteptat cumințel rîndul și, cînd clipa cea binecuvîntată a sosit, cu ajutorul controlorului am reușit să deschid ușa teleportorului. Un clarinetist din fanfară s-a speriat atît de tare de scîrțîitul ușii, încît a tras disperat aer în piept și a înghițit muștiucul clarinetului. Am profitat de secunda de liniște cînd colegii lui încercau să-i aplice care mai de care un Heimlich sănătos, am sărit în teleportor și am trîntit ușa după mine. Înăuntru mirosea ușor a urină și a fum de țigară, semn că cineva n-avusese răbdare o nanosecundă pînă la Ghimbav, unde era o pauză de teleportare pentru fumat, și a fumat înăuntru. Înjurîndu-l în gînd pe nesimțit, m-am uitat pe geamul crăpat și, ca prin ceață, am mai apucat să văd cum impiegatul robotic ridica paletuța verde și pe Claudiu cum îmi făcea cu mîna de pe terasă. În acel moment, totul s-a făcut negru în jurul meu și m-am trezit în 2017 cu o bere în mînă, lîngă Claudiu, care îmi povestea ceva de cele două nepoțele ale lui care îl iubesc ca pe ochii din cap și se bucură cînd îl văd.
 
 Între timp, în gara Codlea a anului 2435, vocea caldă a impiegatului robotic mîngîia plăcut urechile celor strînși pe peron să mă vadă teleportat și, eventual, să prindă un loc și ei spre Bartolomeu: “Avesalom Pistilnicul, din direcția Bartolomeu în direcția Codlea, va avea o întîrziere de aproximativ 70 de minute. Vă rugăm feriți linia, mergeți acasă, strîngeți-vă lucrurile și îndepărtați-vă cît mai mult de Codlea, căci s-ar putea recompune greșit la sosire, iar localitatea va fi iradiată pe o rază de 30 de kilometri. Vă rugăm să ne scuzați.” ■
+
+{{< figure  src="images/tren-full.jpg" attr="(sursă foto: Karaska)" attrlink="http://karrraska.tumblr.com/post/167497727377/around-the-earth" >}}
