@@ -1,0 +1,40 @@
+---
+title: Caiet cu expresii frumoase
+type: post
+draft: true
+date: 2018-07-07
+authors: ciolan
+categories:
+    - Lunea începe sâmbăta
+tags:
+
+sursa:
+   link: https://www.facebook.com/avesalom.pistilnicul/posts/1122288691216252
+   text: Postarea originală de pe FB
+   data: 2017-03-28
+
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1844
+
+resources:
+  - src:
+    name: "card-cover-image"
+
+  - src:
+    name: "cover-image"
+---
+
+Prin clasa a treia sau a patra, e o amintire pe care-am încercat să o suprim până acum câteva zile, m-au bântuit expresiile frumoase.
+
+Aveam un caiet plin, din care îndrăcitele evadau în fiecare noapte și-mi făceau viața un adevărat iad. Ca niște stafii, dănțuiau sălbatic în jurul biroului, își zornăiau virgulele lângă pat, aruncau cu puncte de suspensie prin casă și, câteodată, le vedeam spânzurate de lustră cu un semn de întrebare al cărui punct sinistru, cu ochii larg holbați, scotea o limbă vânătă și umflată la mine și-mi șoptea cu o voce gâjâită, de strigoi tebecist, ceva despre copaci de zahăr, candelabre cerești, lințoliu alb peste dracu să vă ia și alte potlogării sinistre pe care speram să nu le mai aud în viața mea. Ptiu, Drace! Parcă vroiau să-mi facă în ciudă că n-am inventat nicio expresie frumoasă în cei nouă ani de viață. Serios, mama îmi scria compunerile. Tot mama mi-a scris și expresiile frumoase. Articolele mi le-am scris singur. Mai puțin cel cu School Tycoon, scris de prietenul meu imaginar ușor retardat. S-a tratat între timp și o să-l mai întâlniți pe aici.
+
+Nici acum, la 32 de ani, nu sunt în stare să trimit un mesaj de sărbători serios, cu expresii frumoase, fără să mă stric de râs lângă telefon. Îl scriu, totuși, întrebându-mă printre lacrimi câți lucși de lumină pascală să-i trimit unui văr de-al treilea cu astigmatism, sau de câtă pace crăciunească ar avea nevoie nevasta unui unchi mai îndepărtat cu palma grea. Apoi îl șterg, cu zâmbetul pe buze, și le trimit tuturor un sincer și sănătos mass cu “Doamne-ajută”. The Midnight Mass, got it? Fiindcă nu mă știu credincios, probabil își fac cruce și mă blastămă. Totuși, își fac cruce. Dar nu asta contează. Important e cum am fost văduvit de simțul frumosului (și de cravata de pionier, a cărei dispariție mi-a șters orice urmă de responsabilitate din conștiință) chiar înainte să mă îndrăgostesc pentru prima dată, moment în care am reușit să-mi exprim înălțătorul sentiment în doar două cuvinte, cinci dacă puneți la socoteală și semnul de punctuație “ce p**a mea”.
+
+Într-o vacanță, am primit ordin de la tovarășa să compilăm un caiet cu expresii frumoase. Caietul cu expresii frumoase urma să se numească (sic) Caiet cu Expresii Frumoase. Era musai să fie dictando, corect liniat și îndopat sănătos cu … expresii frumoase. Ca un gâscan înainte de tăiere. Expresii frumoase, înregimentate cu forța, luate cu arcanul din diverse scrieri celebre unde se simțeau ele acasă, listate frumos una sub alta, aranjate pe categorii. Și scrise cu o caligrafie impecabilă, altfel riscai să-ți apară pe prima pagină a caietului “Scris urât”. Ca pe extemporalele care indicau toate că voi ajunge cel puțin doctor, dacă nu chiar farmacist. Îmi vine să mor că nu aveam mintea de pe acum, să le fi scris eu pe toate cu picioarele, doar să mă cocoșez de râs peste ani când îmi descopeream “Caietul cu Expresii Frumoase Scrise Urât”. Arghezi pe față.
+
+Așadar, în caz că n-aveai o mamă binevoitoare căreia să-i placă expresiile frumoase, le așterneai de unul singur ca un posedat pe fiecare pagină. Până îți sângerau degetele de la scris și ochii de la atâta frumusețe în stare pură. Mi-era și frică să îl deschid pe cel alcătuit de săraca mama, să nu cumva să orbesc, sau, mai rău, să damblagesc, cum se povestea prin Biblie că s-ar întâmpla dacă ți s-ar arăta Dumnezeu în fața ochilor, fără să ai ochelari de protecție.
+
+Expresiile erau îmborcănate ca murăturile în cel caiet, încârnățate într-un maț de celuloză liniată și puse la păstrare pentru vremuri și compuneri de restriște. În general, compunerile cele mai importante, care despărțeau școlarii de școlărei, erau despre vacanță. Ale naibii vacanțe, acopereau toate cele patru anotimpuri, altfel aș fi scutit-o pe mama de-o treabă și aș fi rugat-o să bage doar de toamnă și iarnă. Chiar, v-ați văzut vreodată bunicii, părinții sau ceva rude pe la țară cum făceau cârnați din porcul pe care cu două zile în urmă îl scărpinați după urechi și îi invidiați traiul în lux și trândăvie? Exact așa îndesa sărmana mamă expresiile frumoase în caietul ăla blestemat. Să fie acolo. Să fie belșug. Multă vară, multă iarnă, ceva toamnă, că oricum nu prindeam prea mult din ea, și primăvară cu nemiluita. Îi plăcea primăvara, ce vreți? Dar n-ai pus cam multă primăvară, mamă? Își ia tovarășa cât îi trebuie, nu te îngrijora, Vladimir. Să am îndestulare, să-mi ajungă până la anul. Au ajuns o laie. Numai de-al dracului le-am folosit pe toate în două compuneri, pe care nu m-a lăsat conștiința să le duc la școală să nu carecumva să mă interneze ăia la balamuc pe motiv că scriu în limbi, ca îndrăciții. Nici nu le-am păstrat, din nefericire.
+
+Dar m-a luat insomnia pe dinainte și am uitat complet să vă povestesc care-a fost picătura ce a umplut paharul cu expresii frumoase, de s-a rupt masa cu el și-a decorat podeaua cu cioburi și frumusețe. Aceste caiete cu expresii frumoase trebuiau citite în fața clasei. Sau în spatele clasei, dacă erai o vită ignorantă care n-a înțepenit, mut de uimire, în fața unui apus ca în caietul colegului de bancă. Și s-au citit. A trecut primul, a trecut al doilea, a trecut al treilea, expresiile șuierau ca obuzele, îți țiuiau pe lângă urechi ca gloanțele la Stalingrad. Te fereai de lacrimile lui septembrie, camaradul tău de bancă încasa zumzetul harnicelor albine, mai apucai să trăiești două minute, dar până la urmă tot exista o expresie frumoasă cu numele tău pe ea. Și pe negândite te trezeai cu spiritul ucis de puiul de vânt care se juca cu norii sau, mai rău, de căldura care dezmierda mâțișorii lui april sau când cristalul mă-sii apar mugurașii. Nu am amintirea exactă a expresiilor (le-am luat de pe net, căci am încercat să uit ce-am auzit în ziua cea neagră a suprasaturării simțurilor), dar, ca pe unchiul Scrooge în noaptea de Ajun, în doar două ore de lectură m-au vizitat cele trei duhuri ale expresiilor frumoase și, în loc să mă transporte în trecutul, prezentul și viitorul glorios al existenței mele ca expresie frumoasă a unui Creator binevoitor aflat într-o zi bună, și-au dat pantalonii jos și mi-au siluit în mod repetat și cu o sălbăticie de nedescris, pe rând, toate cele șapte simțuri pe care le posedam la acea vârstă fragedă. Serios, nu vă pot descrie ce-am trăit în cele două ore în care, pe rând, colegii și-au citit expresiile frumoase în fața clasei. Aparent, există o cantitate finită de expresii frumoase în universul școlar, iar eu le-am absorbit pe toate, după care a avut loc o împărțire la zero, mi-a dat cu infinit și s-a înegrit ecranul, vorba unui șugubăț de la Divertis.
+
+Ani buni mai târziu, am descoperit Facebook-ul. Mi-am făcut cont, să-mi popularizez știrile, căci stăpânirea mi-a promis bonurile de masă înapoi dacă adun un infinit de afișări. Am strâns prieteni și am început din nou să citesc expresii frumoase. Ca-n tinerețe. Nu mai țin minte ce prieteni aveam, dar sigur am avut vreo câțiva îndrăgostiți de citate și poze cu ghiocei și pisici și tot ce e mai frumos și pufos în lumea asta de căcat pe care aș urî-o din tot sufletul dacă ar ajunge ca-n fotografiile repostate pentru a mia oară. Moment în care am concluzionat că expresiile frumoase ne sunt scrise în codul genetic. Undeva, în negura existenței noastre, doi gealați stau strajă la porțile ovulului, păzindu-l cu strășnicie de spermatozoizii lipsiți de simțul frumosului. Când un exemplar promițător își face apariția, naiv și complet nepregătit pentru ce îl așteaptă, gealații îl înșfacă hotărâți de coadă și îl duc în fața unei comisii de expresii frumoase, unde amărâtul este îndoctrinat mai ceva ca-n Portocala Mecanică. ■
