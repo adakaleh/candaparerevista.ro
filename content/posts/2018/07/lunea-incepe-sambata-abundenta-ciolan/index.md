@@ -1,7 +1,6 @@
 ---
 title: Abundența în 9 pași simpli
 type: post
-draft: true
 date: 2018-07-07
 authors: ciolan
 categories:
@@ -16,7 +15,7 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1844
 
 resources:
-  - src:
+  - src: images/abundenta.jpg
     name: "card-cover-image"
 
   - src:
@@ -51,3 +50,5 @@ Așadar, programul meu gratuit de atras abundența în viața ta nu costă nimic
 9. Felicitări, ai abundență în beci și în viață. Lupta nu este cîștigată, căci abundența trebuie întreținută în viața ta. Atenție, totuși, nu lăsa vecinii (care n-au citit programul meu simplu) să-ți vadă sau să-ți audă abundența. Pătrunși de invidie că abundența nu e la ei în viață, vor chema poliția. Care, se știe, este dușmanul natural al abundenței și te va lăsa fără ea.
 
 Dacă ai urmat acești nouă pași simpli, este practic imposibil să nu atragi abundența la tine în viață. Dacă totuși n-ai atras abundența, se mai întîmplă... ■
+
+{{< figure  src="images/abundenta.jpg" attr="(sursă foto: J.R.R. Tolkien)" attrlink="http://tolkiengateway.net/wiki/Category:Images_by_J.R.R._Tolkien" >}}
