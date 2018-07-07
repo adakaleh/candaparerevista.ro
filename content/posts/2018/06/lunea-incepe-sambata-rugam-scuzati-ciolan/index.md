@@ -15,7 +15,7 @@ sursa:
 linkForum:
 
 resources:
-  - src: images/tren.png
+  - src: images/tren.jpg
     name: "card-cover-image"
 
   - src:

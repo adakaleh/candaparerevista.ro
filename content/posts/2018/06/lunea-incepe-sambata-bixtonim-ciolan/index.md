@@ -15,7 +15,7 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1844
 
 resources:
-  - src: images/bixtonim.png
+  - src: images/bixtonim.jpg
     name: "card-cover-image"
 
   - src:
@@ -36,4 +36,4 @@ De ce ți-e frică, nu scapi, mai ales într-un vis-univers aflat în plină exp
 
 Din centrul exploziei, explozie care putea fi la fel de bine Ochiul Abisului, poștașul chel și cei doi martori ai lui Iehova pe care-i respirasem fără voia mea în momentul Colapsului, priveau înspre mine încercînd să determine dacă sunt acasă sau nu. Mi-am dat seama că, pentru a doua oară în același vis, mă aflu la un moment de răscruce. Într-o milionime din timpul necesar nașterii unui gînd, Improbabilul a fost ridicat la grad de certitudine atunci cînd cei trei mesageri și-au îndeplinit simultan funcțiile și mi-au adus Vești. Astfel, pentru prima dată în Protouniversul Pulmonar, Ciolan Vladimir, o frunză de fag, Vestea cea Bună, Vestea Cea Proastă, Secretariatul Facultății de Electrotehnică, Nimicul și ce mai rămăsese din Abis după ce l-am mușcat de buză și a explodat, au ocupat același loc în timp și spațiu. Încovoiat de măreția momentului și de masele infinite concentrate în cel mai populat și plictisitor punct al plămînilor mei, m-am strănutat viguros într-un dormitor micuț cu pereți albi și calendar din 2017 cu oameni în halate albastre care împachetau fericiți motoare de elicoptere. ■
 
-{{< figure  src="images/bixtonim.png" attr="(sursă foto: Malburian)" attrlink="https://malburian.deviantart.com/" >}}
+{{< figure  src="images/bixtonim.jpg" attr="(sursă foto: Malburian)" attrlink="https://malburian.deviantart.com/" >}}
