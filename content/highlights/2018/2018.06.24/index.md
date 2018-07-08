@@ -7,7 +7,7 @@ categories:
 
 tags:
     - Retrospectiva săptămânii
-    - Summer Sale
+    - Steam Sale
     - Harlan Ellison
     - I Have No Mouth, and I Must Scream
 

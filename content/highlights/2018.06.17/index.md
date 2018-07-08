@@ -8,7 +8,7 @@ categories:
 tags:
     - Retrospectiva săptămânii
     - Xenonauts
-    - Summer Sale
+    - Steam Sale
 
 description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
 
