@@ -9,6 +9,14 @@
 {{end}}
 
 <main id="site-main" class="site-main outer" role="main">
+  <!-- In pagina fiecarui autor afisam si o caseta cu descrierea autorului,
+  inainte de cardurile cu articolele sale -->
+  {{ if eq .Section "authors" }}
+    {{ $author := index .Site.Data.authors .Data.Term }}
+    <section class="post-full-content author-description">
+      {{ $author.description | safeHTML }}
+    </section>
+  {{ end }}
   <div class="inner">
     <div class="post-feed">
       {{ partial "post-list" . }}

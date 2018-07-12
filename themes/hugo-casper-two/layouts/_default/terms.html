@@ -11,23 +11,44 @@
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     {{if ne .Site.Params.singleViewStyle "casper"}}
-    <div class="post-feed">
-      {{ partial "post-list" . }}
-    </div>
+      <div class="post-feed">
+        {{ partial "post-list" . }}
+      </div>
 
-    <nav class="pagination" role="navigation">
-      {{if .Paginator.HasPrev}}
-          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-      {{end}}
-      <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-      {{if .Paginator.HasNext}}
-          <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-      {{end}}
-    </nav>
+      <nav class="pagination" role="navigation">
+        {{if .Paginator.HasPrev}}
+            <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+        {{end}}
+        <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
+        {{if .Paginator.HasNext}}
+            <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
+        {{end}}
+      </nav>
     {{else}}
-    <div class="post-feed">
-      {{ partial "post-list-term" . }}
-    </div>   
+      <div class="post-feed">
+
+        <!-- Pentru pagina autorilor afisam un layout diferit, cu carduri pentru fiecare autor -->
+        {{ if eq .Section "authors" }}
+          {{ partial "authors-list" . }}
+
+        <!-- Altfel afisam lista normala cu 3 posturi random pentru termeni-->
+        {{ else }}
+          {{ partial "post-list-term" . }}
+        {{ end }}
+      </div>
+    {{end}}
+
+    <!-- Pentru pagina autorilor, unde sunt carduri separate/autor, avem nevoie si de paginatie -->
+    {{ if eq .Section "authors" }}
+      <nav class="pagination" role="navigation">
+        {{if .Paginator.HasPrev}}
+        <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+        {{end}}
+        <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
+        {{if .Paginator.HasNext}}
+        <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
+        {{end}}
+      </nav>
     {{end}}
   </div>
 </main>

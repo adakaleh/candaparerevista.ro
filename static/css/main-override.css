@@ -270,6 +270,36 @@ a {
   max-height: 400px;
 }*/
 
+/* card autori din pagina /authors */
+.post-card .author-card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin: 1em auto;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.post-card .author-card-name {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* caseta descriere autor din pagina /authors/<author-name> */
+.author-description {
+    /* suprascriere proprietati de la .post-full-content */
+    margin: 0;
+    margin: -2em auto 2em!important;
+    padding: 0;
+    padding: 3em!important;
+    min-height: 100px!important;
+    max-width: 1240px!important;
+}
+
+.author-description:after, .author-description:before {
+    height: 3vw!important;
+}
 
 /* card blog/stiri */
 .blog-card {
