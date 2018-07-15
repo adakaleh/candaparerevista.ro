@@ -1,8 +1,7 @@
 ---
 title: Caiet cu expresii frumoase
 type: post
-draft: true
-date: 2018-07-07
+date: 2018-07-14
 authors: ciolan
 categories:
     - Lunea începe sâmbăta
