@@ -35,6 +35,8 @@ resources:
 * [10 Real-Life Activities I Only Enjoy In Video Games](https://www.gameinformer.com/funny-to-a-point/2018/07/06/10-real-life-activities-i-only-enjoy-in-video-games) (Game Informer)
 * [The European TV channel making documentaries with video games](https://www.gamesindustry.biz/articles/2018-07-06-the-european-tv-channel-making-documentaries-with-video-games) (GamesIndustry.biz)
 * [Making the most of voice talent](https://www.gamesindustry.biz/articles/2018-07-02-making-the-most-of-voice-talent) (GamesIndustry.biz)
+
+#### _Not-a-review_
 * [I&#39;m Glad I Started Playing The Witcher 1 Last](https://kotaku.com/im-glad-i-started-playing-the-witcher-1-last-1827318490) (Kotaku)
 * [Where are the Radical Politics of Cyberpunk?](https://waypoint.vice.com/en_us/article/ne5jg7/radical-politics-cyberpunk-2077) (Waypoint)
 * [&#39;Vampyr&#39; is a Deeply Flawed Game, But That&#39;s Exactly Why It&#39;s So Memorable](https://waypoint.vice.com/en_us/article/ywea3x/vampyr-is-a-deeply-flawed-game-but-thats-exactly-why-its-so-memorable) (Waypoint)
