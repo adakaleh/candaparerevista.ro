@@ -82,7 +82,7 @@ resources:
 
 ## Made în România
 
-* [Care sunt jocurile preferate ale românilor și cât cheltuiesc pe an pe ele](([PLAYTECH.ro](https://playtech.ro/2018/jocuri-preferate-romani-2017/))) (Playtech)
+* [Care sunt jocurile preferate ale românilor și cât cheltuiesc pe an pe ele](https://playtech.ro/2018/jocuri-preferate-romani-2017/) (Playtech)
 
 ## Anunţuri şi lansări de jocuri
 #### Anunţate
