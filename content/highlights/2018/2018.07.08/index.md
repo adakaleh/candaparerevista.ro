@@ -1,5 +1,5 @@
 ---
-title: "Retrospectiva săptămânii 8-15 iulie 2018"
+title: "Retrospectiva săptămânii 8-14 iulie 2018"
 type: post
 date: 2018-07-15
 categories:
