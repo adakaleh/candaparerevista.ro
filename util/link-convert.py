@@ -1,0 +1,543 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Un mic helper pentru a genera continutul pentru articolul Retrospectiva Saptamanii. Scriptul citeste o listă de linkuri si genereaza
+echivalentul markdown, folosind fie numele site-ului, fie pe cel al articolului pentru textul linkului, in functie de sectiune.
+
+-------------------
+Exemple
+-------------------
+1. Pentru stirea:
+"* World of Warcraft (jocul de bază și extensiile) va fi gratuit pentru abonati. https://www.gamesindustry.biz/articles/2018-07-18-blizzard-makes-wow-base-game-and-expansions-free-to-subscribers "
+
+va fi generata linia:
+"* World of Warcraft (jocul de bază și extensiile) va fi gratuit pentru abonati. ([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2018-07-18-blizzard-makes-wow-base-game-and-expansions-free-to-subscribers))"
+
+2. Pentru articolul:
+"* https://www.pcgamer.com/game-remakes-shouldnt-be-afraid-to-change-the-classics/"
+
+va fi generata linia:
+"* [Game remakes shouldn’t be afraid to change the classics](https://www.pcgamer.com/game-remakes-shouldnt-be-afraid-to-change-the-classics/) (PC Gamer)
+
+-------------------
+Folosire
+-------------------
+In mod implicit, scriptul cauta linkuri intr-un fisier 'input_links.txt'. Alternativ, i se poate da un alt fisier ca argument:
+
+python link-convert.py [cale-fisier-linkuri.txt]
+
+-------------------
+Extra info
+-------------------
+Testat cu Python 3, dar ar trebui sa mearga si in Python 2 (eventual cu unele mici modificari)
+
+Scriptul trateaza sectiunile in mod diferit, astfel incat rezultatul difera:
+- la stiri va fi lasat textul stirii normal ca string simplu, iar la sfarsit numele site-ului cu link catre stirea originala
+- la articole titlul articolului va fi linkul, iar la sfarsitul liniei va fi trecut numele site-ului in paranteza, ca string simplu
+- articolele Made in Ro vor fi tratate precum stirile
+- articolele despre lansari/anunturi, oferte: TODO
+
+-------------------
+TODO
+-------------------
+Features:
+- ~~tratament diferentiat pentru fiecare sectiune (stirile au link pe numele site-ului, la sfarsit)~~
+- ~~dictionar site-uri pentru numele site-urilor~~
+- ~~linkuri multiple in aceeasi linie~~
+- de adaugat detectie pret jocuri din store pages pentru sectiunea pentru Oferte jocuri
+- de tratat raspuns not OK la requests cand citim un url
+- de mutat ca web script in candaparerevista.ro/utils/ si apelat printr-un formular html
+  sau de adaugat args parser daca il folosim local
+- de handluit terminatiile de linie / rstrip
+- de ignorat url-urile deja formatate pentru markdown (ex:  [text](http://url.com))
+- de testat si fixat ce ar mai trebui pentru a merge si in Python 2
+- de adaugat un indicator de progres pentru conversia normala (is_debug = False)
+
+Bugs/issues:
+- la unele site-uri sunt probleme cu identficarea numelui pe Open Graph (ex: pcgamer) - detecteaza prea mult / nu detecteaza sfarsitul
+- nu detecteaza categoria Stiri cand e scrisa cu diacritice (dar la Romania merge ok)
+"""
+
+import sys
+import requests
+import re
+import codecs
+import time
+
+### --------- CLASE SI CONSTANTE --------- ###
+
+is_debug = False
+
+INPUT_FILE_DEFAULT = "input_links.txt" if not is_debug else "test_input_links.txt"
+OUTPUT_FILE = "rezultat_final_markdown.txt" if not is_debug else "test_rezultat_final_markdown.txt"
+
+DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEMA AICI</span>"
+
+SITEURI_CUNOSCUTE = {
+    'idlethumbs': 'Idle Thumbs',    'pcgamer': 'PC Gamer',          'rockpapershotgun': 'RPS',
+    'gamasutra': 'Gamasutra',       'unwinnable': 'Unwinnable',     'eurogamer': 'Eurogamer',
+    'wired': 'Wired',               'kotaku': 'Kotaku',             'destructoid': 'Destructoid',
+    'vg247': 'VG247',               'waypoint.vice': 'Waypoint',    'gameinformer': 'Games Informer',
+    'arstechnica': 'Ars Technica',  'gamereactor': 'Gamereactor',   'gamesindustry': 'GamesIndustry.biz',
+    'vgchartz': 'VGChartz',         'theverge': 'The Verge',        'pcgamesn': 'PCGamesN',
+    'techpowerup': 'TechPowerUp',   'variety': 'Variety',           'massivelyop': 'Massively OP',
+    'rpgcodex': 'RPG Codex',        'videogamer': 'VideoGamer',     'steamcommunity': 'Steam Community',
+    'gog.com': 'gog.com',           'steampowered.com': 'Steam',    'humblebundle.com/store': 'Humble Store',
+    'gamesradar': 'GamesRadar+',    'venturebeat': 'VentureBeat',   'humblebundle': 'Humble Bundle',
+    'avclub': 'A.V. Club',          'tedium': 'Tedium',             'hardcoregamer': 'Hardcore Gamer',
+    'polygon': 'Polygon',           'guardian': 'The Guardian',
+}
+
+
+class RawLine(object):
+    """
+    Reprezinta o linie simpla, neprelucrata, ce contine doar textul brut
+    """
+
+    def __init__(self, text):
+        self.text = text
+
+    def get_text(self):
+        return self.text
+
+    def __str__(self):
+        return ("type(%s), values(%s)" % (type(self), self.text.rstrip() if (self.text) else "<empty>"))
+
+
+class Sectiune(RawLine):
+    """
+    O linie despre care stim ca contine numele unei sectiuni un header de nivel 2 ("## ')
+    """
+
+    def __init__(self, text):
+        RawLine.__init__(self, text)
+        # lista liniilor care apartin acestei sectiuni
+        self.linii = []
+
+    def is_different_type_than(self, other_section):
+        return type(self) != type(other_section)
+
+    def adauga_linie(self, linie_noua):
+        self.linii.append(linie_noua)
+
+    def get_linii_formatate_pentru_output(self):
+        """
+        Alcatuieste o lista noua cu textul fiecarei linii formatat pentru output markdown
+        """
+        return (linie.get_text() for linie in self.linii)
+
+    def make_markdown_link(self, link_nume, link_url):
+        return "[%s](%s)" % (link_nume, link_url)
+
+    def __str__(self):
+        return ("type(%s) \n\tvalues(%d elements: %s)" % (type(self), len(self.linii), self.linii))
+
+
+class SectiuneStire(Sectiune):
+
+    def get_linii_formatate_pentru_output(self):
+        """
+        Citeste fiecare linie din lista si formateaza linkurile in format markdown, daca exista
+        Exemplu: ' * Corp stire. ( [nume site](link articol) ) '
+        """
+        lista_formatata = []
+
+        for linie in self.linii:
+            if (linie.are_linkuri()):
+                url_incepe     = linie.get_links()[0].start
+                # url_se_termina = linie.url_start + linie.url_end
+                # pm, ce greu se cheama o metoda din super in python 2
+                # text_rescris = linie.text[:url_incepe] + "(" + super(SectiuneStire, self).make_markdown_link(linie.site_nume, linie.url_link).rstrip() + ")" + linie.text[url_se_termina:].rstrip()
+                lista_sites = ", ".join([link.make_markdown_link(LinkInLinie.USE_SITE_NAME) for link in linie.get_links()])
+                text_rescris = linie.text[:url_incepe] + "(" + lista_sites + ")"
+                lista_formatata.append(text_rescris)
+            else:
+                lista_formatata.append(linie.get_text().rstrip())
+        return lista_formatata
+
+
+class SectiuneArticole(Sectiune):
+
+    def adauga_linie(self, linie_noua):
+        self.linii.append(linie_noua)
+
+    def get_linii_formatate_pentru_output(self):
+        """
+        Citeste fiecare linie din lista si formateaza linkurile in format markdown, daca exista
+        Exemplu: '* [nume articol](link articol). (nume site)'
+        """
+        lista_formatata = []
+
+        for linie in self.linii:
+            if (linie.are_linkuri()):
+                url_incepe     = linie.get_links()[0].start
+                lista_articole = ", ".join([link.make_markdown_link(LinkInLinie.USE_TEXT) for link in linie.get_links()])
+                text_rescris = linie.text[:url_incepe] + lista_articole
+                lista_formatata.append(text_rescris)
+            else:
+                lista_formatata.append(linie.get_text().rstrip())
+        return lista_formatata
+
+
+class SectiuneRomania(Sectiune):
+    # nu avem nevoie deocamdata de clasa asta, folosim tot SectiuneStire
+    pass
+
+
+class SectiuneAnunturiLansari(Sectiune):
+    pass
+
+
+class SectiuneOferte(Sectiune):
+    pass
+
+
+class SectiuneRecomandare(Sectiune):
+    pass
+
+
+class LinieNormala(RawLine):
+    """
+    O line prelucrata, care apartine unei sectiuni, si care poate contine unul sau mai multe linkuri.
+    """
+
+    def __init__(self, text):
+        RawLine.__init__(self, text)
+        self.lista_linkuri = []
+
+    def are_linkuri(self):
+        return len(self.lista_linkuri) > 0
+
+    def get_links(self):
+        return self.lista_linkuri
+
+
+class LinkInLinie(object):
+    """
+    Reprezinta un link care se poate gasi intr-o linie. Pe langa URL,
+    acest link are si valori pentru pozitia de start si de sfarsit in
+    linia respectiva, precum si numele site-ului si (in functie de sectiune)
+    si al articolului.
+    Cand se exporta o linie, aceste valori sunt folosite pentru a genera
+    linkul in format markdown, ex:  "[text](http://url.com)"
+    """
+
+    USE_SITE_NAME, USE_TEXT = range(2) # un fel de enum
+
+    def __init__(self, url, start, end):
+        self.url = url
+        self.start = start
+        self.end = end
+        self.text = DEFAULT_UNKNOWN_TEXT
+        self.nume_site = DEFAULT_UNKNOWN_TEXT
+
+    def __str__(self):
+        return "Link: url(%s) (%d - %d), text(%s), site(%s)" % (self.url, self.start, self.end, self.text, self.nume_site)
+
+    def make_markdown_link(self, tip):
+        if (tip == self.USE_TEXT):
+            return "[%s](%s) (%s) " % (self.text, self.url, self.nume_site)
+        else:
+            return "[%s](%s)" % (self.nume_site, self.url)
+
+
+### --------- SCRIPTUL INCEPE AICI --------- ###
+
+def execute(linii_fisier):
+    """
+    Metoda principala de lucru: primeste liniile din fisier, pe care
+    le itereaza si prelucreaza pe rand, salvand rezultatul intr-o lista.
+    La sfarsit, scrie liniile procesate din lista intr-un fisier txt
+    ce poate fi copiat direct in fisierul markdown.
+    """
+
+    # lista cu sectiunile si liniile procesate, ce vor fi salvate in
+    # fisierul de output pentru a fi apoi copiate in articolul din Hugo
+    document_parsat = []
+
+    sectiune_curenta = None
+
+    for index, linie_curenta in enumerate(linii_fisier):
+        # try:
+            rezultat_parsare = parseaza_linie(linie_curenta, sectiune_curenta, index)
+
+            # daca am parsat o sectiune, verificam daca e diferita de sectiunea curenta, caz in care
+            # o setam pe aceasta ca noua sectiune curenta si o adaugam la lista
+            if isinstance(rezultat_parsare, Sectiune):
+                if (rezultat_parsare.is_different_type_than(sectiune_curenta)):
+                    sectiune_curenta = rezultat_parsare
+                    document_parsat.append(rezultat_parsare)
+
+            # am primit inapoi o linie ce nu tine de nicio sectiune
+            else:
+                document_parsat.append(rezultat_parsare)
+
+        # except Exception as e:
+        #     print("EROARE parsare la linia %d: %s" % (index, e))
+
+    # scrie rezultat in fisier
+    if is_debug:
+        # afiseaza_fisier(document_parsat)
+        scrie_fisier(document_parsat)
+    else:
+        scrie_fisier(document_parsat)
+
+
+def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
+
+    # verifica daca avem Sectiune (heading 2)
+    if linie_bruta[0:3] == "## ":
+        # print()
+        sect = get_sectiune(linie_bruta)
+        # print(sect)
+        # print("index %d, returning sectiune %s cu len = %d" % (index, type(sect), len(sect.linii)))
+        return sect
+        # return get_sectiune(linie)
+
+    # altfel inseamna ca avem o Linie
+
+    # daca linia nu apartine unei sectiuni (sectiune_curenta == None),
+    # nu ne intereseaza si o returnam ca atare, neprelucrata
+    if not (sectiune_curenta):
+        return RawLine(linie_bruta)
+
+    linie_parsata = LinieNormala(linie_bruta)
+
+    # gaseste_url_in(linie_parsata)
+    completeaza_urls(linie_parsata.get_text(), linie_parsata.get_links())
+
+    # completam nume site si text linkuri
+    for link in linie_parsata.lista_linkuri:
+        url = link.url
+
+        if is_debug:
+            print("sending request to url %s" % url)
+
+        try:
+            http_result = requests.get(url)
+            http_result.encoding = 'utf-8'
+        except Exception as e:
+            print("Eroare la url(%s): %s" % (url, e))
+            continue
+
+        # TODO de tratat raspuns not OK la requests
+        if not is_status_ok(http_result):
+            print("url %s | status %s" % (url, http_result.status_code))
+
+        # completeaza nume site
+        link.nume_site = parseaza_nume_site(url, http_result.text)
+
+        # completeaza text link
+        # TODO de tratat properly aici
+        if isinstance(sectiune_curenta, SectiuneArticole):
+            titlu_articol = parseaza_titlu_articol(url, http_result.text)
+            link.text = titlu_articol
+
+        if is_debug:
+            print("link parsat = %s" % link)
+
+    # adaugam linia parsata in lista de linii a sectiunii curente
+    sectiune_curenta.adauga_linie(linie_parsata)
+    if is_debug:
+        print("index %d, adaugat in SECT %s LINIA %s" % (index, type(sectiune_curenta.get_text()), linie_parsata.get_text().rstrip()))
+
+    return sectiune_curenta
+
+
+def gaseste_terminator_char_pos(text, start_pos):
+    url_terminator_chars = [",", ";", " ", "|", "\n"]
+
+    # cauta toate caracterele de sfarsit in linia de text si returneaza pozitia
+    # pentru fiecare caracter care nu a fost gasit se returneaza -1, asa ca dupa aceea le filtram
+    terminator_chars_in_text = [text[start_pos:].find(char) for char in url_terminator_chars]
+    filtered_pos = list(filter(lambda n: n >= 0, terminator_chars_in_text))
+
+    # daca am gasit mai mult de un terminator char in linie, cel cu pozitia cea mai mica va fi ales
+    if len(filtered_pos) > 0:
+        return start_pos + min(filtered_pos)
+    # daca nu am gasit un terminator, end va fi sfarsitul liniei
+    else:
+        return len(text)
+
+
+def completeaza_urls(text, lista_linkuri):
+    """
+    Citeste o linie bruta si cauta recursiv toate linkurile. De fiecare data cand
+    gaseste unul, va adauga in lista un obiect Link, folosind url-ul, pozitia de start
+    si pozitia de sfarsit, apoi cauta urmatorul link in restul textului
+    """
+    if not (len(text) > 9): # adica len("http://a.a")
+        return
+
+    # gaseste inceput url
+    start = text.find("http")
+
+    if (start > -1):
+        # gaseste sfarsit URL
+        end = gaseste_terminator_char_pos(text, start)
+
+        if (is_debug):
+            print("end gasit la pozitia %d" % end)
+
+        url = text[start:end]
+
+        lista_linkuri.append(LinkInLinie(url=url, start=start, end=end))
+
+        # restul_textului = text[end:]
+
+        # cauta recursiv in restul textului
+        return completeaza_urls(text[end:], lista_linkuri)
+
+    return
+
+
+def get_sectiune(linie):
+    titlu_sectiune = linie[3:].lower()
+
+    def titlu_contine(*args):
+        for arg in args:
+            if arg in titlu_sectiune:
+                return True
+        return False
+
+    if (titlu_contine('stiri', 'știri')):
+        return SectiuneStire(linie)
+    elif (titlu_contine('articole')):
+        return SectiuneArticole(linie)
+    elif (titlu_contine('romania', 'românia')):
+        # return SectiuneRomania(linie)
+        # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
+        return SectiuneStire(linie)
+    elif (titlu_contine('anunturi', 'anunţuri')):
+        # return SectiuneAnunturiLansari(linie)
+        # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
+        return SectiuneStire(linie)
+    elif (titlu_contine('oferte')):
+        return SectiuneOferte(linie)
+    elif (titlu_contine('recomandare')):
+        return SectiuneRecomandare(linie)
+
+    # n-ar trebui sa ajungem aici
+    else:
+        return Sectiune(linie)
+
+
+def parseaza_titlu_articol(url, text):
+    # pattern preluat si adaptat de aici: https://ubuntuforums.org/showthread.php?t=1215158
+    pattern_og = re.compile("\"og:title\" content=\" *(.*?)\" *\/>",re.DOTALL|re.M)
+    titluri = pattern_og.findall(text)
+
+    if not (len(titluri)>0):
+        # daca nu am gasit titlu Open Graph, cautam titlul normal
+        pattern_title = re.compile("<title>(.*?)<\/title>",re.DOTALL|re.M)
+        titluri = pattern_title.findall(text)
+
+        if not (len(titluri)>0):
+            titluri = [DEFAULT_UNKNOWN_TEXT]
+
+    try:
+        titlu = titluri[0]
+        # print("returning titlu len = %s" % len(titlu))
+        return titlu
+    except:
+        print("EROARE cautare titlu in url %s, TITLURI = %s\n" % (url, titluri))
+
+
+def parseaza_nume_site(url, text):
+
+    # cauta nume site in site-urile cunoscute
+    nume_site_cunoscut = check_string_for_dict_key(url, SITEURI_CUNOSCUTE.items())
+    if (nume_site_cunoscut):
+        return nume_site_cunoscut
+
+    # altfel incercam sa cautam numele in tag-ul Open Graph
+    else:
+        pattern_og = re.compile("\"og:site_name\" content=\" *(.*?)\" *\/>",re.DOTALL|re.M)
+        titluri = pattern_og.findall(text[0:2000])
+
+        if (len(titluri)>0):
+            titlu = titluri[0]
+            return titlu
+        else:
+            return DEFAULT_UNKNOWN_TEXT
+
+
+### --------- HELPERS --------- ###
+
+def check_string_for_dict_key(haystack_string, needles_dict):
+    for needle_key, needle_value in needles_dict:
+        if needle_key not in haystack_string:
+            continue
+        else:
+            return needle_value
+
+    return 0
+
+
+def is_status_ok(response):
+    return response.status_code == requests.codes.ok
+
+
+def citeste_fisier(fisier_linkuri):
+    # lista_linkuri = open(fisier_linkuri, "r")
+    lista_linkuri = codecs.open(fisier_linkuri, 'r', "utf-8")
+    return lista_linkuri.readlines()
+
+
+def afiseaza_fisier(document_parsat):
+    """
+    E doar pentru debug, dar poate fi adaptat sa afiseze continutul direct
+    pentru copy-paste in Hugo, sa nu mai salvam separat intr-un fisier
+    """
+    for index, sect in enumerate(document_parsat):
+        # afisam sectiunea, respectiv eventuala linie care nu apartine unei sectiuni
+        print("%d | %s" % (index, sect.get_text()))
+
+        # o sectiune cuprinde o lista de linii, le afisam acum
+        if isinstance(sect, Sectiune):
+            for linie in sect.get_linii_formatate_pentru_output():
+                try:
+                    print("%d | %s" % (index, linie.rstrip())) #TODO scoate newline la sursa, nu aici
+                except Exception as e:
+                    print("EROARE la linia %s: %s" % (linie, e))
+
+
+def scrie_fisier(document_parsat):
+    links_file = codecs.open(OUTPUT_FILE, 'w', "utf-8")
+    for sect in document_parsat:
+        # scriem sectiunea, respectiv eventuala linie care nu apartine unei sectiuni
+        links_file.write("%s\n" % sect.get_text())
+
+        # o sectiune cuprinde o lista de linii, le scriem acum
+        if isinstance(sect, Sectiune):
+            for linie in sect.get_linii_formatate_pentru_output():
+                try:
+                    links_file.write("%s\n" % linie.rstrip()) #TODO scoate newline la sursa, nu aici
+                except Exception as e:
+                    print("EROARE la linia %s: %s" % (linie, e))
+
+    links_file.close()
+
+
+### --------- MAIN --------- ###
+
+if __name__ == "__main__":
+    # try:
+        args = sys.argv[1:]
+        if (len(args) == 1):
+            linii_fisier = citeste_fisier(args[0])
+
+        else:
+            linii_fisier = citeste_fisier(INPUT_FILE_DEFAULT)
+
+        start_time = time.time()
+        execute(linii_fisier)
+        end_time = time.time()
+        print("TERMINAT de scris in %d sec." % round(end_time - start_time, 2))
+    # except IOError as ioerr:
+    #     print("Eroare IO: fisierul cu linkuri nu exista (err: %s" % ioerr)
+
+    # except Exception as e:
+    #    print("Ceva n-a mers bine: %s." % e)
+    #    exit(1)
