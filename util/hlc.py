@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Un mic helper pentru a genera continutul pentru articolul Retrospectiva Saptamanii. Scriptul citeste o listă de linkuri si genereaza
-echivalentul markdown, folosind fie numele site-ului, fie pe cel al articolului pentru textul linkului, in functie de sectiune.
+HLC (Highlights Link Convert) e un mic helper pentru a genera continutul pentru articolul Retrospectiva Saptamanii. Scriptul citeste o listă de linkuri
+si genereaza echivalentul markdown, folosind fie numele site-ului, fie pe cel al articolului pentru textul linkului, in functie de sectiune, iar pentru
+paginile magazinelor de jocuri incearca sa citeasca si pretul jocului (si il converteste in echivalentul euro, pentru consistenta).
 
 -------------------
 Exemple
@@ -25,7 +26,7 @@ Folosire
 -------------------
 In mod implicit, scriptul cauta linkuri intr-un fisier 'input_links.txt'. Alternativ, i se poate da un alt fisier ca argument:
 
-python link-convert.py [cale-fisier-linkuri.txt]
+python hlc.py [cale-fisier-linkuri.txt]
 
 -------------------
 Extra info
