@@ -24,7 +24,7 @@ resources:
   - src:
     name: "card-cover-image"
 
-  - src: images/80Days-cover.png
+  - src: images/80Days-cover.jpg
     name: "cover-image"
 ---
 
@@ -56,7 +56,7 @@ Mentalitatea colonială și situația socială și culturală din colonii se ră
 
 Concepțiile megalomane din partea poporului britanic nu sunt deloc întâmplătoare. Purtate încă de valul revoluției industriale, corăbiile britanice nu aveau rival. Epoca victoriană a fost o perioadă de rapid avans științific și tehnologic. Motorul cu aburi, trenurile, telegraful, canalul Suez - toate lucrau în același scop: micșorarea lumii. Acesta era un climat proprice pentru apariția oamenilor extraordinari, a eroilor călători: exploratori precum David Livingstone sau Richard Burton, or personaje fictive ca Phileas Fogg.
 
-![80 Days screenshot 1](gallery/80Days1.png)
+![80 Days screenshot 1](gallery/80Days1.jpg)
 
 ## _Capitolul I_ <br> În care facem cunoștință cu Passepartout, valet virtuel extraordinaire
 
@@ -86,7 +86,7 @@ Am vorbit la începutul articolului despre cadrul istoric în care are loc acți
 
 Compromisul e acceptabil, însă amestecul final e pe alocuri eterogen. Unul dintre punctele forte ale cărții lui Verne este realismul și atenția la detalii. Scriitorul își imaginează o călătorie spectaculoasă, însă perfect realizabilă. Știința din sintagma ”științifico-fantastic” e lăsată la o parte în 80 Days, rezultatul fiind cai mecanici, androizi, trenuri submarine și rachete. Majoritatea jucătorilor vor trece cu vederea aceste născociri, însă, ca fan al lui Jules Verne, mi-au lăsat un gust amărui.
 
-![80 Days screenshot 2](gallery/80Days2.png)
+![80 Days screenshot 2](gallery/80Days2.jpg)
 
 Trecând peste elementele fictive, 80 Days reușește să capteze foarte viu culoarea locală a orașelor vizitate. Am fost plăcut surprins, ajungând în București, să fiu întrebat de o vânzătoare ”Cu ce vă pot ajuta?” (pe românește adică). Apoi, s-a înfiripat o discuție privitoare la influența otomană din regiune, punctată de opinii antisemite. Așadar, calitatea documentării e foarte bună, însă cantitatea e cea care impresionează. După cum spuneam, sunt peste 150 de orașe ce pot fi vizitate, iar pentru a surprinde esența fiecărei culturi în câteva fraze e nevoie de o foarte fină cunoaștere a fundalului istoric și social. După cum vom vedea mai departe, cea mai mare parte din munca de cercetare a fost făcută de o singură persoană. Jos pălăria!
 
@@ -114,7 +114,7 @@ Se disting totuși două stiluri distincte de joc: unul calm, calculat, specific
 
 Celălalt membru cu drepturi depline al echipei este Meg Jayanth, care s-a ocupat de ce era mai important, și anume scrisul - și implicit documentarea. O scurtă paranteză aici, pentru a vorbi un pic despre interactive fiction. Înainte de a colabora cu băieții de la Inkle, domnișoara Jayanth a scris un joc numit Samsara, publicat pe StoryNexus. Aceasta din urmă este o platformă de publicare, și o unealtă de creare de interactive fiction realizată de Failbetter Games - echipa din spatele Fallen London și mai recentului Sunless Sea. Interactive fiction este o ramură a jocurilor video care a existat sub diferite forme de la începuturile industriei. Un exemplu faimos e seria Zork, iar astăzi relativ populare sunt așa-numitele virtual novels. Jocuri precum Fallen London sau 80 Days merg însă în direcții laterale, în ideea că păstrează componenta textuală în centrul atenției, însă plusează cu elemente grafice și de gameplay (mai) complexe. Mă rog, pe lângă titlurile menționate mai sus sunt alte zeci care se pot încadra aici. O căutare pe Steam va rezulta în titluri precum aventurile Telltale, Gone Home sau Kentucky Route Zero, însă cred că aici vorbim de ouă pentru alt coș, aspectul vizual primând, și nu textul. Ca să concluzionez paranteza ce deja se lungește, interactive fiction e un gen din ce în ce mai popular și care implică în principal cititul.
 
-![80 Days screenshot 3](gallery/80Days3.png)
+![80 Days screenshot 3](gallery/80Days3.jpg)
 
 Înainte de 80 Days, Inkle Studios au mai lucrat la o serie de proiecte construite pe același schelet - dintre acestea merită văzută în principal seria Sorcery!. Dincolo de componenta narativă predominantă, jocurilor lor au în comun faptul că au fost construite în special pentru dispozitive mobile, iOS și Android. Titlurile bazate pe text se pliază perfect pe limitările tehnice și practice (dimensiunea ecranelor) ale platformelor și se poate vorbi chiar de o specie de nișă. Asta nu înseamnă și lipsă de complexitate, word count-ul pentru 80 Days fiind de peste 500.000. Jayanth pune numărul în perspectivă: mai mult decât trilogia Stăpânul inelelor, dar mai puțin decât seria Cântec de gheață și foc. Pentru că spațiul redacțional autoimpus mă limitează, trag linie aici, dar vă îndrept atenția spre două prezentări din cadrul GDC 2015 realizate de Jayanth și de colegul ei Jon Ingold. Google them.
 

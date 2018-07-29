@@ -19,7 +19,7 @@ resources:
   - src: 
     name: "card-cover-image"
 
-  - src: images/header.png
+  - src: images/header.jpg
     name: "cover-image"
 ---
 Au trecut aproape două luni de la furia celor 12 ore de Kingdom. Încă mi se pare că aud tonurile vag isterice ale ultimului Blood Moon și modul absolut stupid în care era cât pe ce să-mi pierd coroana. Ar trebui să menționez din start că nu mai sunt un gamer, nu cum eram acum aproape 10 ani, așa că 12 ore petrecute într-un joc complementare a două zile de lucru mi se pare enorm. 
@@ -32,7 +32,7 @@ Un control asupra lor nu ai, ei alegând să meargă la stânga sau la dreapta d
 
 În peisajul decrepit și sterp în care ai ajuns, simțindu-te ca și Carol o dată ce a ajuns în noroaiele Bucureștilor, nu-ți rămâne altceva de făcut decât să începi să recrutezi forța de muncă necesară pentru civilizarea sălbăticiei, lucru realizabil cu ajutorul găsit în taberele desculților de la marginea pădurii. 
 
-![A plecat cu oastea şi n-a mai venit.](gallery/jealous.png)
+![A plecat cu oastea şi n-a mai venit.](gallery/jealous.jpg)
 
 La început singura formă de venit va veni din partea arcașilor, adevărați alchimiști transformând orice formă de vânat în aur. Dar nopțile sunt nesigure, elilii pândesc în umbră și vor să-ți fure aurul, uneltele, controlul țăranilor și în cele din urmă coroana, așa că trebuie să-ți pui constructorii la treabă să te binecuvânteze cu ziduri puternice și turnuri de veghe. 
 
@@ -40,7 +40,7 @@ Pentru primele câteva zile vei fi “peau de la bite”, așteptând tăcut în
 
 Pe măsură ce timpul trece și realizezi că atacurile nocturne nu sunt chiar cel mai oribil lucru din lume, îți investești monetarul în dezvoltarea urbei, aducând în joc noi construcții și inerent noi specializări pentru țărani. 
 
-![Dar deschideţi poarta... Turcii mă-nconjor...](gallery/unspecified.png)
+![Dar deschideţi poarta... Turcii mă-nconjor...](gallery/kingdom-1.jpg)
 
 După un anumit nivel o să devină disponibile ferme și coase, așa că agricultura va deveni principală sursă de venit, înlocuind vânatul. Bineînțeles arcașii nu vor înceta niciodată să vâneze atâta timp cât iepurii vor avea bârloguri pe pământurile tale sau în imediata lor vecinătate. 
 
@@ -52,6 +52,6 @@ Scopul jocului se schimbă de la a-ți păstra coroana de la o zi la alta la a �
 
 Nu voi vorbi de grafică, care ține mai mult de gusturile fiecăruia. Voi menționa un detaliu care mi-a plăcut enorm: regatul se află pe marginea unei ape în care se oglindesc toate viețuitoarele, iar în timpul ploilor stropii creează mici ripples în apă , distorsionând mai mult imaginea. 
 
-![Unde cură-n poale un râu mititel](gallery/tumblr_o0chgg4geO1qciqqno8_540.gif)
+![Unde cură-n poale un râu mititel](gallery/kingdom-2.gif)
 
 Per total e un joc destul de reușit, care totuși e tras un pic înapoi de cârja de care vorbeam mai sus. O dată ce ai avansat suficient de mult calendaristic și ai distrus majoritatea portalurilor, ultimul portal va genera aproape întotdeauna ceva apropiat de “Blood Moon” ceea ce duce aproape inevitabil la pierderea lentă a coroanei sau poate și mai rău de atât: la o remiză insuportabilă la capătul a câtorva ore de joc. ■
