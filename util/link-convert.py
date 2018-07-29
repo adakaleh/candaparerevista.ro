@@ -36,27 +36,37 @@ Scriptul trateaza sectiunile in mod diferit, astfel incat rezultatul difera:
 - la stiri va fi lasat textul stirii normal ca string simplu, iar la sfarsit numele site-ului cu link catre stirea originala
 - la articole titlul articolului va fi linkul, iar la sfarsitul liniei va fi trecut numele site-ului in paranteza, ca string simplu
 - articolele Made in Ro vor fi tratate precum stirile
-- articolele despre lansari/anunturi, oferte: TODO
+- articolele despre lansari/anunturi sunt tratate precum stirile
+- la articolele cu linkuri catre magazine de jocuri, linkurile vor fi inlocuite inline cu link markdown catre pagina respectiva,
+  iar pentru jocuri va fi trecut si pretul in euro in paranteza
 
 -------------------
 TODO
 -------------------
 Features:
-- ~~tratament diferentiat pentru fiecare sectiune (stirile au link pe numele site-ului, la sfarsit)~~
-- ~~dictionar site-uri pentru numele site-urilor~~
-- ~~linkuri multiple in aceeasi linie~~
-- de adaugat detectie pret jocuri din store pages pentru sectiunea pentru Oferte jocuri
+- (DONE) tratament diferentiat pentru fiecare sectiune (stirile au link pe numele site-ului, la sfarsit)
+- (DONE) dictionar site-uri pentru numele site-urilor
+- (DONE) linkuri multiple in aceeasi linie
+- (DONE) de adaugat detectie pret jocuri din store pages pentru sectiunea pentru Oferte jocuri
 - de tratat raspuns not OK la requests cand citim un url
 - de mutat ca web script in candaparerevista.ro/utils/ si apelat printr-un formular html
   sau de adaugat args parser daca il folosim local
 - de handluit terminatiile de linie / rstrip
 - de ignorat url-urile deja formatate pentru markdown (ex:  [text](http://url.com))
-- de testat si fixat ce ar mai trebui pentru a merge si in Python 2
-- de adaugat un indicator de progres pentru conversia normala (is_debug = False)
+- de testat si fixat ce ar mai trebui pentru a merge integral si in Python 2
+- de adaugat un indicator de progres pentru linii procesate + scriere
+- de mutat majoritatea metodelor de tipul "parseaza_nume" in Sectiuni, unde le e locul
 
 Bugs/issues:
-- la unele site-uri sunt probleme cu identficarea numelui pe Open Graph (ex: pcgamer) - detecteaza prea mult / nu detecteaza sfarsitul
+- la unele site-uri sunt probleme cu identficarea numelui pe Open Graph (ex: pcgamer) - detecteaza
+  prea mult / nu detecteaza sfarsitul (edit: s-ar putea sa fi rezolvat, mai trebuie teste)
 - nu detecteaza categoria Stiri cand e scrisa cu diacritice (dar la Romania merge ok)
+
+Alte observatii:
+- cautarea de text in paginile html nu e foarte robusta si o sa mai dea rateuri - se face cu cautari pe string cu regex;
+  ideal ar trebui folosita o librarie html care sa parseze DOM-ul (vezi BeautifulSoup), dar pentru scopurile noastre nu se justifica deocamdata
+- unele magazine de jocuri folosesc JS in proportie mai mare sau mai mica pentru generarea paginilor, asa incat unele
+  informatii nu vor fi disponibile in raspunsul html (ex: pretul la jocurile Humble, sau orice de pe Fanatical)
 """
 
 import sys
@@ -72,7 +82,7 @@ is_debug = False
 INPUT_FILE_DEFAULT = "input_links.txt" if not is_debug else "test_input_links.txt"
 OUTPUT_FILE = "rezultat_final_markdown.txt" if not is_debug else "test_rezultat_final_markdown.txt"
 
-DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEMA AICI</span>"
+DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEM</span>"
 
 SITEURI_CUNOSCUTE = {
     'idlethumbs': 'Idle Thumbs',    'pcgamer': 'PC Gamer',          'rockpapershotgun': 'RPS',
@@ -89,6 +99,15 @@ SITEURI_CUNOSCUTE = {
     'polygon': 'Polygon',           'guardian': 'The Guardian',
 }
 
+MAGAZINE = {
+    "steam"     : "store.steampowered.com",
+    "gog"       : "gog.com",
+    "humble"    : "humblebundle.com", # aici pretul e generat cu js, nu poate fi citit din html
+    "fanatical" : "fanatical.com",  # fanatical au tot site-ul generat cu js, nu putem citi mai nimic
+    "gmg"       : "greenmangaming",
+}
+
+EXCH_GBP_EUR = 1.13
 
 class RawLine(object):
     """
@@ -127,8 +146,8 @@ class Sectiune(RawLine):
         """
         return (linie.get_text() for linie in self.linii)
 
-    def make_markdown_link(self, link_nume, link_url):
-        return "[%s](%s)" % (link_nume, link_url)
+    def make_markdown_link(self, link):
+        pass
 
     def __str__(self):
         return ("type(%s) \n\tvalues(%d elements: %s)" % (type(self), len(self.linii), self.linii))
@@ -146,15 +165,15 @@ class SectiuneStire(Sectiune):
         for linie in self.linii:
             if (linie.are_linkuri()):
                 url_incepe     = linie.get_links()[0].start
-                # url_se_termina = linie.url_start + linie.url_end
-                # pm, ce greu se cheama o metoda din super in python 2
-                # text_rescris = linie.text[:url_incepe] + "(" + super(SectiuneStire, self).make_markdown_link(linie.site_nume, linie.url_link).rstrip() + ")" + linie.text[url_se_termina:].rstrip()
-                lista_sites = ", ".join([link.make_markdown_link(LinkInLinie.USE_SITE_NAME) for link in linie.get_links()])
+                lista_sites = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
                 text_rescris = linie.text[:url_incepe] + "(" + lista_sites + ")"
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
+
+    def make_markdown_link(self, link):
+        return "[%s](%s)" % (link.nume_site, link.url)
 
 
 class SectiuneArticole(Sectiune):
@@ -172,12 +191,15 @@ class SectiuneArticole(Sectiune):
         for linie in self.linii:
             if (linie.are_linkuri()):
                 url_incepe     = linie.get_links()[0].start
-                lista_articole = ", ".join([link.make_markdown_link(LinkInLinie.USE_TEXT) for link in linie.get_links()])
+                lista_articole = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
                 text_rescris = linie.text[:url_incepe] + lista_articole
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
+
+    def make_markdown_link(self, link):
+        return "[%s](%s) (%s) " % (link.text, link.url, link.nume_site)
 
 
 class SectiuneRomania(Sectiune):
@@ -190,7 +212,44 @@ class SectiuneAnunturiLansari(Sectiune):
 
 
 class SectiuneOferte(Sectiune):
-    pass
+
+    def adauga_linie(self, linie_noua):
+        self.linii.append(linie_noua)
+
+    def get_linii_formatate_pentru_output(self):
+        """
+        Citeste fiecare linie din lista si formateaza linkurile in format markdown, daca exista
+        Exemplu: '* [nume joc](link store page) (pret)'
+        """
+        lista_formatata = []
+
+        for linie in self.linii:
+            if (linie.are_linkuri()):
+                text_rescris = linie.get_text()
+                for link in linie.get_links():
+                    text_rescris = text_rescris.replace(link.url, self.make_markdown_link(link))
+                lista_formatata.append(text_rescris)
+            else:
+                lista_formatata.append(linie.get_text().rstrip())
+        return lista_formatata
+
+    def make_markdown_link(self, link):
+        # pentru pagina promotiei, afisam doar numele promotiei
+        if link.is_promo_page:
+            return "[%s](%s)" % (link.text, link.url)
+        # altfel afisam numele jocului cu pretul
+        else:
+            return "[%s](%s) (%s) " % (self.curata_caractere_nume_joc(link.text), link.url, link.pret_joc)
+
+
+    # TODO poate de inlocuit cu reduce() sau ceva echivalent
+    def curata_caractere_nume_joc(self, text):
+        bad_strings = ["®", "™"]
+        tmp_text = text
+        for bad in bad_strings:
+            tmp_text = tmp_text.replace(bad, "")
+
+        return tmp_text
 
 
 class SectiuneRecomandare(Sectiune):
@@ -223,7 +282,7 @@ class LinkInLinie(object):
     linkul in format markdown, ex:  "[text](http://url.com)"
     """
 
-    USE_SITE_NAME, USE_TEXT = range(2) # un fel de enum
+    USE_SITE_NAME, USE_TEXT, USE_GAME_NAME_PRICE = range(3) # un fel de enum
 
     def __init__(self, url, start, end):
         self.url = url
@@ -232,14 +291,14 @@ class LinkInLinie(object):
         self.text = DEFAULT_UNKNOWN_TEXT
         self.nume_site = DEFAULT_UNKNOWN_TEXT
 
-    def __str__(self):
-        return "Link: url(%s) (%d - %d), text(%s), site(%s)" % (self.url, self.start, self.end, self.text, self.nume_site)
+        # astea sunt folosite doar pentru linkurile de la store pages,
+        # poate ar trebui mutate intr-o subclasa (TODO)
+        self.is_promo_page = False
+        self.pret_joc = DEFAULT_UNKNOWN_TEXT
 
-    def make_markdown_link(self, tip):
-        if (tip == self.USE_TEXT):
-            return "[%s](%s) (%s) " % (self.text, self.url, self.nume_site)
-        else:
-            return "[%s](%s)" % (self.nume_site, self.url)
+    def __str__(self):
+        return "Link: url(%s) (%d - %d), text(%s), site(%s), is_promo(%s), pret(%s)" % \
+               (self.url, self.start, self.end, self.text, self.nume_site, self.is_promo_page, self.pret_joc)
 
 
 ### --------- SCRIPTUL INCEPE AICI --------- ###
@@ -258,6 +317,7 @@ def execute(linii_fisier):
 
     sectiune_curenta = None
 
+    # iteram si tratam fiecare linie in parte, apoi le adaugam in lista de mai sus
     for index, linie_curenta in enumerate(linii_fisier):
         # try:
             rezultat_parsare = parseaza_linie(linie_curenta, sectiune_curenta, index)
@@ -290,10 +350,7 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
     if linie_bruta[0:3] == "## ":
         # print()
         sect = get_sectiune(linie_bruta)
-        # print(sect)
-        # print("index %d, returning sectiune %s cu len = %d" % (index, type(sect), len(sect.linii)))
         return sect
-        # return get_sectiune(linie)
 
     # altfel inseamna ca avem o Linie
 
@@ -312,6 +369,7 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
         url = link.url
 
         if is_debug:
+            print("--------------------")
             print("sending request to url %s" % url)
 
         try:
@@ -334,11 +392,21 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
             titlu_articol = parseaza_titlu_articol(url, http_result.text)
             link.text = titlu_articol
 
+        elif isinstance(sectiune_curenta, SectiuneOferte):
+            link.is_promo_page = check_if_promo_page(url)
+
+            if (link.is_promo_page):
+                link.text = parseaza_nume_promo(url, http_result.text)
+            else:
+                link.text = parseaza_nume_joc(url, http_result.text)
+                link.pret_joc = parseaza_pret_joc(url, http_result.text)
+
         if is_debug:
             print("link parsat = %s" % link)
 
     # adaugam linia parsata in lista de linii a sectiunii curente
     sectiune_curenta.adauga_linie(linie_parsata)
+
     if is_debug:
         print("index %d, adaugat in SECT %s LINIA %s" % (index, type(sectiune_curenta.get_text()), linie_parsata.get_text().rstrip()))
 
@@ -377,14 +445,9 @@ def completeaza_urls(text, lista_linkuri):
         # gaseste sfarsit URL
         end = gaseste_terminator_char_pos(text, start)
 
-        if (is_debug):
-            print("end gasit la pozitia %d" % end)
-
         url = text[start:end]
 
         lista_linkuri.append(LinkInLinie(url=url, start=start, end=end))
-
-        # restul_textului = text[end:]
 
         # cauta recursiv in restul textului
         return completeaza_urls(text[end:], lista_linkuri)
@@ -424,21 +487,17 @@ def get_sectiune(linie):
 
 
 def parseaza_titlu_articol(url, text):
-    # pattern preluat si adaptat de aici: https://ubuntuforums.org/showthread.php?t=1215158
-    pattern_og = re.compile("\"og:title\" content=\" *(.*?)\" *\/>",re.DOTALL|re.M)
-    titluri = pattern_og.findall(text)
+    titluri = get_regex_og_title().findall(text)
 
-    if not (len(titluri)>0):
+    if not (len(titluri) > 0):
         # daca nu am gasit titlu Open Graph, cautam titlul normal
-        pattern_title = re.compile("<title>(.*?)<\/title>",re.DOTALL|re.M)
-        titluri = pattern_title.findall(text)
+        titluri = get_regex_html_title().findall(text)
 
-        if not (len(titluri)>0):
+        if not (len(titluri) > 0):
             titluri = [DEFAULT_UNKNOWN_TEXT]
 
     try:
         titlu = titluri[0]
-        # print("returning titlu len = %s" % len(titlu))
         return titlu
     except:
         print("EROARE cautare titlu in url %s, TITLURI = %s\n" % (url, titluri))
@@ -463,7 +522,160 @@ def parseaza_nume_site(url, text):
             return DEFAULT_UNKNOWN_TEXT
 
 
+def check_if_promo_page(url):
+    if MAGAZINE['steam'] in url:
+        # return "sale" in url
+        return "/app/" not in url
+
+    elif MAGAZINE['gog'] in url:
+        return "/promo/" in url
+
+    elif MAGAZINE['humble'] in url:
+        return "/store/promo/" in url
+
+    elif MAGAZINE['gmg'] in url:
+        return "/games/" not in url
+
+    else:
+        return False
+
+
+def parseaza_nume_promo(url, text):
+
+    def get_search_pattern():
+        if MAGAZINE['steam'] in url:
+            if "/search/" in url:
+                # paginile bazate pe search nu au titlul in <title>
+                return get_regex_css_class("pageheader")
+            else:
+                return get_regex_html_title()
+
+        elif MAGAZINE['gog'] in url:
+            return get_regex_css_class("header__title")
+
+        elif MAGAZINE['humble'] in url:
+            return get_regex_og_title()
+
+        elif MAGAZINE['gmg'] in url:
+            return get_regex_html_title()
+
+        else:
+            return None
+
+    def curata_nume_if_necessary(nume):
+        if MAGAZINE['humble'] in url:
+            bad_suffix = "| Humble Store"
+            if nume.endswith(bad_suffix):
+                print("unstripped nume = '%s'" % nume)
+                nume = nume[:-len(bad_suffix)]
+            # return nume.rstrip(" | Humble Store")
+                print("stripped nume = '%s'" % nume.strip())
+        return nume.strip()
+
+    nume_promo = search_regex(text, get_search_pattern())
+
+    return curata_nume_if_necessary(nume_promo)
+
+
+def parseaza_nume_joc(url, text):
+
+    def get_search_pattern():
+        if MAGAZINE['steam'] in url:
+            return get_regex_css_class("apphub_AppName")
+        elif MAGAZINE['gog'] in url:
+            return get_regex_css_class("header__title")
+        elif MAGAZINE['humble'] in url:
+            return get_regex_og_title()
+        elif MAGAZINE['gmg'] in url:
+            return get_regex_html_title()
+        else:
+            return None
+
+    def curata_nume_if_necessary(nume):
+        if MAGAZINE['humble'] in url:
+            bad_prefix = "Buy "
+            bad_suffix = " from the Humble Store"
+            if nume.startswith(bad_prefix):
+                nume = nume[4:]
+            if nume.endswith(bad_suffix):
+                nume = nume[:-len(bad_suffix)]
+
+        elif MAGAZINE['gmg'] in url:
+            bad_suffix = "| PC - Steam | Game Keys"
+            if nume.endswith(bad_suffix):
+                print("unstripped nume = '%s'" % nume)
+                nume = nume[:-len(bad_suffix)]
+                print("stripped nume = '%s'" % nume)
+
+        return nume.strip()
+
+    nume_joc = search_regex(text, get_search_pattern())
+    return curata_nume_if_necessary(nume_joc)
+
+
+def parseaza_pret_joc(url, text):
+
+    def get_start_pos():
+        start_pos = 0
+        # in functie de site, s-ar putea sa fie nevoie sa incepem cautarea de la alta pozitie, nu de la inceput
+
+        if MAGAZINE['steam'] in url:
+            start_pos = text.find("game_area_purchase_game_wrapper")
+
+        elif MAGAZINE['gog'] in url:
+            # la gog avem clasa "_price" si la pretul vechi si la pretul nou,
+            # de aceea trebuie sa vedem intai de unde incepe pretul nou
+            first_start = text.find("module module--buy")
+            if (first_start >= 0):
+                start_pos = first_start + text[first_start:].find("buy-price__new")
+
+        elif MAGAZINE['gmg'] in url:
+            start_pos = text.find('<p class="current-price">')
+
+        return start_pos if start_pos >= 0 else 0
+
+    def get_search_pattern():
+        if MAGAZINE['steam'] in url:
+            return get_regex_css_class("discount_final_price")
+        elif MAGAZINE['gog'] in url:
+            return get_regex_css_class("_price")
+        elif MAGAZINE['humble'] in url:
+            # pretul e generat pe loc cu js, nu exista in html
+            pass
+        elif MAGAZINE['gmg'] in url:
+            return re.compile("amount=\"product.price\">(.*?) ?<",re.DOTALL|re.M)
+        else:
+            return None
+
+    def curata_pret_if_necessary(pret):
+        if MAGAZINE['gog'] in url:
+            return (pret + "€").replace(".", ",")
+        elif MAGAZINE['gmg'] in url:
+            pret_cifre = pret.replace("&#163;", "").strip()
+            try:
+                pret_eur = float(pret_cifre) * EXCH_GBP_EUR
+                print("pret_eur:")
+                print(pret_eur)
+                return "aprox. " + ("%.2f€" % pret_eur).replace(".", ",")
+            except:
+                return pret_cifre
+        return pret.strip()
+
+    pret = search_regex(text[get_start_pos():], get_search_pattern())
+
+    return curata_pret_if_necessary(pret)
+
+
 ### --------- HELPERS --------- ###
+
+def search_regex(text, search_pattern):
+    if search_pattern:
+        search_result = search_pattern.findall(text)
+        if search_result and len(search_result)>0:
+            return search_result[0].strip()
+
+    return DEFAULT_UNKNOWN_TEXT
+
 
 def check_string_for_dict_key(haystack_string, needles_dict):
     for needle_key, needle_value in needles_dict:
@@ -473,6 +685,20 @@ def check_string_for_dict_key(haystack_string, needles_dict):
             return needle_value
 
     return 0
+
+
+def get_regex_og_title():
+    # pattern preluat si adaptat de aici: https://ubuntuforums.org/showthread.php?t=1215158
+    return re.compile("\"og:title\" content=\" ?(.*?)\" ?\/?>",re.DOTALL|re.M)
+
+
+def get_regex_html_title():
+    return re.compile("<title>(.*?)<\/title>",re.DOTALL|re.M)
+
+
+def get_regex_css_class(css_class_name):
+    pattern_string = "\"%s.*?\">(.*?)<\/" % css_class_name
+    return re.compile(pattern_string,re.DOTALL|re.M)
 
 
 def is_status_ok(response):
