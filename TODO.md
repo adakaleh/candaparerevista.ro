@@ -59,7 +59,7 @@
 
 #### Articole
 * [x] Licența materiale din `/content/posts`
-* [ ] Casetă tehnică joc si suport nota ?
+* [x] Casetă tehnică joc si suport nota ?
 * [x] Suport pentru aside (casete cu text adiţional)
 
 #### Autori
@@ -96,9 +96,10 @@
 * [ ] De folosit page resources pentru download
 
 ### Functionalitati suplimentare
-* [ ] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3) 
+* [x] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3)
 * [ ] Galerie de imagini
-* [ ] RSS fix/improv. (?)
+* [x] RSS limită
+* [ ] RSS improv: adăugare categorie la titlu sau RSS-uri separate
 * [ ] Search
 * [ ] Arhivă toate posturile
 * [ ] Dark theme

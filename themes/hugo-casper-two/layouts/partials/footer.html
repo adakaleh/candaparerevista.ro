@@ -5,9 +5,11 @@
       <span style="font-size: 0.8em; color: #555;">Construit cu <a href="https://gohugo.io/">Hugo</a> şi tema <a href="https://github.com/eueung/hugo-casper-two">Casper Two</a></span>
     </section>
     <nav class="site-footer-nav">
-        <a href="/">Latest Posts</a>
+        <!--a href="/">Latest Posts</a-->
+        {{with .Site.Params.linkForum}}<a href="{{.}}" target="_blank" rel="noopener">{{$.Site.Params.labelButonForum}}</a>{{end}}
         {{with .Site.Params.fbName}}<a href="https://www.facebook.com/{{.}}" target="_blank" rel="noopener">Facebook</a>{{end}}
         {{with .Site.Params.twitterName}}<a href="https://twitter.com/{{.}}" target="_blank" rel="noopener">Twitter</a>{{end}}
+        {{with .Site.Params.steamGroup}}<a href="https://steamcommunity.com/groups/{{.}}" target="_blank" rel="noopener">Steam</a>{{end}}
         {{with .Site.Params.githubName}}<a href="https://github.com/{{.}}" target="_blank" rel="noopener">GitHub</a>{{end}}
         {{with .Site.Params.RSSLink}}<a href="{{.Site.Params.RSSLink }}" target="_blank" rel="noopener">RSS</a>{{end}}
         {{if .Site.Params.RSSLink}}<a class="social-link rss-button" href="{{.Site.Params.RSSLink }}">RSS</a>
