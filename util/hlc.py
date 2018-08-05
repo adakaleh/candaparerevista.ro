@@ -97,7 +97,7 @@ SITEURI_CUNOSCUTE = {
     'gog.com': 'gog.com',           'steampowered.com': 'Steam',    'humblebundle.com/store': 'Humble Store',
     'gamesradar': 'GamesRadar+',    'venturebeat': 'VentureBeat',   'humblebundle': 'Humble Bundle',
     'avclub': 'A.V. Club',          'tedium': 'Tedium',             'hardcoregamer': 'Hardcore Gamer',
-    'polygon': 'Polygon',           'guardian': 'The Guardian',
+    'polygon': 'Polygon',           'guardian': 'The Guardian',     'engadget': 'Engadget',
 }
 
 MAGAZINE = {
@@ -349,7 +349,6 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
 
     # verifica daca avem Sectiune (heading 2)
     if linie_bruta[0:3] == "## ":
-        # print()
         sect = get_sectiune(linie_bruta)
         return sect
 
@@ -567,10 +566,7 @@ def parseaza_nume_promo(url, text):
         if MAGAZINE['humble'] in url:
             bad_suffix = "| Humble Store"
             if nume.endswith(bad_suffix):
-                print("unstripped nume = '%s'" % nume)
                 nume = nume[:-len(bad_suffix)]
-            # return nume.rstrip(" | Humble Store")
-                print("stripped nume = '%s'" % nume.strip())
         return nume.strip()
 
     nume_promo = search_regex(text, get_search_pattern())
@@ -604,9 +600,7 @@ def parseaza_nume_joc(url, text):
         elif MAGAZINE['gmg'] in url:
             bad_suffix = "| PC - Steam | Game Keys"
             if nume.endswith(bad_suffix):
-                print("unstripped nume = '%s'" % nume)
                 nume = nume[:-len(bad_suffix)]
-                print("stripped nume = '%s'" % nume)
 
         return nume.strip()
 
@@ -655,8 +649,6 @@ def parseaza_pret_joc(url, text):
             pret_cifre = pret.replace("&#163;", "").strip()
             try:
                 pret_eur = float(pret_cifre) * EXCH_GBP_EUR
-                print("pret_eur:")
-                print(pret_eur)
                 return "aprox. " + ("%.2f€" % pret_eur).replace(".", ",")
             except:
                 return pret_cifre
