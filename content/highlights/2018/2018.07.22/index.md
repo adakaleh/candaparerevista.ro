@@ -41,6 +41,7 @@ resources:
 * [What it's like to launch an indie game in 2018, hour-by-hour](https://www.pcgamer.com/what-its-like-to-launch-an-indie-game-in-2018-hour-by-hour/) (PC Gamer)
 * [Ghosts, cocaine, fistfights, porn, poop, and police - the untold stories of game development - VG247](https://www.vg247.com/2018/07/25/ghosts-toilets-cocaine-fistfights-porn-poop-police-untold-stories-game-development/) (VG247)
 * [Why competitive gaming is starting to look a lot like professional sports](https://www.theverge.com/2018/7/27/17616532/overwatch-league-of-legends-nba-nfl-esports) (The Verge)
+* [Game Companies Can Serve Communities or Customers, But Rarely Both] (https://waypoint.vice.com/en_us/article/43pndd/game-companies-can-serve-communities-or-customers-but-rarely-both) (Waypoint)
 
 #### _Not-a-review_
 * (Darkest Dungeon) [Two years later, Darkest Dungeon is completely different for the better](https://arstechnica.com/gaming/2018/07/two-years-later-darkest-dungeon-is-completely-different-for-the-better/) (Ars Technica)
