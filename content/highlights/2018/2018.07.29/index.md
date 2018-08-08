@@ -158,7 +158,7 @@ Jocul e extrem de accesibil și poate fi jucat de origine: "gameri înrăiți", 
 
 Linkuri:
 
-* [Site oficial](stardewvalley.net)
+* [Site oficial](www.stardewvalley.net)
 * Cumpără: [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/), [Humble Store](https://www.humblebundle.com/store/stardew-valley), [gog.com](https://www.gog.com/game/stardew_valley) (chiar și la preț întreg, jocul e ieftin pentru ce oferă)
 * [Discuţii pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1221)
 
