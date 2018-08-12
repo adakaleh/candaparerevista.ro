@@ -38,7 +38,8 @@ resources:
 * (video) [How different mediums influence storytelling](https://www.gamasutra.com/view/news/324251/Video_How_different_mediums_influence_storytelling.php) (Gamasutra)
 * [The Super-Fans of Detroit: Become Human Hate Most of the Game](http://www.kotaku.co.uk/2018/08/10/the-super-fans-of-detroit-become-human-hate-most-of-the-game) (Kotaku)
 * [Why Video Game Characters Almost Never Remove Their Clothes](http://www.kotaku.co.uk/2018/08/09/why-video-game-characters-almost-never-remove-their-clothes) (Kotaku)
-* [What Men and Women Consider Hardcore Gaming Are Not The Same](https://www.gamasutra.com/blogs/NickYee/20180802/323466/What_Men_and_Women_Consider_Hardcore_Gaming_Are_Not_The_Same.php) (Gamasutra)
+* [The Ups and Downs of Homeworld](https://www.gamasutra.com/blogs/JustinReeve/20180810/323720/The_Ups_and_Downs_of_Homeworld.php) (Gamasutra)
+* [Story Analysis - Part 3 - Nier & Bonus](https://www.gamasutra.com/blogs/NathanSavant/20180807/323803/Story_Analysis__Part_3__Nier__Bonus.php)(Gamasutra) (primele două părţi în [Retrospectiva de săptămâna trecută]({{< ref "/highlights/2018/2018.07.29/index.md#articole-critică-dev-design" >}}))
 
 
 ## Made în România
