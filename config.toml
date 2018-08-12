@@ -1,6 +1,6 @@
 # Merge si doar "/", dar e nevoie de baseUrl pentru a forma url-uri
 # absolute necesare pentru share pe facebook
-baseURL = "http://candaparerevista.ro/"
+baseURL = "https://candaparerevista.ro/"
 languageCode = "en-us"
 title = "Site-ul comunității LEVEL"
 theme = "hugo-casper-two"
