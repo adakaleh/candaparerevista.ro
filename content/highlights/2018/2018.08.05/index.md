@@ -5,7 +5,7 @@ date: 2018-08-12
 categories:
     - Highlights
 
-tags: [Retrospectiva săptămânii, Steam, Discord, Fallout 76, Fortnite, Walking Dead, Unavowed, Gibbous: A Cthulhu Adventure]
+tags: [Retrospectiva săptămânii, Steam, Discord, Fallout 76, Fortnite, Walking Dead, Unavowed, Gibbous]
 
 description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
 
@@ -21,7 +21,7 @@ resources:
 ## Ştiri
 * Discord anunță **The Discord Store**. ([Discord app blog](https://blog.discordapp.com/the-discord-store-beta-9a35596fdd4))
 * Blizzard confirmă oficial că are în lucru mai multe proiecte legate de Diablo. Primele detalii vor fi comunicate la sfârșitul anului. ([Ars Technica](https://arstechnica.com/gaming/2018/08/blizzard-confirms-multiple-diablo-projects-in-production-news-by-end-of-2018/))
-* Bethesda oferă mai multe detalii despre **Fallout 76**: varianta beta, care va fi lansată în octombrie, va fi disponibilă tuturor celor care au precomandat jocul, iar progresul jucătorilor se va transfera în varianta finală. Cel mai surprinzător e însă anunțul că **Fallout 76** nu va fi lansat pe Steam, ci va fi distribuit prin platforma proprie, bethesda.net. ([PC Gamer](https://www.pcgamer.com/fallout-76-wont-launch-on-steam/))
+* Bethesda oferă mai multe informații despre **Fallout 76**: varianta beta, care va fi lansată în octombrie, va fi disponibilă tuturor celor care au precomandat jocul, iar progresul jucătorilor se va transfera în varianta finală. Cel mai surprinzător e însă anunțul că **Fallout 76** nu va fi lansat pe Steam, ci va fi distribuit prin platforma proprie, bethesda.net. ([PC Gamer](https://www.pcgamer.com/fallout-76-wont-launch-on-steam/))
 * Nu doar cei de la Bethesda încearcă să renunțe la „the middle man”. **Fortnite** a fost scos de pe Google Play, Tim Sweeney de la Epic calificând ca fiind „disproporționat” comisionul de 30% perceput de cei de la Google. ([Pocket Gamer](https://www.pocketgamer.biz/news/68713/epic-tim-sweeney-interview-fortnite-bypasses-google-play/))
 * În așteptarea sezonului final din **The Walking Dead**, de la Telltale vine **Story Builder**, o aplicație care vă permite să reconstituiți deciziile luate de-a lungul seriei. Ulterior, acestea vor putea fi importate în noul joc. ([PC Gamer](https://www.pcgamer.com/the-walking-deads-story-builder-lets-you-re-make-all-your-tough-decisions-before-final-season/))
 * Ubisoft renunță la dezvoltarea lui **Steep** pe Nintendo Switch. ([Twitter](https://twitter.com/Steep_Game/status/1027527193528856576?s=09))
@@ -31,6 +31,7 @@ resources:
 
 
 ## Articole (critică, dev, design)
+* [Cyber Demons | The AI of DOOM (2016)](https://www.gamasutra.com/blogs/TommyThompson/20180806/323715/Cyber_Demons__The_AI_of_DOOM_2016.php) (Gamasutra)
 * [The daunting aftermath of releasing your dream game, as told by the devs of Stardew Valley, Owlboy, and more](https://www.pcgamer.com/the-daunting-aftermath-of-releasing-your-dream-game-as-told-by-the-devs-of-stardew-valley-owlboy-and-more/) (PC Gamer)
 * (video) [Why Japan's Gaming Bars are Fighting for Survival](https://www.youtube.com/watch?v=pyPW4g6H66w) (Super Bunnyhop)
 * [Exclusive Interview with Larian Studios Kieron Kelly and Edouard](http://invisioncommunity.co.uk/exclusive-interview-with-larian-studios-keiron-kelly-and-edouard/) (Invision Game Community)
@@ -38,7 +39,6 @@ resources:
 * [The Super-Fans of Detroit: Become Human Hate Most of the Game](http://www.kotaku.co.uk/2018/08/10/the-super-fans-of-detroit-become-human-hate-most-of-the-game) (Kotaku)
 * [Why Video Game Characters Almost Never Remove Their Clothes](http://www.kotaku.co.uk/2018/08/09/why-video-game-characters-almost-never-remove-their-clothes) (Kotaku)
 * [What Men and Women Consider Hardcore Gaming Are Not The Same](https://www.gamasutra.com/blogs/NickYee/20180802/323466/What_Men_and_Women_Consider_Hardcore_Gaming_Are_Not_The_Same.php) (Gamasutra)
-* [Cyber Demons | The AI of DOOM (2016)](https://www.gamasutra.com/blogs/TommyThompson/20180806/323715/Cyber_Demons__The_AI_of_DOOM_2016.php) (Gamasutra)
 
 
 ## Made în România
