@@ -5,7 +5,7 @@ date: 2018-08-12
 categories:
     - Highlights
 
-tags: [Retrospectiva săptămânii, Steam]
+tags: [Retrospectiva săptămânii, Steam, Discord, Fallout 76, Fortnite, Walking Dead, Unavowed, Gibbous: A Cthulhu Adventure]
 
 description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
 
