@@ -49,7 +49,7 @@
 
 ### Pagini taguri/categorii
 * [ ] ~~De testat înălțime header cu multe categorii / taguri~~
-* [ ] De unit tags şi categorii într-o singură categorie, cu un singur nav link
+* [x] De unit tags şi categorii într-o singură categorie, cu un singur nav link
 
 ### Mobile
 * [ ] Fix layout carduri prev/next
@@ -91,7 +91,7 @@
 ### Cod
 * [ ] De eliminat `singleViewStyle = "casper"` din config, condiţiile din cod `{{if ne .Site.Params.singleViewStyle "casper"}}` şi layout-urile aferente, că nu ne trebuie
 * [ ] De testat si modificat daca e cazul parţialul `meta-twitter`; de modificat parţialul `meta-facebook` să setăm, dacă se poate, `og:image:width` şi `og:image:height` (vezi https://developers.facebook.com/docs/sharing/best-practices/#precaching)
-* [ ] De eliminat citirea variabilei `.Params.image`, pe care nu o mai folosim după ce am introdus page resources (o eliminam sau o pastram pe post de override?)
+* [ ] De schimbat utilizarea `.Params.image`, pe care nu o mai folosim după ce am introdus page resources - de folosit pe post de override cand nu vrem sa folosim resources (ex: pentru GIF-uri); asta e comportamentul acum pentru cover, dar trebuie un parametru asemanator si pentru card thumb
 * [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 * [ ] De folosit page resources pentru download
 
