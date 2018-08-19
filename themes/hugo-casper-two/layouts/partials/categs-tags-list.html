@@ -1,0 +1,12 @@
+<!-- Sunt mai multe taxonomii, dar ne intereseaza doar categoriile si tags -->
+<div class="taxonomy-list">
+  {{ range $taxonomyName := slice "categories" "tags" }}
+  <h2>{{ $taxonomyName | title }} </h2>
+  <section>
+    {{ $taxonomy := index $.Site.Taxonomies $taxonomyName }}&#x2F;&nbsp;
+    {{ range $key, $value := $taxonomy }}
+    <a href="{{ "/" | relLangURL}}{{ $taxonomyName }}/{{ $key | urlize }}">{{ $key }}</a> ({{$value.Count}})&nbsp;&#x2F;&nbsp;
+    {{ end }}
+  </section>
+  {{ end }}
+</div>

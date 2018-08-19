@@ -27,13 +27,18 @@
     {{else}}
       <div class="post-feed">
 
-        <!-- Pentru pagina autorilor afisam un layout diferit, cu carduri pentru fiecare autor -->
+        <!-- Afisam un layout diferit pentru fiecare tip de taxonomie -->
         {{ if eq .Section "authors" }}
+          <!-- Pentru pagina autorilor afisam un layout cu carduri pentru fiecare autor -->
           {{ partial "authors-list" . }}
 
-        <!-- Altfel afisam lista normala cu 3 posturi random pentru termeni-->
         {{ else }}
-          {{ partial "post-list-term" . }}
+          <!-- Iar pentru categorii si tags doar o lista si un count cu numarul de articole -->
+          {{ partial "categs-tags-list.html" . }}
+
+          <!-- Initial aici era afisata o lista cu 3 posturi random pentru termeni, dar nu o mai folosim -->
+          {{/* partial "post-list-term" . */}}
+
         {{ end }}
       </div>
     {{end}}

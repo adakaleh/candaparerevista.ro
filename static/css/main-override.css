@@ -270,6 +270,15 @@ a {
   max-height: 400px;
 }*/
 
+/* lista categorii si tags */
+.post-feed .taxonomy-list:first-child {
+    width: 100%;
+}
+
+.post-feed .taxonomy-list h2 {
+    font-size: 2.8rem;
+}
+
 /* card autori din pagina /authors */
 .post-card .author-card-image {
     width: 120px;

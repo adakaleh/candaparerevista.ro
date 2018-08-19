@@ -39,8 +39,15 @@
     </nav>
 
     <div class="site-header-content">
-        <h1 class="site-title">{{.Title | title}}</h1>
+        {{if eq .Section "authors" }}
+          <h1 class="site-title">Autori</h1>
+        {{else}}
+          <h1 class="site-title">Articole</h1>
+        {{end}}
 
+        {{/*}}
+        <!-- Nu mai folosim titlul si subtitlul originale -->
+        <h1 class="site-title">{{.Title | title}}</h1>
         <h2 class="site-description">
           <!-- In pagina /authors nu mai afisam sumarul cu nume + count,
           pentru ca afisam carduri cu numele fiecarui autor -->
@@ -51,6 +58,7 @@
             {{ end }}
           {{ end }}
         </h2>
+        {{*/}}
     </div>
   </div>
 </header>
