@@ -9,10 +9,8 @@ tags: [Retrospectiva săptămânii, Arkane, Steam, Elder Scrolls, Bard’s Tale,
 
 description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
 
-cardImage: highlights/2018/2018.08.12/images/bards-tale-card.gif
-
 resources:
-  - src:
+  - src: images/bards-tale-card.jpg
     name: "card-cover-image"
 
   - src:
