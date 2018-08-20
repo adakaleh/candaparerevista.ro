@@ -9,7 +9,7 @@ tags:
     - Battletoads
 
 sursa:
-   link: https://forum.candaparerevista.ro/viewtopic.php?f=59&t=1402&p=58825&hilit=battletoads#p58825
+   link: https://forum.candaparerevista.ro/viewtopic.php?f=59&t=1402&p=58825#p58825
    text: "Game Draft XI: Hate Draft / N2CE - Game Draft Special Edition"
    data: 2017-01-02
  
