@@ -1,8 +1,7 @@
 {{$isBlogPage := eq .Section "blog"}}
 {{$blogPostCssClass := cond $isBlogPage "blog" "" }}
 
-<article class="post-full {{ $blogPostCssClass }} post">
-
+<article class="post-full {{ .Section }} post">
     {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
     {{$authorName := $author.name  }}
     {{$authorThumbnail := $author.thumbnail  }}
