@@ -7,7 +7,7 @@ categories:
 
 tags: [Retrospectiva săptămânii, Arkane, Steam, Elder Scrolls, Bard’s Tale, Vampyr, Bethesda, Uncharted, IGN, World of Warcraft, Gone Home, GTA, PES, City of Heroes]
 
-description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
+description: 'Valve lucrează la un concurent pentru Twitch, vom avea un film Uncharted și un serial Vampyr, s-a lansat World of Warcraft: Battle for Azeroth, plus multe alte articole și oferte de jocuri. Plus niște jocuri românești care au nevoie de atenția voastră. Iar la recomandarea săptămânii avem un joc vechi... pardon, "unul dintre cele mai bune RPG-uri din istorie", în straie moderne.'
 
 resources:
   - src: images/bards-tale-card.jpg

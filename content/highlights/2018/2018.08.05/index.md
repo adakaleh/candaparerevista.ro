@@ -7,7 +7,7 @@ categories:
 
 tags: [Retrospectiva săptămânii, Steam, Discord, Fallout 76, Fortnite, Walking Dead, Unavowed, Gibbous]
 
-description: "_Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața."
+description: "Bethesda renunță la Steam, Epic renunță la Google Play, mult așteptatele Dead Cells și We Happy Few ies din Early Access, iar adventure-ul românesc Gibbous are trailer oficial și pagină de steam. Și nu în ultimul rând, a ieșit Unavowed, pe care Azad, aventurierul nostru de serviciu, îl recomandă călduros."
 
 resources:
   - src: images/unavowed-card.jpg
