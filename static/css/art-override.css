@@ -416,6 +416,36 @@
     max-width: 47%;
 }
 
+/* --- formatare separata highlights posts --- */
+.highlights .post-full-title,
+.highlights .post-full-subtitle,
+.highlights .post-full-content {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.highlights .post-full-content {
+    font-size: 1.6rem;
+}
+
+.highlights h2 {
+    /* acelasi stil ca la caseta-tehnica-title */
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2em;
+    line-height: 2em;
+    text-transform: uppercase;
+    /*color: #fff;*/
+    /*background-color: rgba(0,0,0,0.7);*/
+    border-top: 1px solid rgba(0,0,0,0.7);
+    border-bottom: 1px solid rgba(0,0,0,0.7);
+}
+
+.highlights h3, .highlights h3 em {
+    font-family: 'Merriweather Sans', sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 0.5em;
+}
 
 /* --- caseta tehnica rating/nota --- */
 

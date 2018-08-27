@@ -55,7 +55,7 @@ Features:
 - de handluit terminatiile de linie / rstrip
 - de ignorat url-urile deja formatate pentru markdown (ex:  [text](http://url.com))
 - de testat si fixat ce ar mai trebui pentru a merge integral si in Python 2
-- de adaugat un indicator de progres pentru linii procesate + scriere
+- (PARTIAL) de adaugat un indicator de progres pentru linii procesate + scriere; Update: de adaugat space padding la linia de progress si un nume pentru sectiune
 - de mutat majoritatea metodelor de tipul "parseaza_nume" in Sectiuni, unde le e locul
 
 Bugs/issues:
@@ -98,6 +98,10 @@ SITEURI_CUNOSCUTE = {
     'gamesradar': 'GamesRadar+',    'venturebeat': 'VentureBeat',   'humblebundle': 'Humble Bundle',
     'avclub': 'A.V. Club',          'tedium': 'Tedium',             'hardcoregamer': 'Hardcore Gamer',
     'polygon': 'Polygon',           'guardian': 'The Guardian',     'engadget': 'Engadget',
+    'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz'
+    'techraptor': 'TechRaptor',     'phoronix': 'Phoronix',         'wccftech': 'Wccf tech',
+    'bloomberg': 'Bloomberg',       'medium.com':'Medium',          'filfre.net': 'The Digital Antiquarian',
+    'usgamer': 'USgamer',           'gematsu': 'Gematsu',
 }
 
 MAGAZINE = {
@@ -106,9 +110,10 @@ MAGAZINE = {
     "humble"    : "humblebundle.com", # aici pretul e generat cu js, nu poate fi citit din html
     "fanatical" : "fanatical.com",  # fanatical au tot site-ul generat cu js, nu putem citi mai nimic
     "gmg"       : "greenmangaming",
+    "origin"    : "origin.com"
 }
 
-EXCH_GBP_EUR = 1.13
+EXCH_GBP_EUR = 1.1
 
 class RawLine(object):
     """
@@ -323,6 +328,10 @@ def execute(linii_fisier):
         # try:
             rezultat_parsare = parseaza_linie(linie_curenta, sectiune_curenta, index)
 
+            # track progress
+            nume_sectiune = type(sectiune_curenta).__name__[len("Sectiune"):]
+            print("%d/%d (%s)" % (index + 1, len(linii_fisier), nume_sectiune), end='\r')
+
             # daca am parsat o sectiune, verificam daca e diferita de sectiunea curenta, caz in care
             # o setam pe aceasta ca noua sectiune curenta si o adaugam la lista
             if isinstance(rezultat_parsare, Sectiune):
@@ -338,6 +347,8 @@ def execute(linii_fisier):
         #     print("EROARE parsare la linia %d: %s" % (index, e))
 
     # scrie rezultat in fisier
+    print()
+    print("Scrie fisier...")
     if is_debug:
         # afiseaza_fisier(document_parsat)
         scrie_fisier(document_parsat)
