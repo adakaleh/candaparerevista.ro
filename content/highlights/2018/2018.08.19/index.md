@@ -109,6 +109,8 @@ Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (R
 * **Commands & Colors: Ancients** ([PC Gamer](https://www.pcgamer.com/commands-and-colors-ancients-brings-roman-warfare-to-steam-by-end-of-august/))
 * **Spintires: Mudrunner 2** ([PC Gamer](https://www.pcgamer.com/spintires-mudrunner-the-ultra-niche-off-road-driving-sim-is-getting-a-sequel/), [VentureBeat](https://venturebeat.com/2018/08/20/spintires-mudrunner-gets-a-sequel-that-will-deform-terrain-even-harder/))
 * **The Waylanders**, un RPG medieval fantasy la care lucrează și Mike Laidlaw (fost scenarist la Bioware pentru Dragon Age) ([RPG Codex](http://www.rpgcodex.net/forums/index.php?threads/the-waylanders-is-a-historical-time-travel-rpg-inspired-by-dragon-age-origins.123489/), [Shacknews](https://www.shacknews.com/article/106857/gato-salvaje-studio-announces-new-medieval-fantasy-rpg-the-waylanders), [PC Gamer](https://www.pcgamer.com/first-look-at-the-waylanders-a-time-travel-rpg-inspired-by-the-likes-of-dragon-age-origins/), [VG247](https://www.vg247.com/2018/08/20/mike-laidlaw-working-waylanders-time-travel-rpg/))
+* **Anno 1800** ([Destructoid](https://www.destructoid.com/city-builder-anno-1800-looks-like-a-nice-change-of-pace-519167.phtml))
+
 
 ### Acum cu dată de lansare
 * 28 august: **Strange Brigade** ([Games Informer](https://www.gameinformer.com/preview/2018/08/23/go-exploring-with-friends))
@@ -123,7 +125,6 @@ Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (R
 
 ### Amânate
 * **Bloodstained**: 2019 în loc de 2018 (iniţial 2017) ([Games Informer](https://www.gameinformer.com/2018/08/20/bloodstained-delayed-to-2019-vita-version-cancelled))
-* **Anno 1800**: 26 februarie 2019 în loc de „iarna 2018” ([Destructoid](https://www.destructoid.com/city-builder-anno-1800-looks-like-a-nice-change-of-pace-519167.phtml))
 * **Metal Wolf Chaos XD**: mijlocul lui 2019 în loc de 2018 ([Destructoid](https://www.destructoid.com/metal-wolf-chaos-xd-delayed-to-mid-2019-519149.phtml))
 
 
