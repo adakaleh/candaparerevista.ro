@@ -551,3 +551,9 @@
 
 .pluses li:before { content: "+"; }
 .minuses li:before { content: "–"; }
+
+.post-full-content code {
+    padding: 0 5px 0;
+    font-size: 1.1em;
+    line-height: 1em;
+}
