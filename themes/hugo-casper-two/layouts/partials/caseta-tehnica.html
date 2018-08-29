@@ -5,15 +5,17 @@
     {{ if or .nota .verdict .plusuri .minusuri }}
     <div class="caseta-tehnica-section nota-plus-minus">
 
-      <div class="rating">
-        {{ with .nota }}
-        <p class="nota">{{ . }}</p>
-        {{ end }}
+      {{ if or .nota .verdict}}
+        <div class="rating">
+          {{ with .nota }}
+          <p class="nota">{{ . }}</p>
+          {{ end }}
 
-        {{with .verdict}}
-        <p class="verdict">{{ . }}</p>
-        {{end}}
-      </div>
+          {{with .verdict}}
+          <p class="verdict">{{ . }}</p>
+          {{end}}
+        </div>
+      {{ end }}
 
       {{with .plusuri}}
       <div class="pluses">
