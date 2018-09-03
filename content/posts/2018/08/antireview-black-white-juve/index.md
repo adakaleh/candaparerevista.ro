@@ -10,7 +10,7 @@ tags:
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=59&t=1402&p=60214#p60214
-   text: "Game Draft XI: Hate Draft / N2CE - Game Draft Special Edition"
+   text: "Game Draft XIV: Hate Draft / N2CE - Game Draft Special Edition"
    data: 2017-01-18
  
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=59&t=1402
