@@ -361,7 +361,7 @@ a {
     margin: 1em 1em 0;
     background: #fff;
     max-width: 650px;
-    background-image: url("http://localhost:1313/img/whitepaper.png");
+    background-image: url('../img/whitepaper.png');
     line-height: 1.3em;
 }
 

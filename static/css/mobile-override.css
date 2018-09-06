@@ -88,4 +88,8 @@
         min-height: 10vh;
         height: 30vh;
     }
+
+    .post-full-content .figure-gallery-ext figure {
+        flex: 1 1 100%;
+    }
 }
