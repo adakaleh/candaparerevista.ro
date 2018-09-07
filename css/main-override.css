@@ -1,0 +1,392 @@
+/* -------------------------*/
+/* ------ front page ------ */
+/* -------------------------*/
+
+/* --- setari generale main & article --- */
+
+html {
+    font-size: 55%;
+}
+
+body {
+    background-image: url('../img/blackpaper_w_yellowish.jpg');
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+a {
+    transition: 0.2s color ease;
+}
+
+.home-template .site-main {
+    padding: 0.5vw 4vw;
+}
+
+/* --- header --- */
+
+.site-header {
+    background-image: url('../img/blackpaper_b_lighter.jpg');
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+
+.site-header-content {
+    padding: 1vw;
+    min-height: 150px;
+    max-height: 200px;
+}
+
+.site-logo {
+    max-height: 90%;
+}
+
+.site-description {
+    /*border-top: 2px solid #fff;*/
+    /*border-bottom: 2px solid #fff;*/
+    font-size: 1.7rem;
+    font-style: italic;
+}
+
+.site-nav {
+    font-size: 100%;
+}
+
+.site-nav-left {
+    padding-bottom: 0;
+}
+
+.forum-button {
+
+}
+
+.contribuie-button {
+    display: block;
+    padding: 4px 10px;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 1em;
+    border-radius: 10px;
+    opacity: .8
+}
+
+.contribuie-button:hover {
+    text-decoration: none;
+    opacity: 1
+}
+
+/* --- body --- */
+
+/* container principal continut */
+.inner {
+    margin: 0 auto;
+    max-width: 1400px;
+    width: 100%
+}
+
+@media (min-width: 900px) {
+    .author-template .post-feed, .home-template .post-feed, .tag-template .post-feed {
+        /* margin-top: 10px; */
+        margin-top: 1em;
+        padding-top: 0
+    }
+
+    .home-template .site-nav {
+        position: relative;
+        /* top: 10px */
+        top: 1em;
+    }
+}
+
+/* --- carduri --- */
+
+/* main card */
+@media (min-width: 795px) {
+    .home-template .post-feed .first-card  {
+        -ms-flex: 1 1 70%;
+        flex: 1 1 70%;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        max-width: 100%;
+    }
+
+    /* main card image */
+    .home-template .post-feed .first-card .post-card-image-link {
+        position: relative;
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+        border-radius: 5px 0 0 5px
+    }
+
+    .home-template .post-feed .first-card .post-card-image {
+        position: absolute;
+        width: 100%;
+        height: 100%
+    }
+
+    /* main card content */
+    .home-template .post-feed .first-card .post-card-content {
+        /*flex: 0 1 357px;*/
+        flex: 0 1 38%;
+    }
+
+    .home-template .post-feed .first-card h2 {
+        font-size: 2.6rem
+    }
+
+    .home-template .post-feed .first-card p {
+        font-size: 1.6rem;
+        line-height: 1.55em
+    }
+
+    .home-template .post-feed .first-card .post-card-content-link {
+        padding: 0.8em 1.5em 0.5em;
+    }
+
+    /* main card footer */
+    .home-template .post-feed .first-card .post-card-meta {
+        border-top: 1px solid rgba(128, 128, 128, 0.2);
+        /*padding: 0.5em 2em 1em;*/
+        padding: 0.7em 1.5em;
+    }
+}
+
+/* normal cards */
+.post-card {
+    -ms-flex: 1 1 250px;
+    flex: 1 1 250px;
+    margin: 0 10px 20px;
+    max-width: 700px; /* jumatate din max-width de la .inner */
+
+    /*border: solid 1px lightgray;*/
+    /*border: 1px solid rgba(128,128,128, 0.4);*/
+    box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);
+
+    -webkit-background-clip: padding-box; /* for Safari */
+    background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
+    background-color: rgba(255, 250, 245, 0.7);
+    background-image: url('../img/whitepaper.png');
+    background-size: auto;
+}
+
+.post-card:hover {
+    /*transform: translate3D(0, -5px, 0)*/
+    transition: all .15s ease;
+    transform: initial;
+}
+
+/* normal cards image */
+.post-card-image-link {
+
+}
+
+/* normal cards continut container */
+.post-card-content {
+
+}
+
+.post-card-content-link {
+    /*padding: 25px 25px 0;*/
+    padding: 0.5em 1.5em 0;
+    color: rgba(0, 0, 0, .75);
+}
+
+.post-card-categories {
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    font-size: 1.2rem;
+    margin-bottom: 1em;
+}
+
+.post-card-categories .featured {
+    font-weight: bold;
+    color: darkred;
+    /*text-shadow:*/
+    /*-1px -1px 0 gold,*/
+    /*1px -1px 0 gold,*/
+    /*-1px 1px 0 gold,*/
+    /*1px 1px 0 gold;*/
+}
+
+.post-card-categories span {
+    padding: 0 0.5em;
+}
+
+.post-card-tags {
+    margin-bottom: 1em;
+    color: rgba(128, 128, 128, 0.8);
+    font-size: 1.05rem;
+}
+
+.post-card-subtitle {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #738a94;
+    font-size: 1.3rem;
+    line-height: 1.15em;
+    font-weight: 500;
+    letter-spacing: .5px;
+    text-transform: uppercase
+}
+
+/* text card */
+.post-card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.post-card-excerpt p {
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-bottom: 1em;
+    line-height: 1.4em;
+    font-size: 1.4rem;
+    font-weight: 300;
+}
+
+/* normal cards footer (autor, data) */
+.post-card-meta {
+    border-top: 1px solid rgba(128, 128, 128, 0.2);
+    padding: 0.7em 1.5em;
+    display: flex;
+    line-height: 1em;
+}
+
+/* autor card */
+.author-profile-image {
+    /*flex: 1 1 auto;*/
+}
+
+.post-card-author {
+    display: block;
+}
+
+.post-card-date {
+    /*margin-bottom: 1em;*/
+    color: rgba(128, 128, 128, 0.8);
+    font-size: 1.1rem;
+}
+
+/*.post-feed article {
+  max-height: 400px;
+}*/
+
+/* lista categorii si tags */
+.post-feed .taxonomy-list:first-child {
+    width: 100%;
+}
+
+.post-feed .taxonomy-list h2 {
+    font-size: 2.8rem;
+}
+
+/* card autori din pagina /authors */
+.post-card .author-card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin: 1em auto;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.post-card .author-card-name {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* caseta descriere autor din pagina /authors/<author-name> */
+.author-description {
+    /* suprascriere proprietati de la .post-full-content */
+    margin: 0;
+    margin: -2em auto 2em!important;
+    padding: 0;
+    padding: 3em!important;
+    min-height: 100px!important;
+    max-width: 1240px!important;
+}
+
+.author-description:after, .author-description:before {
+    height: 3vw!important;
+}
+
+/* card blog/stiri */
+.blog-card {
+    /* modificare proprietati mostenite de la post-card */
+    -ms-flex: 1 1 350px;
+    flex: 1 1 350px;
+
+    border: 1px solid rgba(10, 10, 10, 1);
+
+    /* dezactivare proprietati mostenite de la post-card */
+    box-shadow: none;
+    border-radius: 0;
+
+    /* proprietati noi */
+    padding-bottom: 1em;
+    background: none;
+    background-color: rgba(62, 176, 239, 0.1);
+    /*font-family: Georgia, serif;*/
+}
+
+.blog-card-content-link,
+.blog-card-content-link:hover {
+    color: rgba(0, 0, 0, .7);
+    text-decoration: none;
+}
+
+.blog-card-label {
+    text-transform: uppercase;
+    /*font-weight: bold;*/
+    color: rgba(255, 250, 245, 0.8);
+    width: 100%;
+    background-image: url('../img/blackpaper_b_lighter.jpg');
+    opacity: 0.9;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 3em;
+}
+
+.blog-card-label:hover {
+    color: #fff;
+}
+
+.blog-post {
+    /* umple tot spatiul vertical din blog-card */
+    flex-grow: 1;
+
+    padding: 0.5em 1em 0;
+    border-left: 0.6em solid rgba(0, 0, 0, 0.6);
+    box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);
+    margin: 1em 1em 0;
+    background: #fff;
+    max-width: 650px;
+    background-image: url('../img/whitepaper.png');
+    line-height: 1.3em;
+}
+
+.blog-post:hover {
+    /*transform: translate3D(0, -5px, 0)*/
+    box-shadow: none;
+    transition: all .15s ease;
+    transform: initial;
+}
+
+/* link colorat diferit doar pe prima pagina */
+/*.blog-card a {*/
+    /*color: rgba(124, 31, 28, 1);*/
+/*}*/
+
+.blog-post h2 {
+    font-size: 1.7rem;
+    margin: 0.5em 0;
+}
+
+.blog-post p {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.blog-post .post-card-date {
+    text-align: right;
+}

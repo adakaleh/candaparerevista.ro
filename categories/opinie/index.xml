@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinie on Site-ul comunității LEVEL</title>
+    <link>https://candaparerevista.ro/categories/opinie/</link>
+    <description>Recent content in Opinie on Site-ul comunității LEVEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 May 2018 20:00:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://candaparerevista.ro/categories/opinie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jocuri și recenzii retro</title>
+      <link>https://candaparerevista.ro/posts/2018/05/opinie-retro-terminologie-nervozix/</link>
+      <pubDate>Sun, 20 May 2018 20:00:08 +0200</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/05/opinie-retro-terminologie-nervozix/</guid>
+      <description>Observ în ultimul timp prin secțiuni de comment-uri sau forumuri, chiar și în clipuri și recenzii, o sinonimie eronată între „retro” și „vechi”, în mare parte din cauza scenei indie retro ce folosește termenul aiurea. Așa că hai să facem puțină ordine în terminologiile noastre, să ne înțelegem ca niște oameni, nu ca niște animale (pentru cea din urmă avem oricând secția de comment-uri pe YouTube).</description>
+    </item>
+    
+  </channel>
+</rss>
