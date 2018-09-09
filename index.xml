@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 2-8 septembrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.09.02/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.09.02/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
+    </item>
     
     <item>
       <title>Revistele lunii septembrie 2018</title>
@@ -139,15 +148,6 @@ Ne-am bucura dacă v-aţi înscrie. Ne-am propus să încercăm să organizăm p
       
       <guid>https://candaparerevista.ro/posts/2018/08/lunea-incepe-sambata-na-belea/</guid>
       <description>Ne-am cunoscut în primăvara lui ’94. Eu eram un puști dolofan de treisprezece ani și aveam un pulover mov cu buline galbene și roșii pe care-l purtam în fiecare joi în speranța că vreun coleg mai neîndemânatic îl va stropi cu acid clorhidric. El avea numărul atomic 11 și zăcea trist și singur într-un borcan, acoperit de o carapace dură și rece de staniol.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 22-28 iulie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.07.22/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.07.22/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
     </item>
     
   </channel>
