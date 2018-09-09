@@ -40,6 +40,8 @@ resources:
 * [After a rough few years, anti-tamper specialist Denuvo says things are "back on track"](https://www.pcgamesinsider.biz/feature/67719/after-a-rough-few-years-anti-tamper-specialist-denuvo-says-things-are-back-on-track/) (PC Games Insider)
 * [What is an RPG?](https://remptongames.com/2018/09/01/what-is-an-rpg/) (Rempton Games)
 * [Centuries Ago The Dark Lord: when and how to dump](http://www.gamasutra.com/blogs/ALEXISKENNEDY/20180830/325500/Centuries_Ago_The_Dark_Lord_when_and_how_to_dump.php) (Gamasutra)
+* [Are RPG Maker games as bad as people think?](https://www.eurogamer.net/articles/2018-09-01-are-rpg-maker-games-as-bad-as-people-think) (Eurogamer)
+* [The Videogame Industry Reaches for the Cloud](https://www.barrons.com/articles/the-videogame-industry-reaches-for-the-cloud-1535155282) (Barron's)
 
 ### _Not-a-review_
 * (Unavowed) [Off the Grid: Unavowed](http://www.haywiremag.com/columns/off-the-grid-unavowed/) (Haywire Magazine)
@@ -60,6 +62,8 @@ resources:
 ### Istorie
 * [Retro computer games that Eastern Europe played as Iron Curtain fell](https://www.zdnet.com/pictures/photos-retro-computer-games-that-eastern-europe-played-as-iron-curtain-fell/) (ZDnet)
 * [The Oral History of Treyarch's Spider-Man 2: One of the Best Superhero Games Ever](https://www.usgamer.net/articles/treyarch-spider-man-2-oral-history-superhero-game) (US Gamer)
+* [The Twenty-Five-Year Journey of Magic: The Gathering](https://www.newyorker.com/culture/culture-desk/the-twenty-five-year-journey-of-magic-the-gathering) (New Yorker)
+* [What is cyberpunk?](https://www.polygon.com/features/2018/8/30/17796680/cyberpunk-2077-history-blade-runner-neuromancer) (Polygon)
 
 ### Dev, making of
 * [Game UX Style Guide: Why do you need one?](http://www.gamasutra.com/blogs/OmTandon/20180830/325522/Game_UX_Style_Guide_Why_do_you_need_one.php) (Gamasutra)
@@ -68,6 +72,7 @@ resources:
 * [The 10 Secrets to Indie Game Success (and Why They Do Not Exist)](http://www.gamasutra.com/blogs/PaulKilduffTaylor/20180824/325218/The_10_Secrets_to_Indie_Game_Success_and_Why_They_Do_Not_Exist.php) (Gamasutra)
 * [A Study Into Puzzle Design](https://www.gamasutra.com/blogs/JoshBycer/20180830/325554/A_Study_Into_Puzzle_Design.php) (Gamasutra)
 * [50 things I learned from working in the game industry](https://www.gamasutra.com/blogs/StevenHonders/20180830/325499/50_things_I_learned_from_working_in_the_game_industry.php) (Gamasutra)
+* [Where's my money, dude: what Steam is silent about](https://medium.com/@nikolaybondarenko_41585/dude-wheres-my-money-or-divvying-up-the-loot-part-2-da8c04b27c85), partea a 2-a (Medium)
 
 ### Design, world-building
 * [Skellige's Costly Landscape](https://www.slowrun.me/2018/08/skelliges-costly-landscape.html) (SlowRun)
@@ -83,7 +88,7 @@ resources:
 * **UnDungeon** ([RPS](https://www.rockpapershotgun.com/2018/08/31/undungeon-alien-rpg-reveal-trailer/))
 * **Gato Roboto**, un metroidvania monocrom (aka alb-negru) cu pisici ([RPS](https://www.rockpapershotgun.com/2018/08/31/gato-roboto-meowtroidvania-announced/))
 * **Cube Escape: Paradox**, următorul titlu din universul Rustu Lake ([RPS](https://www.rockpapershotgun.com/2018/08/31/cube-escape-paradox-release-date-announced/))
-* **Untitled Goose Game**, un joculeț în care... dar mai bine urmăriți trailerul ([RPS](https://www.rockpapershotgun.com/2018/08/28/untitled-goose-game-new-trailer/),[Gamespot](https://www.gamespot.com/articles/the-game-where-you-play-as-a-jerk-goose-launches-o/1100-6461416/))
+* **Untitled Goose Game**, un joculeț în care... dar mai bine urmăriți trailerul ([RPS](https://www.rockpapershotgun.com/2018/08/28/untitled-goose-game-new-trailer/), [Gamespot](https://www.gamespot.com/articles/the-game-where-you-play-as-a-jerk-goose-launches-o/1100-6461416/))
 * **Repentance**, următorul (și ultimul) DLC pentru **Binding of Isaac: Rebirth** ([Gematsu](https://gematsu.com/2018/08/the-binding-of-isaac-repentance-announced))
 
 ### Lansate
