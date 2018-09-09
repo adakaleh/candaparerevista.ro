@@ -98,7 +98,7 @@ SITEURI_CUNOSCUTE = {
     'gamesradar': 'GamesRadar+',    'venturebeat': 'VentureBeat',   'humblebundle': 'Humble Bundle',
     'avclub': 'A.V. Club',          'tedium': 'Tedium',             'hardcoregamer': 'Hardcore Gamer',
     'polygon': 'Polygon',           'guardian': 'The Guardian',     'engadget': 'Engadget',
-    'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz'
+    'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz',
     'techraptor': 'TechRaptor',     'phoronix': 'Phoronix',         'wccftech': 'Wccf tech',
     'bloomberg': 'Bloomberg',       'medium.com':'Medium',          'filfre.net': 'The Digital Antiquarian',
     'usgamer': 'USgamer',           'gematsu': 'Gematsu',
