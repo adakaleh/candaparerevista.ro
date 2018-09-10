@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2018/09/antireview-chaser-zombie/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2018/2018.09.02/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -293,7 +298,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/antireview/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -376,7 +381,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/chaser/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -428,7 +439,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/darth_zombie/</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -901,7 +912,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1021,7 +1032,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

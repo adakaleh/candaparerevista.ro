@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chaser</title>
+      <link>https://candaparerevista.ro/posts/2018/09/antireview-chaser-zombie/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/09/antireview-chaser-zombie/</guid>
+      <description>Da, motto-ul ăla este cel cu care vine jocul și este incredibil de precis. Rar atâta sinceritate de la un developer care ne-a mai oferit capodopere precum History Channel: Civil War - A Nation Divided sau întreaga serie de „simulatoare” de vânătoare sub numele Cabela something something Hunts 20XX. A, sunt și autorii minunatului Soldier of Fortune: Payback care zău că și-ar merita locul în vreo listă dacă nu ar fi un low hanging fruit atât de evident.</description>
+    </item>
     
     <item>
       <title>Commandos 3: Destination Berlin</title>
@@ -139,16 +148,6 @@ Deoarece programul meu în trei pași pentru privit viața cu alți ochi a fost 
       
       <guid>https://candaparerevista.ro/posts/2018/06/review-convoy-nervozix/</guid>
       <description>Convoy e genul de joc pe care când îl vezi te miri puțin cum de nu a fost făcut mai devreme datorită temei abordate, și luând în considerare stilul vizual retrograd abordat de creatori, am putea crede că este într-adevăr făcut chiar mai devreme – undeva pe la începuturile anilor nouăzeci.</description>
-    </item>
-    
-    <item>
-      <title>Mă numesc Vladimir</title>
-      <link>https://candaparerevista.ro/posts/2018/06/lunea-incepe-sambata-bixtonim-ciolan/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/06/lunea-incepe-sambata-bixtonim-ciolan/</guid>
-      <description>Bună ziua, mă numesc Vladimir și sunt sclavul drogului Bixtonim.
-Într-un moment de rătăcire orelistică, am inhalat aproximativ zece sticluțe de Bixtonim pur, neîndoit cu ser fiziologic (cum m-a învățat dealer-ul de la Catena să fac cînd banii sunt pe terminate și fonfăiala abia începe). Neobișnuit cu senzația de libertate nazală pe care doar 100 de mililitri de clorhidrat de xilometazolină (distribuiți uniform pe toată suprafața mucoasei nazale) ți-o pot provoca, am tras puternic aer în piept.</description>
     </item>
     
   </channel>
