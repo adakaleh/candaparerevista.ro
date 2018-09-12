@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2018/09/review-bounty-train-michilangelo/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2018/09/antireview-chaser-zombie/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -368,6 +373,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/bounty-train/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/broken-sword/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -723,7 +734,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/indie/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -810,7 +821,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/michilangelo/</loc>
-    <lastmod>2018-05-20T20:00:02+02:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -912,7 +923,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -984,7 +995,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1032,7 +1043,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

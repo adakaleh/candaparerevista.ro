@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bounty Train</title>
+      <link>https://candaparerevista.ro/posts/2018/09/review-bounty-train-michilangelo/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/09/review-bounty-train-michilangelo/</guid>
+      <description>Am o prietenă care îmi tot zice că sunt hater, că nimic nu-mi place. Eu îi răspund că nu-s, doar am standarde înalte.
+În cazul de față, aceste standarde înalte se traduc prin faptul că dacă nu vorbeam cu Cristan că o să scriu despre joc, nu aș fi dus niciodată Bounty Train până la capăt, darămite să mă mai chinui și cu un DLC.</description>
+    </item>
     
     <item>
       <title>Chaser</title>
@@ -139,15 +149,6 @@ Deoarece programul meu în trei pași pentru privit viața cu alți ochi a fost 
       
       <guid>https://candaparerevista.ro/posts/2018/06/lunea-incepe-sambata-rugam-scuzati-ciolan/</guid>
       <description>Acum cîteva zile, în timp ce așteptam în gara Bartolomeu, sub un soare absolut ucigaș, trenul Regio care urma să mă ducă 30 de kilometri mai încolo cu o întîrziere de aproximativ 60 de minute vă rugăm să ne scuzați, am avut o scurtă dar intensă vedenie, însoțită de un scurt dar intens leșin, pe principiul sănătos că lucruri bune se întîmplă celor care așteaptă în soare&amp;hellip; Anyhow, nu știu dacă a fost de la căldură, sau poate că așteptarea îndelungată m-a sfințit și am căpătat darul profeției, dar cred că am văzut în viitor.</description>
-    </item>
-    
-    <item>
-      <title>Convoy</title>
-      <link>https://candaparerevista.ro/posts/2018/06/review-convoy-nervozix/</link>
-      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/06/review-convoy-nervozix/</guid>
-      <description>Convoy e genul de joc pe care când îl vezi te miri puțin cum de nu a fost făcut mai devreme datorită temei abordate, și luând în considerare stilul vizual retrograd abordat de creatori, am putea crede că este într-adevăr făcut chiar mai devreme – undeva pe la începuturile anilor nouăzeci.</description>
     </item>
     
   </channel>
