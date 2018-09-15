@@ -3,7 +3,6 @@ title: Motivaționala lui Fănică
 type: post
 date: 2018-09-15
 authors: ciolan
-draft: true
 categories:
     - Lunea începe sâmbăta
 tags:
@@ -16,7 +15,7 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1844
 
 resources:
-  - src:
+  - src: images/motivationala.jpg
     name: "card-cover-image"
 
   - src:
@@ -53,7 +52,7 @@ N-am înțeles exact ce-a zis, eram pe jumătate paralizat de mirosul permanentu
 
 “Cu alți ochi, nea Fănică!”
 
-“Vezi mă? Pînă și… cum te cheamă, tu?”, o întreabă el fără să slăbească strînsoarea, desi o stică îi aterizase pe laba piciorului și se vedea pe fața lui că îl deranja puțin.
+“Vezi mă? Pînă și… cum te cheamă, tu?”, o întreabă el fără să slăbească strînsoarea, desi o sticlă îi aterizase pe laba piciorului și se vedea pe fața lui că îl deranja puțin.
 
 “Nuți”
 
@@ -72,3 +71,5 @@ Miliardarul vorbește iarăși molcom și se uită cu mândrie după Nuți, ca l
 “…eliberat de poveri, cu mintea liberă și o perspectivă sănătoasă asupra vieții. Clar o duce capul mai mult de cît pe tine. Dar nu-i totul pierdut. Ai o țigară?”
 
 I-am dat o țigară și am plecat spre casă gînditor și fără budincă. Chiar așa, eu sunt mai prost decît ei? De azi înainte voi privi viața cu alți ochi. ■
+
+{{< figure  src="images/motivationala.jpg" attr="(sursă: Geliy Korzhev)" attrlink="https://sobadsogood.com/2017/02/24/surrealist-art-communist-russia-looks-renaissance-nightmare/">}}
