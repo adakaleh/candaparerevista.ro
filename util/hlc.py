@@ -53,7 +53,7 @@ Features:
 - de mutat ca web script in candaparerevista.ro/utils/ si apelat printr-un formular html
   sau de adaugat args parser daca il folosim local
 - de handluit terminatiile de linie / rstrip
-- de ignorat url-urile deja formatate pentru markdown (ex:  [text](http://url.com))
+- (PARTIAL) de ignorat url-urile deja formatate pentru markdown (ex:  [text](http://url.com))
 - de testat si fixat ce ar mai trebui pentru a merge integral si in Python 2
 - (PARTIAL) de adaugat un indicator de progres pentru linii procesate + scriere; Update: de adaugat space padding la linia de progress si un nume pentru sectiune
 - de mutat majoritatea metodelor de tipul "parseaza_nume" in Sectiuni, unde le e locul
@@ -62,6 +62,7 @@ Bugs/issues:
 - la unele site-uri sunt probleme cu identficarea numelui pe Open Graph (ex: pcgamer) - detecteaza
   prea mult / nu detecteaza sfarsitul (edit: s-ar putea sa fi rezolvat, mai trebuie teste)
 - nu detecteaza categoria Stiri cand e scrisa cu diacritice (dar la Romania merge ok)
+- titlul sectiunii "Anunţuri şi lansări de jocuri" este sters la parsare
 
 Alte observatii:
 - cautarea de text in paginile html nu e foarte robusta si o sa mai dea rateuri - se face cu cautari pe string cu regex;
@@ -101,7 +102,8 @@ SITEURI_CUNOSCUTE = {
     'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz',
     'techraptor': 'TechRaptor',     'phoronix': 'Phoronix',         'wccftech': 'Wccf tech',
     'bloomberg': 'Bloomberg',       'medium.com':'Medium',          'filfre.net': 'The Digital Antiquarian',
-    'usgamer': 'USgamer',           'gematsu': 'Gematsu',
+    'usgamer': 'USgamer',           'gematsu': 'Gematsu',           'rempton': 'Rempton Games',
+    'slowrun': 'SlowRun',
 }
 
 MAGAZINE = {
@@ -456,9 +458,10 @@ def completeaza_urls(text, lista_linkuri):
         # gaseste sfarsit URL
         end = gaseste_terminator_char_pos(text, start)
 
-        url = text[start:end]
-
-        lista_linkuri.append(LinkInLinie(url=url, start=start, end=end))
+        # sarim linkul daca a fost deja formatat pentru markdown
+        if not (text[start-2:start] == "]("):
+            url = text[start:end]
+            lista_linkuri.append(LinkInLinie(url=url, start=start, end=end))
 
         # cauta recursiv in restul textului
         return completeaza_urls(text[end:], lista_linkuri)
