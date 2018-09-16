@@ -75,7 +75,7 @@ Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulți
 * Koji Igarashi, ArtPlay: [Single-player not going anywhere](https://www.gamesindustry.biz/articles/2018-09-10-single-player-not-going-anywhere-igarashi) (GamesIndustry.biz)
 * Nigel Lowrie, Devolver Digital: [Not every game needs to sell 500k](https://www.gamesindustry.biz/articles/2018-09-12-not-every-game-needs-to-sell-500k) (GamesIndustry.biz)
 * Martin Brouard, Sabotage: [Making a retro indie game stand out from the crowd](https://www.gamesindustry.biz/articles/2018-09-12-the-messengers-special-delivery) (GamesIndustry.biz)
-* Charles Cecil, Revolution Software: [The Future of Broken Sword and Revolution Software – An Interview with Charles Cecil](https://www.gamebyte.com/the-future-of-broken-sword-and-revolution-software-an-interview-with-charles-cecil/) (Gamebyte)
+* Charles Cecil, Revolution Software: [The Future of Broken Sword and Revolution Software – An Interview with Charles Cecil](https://www.gamebyte.com/the-future-of-broken-sword-and-revolution-software-an-interview-with-charles-cecil/) (Gamebyte) (thx @Azad)
 * John Riccitiello, Unity: [Q&amp;A: How Unity CEO views Epic&#8217;s Fortnite success](https://venturebeat.com/2018/09/15/john-riccitiello-interview-how-unity-ceo-views-epics-fortnite-success/) (VentureBeat)
 
 ### Istorie
@@ -121,10 +121,9 @@ Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulți
 * **Capcom Beat ‘Em Up Bundle**, o colecţie de 7 titluri vechi: Final Fight, The King of Dragons, Captain Commando, Knight of the Round, Warriors Fate, Armored Warriors, Battle Circuit, cu diferite îmbunătăţiri pentru sisteme moderne şi multiplayer, plus artwork-uri şi informaţii suplimentare despre fiecare joc. ([Neowin](https://www.neowin.net/news/capcoms-beat-em-up-bundle-delivers-a-bunch-of-classic-arcade-beat-em-up-titles), [Hardcore Gamer](https://www.hardcoregamer.com/2018/09/13/capcom-beat-em-up-bundle-announced-for-september-18/312313/))
 
 ### Acum cu dată de lansare
-* **Timespinner**: 25 septembrie ([YouTube](https://www.youtube.com/watch?v=OR8hqHLkS9Y), [RPS](https://www.rockpapershotgun.com/2018/09/12/timespinner-metroidvania-release-date/))
+* **Timespinner**: 25 septembrie ([YouTube](https://www.youtube.com/watch?v=OR8hqHLkS9Y), [RPS](https://www.rockpapershotgun.com/2018/09/12/timespinner-metroidvania-release-date/)) (thx @cg1700)
 * **Hollow Knight** ajunge și pe PS4: 25 septembrie ([PlayStation.Blog](https://blog.us.playstation.com/2018/09/11/hollow-knight-voidheart-edition-buzzes-to-ps4-september-25/))
 * **Dead or Alive 6**: 15 februarie 2019 ([Games Informer](https://www.gameinformer.com/2018/09/10/dead-or-alive-6-launches-in-february-trailer-confirms-returning-characters-and-pre-order))
-
 
 ### Lansate
 * 10 septembrie: **Door Kickers: Action Squad** ([Steam](https://store.steampowered.com/app/686200/Door_Kickers_Action_Squad/), [Humble Store](https://www.humblebundle.com/store/door-kickers-action-squad))
@@ -141,8 +140,6 @@ Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulți
 * 13 septembrie: **Frozen Synapse 2** ([Steam](https://store.steampowered.com/app/445020/Frozen_Synapse_2/), [Humble Store](https://www.humblebundle.com/store/frozen-synapse-2), [gog.com](https://www.gog.com/game/frozen_synapse_2))
 * 14 septembrie: **ReCore: Definitive Edition** ([Steam](https://store.steampowered.com/app/537450/ReCore_Definitive_Edition/), [Humble Store](https://www.humblebundle.com/store/recore-definitive-edition))
 * 14 septembrie: **The Culling: Origins** se relansează după fiasco-ul The Culling 2 şi devine free-to-play ([Steam](https://store.steampowered.com/app/437220/The_Culling/))
-
-
 
 ## Oferte jocuri
 
