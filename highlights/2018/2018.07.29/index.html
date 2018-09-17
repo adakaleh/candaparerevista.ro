@@ -56,24 +56,6 @@
 
      
 
-
-    <!-- Test Matomo Analytics. E doar un test pentru analytics pana implementam propria versiune, nu e nimic necurat; mythweb si servage sunt hostul pentru arhivarevistevechi.mythweb.ro)-->
-    <script type="text/javascript">
-        var _paq = _paq || [];
-         
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (function() {
-
-            var u="//4e880179.servage-customer.net//";
-            _paq.push(['setTrackerUrl', u+'matomo.php']);
-            _paq.push(['setSiteId', '3']);
-            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-        })();
-    </script>
-    
-
 </head>
 
 
@@ -565,6 +547,25 @@
         <a href="https://candaparerevista.ro/index.xml">RSS</a>
     </nav>
   </div>
+
+  <!-- Test Matomo Analytics. E doar un test pentru analytics pana implementam propria versiune. Mythweb si servage sunt hostul pentru arhivarevistevechi.mythweb.ro)-->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+     
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+
+      var u="//4e880179.servage-customer.net//";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '3']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  
+
+
 </footer>
 
 </div>
