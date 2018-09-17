@@ -28,6 +28,8 @@ Iată şi lista celor au contribuit cu reviste scanate de-a lungul vremii:
 * alex.v
 * TaikoKaira
 
+Nu trebuie să uităm că şi LEVEL a contribuit la colecţie oferind revistele din anii 2008, 2009 şi ianuarie 2010 în format PDF pe DVD.
+
 Mai sunt destule de făcut, baza de date de periat şi funcţiile de căutare de îmbunătăţit, dar cu timpul (şi cu ajutorul voluntarilor, pentru cine e interesat), le-om face pe toate. Dacă sunteţi curioşi, aveţi mai jos linkuri şi către paginile proiectelor:
 
 * [Site ArhivaRevisteVechi](https://github.com/cristan2/ArhivaRevisteVechi) (GitHub)
