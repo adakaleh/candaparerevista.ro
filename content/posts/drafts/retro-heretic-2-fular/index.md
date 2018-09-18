@@ -23,14 +23,21 @@ resources:
   - src: images/heretic-2-cover-2.jpg
     name: "cover-image"
 ---
+
+{{% aside %}}
+## TODO
+De adăugat imagini şi captions.
+{{% /aside %}}
+
 Între puținele jocuri pe care le-am butonat pe parcursul întregului 2016, mă hotărâsem să rejoc Heretic 2 pe care-l terminasem prima dată la puțină vreme după ce intrasem la liceu.
 
-Singurul contact pe care-l avusesem cu seria(Heretic și cele două Hexen-uri) până în momentul acela a fost scurta povestire a lui Cărtărescu din manualul de limba și literatura română din care am rămas doar cu “două mâini păroase” și o imagine din MDK pe pagina secundă a povestirii.
+Singurul contact pe care-l avusesem cu seria (Heretic și cele două Hexen-uri) până în momentul acela a fost scurta povestire a lui Cărtărescu din manualul de limba și literatura română din care am rămas doar cu „două mâini păroase” și o imagine din MDK pe pagina secundă a povestirii.
 
 N-am aprofundat seria, Heretic 2 fiind singurul pe care l-am jucat până în momentul de față. Cele câteva cadre ale predecesorilor pe care le-am văzut ulterior mi-au amintit de un DOOM în care arsenalul era înlocuit în mare parte cu vrăji și magii.
+
 De altfel, Heretic 2 a reprezentat o schimbare radicală față de precursorii săi, schimbând perspectiva de FPS în 3rd person, dar păstrând arcana settingului dark fantasy prezentă în celelalte titluri ale seriei.
 
-Fiind o continuare directă a firului narativ a lui Heretic, începutul din Heretic 2, aproape in media res, m-a lăsat un pic confuz. Lipsa filmului de început( versiunea australiană ce-am jucat-o prima dată n-avea “cinematicuri”) în care-l înfrângeai pe the big bad guy din jocul precedent și fiindcă am dat start jocului de la tutorial au creat pentru mine o altfel de logică: Corvus se întoarce înapoi în Silverspring după ce, din anumite motive oculte decide că are nevoie de o sesiune de antrenament în arta gimnastică și în folosirea armelor.
+Fiind o continuare directă a firului narativ a lui Heretic, începutul din Heretic 2, aproape in media res, m-a lăsat un pic confuz. Lipsa filmului de început (versiunea australiană ce-am jucat-o prima dată n-avea „cinematicuri”) în care-l înfrângeai pe the big bad guy din jocul precedent și fiindcă am dat start jocului de la tutorial au creat pentru mine o altfel de logică: Corvus se întoarce înapoi în Silverspring după ce, din anumite motive oculte decide că are nevoie de o sesiune de antrenament în arta gimnastică și în folosirea armelor.
 
 Trecând de portal, în loc de concitadinii care-și duceau viața pe docuri găsește doar șobolani și un imens sentiment de singurătate. La scurt timp după aceea, își descoperă oamenii cuprinși de un soi de nebunie violentă atacând fără discriminare pe oricine se întâmplă să le existe în proximitate.
 
@@ -49,13 +56,14 @@ Evident, cartografierea drumurilor de legătură între diversele orașe n-a fos
 Un alt lucru demn de menționat este faptul că nivelul de dificultate poate spori mai departe de cele trei opțiuni disponibile la startul jocului. În mod normal, țintirea se face automat atunci când Corvus este îndreptat în direcția vecină a unui inamic, dar asta se poate dezactiva dacă player-ul simte că-l țin bojocii. Așadar dezactivarea autoaim-ului crește un pic mai mult dificultatea jocului făcând, printre altele, anumiți zburători anterior menționati și peștii prădători mai greu de doborât.
 
 În ciuda acestui lucru, jocul e destul de facil chiar și pe nivelul mediu de dificultate plus opțiunea de țintire manuală, arareori găsindu-mă înaintea ecranului de loading. Au existat mai multe situații în care am fost înfrânt de geografie decât de un henchman.
+
 Boșii sunt cu totul altă poveste, dar asta are mai mult de-a face cu felul în care am abordat luptele, preferând să șed față în față cu fiecare dintre ei, făcând miscări evazive în dorul lelii și aruncând în vecinătatea lor cu tot ce-am avut mai bun. E o abordare proastă cum am descoperit după ce am reușit să trec de un boss dar n-am mai putut continua din cauză că hp-ul cu care am rămas mi-era insuficient să trec de o țeavă spartă, motiv pentru care a trebuit să reiau întreaga luptă.
 
 Arsenalul din Heretic 2 și modul în care acesta crește păstrează cutumele FPS-urilor, fiind disponibile până la final nouă arme și vrăji ofensive și o mână de vrăji defensive, fiind limitat la început la o suliță ce poate fi folosită atât ca armă melee cât și ca prăjină care-i permite lui Corvus să sară distanțe altminteri imposibile, un fireball cu damage minim, iar ca vrajă defensivă unul din cele șapte Tome-uri of Power care amplifică damage-ul tuturor armelor și vrăjilor, cu marele inconvenient că amplificarea durează relativ puțin și consumă foarte multă mana.
 
 Mai mult de atât acest Tome of Power dispune și de conștiință de sine și va împinge firul narativ înainte, fiind companion și ajutor pentru Corvus când la rândul lui e infectat de molimă.
 
-Bineînțeles, nu toate armele și spell-urile au același grad de utilitate, existând instanțe în care le-am folosit doar o dată pentru a le vedea efectul, preferând în detrimetul lor o combinație deja consacrată cum ar fi Suliță+ Lightining Armor sau Storm Bow/Phoenix Bow + Meteor Shower/Tome of Power pentru a mă descotorosi de inamici de la distanță.
+Bineînțeles, nu toate armele și spell-urile au același grad de utilitate, existând instanțe în care le-am folosit doar o dată pentru a le vedea efectul, preferând în detrimetul lor o combinație deja consacrată cum ar fi Suliță + Lightining Armor sau Storm Bow/Phoenix Bow + Meteor Shower/Tome of Power pentru a mă descotorosi de inamici de la distanță.
 
 Interesant mi s-a părut modul în care a fost implementat arsenalul lui Corvus, nepărând ridicol că e capabil să care atâtea arme după el: arcul îl duce în spate, spell-urile le are într-un săculeț ce-l poartă la brâu, iar sulița e retractabilă.
 
@@ -67,7 +75,7 @@ Din punct de vedere vizual, se poate spune că timpul pare că n-a avut milă, H
 
 Din punct de vedere auditiv jocul stă binișor, deși pot spune cu mâna pe inimă că muzica sau orice formă de organizare armonică a sunetelor care să întărească mai puternic anumite momente dramatice mi-a trecut pe lângă urechi și n-am luat-o-n seamă. Așa că m-aș putea hazarda să spun că lipsește cu desăvârșire și să-i fac o eventuală nedreptate. În schimb la capitolul sunete ambientale, se schimbă povestea: scâncetele pruncului și bocetele mamei din Silverspring mi-au dat primul fior de teamă într-un joc, mlaștina andoriană pare mai vie și este mai vie datorită vietăților nevăzute care sălășluiesc în întunecimile tulburi făcându-se doar auzite, comunicând între ele trecerea lui Corvus, iar țipetele stârvarilor din înălțimile văzduhului te fac să realizezi că nu e chiar indicat să zăbovești foarte mult prin canion.
 
-Ca și gameplay, Heretic stă încă excelent, dinamica luptelor și modul în care te descotorosești de inamici brutalizându-i până la epuizare sunt poate trase un pic în jos de mica diversitatea a level design-ului din anumite zone și de lipsa mai multor combo-uri pentru suliță, dar având în vedere perioada în care a apărut jocul, a faptului că în spatele perspectivei schimbate el tot shooter e, dar cu ceva mai multe elemente de platforming, acestea ar trebui să fie ultimele lucruri de criticat.
+Ca gameplay, Heretic stă încă excelent, dinamica luptelor și modul în care te descotorosești de inamici brutalizându-i până la epuizare sunt poate trase un pic în jos de mica diversitatea a level design-ului din anumite zone și de lipsa mai multor combo-uri pentru suliță, dar având în vedere perioada în care a apărut jocul, a faptului că în spatele perspectivei schimbate el tot shooter e, dar cu ceva mai multe elemente de platforming, acestea ar trebui să fie ultimele lucruri de criticat.
 
 Povestea se leagă foarte bine de cea din primul Heretic: după ce-l înfrânge pe D’Sparil la sfârșitul primului joc, Corvus e blestemat să pribegească ca Ahasverus pentru eternitate fără a se putea întoarce în Silverspring. S-ar putea spune că întreaga acțiune din Heretic 2 e construită pe acest blestem: prin forțarea întoarcerii în capitala elfilor, Corvus ajunge arhitectul neștiut al molimei, un ocoliș al blestemului pentru a-l determina pe protagonist să-și părăsească iarăși căminul în căutarea unui leac pentru sine și semeni și nu ajunge înapoi nici după ce-l înfrânge pe Seraph-ul Morcalavin. Faptul că remediul andorian nu funcționează pe elfi datorită biologiei diferite a celor două specii are sens și nu pare o prelungire artificială a poveștii. De altfel întreaga aventură are un flow foarte natural și nu e doar o serie de obiective care trebuie bifate.
 

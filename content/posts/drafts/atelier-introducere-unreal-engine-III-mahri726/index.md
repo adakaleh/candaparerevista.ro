@@ -7,8 +7,8 @@ authors: mahri726
 draft: true
 categories:
     - Atelier
-    - GameDev
 tags:
+    - GameDev
     - Unreal Engine
 
 sursa:
@@ -26,7 +26,13 @@ resources:
     name: "cover-image"
 ---
 
->Acest articol e partea a treia dintr-o serie de 4 articole. Găsiți aici celelalte articole:
+{{% aside %}}
+## TODO
+* De adăugat linkuri către celelalte articole.
+* De formatat text şi adăugat imagini.
+{{% /aside %}}
+
+>Acest articol e al treilea dintr-o serie de 4 articole. Găsiți aici celelalte părți:
 
 >* Partea I: Introducere. Epic Games Launcher
 >* Partea II: Introducere în Blueprints

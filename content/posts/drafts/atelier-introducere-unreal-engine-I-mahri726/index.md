@@ -7,8 +7,8 @@ authors: mahri726
 draft: true
 categories:
     - Atelier
-    - GameDev
 tags:
+    - GameDev
     - Unreal Engine
 
 sursa:
@@ -26,7 +26,13 @@ resources:
     name: "cover-image"
 ---
 
->Acest articol e prima parte dintr-o serie de 4 articole. Găsiți aici celelalte articole:
+{{% aside %}}
+## TODO
+* De adăugat linkuri către celelalte articole.
+* De citit încă o dată.
+{{% /aside %}}
+
+>Acest articol e primul dintr-o serie de 4 articole. Găsiți aici celelalte părți:
 
 >* Partea II: Introducere în Blueprints
 >* Partea III: Grafică și Audio

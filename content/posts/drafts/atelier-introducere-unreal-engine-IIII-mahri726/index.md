@@ -1,14 +1,14 @@
 ---
 title: "Introducere în Unreal Engine 4 (IV)"
-subtitle: "Partea IV: Resurse Suplimentare și Extra"
+subtitle: "Partea IV: Resurse suplimentare și download proiect"
 type: post
 date: 2018-08-08
 authors: mahri726
 draft: true
 categories:
     - Atelier
-    - GameDev
 tags:
+    - GameDev
     - Unreal Engine
 
 sursa:
@@ -26,7 +26,14 @@ resources:
     name: "cover-image"
 ---
 
->Acest articol e ultima parte dintr-o serie de 4 articole. Găsiți aici celelalte articole:
+{{% aside %}}
+## TODO
+* De adăugat linkuri către celelalte articole.
+* De formatat text şi adăugat linkuri.
+* De adăugat download proiect.
+{{% /aside %}}
+
+>Acest articol e ultimul dintr-o serie de 4 articole. Găsiți aici celelalte părți:
 
 >* Partea I: Introducere. Epic Games Launcher
 >* Partea II: Introducere în Blueprints
