@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 16-22 septembrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.09.16/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.09.16/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
+    </item>
     
     <item>
       <title>Contradiction - Spot The Liar!</title>
@@ -138,15 +147,6 @@ După cum ştiţi, luna septembrie este luna în care aniversăm apariţia primu
       
       <guid>https://candaparerevista.ro/highlights/2018/2018.08.19/</guid>
       <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
-    </item>
-    
-    <item>
-      <title>Black &amp; White</title>
-      <link>https://candaparerevista.ro/posts/2018/08/antireview-black-white-juve/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/08/antireview-black-white-juve/</guid>
-      <description>Black &amp;amp; White reprezintă suprema păcăleală a hype-ului, pompare de resurse financiare și PR-istice în promovarea unui produs care ajunge probabil să întreacă timpul și energia petrecute în construirea și rafinarea produsului ca atare. Sau cel puțin asta este impresia care lovește consumatorul, ceea ce este la fel de (dacă nu mai) rău.</description>
     </item>
     
   </channel>
