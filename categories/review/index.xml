@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anna&#39;s Quest</title>
+      <link>https://candaparerevista.ro/posts/2018/09/review-anna-s-quest-azad/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/09/review-anna-s-quest-azad/</guid>
+      <description>Experiența mea cu jocurile Daedalic este una dulce-amară. Multe dintre jocurile lor mi-au stârnit curiozitatea și m-au adus până în punctul de a le considera clasice doar ca să fiu, într-un final, dezamăgit. După finalul brusc și enervant al lui Chains of Satinav și unele decizii din al treilea Deponia, așteptările mele de la un alt joc Daedalic erau destul de mici.</description>
+    </item>
     
     <item>
       <title>Contradiction - Spot The Liar!</title>
@@ -138,15 +147,6 @@ Din 2008 până în 2012 la UnderRail a lucrat predominant o singură persoană,
       
       <guid>https://candaparerevista.ro/posts/2018/05/review-kingdom-fular/</guid>
       <description>Au trecut aproape două luni de la furia celor 12 ore de Kingdom. Încă mi se pare că aud tonurile vag isterice ale ultimului Blood Moon și modul absolut stupid în care era cât pe ce să-mi pierd coroana. Ar trebui să menționez din start că nu mai sunt un gamer, nu cum eram acum aproape 10 ani, așa că 12 ore petrecute într-un joc complementare a două zile de lucru mi se pare enorm.</description>
-    </item>
-    
-    <item>
-      <title>80 Days</title>
-      <link>https://candaparerevista.ro/posts/2018/05/review-80-days-michilangelo/</link>
-      <pubDate>Sun, 20 May 2018 20:00:02 +0200</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/05/review-80-days-michilangelo/</guid>
-      <description>Profesorul: No! la gheografie acuma&amp;hellip; Mă! tu ghe colo&amp;hellip; Spune-ne tu doară toake ștakele Imperiului Brikanic.  Elevul: India, dom’le.  Profesorul: Inghia, bine!  Elevul: Nigeria, dom’le.  Profesorul: Iaște!  Elevul: Jamaica, dom’le.  Profesorul: Jamaișa.  Elevul (se pornește repede. - Profesorul dă din cap afirmativ la fiece nume de stat cu satisfacție și cu mândrie): Africa de Sud, Israel, Hong Kong, Kenya, Rhodesia, Singapore, Burma, Bahamas, Cipru, Gibraltar, Egipt și Malaezia&amp;hellip; dom’le!</description>
     </item>
     
   </channel>
