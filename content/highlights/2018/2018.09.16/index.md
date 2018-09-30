@@ -102,7 +102,7 @@ resources:
 * **Move or Die** al celor de la Those Awesome Guys participă la Tokyo Game Show 2018. ([Facebook](https://www.facebook.com/moveordiegame/photos/a.713876118677814/1990037104395036/?type=3&__xts__%5B0%5D=68.ARB2SN0gI66qZffDHk3Ise5dcTvN0kagtLIFRXj_e52v2JO0SnNgjdpe7O3zocg-biO4t69oJqGdhoKwX5EmgDeQw-eCQy6vsJgOiNmGa876quFuZ-GPwmpaKJ6bEok6aixY89E6qQjiBkqmWwryqFhovh_IkefVcAEdegVEMs8Yj3nW221SqA&__tn__=-R))
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **Encased** (Kickstarter), un RPG izometric turn-based post-apocaliptic ([PCGamesN](https://www.pcgamesn.com/encased/encased-kickstarter))
 * **Parkasaurus**, un nou _theme-park_ cu dinozauri ([PCGamesN](https://www.pcgamesn.com/parkasaurus/new-games-parkasaurus))
 * **Darkside Detective Season 2** (Kickstarter) ([PC Gamer](https://www.pcgamer.com/funny-adventure-game-darkside-detective-has-a-kickstarter-for-a-sequel/))
