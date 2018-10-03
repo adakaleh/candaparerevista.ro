@@ -7,7 +7,7 @@ categories:
 
 tags: [Retrospectiva săptămânii, Telltale Games, The Walking Dead, Blockchain Gaming Alliance, "Total War: Rome II", WildStar, Kongregate, Kartridge, Sony, Fortnite, Discord, Dead Cells, Okami, Brigador, Sleeping Dogs, The Witness, Graveyard Keeper, Two Point Hospital, Journey, Deus Ex, gog.com, Cultist Simulator, Ultima Online]
 
-description: "Asta e săptămâna Tellate. Avem o mulțime de materiale despre închiderea Telltale și o recomandare tot din catalogul lor. Dar, ca de obicei, avem și alte știri, cum ar fi o controversă despre femeile din Total War: Rome II, și multe articole despre jocuri și industrie."
+description: "Asta e săptămâna Telltale. Avem o mulțime de materiale despre închiderea Telltale și o recomandare tot din catalogul lor. Dar, ca de obicei, avem și alte știri, cum ar fi o controversă despre femeile din Total War: Rome II, și multe articole despre jocuri și industrie."
 
 resources:
   - src: images/telltale-card.jpg
