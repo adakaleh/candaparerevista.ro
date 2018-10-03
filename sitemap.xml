@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2018/10/retro-heretic-2-fular/</loc>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2018/2018.09.23/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -764,7 +769,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/fular/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -853,6 +858,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/heavy-rain/</loc>
     <lastmod>2018-05-20T20:00:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/heretic-ii/</loc>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1143,7 +1154,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1184,6 +1195,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/raven-software/</loc>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/red-faction/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1215,7 +1232,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/retrospectiv%C4%83/</loc>
-    <lastmod>2018-05-20T20:00:09+02:00</lastmod>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1281,7 +1298,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
