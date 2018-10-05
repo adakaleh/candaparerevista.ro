@@ -38,7 +38,7 @@ Luna din titlul articolului se referă la perioada când au fost publicate revis
 
 ## LEVEL (Cehia)
 
-### [Septembrie 2018](http://www.level.cz/starsi-cisla/level-288/) & [August 2018](http://www.level.cz/starsi-cisla/level-287/)
+### [August 2018](http://www.level.cz/starsi-cisla/level-288/) & [Iunie-Iulie 2018](http://www.level.cz/starsi-cisla/level-287/)
 
 {{< figure-multi-ext
     "images/level-cz-2018-09.jpg|http://www.level.cz/wp-content/uploads/2018/08/level288.jpg|"
@@ -92,7 +92,7 @@ Luna din titlul articolului se referă la perioada când au fost publicate revis
 
 ## gamesTM (UK)
 
-### [Septembrie 2018](https://www.gamestm.co.uk/promotion/spider-man-swings-into-games-203-on-sale-now/) (#203) & [August 2018](https://www.gamestm.co.uk/promotion/the-100-hottest-new-games-revealed-in-games-202/) (#202)
+### [#203](https://www.gamestm.co.uk/promotion/spider-man-swings-into-games-203-on-sale-now/) & [#202](https://www.gamestm.co.uk/promotion/the-100-hottest-new-games-revealed-in-games-202/)
 
 {{< figure-multi-ext
     "images/gamestm-2018-09.jpg|https://www.gamestm.co.uk/wp-content/uploads/2018/08/gtm203_coverfinal-768x1006.png|"
@@ -143,7 +143,7 @@ Luna din titlul articolului se referă la perioada când au fost publicate revis
 
 ## Igromania (Rusia)
 
-### [Septembrie 2018](https://www.igromania.ru/magazine/251/) (#251) & [August 2018](https://www.igromania.ru/magazine/250/) (#250)
+### [Septembrie 2018](https://www.igromania.ru/magazine/251/) & [August 2018](https://www.igromania.ru/magazine/250/)
 
 {{< figure-multi-ext
     "images/igromania-ru-2018-09.jpg|https://journalshop.ru/upload/iblock/a3a/a3ab967201a597292bc925fc8a01405c.jpg|"
@@ -152,7 +152,7 @@ Luna din titlul articolului se referă la perioada când au fost publicate revis
 
 ## Pelit (Finlanda)
 
-### August 2018 & Iunie  2018
+### August 2018 & Iunie 2018
 
 {{< figure-multi-ext
     "images/pelit_2018-08.jpg|https://www.pelit.fi/site/assets/files/122287/pelit_8_18_1250px.jpg|"
