@@ -131,6 +131,7 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
 * 26 septembrie: **Niffelheim** ([Steam](https://store.steampowered.com/app/351100/Niffelheim/))
 * 27 septembrie: **INSOMNIA: The Ark** ([Steam](https://store.steampowered.com/app/783170/INSOMNIA_The_Ark/))
 * 28 septembrie: **Catastronauts** ([Steam](https://store.steampowered.com/app/737890/Catastronauts/))
+* 28 septembrie: **FIFA 19** ([EA Sports](https://www.easports.com/fifa/buy/), [Origin](https://www.origin.com/irl/en-us/store/fifa/fifa-19))
 
 
 ## Oferte jocuri
