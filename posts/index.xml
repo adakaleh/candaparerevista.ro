@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Superhot</title>
+      <link>https://candaparerevista.ro/posts/2018/10/review-superhot-nervozix/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/10/review-superhot-nervozix/</guid>
+      <description>Superhot mi-a atras atenția încă din stadiul de prototip, cândva prin 2013. Pe atunci jocul era accesat din browser și avea doar trei nivele. Câțiva ani mai târziu și puțin efort au dus la produsul de față, cuplând cu o picătură de world-building și un fir narativ mecanica principală din prototip, clar transmisă de deviza jocului – “time moves when you move”.</description>
+    </item>
     
     <item>
       <title>Heretic II</title>
@@ -138,15 +147,6 @@ Acum câteva mii de ani, pe când eram încă copil, perioadă sărbătorilor de
       
       <guid>https://candaparerevista.ro/posts/2018/08/lunea-incepe-sambata-na-belea/</guid>
       <description>Ne-am cunoscut în primăvara lui ’94. Eu eram un puști dolofan de treisprezece ani și aveam un pulover mov cu buline galbene și roșii pe care-l purtam în fiecare joi în speranța că vreun coleg mai neîndemânatic îl va stropi cu acid clorhidric. El avea numărul atomic 11 și zăcea trist și singur într-un borcan, acoperit de o carapace dură și rece de staniol.</description>
-    </item>
-    
-    <item>
-      <title>Project Nomads</title>
-      <link>https://candaparerevista.ro/posts/2018/07/retro-project-nomads-fular/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/07/retro-project-nomads-fular/</guid>
-      <description>Îmbinând un noian de genuri, cu o amplasare spațială străină și mici impresii venite de la tovarășul care apucase să-l butonaze, având curiozitatea zgândărită și nevoia de-a-nțelege ce se petrece în spatele cuvintelor entuziaste ale lui, a trebuit să văd exact despre ce e vorba, iar după unsprezece ani de când am pus prima dată mâna pe Nomads și trei încercări nereușite am reușit să-l duc la final în bunul an 2016.</description>
     </item>
     
   </channel>
