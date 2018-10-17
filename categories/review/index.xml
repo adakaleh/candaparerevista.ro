@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>American McGee&#39;s Scrapland</title>
+      <link>https://candaparerevista.ro/posts/2018/10/review-scrapland-fular/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/10/review-scrapland-fular/</guid>
+      <description>La capătul a douăzeci de ore mă găsii pe platforma spațioportului luându-mi la revedere de la noii prieteni, pretextându-le că am nevoie de o schimbare de peisaj. Chimera nu mai prezenta o curiozitate pentru mine, iar cele câteva challenge-uri secundare nu-mi dădură imboldul necesar să le duc la capăt având în vedere că deja știam ce recompensă mă aștepta la finalul lor.</description>
+    </item>
     
     <item>
       <title>Superhot</title>
@@ -138,15 +147,6 @@
       <guid>https://candaparerevista.ro/posts/2018/05/review-underrail-tg/</guid>
       <description>M-am gândit dacă să scriu sau nu un articol despre UnderRail, în primă fază am zis că poate impresia mea despre joc e influențată prea tare de faptul că tocmai îl jucasem, dar au trecut cam trei luni și nu s-a schimbat nimic.
 Din 2008 până în 2012 la UnderRail a lucrat predominant o singură persoană, în 2012 a fost lansat ca early-alpha pe diferite platforme digitale de distribuție, iar în 2013 a ajuns și pe Steam early access, pentru ca trei ani mai târziu să scoată în sfârșit capul la iveală și să apară în lista de noi apariții.</description>
-    </item>
-    
-    <item>
-      <title>Little Nightmares</title>
-      <link>https://candaparerevista.ro/posts/2018/05/review-little-nightmares-taikokaira/</link>
-      <pubDate>Sun, 20 May 2018 20:00:07 +0200</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/05/review-little-nightmares-taikokaira/</guid>
-      <description>Încă de la Geneză, omului i s-a dat renumele de cea mai complexă şi capabilă specie existentă. Ca orice alt animal, fiinţa în cauză are datoria de a se autoîngriji prin mâncare, somn şi apă, iar lipsa acestor elemente esenţiale poate declanşa revolta propriului organism, precum şi încetarea funcţionării lui. Orice nevoie care rămâne nesatisfăcută duce, cel mai adesea, la incapacitate de mişcare şi, într-un final, la moarte.</description>
     </item>
     
   </channel>
