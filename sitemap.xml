@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/blog/2018/10/gold/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2018/10/review-scrapland-fular/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
   </url>
@@ -218,7 +223,7 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/highlights/2018.06.17/</loc>
+    <loc>https://candaparerevista.ro/highlights/2018/2018.06.17/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/highlights/2018.06.10/</loc>
+    <loc>https://candaparerevista.ro/highlights/2018/2018.06.10/</loc>
     <lastmod>2018-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,17 +258,17 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/highlights/2018.06.03/</loc>
+    <loc>https://candaparerevista.ro/highlights/2018/2018.06.03/</loc>
     <lastmod>2018-06-10T09:00:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/highlights/2018.05.27/</loc>
+    <loc>https://candaparerevista.ro/highlights/2018/2018.05.27/</loc>
     <lastmod>2018-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/highlights/2018.05.20/</loc>
+    <loc>https://candaparerevista.ro/highlights/2018/2018.05.20/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -510,7 +515,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/blog/</loc>
-    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -578,6 +583,10 @@
     <loc>https://candaparerevista.ro/tags/commandos/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/contact/</loc>
   </url>
   
   <url>
@@ -1100,6 +1109,10 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/licente/</loc>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/life-is-strange/</loc>
     <lastmod>2018-05-20T20:00:04+02:00</lastmod>
     <priority>0</priority>
@@ -1491,7 +1504,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
