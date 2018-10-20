@@ -47,7 +47,7 @@ resources:
 
 
 ### Made în România
-* 29 mai și 30 mai: Destructoid au [un articol despre Yaga](https://www.destructoid.com/yaga-is-a-charming-action-rpg-take-on-slavic-folklore-505037.phtml) și [altul despre Second Hand: Frankie's Revenge](https://www.destructoid.com/co-op-action-game-second-hand-frankie-s-revenge-nails-melee-combat-505023.phtml), cu prilejul participării în finala Nordic Discovery Contest de [săptămâna trecută]({{<relref "highlights/2018.05.20/index.md">}}).
+* 29 mai și 30 mai: Destructoid au [un articol despre Yaga](https://www.destructoid.com/yaga-is-a-charming-action-rpg-take-on-slavic-folklore-505037.phtml) și [altul despre Second Hand: Frankie's Revenge](https://www.destructoid.com/co-op-action-game-second-hand-frankie-s-revenge-nails-melee-combat-505023.phtml), cu prilejul participării în finala Nordic Discovery Contest de [săptămâna trecută]({{<relref "highlights/2018/2018.05.20/index.md">}}).
 * 29-31 mai: a avut loc [Indie Prize](http://www.indieprize.org/london2018/index.html) în cadrul Casual Connect Londra 2018, unde au participat două jocuri româneşti: [Raiders Of The Lost Island](http://www.raidersofthelostisland.com/) al lui Alexandru Simion (omul din spatele motorului [DizzyAge](http://www.yolkfolk.com/dizzyage/)) (vezi şi [Steam](https://store.steampowered.com/app/867980/Raiders_Of_The_Lost_Island/)), iar cel de-al doilea joc e [Interrogation](https://critique-gaming.com/interrogation/) al celor de la [Critique Gaming](https://critique-gaming.com/).
 * 1 iunie s-a lansat [Azuran Tales: Trials](https://trials.azurantales.com/) de la studioul [Tiny Trinket Games](http://tinytrinket.games/press/sheet.php?p=azuran_tales_trials) ([Steam](https://store.steampowered.com/app/848200/Azuran_Tales_Trials/)).
 
