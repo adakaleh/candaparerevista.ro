@@ -11,15 +11,6 @@ După dispariția revistei şi a forumului în 2013, vechii utilizatori și fani
 
 ---
 
-## Contact
-
-* **E-mail**: [candaparerevista@gmail.com](mailto:candaparerevista@gmail.com)
-* **Forum**: [contact](https://forum.candaparerevista.ro/memberlist.php?mode=contactadmin)
-* **Facebook**: [/comunitatealevel](https://www.facebook.com/comunitatealevel/)
-* **Steam Group**: [/candaparerevista](https://steamcommunity.com/groups/candaparerevista)
-
----
-
 ## Informaţii suplimentare
 #### Ce s-a întâmplat cu Level și cu vechiul forum?
 În 2013 revista a început să aibă probleme cu apariția: unele ediții erau comasate pentru a acoperi mai multe luni, iar revista ajungea cu întârziere la chioșcuri. Ediția lunii noiembrie 2013 a fost ultima publicată, iar revista a intrat în faliment. Odată cu revista au dispărut și site-ul și forumul, împreună cu toată istoria de mai bine de 10 ani a comunității, iar încercările de a recupera baza de date de la vechii administratori au fost fără succes.

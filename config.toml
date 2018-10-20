@@ -101,3 +101,8 @@ summaryLength = 50
   name = "Despre"
   url = "/despre/"
   weight = 97
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 96
