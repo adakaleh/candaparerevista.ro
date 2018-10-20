@@ -6,6 +6,7 @@
     </section>
     <nav class="site-footer-nav">
         <!--a href="/">Latest Posts</a-->
+        <a href="/contact" target="_blank" rel="noopener">Contact</a>
         {{with .Site.Params.linkForum}}<a href="{{.}}" target="_blank" rel="noopener">{{$.Site.Params.labelButonForum}}</a>{{end}}
         {{with .Site.Params.fbName}}<a href="https://www.facebook.com/{{.}}" target="_blank" rel="noopener">Facebook</a>{{end}}
         {{with .Site.Params.twitterName}}<a href="https://twitter.com/{{.}}" target="_blank" rel="noopener">Twitter</a>{{end}}
@@ -16,4 +17,20 @@
         {{else}}<a href="{{if .IsNode}}{{.RSSLink}}{{else}}{{"index.xml" | absURL}}{{end}}">RSS</a>{{end}}
     </nav>
   </div>
+
+    {{ "<!-- Matomo analytics: trafic si vizualizari, toate datele raman pe serverul nostru -->" | safeHTML }}
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//analitice.candaparerevista.ro/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+
 </footer>
