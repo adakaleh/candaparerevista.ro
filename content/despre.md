@@ -10,6 +10,12 @@ După dispariția revistei şi a forumului în 2013, vechii utilizatori și fani
 În 2018 s-a lansat și acest site, unde sunt publicate articolele și creațiile membrilor, precum și update-uri despre evenimentele și proiectele din comunitate.
 
 ---
+## Licență
+Licența site-ului candaparerevista.ro este [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License) - care este exact cum sună: codul site-ului poate fi folosit de oricine în orice scop, fiind liber de orice restricție ce ține de copyright.
+
+Articolele pot avea licențe diferite, în funcție de preferințele autorului. Variantele principale le găsiți în pagina [Licențe](/licente).
+
+---
 
 ## Informaţii suplimentare
 #### Ce s-a întâmplat cu Level și cu vechiul forum?
@@ -28,9 +34,10 @@ Pentru update-uri și noi adiții la colecții se poate urmări și [thread-ul d
 Pentru a cumpăra reviste vechi se poate consulta [secțiunea de Buy/Sell de pe forum](https://forum.candaparerevista.ro/viewforum.php?f=22).
 
 #### Cum pot contribui?
-* Scriind recenzii și articole în care să ne împărtășești pasiunile tale legate de jocuri. Poți să ne trimiți un review, preview, retrospectivă, critică, eseu, analiză de strategie, sau chiar let's play-uri și tutoriale. Vezi [secțiunea de pe forum](https://forum.candaparerevista.ro/viewforum.php?f=77).
+Găsești informații detaliate în pagina [Contribuie](/contribuie), dar, dar pe scurt, poți contribui astfel:
+
+* Scriind recenzii și articole în care să ne împărtășești pasiunile tale legate de jocuri. Poți să ne trimiți un review, preview, retrospectivă, critică, eseu, analiză de strategie, sau chiar let's play-uri și tutoriale.
 * Participând la activitățile și concursurile organizate pe forum.
-* Scanând numere de reviste vechi care ne lipsesc și postându-le pe [thread-ul dedicat](https://forum.candaparerevista.ro/viewtopic.php?f=16&t=200).
 * Invitând persoane care ar putea fi interesate de comunitatea noastră.
 
 #### De ce se numește așa? Ce revistă?
