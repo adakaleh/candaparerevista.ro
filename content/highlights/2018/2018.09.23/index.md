@@ -110,6 +110,7 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
 
 * Asociația Dezvoltatorilor de Jocuri din România (RGDA) au publicat un nou infografic care sumarizează industria dezvoltatorilor de jocuri din România. ([StartupCafe.ro](https://www.startupcafe.ro/afaceri/top-dezvoltatori-jocuri-video-gaming-romania.htm))
 * Goethe-Institut București și CINETic organizează un _game jam_ cu tema „Games and Politics”. ([Goethe Institut](https://www.goethe.de/ins/ro/ro/m/kul/sup/gap.html), [Facebook](https://m.facebook.com/events/185068478967134)). Cătălin Butnariu de la RGDA [vorbește despre acest eveniment la Europa FM]( https://www.europafm.ro/cum-influenteaza-politica-jocurile-catalin-butnariu-presedintele-rgda-explica-ce-se-va-intampla-la-game-jam-gamespolitics-video/).
+* S-a lansat **Blink:Rogues** [în Early Access pe Steam](https://store.steampowered.com/app/739100/Blink_Rogues/) al studioului Fox Dive Studio.
 
 
 ## Anunţuri şi lansări de jocuri
@@ -132,6 +133,7 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
 * 27 septembrie: **INSOMNIA: The Ark** ([Steam](https://store.steampowered.com/app/783170/INSOMNIA_The_Ark/))
 * 28 septembrie: **Catastronauts** ([Steam](https://store.steampowered.com/app/737890/Catastronauts/))
 * 28 septembrie: **FIFA 19** ([EA Sports](https://www.easports.com/fifa/buy/), [Origin](https://www.origin.com/irl/en-us/store/fifa/fifa-19))
+* 28 septembrie: **Blink:Rogues** (Early Access) ([Steam](https://store.steampowered.com/app/739100/Blink_Rogues/))
 
 
 ## Oferte jocuri
