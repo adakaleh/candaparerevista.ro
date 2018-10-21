@@ -1,0 +1,26 @@
+<!-- thx http://yoshiharuyamashita.com/post/hugo-shortcode-to-show-multiple-images/ -->
+{{ $paramCount := len .Params }}
+{{ if gt $paramCount 0 }}
+  <div class="figure-gallery-ext">
+    {{ range $param := .Params }}
+      {{ $items := split $param "|" }}
+      {{ $itemCount := len $items }}
+      <!-- Item count must be at least 2 as
+      "src" and "caption" must be specified -->
+      {{ if ge $itemCount 2 }}
+        <figure>
+          <a href = "{{ index $items 1 }}">
+            <img
+                src="{{ index $items 0 }}"
+                alt="{{ if ge $itemCount 3 }}{{ index $items 3 }}{{ else }}{{ "" }}{{ end }}"
+            >
+          </a>
+
+          <figcaption>
+            <span> {{ if ge $itemCount 2 }}{{ index $items 2 }}{{ else }}{{ "" }}{{ end }} </span>
+          </figcaption>
+        </figure>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

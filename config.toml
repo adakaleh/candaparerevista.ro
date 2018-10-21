@@ -1,11 +1,14 @@
-baseURL = "/"
+# Merge si doar "/", dar e nevoie de baseUrl pentru a forma url-uri
+# absolute necesare pentru share pe facebook
+baseURL = "https://candaparerevista.ro/"
 languageCode = "en-us"
 title = "Site-ul comunității LEVEL"
 theme = "hugo-casper-two"
 disqusShortname = ""
-paginate        = 11
+paginate        = 10
 #SectionPagesMenu = "main"
 canonifyurls    = true
+rssLimit = 15
 
 # câte cuvinte să fie afișate în cardurile
 # de pe prima pagină (.Summary)
@@ -21,13 +24,18 @@ summaryLength = 50
 
 [params]
   title       = "Când Apare Revista"
-  subtitle    = "Site-ul comunității LEVEL (beta)"
+  subtitle    = "Site-ul comunității LEVEL"
   copyright   = "© 2018"
   description = "candaparerevista.ro este site-ul vechii comunități a revistei Level, una dintre cele mai longevive publicații despre gaming din România. După dispariția revistei în 2013, vechii utilizatori și fani s-au regrupat pe un nou forum. Pe site sunt publicate articolele și creațiile membrilor și update-uri ale proiectelor din comunitate."
 
-  # linkuri facebook și github
+  # linkuri externe: facebook, github, steam
   fbName = "comunitatealevel"
   githubName = "adakaleh/candaparerevista.ro"
+  steamGroup = "candaparerevista"
+
+  # forum
+  linkForum = "https://forum.candaparerevista.ro"
+  labelButonForum = "Forum"
 
   metaDescription = ""
   googleAnalytics = ""
@@ -35,7 +43,7 @@ summaryLength = 50
 
   # logo site si imagine fundal pentru header
   logo = "/img/car_logo.png"
-  cover       = ""
+  cover       = "/img/site_cover.jpg"
 
   # dimensiuni pentru resize cover image din cards
   # (resize Height prop.: "x350", resize Width prop.: "350x")
@@ -46,10 +54,6 @@ summaryLength = 50
   # contribuitori
   paginaContribuitori = "/contribuie"
   labelButonContribuie = "Contribuie"
-
-  # forum
-  linkForum = "https://forum.candaparerevista.ro"
-  labelButonForum = "Forum"
 
   # blogul comunităţii
   labelSectiuneBlog = "Blogul Comunităţii"
@@ -84,11 +88,6 @@ summaryLength = 50
   weight = 100
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 99
-
-[[menu.main]]
   name = "Autori"
   url = "/authors/"
   weight = 98
@@ -102,3 +101,8 @@ summaryLength = 50
   name = "Despre"
   url = "/despre/"
   weight = 97
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 96

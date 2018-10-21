@@ -32,7 +32,6 @@
     text-align:center;
     font-size: 1.2rem;
     margin-bottom: 1em;
-    color: #3eb0ef;
 }
 
 .post-full-categories span {
@@ -73,6 +72,15 @@
     text-transform: none;
 }
 
+.post-full-meta-author a {
+    color: #090a0b;
+    font-weight: 400;
+}
+
+.post-full-meta-author a:hover {
+    color: #3eb0ef;
+}
+
 .post-full-meta-author:before {
     content: "de ";
 }
@@ -84,6 +92,7 @@
     /* height:600px; */
     min-height: 30vh;
     height: 55vh;
+    border-radius: 0;
 }
 
 /* umbra stanga si dreapta de la suprapunerea articolui peste main image */
@@ -126,6 +135,71 @@
 .post-full-content em,
 .post-full-content strong {
     color: rgba(0, 0, 0, .75);
+}
+
+/* imagini articol - figure cu caption */
+.post-full-content figure {
+    margin-bottom: 1.5em;
+}
+
+.post-full-content figure figcaption {
+    font-weight: 400;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: italic;
+    color: #3eb0ef;
+    text-align: center;
+    padding: 0 5em;
+    font-size: 1.5rem;
+    line-height:1.3em;
+    letter-spacing: 0.04em;
+}
+
+/* imagini articol - multi-figure cu caption */
+.post-full-content .figure-gallery {
+    width: 1040px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1.5em;
+}
+
+.post-full-content .figure-gallery figure {
+    padding: 0 .1em;
+    vertical-align: top;
+    flex: 1 1 33%;
+    margin-bottom: 1.5em;
+}
+
+.post-full-content .figure-gallery img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    margin: 1em auto;
+}
+
+/* imagini articol - imagine dimensiune intreaga, cu link */
+.post-full-content .figure-gallery-ext {
+    max-width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5em;
+}
+
+.post-full-content .figure-gallery-ext figure {
+    padding: 0 .1em;
+    vertical-align: top;
+    flex: 1 1 49%;
+    margin-bottom: 1.5em;
+}
+
+.post-full-content .figure-gallery-ext img {
+    width: 100%;
+    /*max-width: 440px;*/
+    object-fit: cover;
+    margin: 1em auto;
 }
 
 /* suprascriere proprietate din screen.css care afecteaza paginile de tip 'page' (ex: Despre) */
@@ -365,4 +439,146 @@
 
 .read-next-feed .blog-post {
     max-width: 47%;
+}
+
+/* --- formatare separata highlights posts --- */
+.highlights .post-full-title,
+.highlights .post-full-subtitle,
+.highlights .post-full-content {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.highlights .post-full-content {
+    font-size: 1.6rem;
+}
+
+.highlights h2 {
+    /* acelasi stil ca la caseta-tehnica-title */
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2em;
+    line-height: 2em;
+    text-transform: uppercase;
+    /*color: #fff;*/
+    /*background-color: rgba(0,0,0,0.7);*/
+    border-top: 1px solid rgba(0,0,0,0.7);
+    border-bottom: 1px solid rgba(0,0,0,0.7);
+}
+
+.highlights h3, .highlights h3 em {
+    font-family: 'Merriweather Sans', sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 0.5em;
+}
+
+/* --- caseta tehnica rating/nota --- */
+
+.caseta-tehnica {
+    width: 100%;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 0.9em;
+    margin: 2em 0;
+}
+
+.caseta-tehnica-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: #fff;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.nota-plus-minus {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.caseta-tehnica-section {
+    padding: 1em 0;
+    border-bottom: 1px solid rgba(0,0,0,0.7);
+}
+
+.nota-plus-minus div {
+    padding: 0 1em;
+}
+
+.nota-plus-minus .rating {
+    text-align: center;
+    flex: 1 1 20%;
+
+    /* setari pentru nota si verdict */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nota-plus-minus .minuses,
+.nota-plus-minus .pluses {
+    flex: 1 1 40%;
+}
+
+.caseta-tehnica-section .alternative,
+.caseta-tehnica-section .conclusion {
+    width: 100%;
+}
+
+.caseta-tehnica-section .joc-recomandat {
+    font-weight: bold;
+}
+
+.nota-plus-minus ul {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nota-plus-minus .nota {
+    font-weight: bold;
+    font-size: 4em;
+}
+
+.nota-plus-minus .verdict {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.rating-container ul {
+    list-style: none;
+    line-height: 20%;
+}
+
+.rating-container li {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    margin-left: 0.1em;
+}
+
+.rating-container p {
+    margin-bottom: 0.3em;
+}
+
+.caseta-tehnica-section .label {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pluses li:before,
+.minuses li:before {
+    margin-right: 0.7em;
+    font-weight: 900;
+    background-color: rgba(0,0,0,0.65);
+    color: white;
+    border-radius: 3px;
+    padding: 0 3px;
+}
+
+.pluses li:before { content: "+"; }
+.minuses li:before { content: "–"; }
+
+.post-full-content code {
+    padding: 0 5px 0;
+    font-size: 1.1em;
+    line-height: 1em;
 }

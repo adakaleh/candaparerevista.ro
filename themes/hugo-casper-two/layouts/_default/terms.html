@@ -11,23 +11,49 @@
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     {{if ne .Site.Params.singleViewStyle "casper"}}
-    <div class="post-feed">
-      {{ partial "post-list" . }}
-    </div>
+      <div class="post-feed">
+        {{ partial "post-list" . }}
+      </div>
 
-    <nav class="pagination" role="navigation">
-      {{if .Paginator.HasPrev}}
-          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-      {{end}}
-      <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-      {{if .Paginator.HasNext}}
-          <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-      {{end}}
-    </nav>
+      <nav class="pagination" role="navigation">
+        {{if .Paginator.HasPrev}}
+            <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+        {{end}}
+        <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
+        {{if .Paginator.HasNext}}
+            <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
+        {{end}}
+      </nav>
     {{else}}
-    <div class="post-feed">
-      {{ partial "post-list-term" . }}
-    </div>   
+      <div class="post-feed">
+
+        <!-- Afisam un layout diferit pentru fiecare tip de taxonomie -->
+        {{ if eq .Section "authors" }}
+          <!-- Pentru pagina autorilor afisam un layout cu carduri pentru fiecare autor -->
+          {{ partial "authors-list" . }}
+
+        {{ else }}
+          <!-- Iar pentru categorii si tags doar o lista si un count cu numarul de articole -->
+          {{ partial "categs-tags-list.html" . }}
+
+          <!-- Initial aici era afisata o lista cu 3 posturi random pentru termeni, dar nu o mai folosim -->
+          {{/* partial "post-list-term" . */}}
+
+        {{ end }}
+      </div>
+    {{end}}
+
+    <!-- Pentru pagina autorilor, unde sunt carduri separate/autor, avem nevoie si de paginatie -->
+    {{ if eq .Section "authors" }}
+      <nav class="pagination" role="navigation">
+        {{if .Paginator.HasPrev}}
+        <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+        {{end}}
+        <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
+        {{if .Paginator.HasNext}}
+        <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
+        {{end}}
+      </nav>
     {{end}}
   </div>
 </main>

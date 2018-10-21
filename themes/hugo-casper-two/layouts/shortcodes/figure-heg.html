@@ -3,6 +3,7 @@ Put this file in /layouts/shortcodes/figure.html
 NB this overrides Hugo's built-in "figure" shortcode but is backwards compatible
 Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 -->
+{{/*Nota Cristan: redenumit fisierul figure.html in figure-heg.html ca sa NU mai suprascrie shortcode-ul built-in al Hugo */}}
 <!-- count how many times we've called this shortcode; load the css if it's the first time -->
 {{- if not ($.Page.Scratch.Get "figurecount") }}<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />{{ end }}
 {{- $.Page.Scratch.Add "figurecount" 1 -}}

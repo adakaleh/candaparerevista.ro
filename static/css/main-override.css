@@ -218,6 +218,17 @@ a {
     font-size: 1.05rem;
 }
 
+.post-card-subtitle {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #738a94;
+    font-size: 1.3rem;
+    line-height: 1.15em;
+    font-weight: 500;
+    letter-spacing: .5px;
+    text-transform: uppercase
+}
+
 /* text card */
 .post-card-title {
     font-size: 1.8rem;
@@ -259,6 +270,45 @@ a {
   max-height: 400px;
 }*/
 
+/* lista categorii si tags */
+.post-feed .taxonomy-list:first-child {
+    width: 100%;
+}
+
+.post-feed .taxonomy-list h2 {
+    font-size: 2.8rem;
+}
+
+/* card autori din pagina /authors */
+.post-card .author-card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin: 1em auto;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.post-card .author-card-name {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* caseta descriere autor din pagina /authors/<author-name> */
+.author-description {
+    /* suprascriere proprietati de la .post-full-content */
+    margin: 0;
+    margin: -2em auto 2em!important;
+    padding: 0;
+    padding: 3em!important;
+    min-height: 100px!important;
+    max-width: 1240px!important;
+}
+
+.author-description:after, .author-description:before {
+    height: 3vw!important;
+}
 
 /* card blog/stiri */
 .blog-card {
@@ -311,7 +361,7 @@ a {
     margin: 1em 1em 0;
     background: #fff;
     max-width: 650px;
-    background-image: url("http://localhost:1313/img/whitepaper.png");
+    background-image: url('../img/whitepaper.png');
     line-height: 1.3em;
 }
 

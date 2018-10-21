@@ -39,14 +39,26 @@
     </nav>
 
     <div class="site-header-content">
-        <h1 class="site-title">{{.Title | title}}</h1>
+        {{if eq .Section "authors" }}
+          <h1 class="site-title">Autori</h1>
+        {{else}}
+          <h1 class="site-title">Articole</h1>
+        {{end}}
 
-        <h2 class="site-description">&#x2F;&nbsp;
-          {{ $data := .Data }}
-          {{ range $key, $value := .Data.Terms.Alphabetical }}
-          <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> ({{ $value.Count }})&nbsp;&#x2F;&nbsp;
+        {{/*}}
+        <!-- Nu mai folosim titlul si subtitlul originale -->
+        <h1 class="site-title">{{.Title | title}}</h1>
+        <h2 class="site-description">
+          <!-- In pagina /authors nu mai afisam sumarul cu nume + count,
+          pentru ca afisam carduri cu numele fiecarui autor -->
+          {{ if ne .Section "authors" }}&#x2F;&nbsp;
+            {{ $data := .Data }}
+            {{ range $key, $value := .Data.Terms.Alphabetical }}
+              <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> ({{ $value.Count }})&nbsp;&#x2F;&nbsp;
+            {{ end }}
           {{ end }}
         </h2>
+        {{*/}}
     </div>
   </div>
 </header>

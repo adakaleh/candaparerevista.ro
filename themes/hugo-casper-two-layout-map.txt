@@ -49,8 +49,8 @@ js.html
 license-list.html					- card pentru paginile cu licențe
 license-post.html					- lista carduri licențe
 
-meta-facebook.html
-meta-twitter.html
+meta-facebook.html					- defineste metadata pentru embed/share pe facebook
+meta-twitter.html					- defineste metadata pentru embed/share pe twitter
 
 page-single-sori.html
 page-single.html					- (casper-single layout) pagina separata
@@ -64,3 +64,29 @@ post-single.html					- (casper-single layout) pagina articol normal (-> /_defaul
 readnext-article-sori.html
 readnext-random-sori.html
 
+
+--------------------------
+Tree partiale (incomplet)
+--------------------------
+
+index.html
+|- head.html
+|  |- meta-twitter.html
+|  |- meta-facebook.html
+|- header.html
+|- post-list.html
+|- footer.html
+
+
+single.html
+|- head.html
+|  |- meta-twitter.html
+|  |- meta-facebook.html
+|- header.html / header-sori.html
+|- post-single.html / post-single-sori.html
+|- disqus.html
+|- readnext-random-sori.html + readnext-article-sori.html
+|- /*header-floating-sori.html*/
+|- footer.html
+|- js.html
+|- js-sori.html

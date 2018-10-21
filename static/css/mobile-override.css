@@ -17,6 +17,14 @@
     .post-full-content img {
         margin: 0 auto;
     }
+
+    .post-full-content .figure-gallery {
+        width: 100%;
+    }
+
+    .post-full-content .figure-gallery figure {
+        flex: 1 1 49%;
+    }
 }
 
 @media (max-width: 800px) {
@@ -46,6 +54,19 @@
         font-style: italic;
     }
 
+    .post-full-content .figure-gallery figure {
+        flex: 1 1 100%;
+    }
+
+    .nota-plus-minus {
+        flex-direction: column;
+    }
+
+    .nota-plus-minus div {
+        flex: 1 1 100%;
+        padding: 1em;
+    }
+
     /* cardurile read next-previous din articol */
     .read-next-feed .post-card, .read-next-feed .blog-post {
         max-width: 100%;
@@ -66,5 +87,9 @@
         margin: 0 -2vw -5vw;
         min-height: 10vh;
         height: 30vh;
+    }
+
+    .post-full-content .figure-gallery-ext figure {
+        flex: 1 1 100%;
     }
 }

@@ -10,19 +10,19 @@
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     {{if ne .Site.Params.singleViewStyle "casper"}}
-    <div class="post-feed">
-      {{ partial "post-single" . }}
-    </div>
+      <div class="post-feed">
+        {{ partial "post-single" . }}
+      </div>
 
-    <nav class="pagination" role="navigation">
-      {{if .NextInSection}}
-          <a class="newer-posts" href="{{ .NextInSection.RelPermalink }}">&larr; <span class="hide">Next Post</span></a>
-      {{end}}
-      <span class="page-number">&nbsp;</span>
-      {{if .PrevInSection}}
-          <a class="older-posts" href="{{ .PrevInSection.RelPermalink }}"><span class="hide">Previous Post</span> &rarr;</a>
-      {{end}}
-    </nav>
+      <nav class="pagination" role="navigation">
+        {{if .NextInSection}}
+            <a class="newer-posts" href="{{ .NextInSection.RelPermalink }}">&larr; <span class="hide">Next Post</span></a>
+        {{end}}
+        <span class="page-number">&nbsp;</span>
+        {{if .PrevInSection}}
+            <a class="older-posts" href="{{ .PrevInSection.RelPermalink }}"><span class="hide">Previous Post</span> &rarr;</a>
+        {{end}}
+      </nav>
 
     {{else}}
       {{ partial "post-single-sori" . }}

@@ -1,8 +1,7 @@
 {{$isBlogPage := eq .Section "blog"}}
 {{$blogPostCssClass := cond $isBlogPage "blog" "" }}
 
-<article class="post-full {{ $blogPostCssClass }} post">
-
+<article class="post-full {{ .Section }} post">
     {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
     {{$authorName := $author.name  }}
     {{$authorThumbnail := $author.thumbnail  }}
@@ -14,7 +13,7 @@
         {{with .Params.categories }}
             <div class="post-full-categories">
                 {{ range $index, $categ := . }}
-                {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}
+                {{if $index}}/{{end}}<span class = "{{ lower $categ }}"><a href="/categories/{{$categ | urlize}}/">{{$categ}}</a></span>{{end}}
             </div>
         {{end}}
         <h1 class="post-full-title">{{.Title}}</h1>
@@ -25,7 +24,11 @@
             <time class="post-full-meta-date" datetime="{{.Date.Format "2006-01-02"}}">{{ .Date.Format "2 January 2006" | safeHTML }}</time>
             {{ if not $isBlogPage }}
                 {{/* nu afisam autorul in paginile de blog */}}
-                <div class="post-full-meta-author">{{$authorName}}</div>
+                {{ if .Params.authors }}
+                    <div class="post-full-meta-author"><a href="/authors/{{.Params.authors}}/">{{$authorName}}</a></div>
+                {{ else }}
+                    <div class="post-full-meta-author">{{$authorName}}</div>
+                {{ end }}
             {{ end }}
         </section>
     </header>
@@ -47,6 +50,11 @@
     <section class="post-full-content {{ $noImageCssClass }}">
         <div class="kg-card-markdown {{ $blogPostCssClass }}">
         {{ .Content }}
+
+            {{ with .Params.casetaTehnica }}
+                {{ partial "caseta-tehnica" . }}
+            {{ end }}
+
         </div>
 
         {{/* ----- Galeria de la sfârşit (imaginile din /gallery ) ----- */}}
@@ -76,11 +84,31 @@
 
                 {{with .Params.sursa}}
                     <p>
-                        <span class="post-full-article-extra-categ">Sursa</span>: <a href="{{ .link }}">{{ or .text "link"}}</a>
+                        <span class="post-full-article-extra-categ">Sursa</span>:
+                        {{ if .link }}
+                            <a href="{{ .link }}">{{ or .text "link"}}</a>
+                        {{ else }}
+                            {{ with .text }}{{ . }}{{ end }}
+                        {{ end }}
                         {{ with .data }}
                             (<span>{{ dateFormat "2-01-2006" . | safeHTML }}</span>)
                         {{ end }}
                     </p>
+                {{end}}
+
+                {{with .Params.download }}
+                {{ if eq (len .) 1 }}
+                    {{ range . }}
+                        <p><span class="post-full-article-extra-categ">Download</span>: <a href = "{{ .link }}">{{ .text }}</a> - {{ .desc }}</p>
+                    {{end}}
+                {{ else }}
+                    <p><span class="post-full-article-extra-categ">Download</span>:</p>
+                    <ul>
+                        {{ range . }}
+                        <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>
+                        {{ end }}
+                    </ul>
+                {{end}}
                 {{end}}
 
                 {{with .Params.linkuriExterne}}

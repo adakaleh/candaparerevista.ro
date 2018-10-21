@@ -35,9 +35,10 @@
                 {{if .Params.categories }}<div class="post-card-categories">{{ range $index, $categ := .Params.categories }}
                 {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}</div>{{end}}
                 <h2 class="post-card-title">{{.Title}}</h2>
-                {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
+                {{/*if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
                 #{{$tag}} {{end}} </span>
-                {{ end }}
+                {{ end */}}
+                {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
             </header>
             <section class="post-card-excerpt">
               <p class="js-text-clamp">
