@@ -6,8 +6,32 @@ Codul sursă pentru site-ul [candaparerevista.ro](https://candaparerevista.ro)
 
 # Conţinut
 
+## Articole
+Se pot introduce articole în corpul altui articol folosind parțialul `include-post.html`, folosind sintaxa:
+
+~~~
+text articol aici
+
+{{< include-post "nume-unic-director-articol" "imagine/optionala.jpg" >}}
+
+text articol aici
+~~~
+
+Numele directorului este echivalentul slug-ului, respectiv ultima parte a URL-ului:
+
+`https://candaparerevista.ro/posts/2018/10/nume-unic-director-articol/`
+
+Parțialul caută numele în toate paginile site-ului, și îi introduce conținutul în articolul-părinte, afișând și numele autorului cu link către articolul sursă.
+
+Imaginea este opțională. Dacă este dată, trebuie folosită calea relativă la articolul-părinte **în care** introducem articolul. Dacă lipsește, va fi căutată imaginea de copertă ("cover-image") din resursele articolului-copil (cel inclus).
+
+Atenție:
+* dacă articolul-copil conține imagini cu cale relativă, acele imagini nu vor fi afișate în articolul părinte.
+* în caz de eroare, trebuie verificat dacă numele directorului e scris corect și dacă pagina nu are setat `draft: true`, caz în care nu are cum să o găsească.
+
 ## Imagini
-Pentru imagini, există 4 variante:
+Pentru a introduce imagini în articole, există 4 variante:
+
 #### Varianta simplă
 Fiecare imagine se introduce separat folosind sintaxa normală de markdown și va ocupa întreaga lățime a articolului:
 ~~~

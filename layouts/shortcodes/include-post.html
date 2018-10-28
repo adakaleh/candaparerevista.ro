@@ -1,0 +1,53 @@
+<!-- Partial care primeste directorul unui articol, apoi afiseaza corpul acelui articol
+impreuna cu numele autorului, link catre articolul original si o imagine. Imaginea este
+fie imaginea de coperta a articolului original, fie un al 2-lea parametru care este
+pasat partialului. Exemplu:
+
+include-post "nume-unic-director-articol" "imagine/optionala.jpg"
+
+-->
+
+{{ $titluParam := .Get 0 }}
+{{ $imagineParam := .Get 1 }}
+
+<!-- Cautam articolul in toate paginile site-ului -->
+{{ range .Site.Pages }}
+    {{ if in .Permalink (lower $titluParam) }}
+        {{ $.Scratch.Set "pagina_gasita" . }}
+    {{ end }}
+{{ end }}
+
+{{ $articol := $.Scratch.Get "pagina_gasita" }}
+
+{{ if (not ($articol)) }}
+    {{/* Arata mesaj eroare si forteaza eroare de compilare - `errorf` ar fi trebuit sa faca asta, dar n-o face */}}
+    {{ errorf "Nu am gasit pagina %q" $titluParam }}
+    {{ index $articol.Params 0 }}
+{{ end }}
+
+<!-- Titlul, autorul si link catre articolul sursa -->
+{{ $link_articol := $articol.Permalink }}
+{{ $author := (or $articol.Params.authors $.Site.Params.author) }}
+{{ $nume_autor := (index .Site.Data.authors $author).name }}
+
+<h3 style="text-align: center"> {{ $articol.Title }} </h3>
+<p style="text-align: center">(<a href="{{$link_articol}}">Articol scris de: {{ $nume_autor }})</a></p>
+
+<!-- Imaginea este cea data ca parametru, daca exista, altfel citim imaginea de coperta din articol -->
+{{ if $imagineParam }}
+    <p><img src="{{$imagineParam}}"></p>
+
+{{ else }}
+    <!-- ne uitam in resursele articolului inclus si folosim imaginea de coperta, daca exista -->
+    {{ with index $articol.Params "resources"}}
+        {{ range where . "name" "==" "cover-image"}}
+            {{ with .src }}
+                {{ $img_link := printf "%s/%s" $link_articol .src }}
+                <p><img src="{{$img_link}}"></p>
+            {{end}}
+        {{end}}
+    {{end}} <!-- end range resources -->
+{{ end }}
+
+<!-- corpul articolului sursa -->
+{{ $articol.Content }}
