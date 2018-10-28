@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 21-27 octombrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.10.21/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.10.21/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 14-20 octombrie 2018</title>
@@ -138,15 +147,6 @@
       <guid>https://candaparerevista.ro/blog/2018/09/arhiva-level-completa/</guid>
       <description>Colecţia digitală a revistei LEVEL e în sfârşit completă!
 După cum ştiţi, luna septembrie este luna în care aniversăm apariţia primului număr al revistei. Cu această ocazie, ultimul set de 26 de reviste care mai lipseau (anii 2011-2013) a fost scanat. Graţie eforturilor membrilor comunităţii din ultimii 10 ani, începând din 2008, toate cele 191 de numere ale revistei sunt acum scanate şi disponibile pentru lectură şi căutare online, sau pentru download în format PDF.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 9-15 septembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.09.09/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.09.09/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
     </item>
     
   </channel>
