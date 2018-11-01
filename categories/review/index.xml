@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pool Panic</title>
+      <link>https://candaparerevista.ro/posts/2018/11/review-pool-panic-marvas/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/review-pool-panic-marvas/</guid>
+      <description>În ceea ce mă privește sunt și voi fi mereu un neîndemânatic. Indiferent că e vorba de reparat lucruri prin casă, condus mașina sau chiar și jucat pe consolă, niciodată nu simt că am controlul complet asupra acțiunii. Unele lucruri îmi scapă, atât la propriu cât și la figurat. De multe ori privesc în urmă și mă întreb cum am reușit să duc la bun sfârșit una sau alta.</description>
+    </item>
     
     <item>
       <title>American McGee&#39;s Scrapland</title>
@@ -137,16 +146,6 @@
       <guid>https://candaparerevista.ro/posts/2018/06/review-elex-tg/</guid>
       <description>De-a lungul existenței mele pe internet am mai scris introducerea asta de câteva ori. E răsuflarea nostalgică binecunoscută în rândurile jucătorilor, când îți amintești cu plăcere momente din jocurile tale preferate.
 Întotdeauna e acel joc anume, care - fie că îl consideri cel mai bun sau doar s-a nimerit să fie acolo pentru tine în momente definitorii - îți stârnește amintiri dintr-o vreme mai bună.</description>
-    </item>
-    
-    <item>
-      <title>UnderRail</title>
-      <link>https://candaparerevista.ro/posts/2018/05/review-underrail-tg/</link>
-      <pubDate>Sun, 20 May 2018 20:00:10 +0200</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/05/review-underrail-tg/</guid>
-      <description>M-am gândit dacă să scriu sau nu un articol despre UnderRail, în primă fază am zis că poate impresia mea despre joc e influențată prea tare de faptul că tocmai îl jucasem, dar au trecut cam trei luni și nu s-a schimbat nimic.
-Din 2008 până în 2012 la UnderRail a lucrat predominant o singură persoană, în 2012 a fost lansat ca early-alpha pe diferite platforme digitale de distribuție, iar în 2013 a ajuns și pe Steam early access, pentru ca trei ani mai târziu să scoată în sfârșit capul la iveală și să apară în lista de noi apariții.</description>
     </item>
     
   </channel>
