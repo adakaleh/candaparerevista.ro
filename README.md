@@ -29,6 +29,15 @@ Atenție:
 * dacă articolul-copil conține imagini cu cale relativă, acele imagini nu vor fi afișate în articolul părinte.
 * în caz de eroare, trebuie verificat dacă numele directorului e scris corect și dacă pagina nu are setat `draft: true`, caz în care nu are cum să o găsească.
 
+### Ascundere articole de pe home page
+Pentru a omite unele articole din lista de posturi afișate pe home page, se poate seta un parametru suplimentar în front matter:
+
+`hideOnHome: true`
+
+Când acest parametru e setat, articolul nu va fi inclus în lista de articole de pe home (indiferent de numărul de pagini), dar va apărea în celelalte secțiuni alte site-ului, cum ar fi pagina de articole sau pagina autorului.
+
+Acest parametru e util atunci când publicăm un articol în categoria "Recomandare" în același timp cu publicarea Retrospectivei Săptămânii în care includem articolul respectiv (folosind parțialul `include-post` de mai sus) la "Recomandarea Săptămânii". În felul ăsta, evităm să avem două articole consecutive cu același conținut (și poate și aceeași imagine pe card).
+
 ## Imagini
 Pentru a introduce imagini în articole, există 4 variante:
 

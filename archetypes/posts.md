@@ -6,6 +6,10 @@ title: Titlul Noului Articol
 # (OBLIGATORIU)
 type: post
 
+# (optional) daca este prezent, cu valoarea `true`, postul nu va fi
+# inclus in lista de articole de pe home page
+hideOnHome:
+
 # (optional) Subtitlul Articolului
 subtitle: 
 
