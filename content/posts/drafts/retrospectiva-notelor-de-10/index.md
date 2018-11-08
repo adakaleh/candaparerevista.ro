@@ -1,18 +1,18 @@
 ---
 title: Notele de 10 din Level
 type: post
-date: 2018-10-11
-draft: true
+date: 2018-11-07
 authors: mahdi
+draft: true
 categories:
     - Retrospectivă
 tags:
     - Level
 
 
-linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1215
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1864&start=20
 
-description: "Lorem ipsum something something."
+description: "Când Cristan a terminat de pus cap la cap arhiva virtuală a Level, mi s-a părut c-ar fi interesant să facem câteva retrospective tematice. În ediția de astăzi este vorba despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…"
 
 resources:
   - src:
@@ -22,7 +22,7 @@ resources:
     name: "cover-image"
 ---
 
-Când Cristan a terminat de pus cap la cap [arhiva virtuală a Level](http://arhivarevistevechi.mythweb.ro/), ni s-a părut c-ar fi interesant să facem câteva retrospective tematice. Astăzi vom vorbi despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…
+Când Cristan a terminat de pus cap la cap [arhiva virtuală a Level](http://arhivarevistevechi.mythweb.ro/), mi s-a părut c-ar fi interesant să facem câteva retrospective tematice. În ediția de astăzi este vorba despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…
 
 {{< figure  src="images/01-Riven.PNG" >}}
 ### Riven: The Sequel to Myst
@@ -121,8 +121,8 @@ Citește reviewul [aici](http://arhivarevistevechi.mythweb.ro/arhiva/articole.ph
 
 >Am simțit în permanență, în timpul rulării acestui titlu, clicuri repetate, stînga, dreapta, o rotiță învîrtindu-se, și mai ales un clic cumplit, cel mai dureros, exact în centrul ființei mele. În timp ce eu străbăteam Purgatoriul, ceva se juca în mine un joc. Acelui joc îi dau nota 10.
 
-Nu știm dacă ideile din acest articol se suprapun peste intenția celor care au făcut jocul. Dar, *going full meta*, putem spune că Marius Ghinea a scris în aceste nouă pagini o veritabilă Carte a Jucătorilor, să-i călăuzească pe cei care s-au pierdut prea ușor în jocul celor de la The Chinese Room.
+Nu știu dacă ideile din acest articol se suprapun peste intenția celor care au făcut jocul. Dar, *going full meta*, pot spune că Marius Ghinea a scris în aceste nouă pagini o veritabilă Carte a Jucătorilor, să-i călăuzească pe cei care s-au pierdut prea ușor în jocul celor de la The Chinese Room.
 
 <hr>
 
-Cam acestea au fost jocurile de 10 din Level. Poate că printre ele nu se numără mulți clasici și monștri sacri, dar dacă ne uităm în eșantionul de note între 9 și 10, vom descoperi multe dintre jocurile care au făcut istorie. Fie că vorbim despre cult classics precum **Planescape: Torment** (97/100) și **Thief: The Dark Project** (96/100), deschizători de drumuri precum **Half Life** (98/100), **Shogun: Total War** (97/100) sau jocurile populare care au provocat numeroase nopți albe (**World of Warcraft** - 98/100, **Counter-Strike** - 97/100), în general impresiile redactorilor despre jocuri s-au aliniat cu ce le-a rezervat posteritatea. ■
+Cam acestea au fost jocurile de 10 din Level. Poate că printre ele nu se numără mulți clasici și monștri sacri, dar dacă ne uităm în eșantionul de note între 9 și 10, vom descoperi multe dintre jocurile care au făcut istorie. Fie că vorbim despre cult classics precum **Planescape: Torment** (`97/100`) și **Thief: The Dark Project** (`96/100`), deschizători de drumuri precum **Half Life** (`98/100`), **Shogun: Total War** (`97/100`) sau jocurile populare care au provocat numeroase nopți albe (**World of Warcraft** - `98/100`, **Counter-Strike** - `97/100`), în general impresiile redactorilor despre jocuri s-au aliniat cu ce le-a rezervat posteritatea. ■
