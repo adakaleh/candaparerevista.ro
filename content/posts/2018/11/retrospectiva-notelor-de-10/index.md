@@ -1,12 +1,10 @@
 ---
 title: Notele de 10 din Level
 type: post
-date: 2018-11-07
+date: 2018-11-09
 authors: mahdi
-draft: true
 categories:
     - Retrospectivă
-tags:
     - Level
 
 
@@ -15,7 +13,7 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1864&start=20
 description: "Când Cristan a terminat de pus cap la cap arhiva virtuală a Level, mi s-a părut c-ar fi interesant să facem câteva retrospective tematice. În ediția de astăzi este vorba despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…"
 
 resources:
-  - src:
+  - src: images/note-10-card.jpg
     name: "card-cover-image"
 
   - src:
@@ -24,7 +22,7 @@ resources:
 
 Când Cristan a terminat de pus cap la cap [arhiva virtuală a Level](http://arhivarevistevechi.mythweb.ro/), mi s-a părut c-ar fi interesant să facem câteva retrospective tematice. În ediția de astăzi este vorba despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…
 
-{{< figure  src="images/01-Riven.PNG" >}}
+{{< figure  src="images/01-Riven.jpg" >}}
 ### Riven: The Sequel to Myst
 Data apariției: ianuarie 1998 </br>
 Autor: Indianu' </br>
@@ -125,4 +123,4 @@ Nu știu dacă ideile din acest articol se suprapun peste intenția celor care a
 
 <hr>
 
-Cam acestea au fost jocurile de 10 din Level. Poate că printre ele nu se numără mulți clasici și monștri sacri, dar dacă ne uităm în eșantionul de note între 9 și 10, vom descoperi multe dintre jocurile care au făcut istorie. Fie că vorbim despre cult classics precum **Planescape: Torment** (`97/100`) și **Thief: The Dark Project** (`96/100`), deschizători de drumuri precum **Half Life** (`98/100`), **Shogun: Total War** (`97/100`) sau jocurile populare care au provocat numeroase nopți albe (**World of Warcraft** - `98/100`, **Counter-Strike** - `97/100`), în general impresiile redactorilor despre jocuri s-au aliniat cu ce le-a rezervat posteritatea. ■
+Cam acestea au fost jocurile de 10 din Level. Poate că printre ele nu se numără mulți clasici și monștri sacri, dar dacă ne uităm în eșantionul de note între 9 și 10, vom descoperi multe dintre jocurile care au făcut istorie. Fie că vorbim despre cult classics precum **Planescape: Torment** (`97/100`) și **Thief: The Dark Project** (`96/100`), deschizători de drumuri precum **Half-Life** (`98/100`), **Shogun: Total War** (`97/100`) sau jocurile populare care au provocat numeroase nopți albe (**World of Warcraft** - `98/100`, **Counter-Strike** - `97/100`), în general impresiile redactorilor despre jocuri s-au aliniat cu ce le-a rezervat posteritatea. ■
