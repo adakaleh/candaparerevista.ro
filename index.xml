@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notele de 10 din Level</title>
+      <link>https://candaparerevista.ro/posts/2018/11/retrospectiva-notelor-de-10/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/retrospectiva-notelor-de-10/</guid>
+      <description>Când Cristan a terminat de pus cap la cap arhiva virtuală a Level, mi s-a părut c-ar fi interesant să facem câteva retrospective tematice. În ediția de astăzi este vorba despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…</description>
+    </item>
     
     <item>
       <title>Revistele lunii noiembrie 2018</title>
@@ -139,15 +148,6 @@
       
       <guid>https://candaparerevista.ro/posts/2018/09/review-anna-s-quest-azad/</guid>
       <description>Experiența mea cu jocurile Daedalic este una dulce-amară. Multe dintre jocurile lor mi-au stârnit curiozitatea și m-au adus până în punctul de a le considera clasice doar ca să fiu, într-un final, dezamăgit. După finalul brusc și enervant al lui Chains of Satinav și unele decizii din al treilea Deponia, așteptările mele de la un alt joc Daedalic erau destul de mici.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 16-22 septembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.09.16/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.09.16/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui.</description>
     </item>
     
   </channel>
