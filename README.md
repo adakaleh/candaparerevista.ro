@@ -6,8 +6,41 @@ Codul sursă pentru site-ul [candaparerevista.ro](https://candaparerevista.ro)
 
 # Conţinut
 
+## Articole
+Se pot introduce articole în corpul altui articol folosind parțialul `include-post.html`, folosind sintaxa:
+
+~~~
+text articol aici
+
+{{< include-post "nume-unic-director-articol" "imagine/optionala.jpg" >}}
+
+text articol aici
+~~~
+
+Numele directorului este echivalentul slug-ului, respectiv ultima parte a URL-ului:
+
+`https://candaparerevista.ro/posts/2018/10/nume-unic-director-articol/`
+
+Parțialul caută numele în toate paginile site-ului, și îi introduce conținutul în articolul-părinte, afișând și numele autorului cu link către articolul sursă.
+
+Imaginea este opțională. Dacă este dată, trebuie folosită calea relativă la articolul-părinte **în care** introducem articolul. Dacă lipsește, va fi căutată imaginea de copertă ("cover-image") din resursele articolului-copil (cel inclus).
+
+Atenție:
+* dacă articolul-copil conține imagini cu cale relativă, acele imagini nu vor fi afișate în articolul părinte.
+* în caz de eroare, trebuie verificat dacă numele directorului e scris corect și dacă pagina nu are setat `draft: true`, caz în care nu are cum să o găsească.
+
+### Ascundere articole de pe home page
+Pentru a omite unele articole din lista de posturi afișate pe home page, se poate seta un parametru suplimentar în front matter:
+
+`hideOnHome: true`
+
+Când acest parametru e setat, articolul nu va fi inclus în lista de articole de pe home (indiferent de numărul de pagini), dar va apărea în celelalte secțiuni alte site-ului, cum ar fi pagina de articole sau pagina autorului.
+
+Acest parametru e util atunci când publicăm un articol în categoria "Recomandare" în același timp cu publicarea Retrospectivei Săptămânii în care includem articolul respectiv (folosind parțialul `include-post` de mai sus) la "Recomandarea Săptămânii". În felul ăsta, evităm să avem două articole consecutive cu același conținut (și poate și aceeași imagine pe card).
+
 ## Imagini
-Pentru imagini, există 4 variante:
+Pentru a introduce imagini în articole, există 4 variante:
+
 #### Varianta simplă
 Fiecare imagine se introduce separat folosind sintaxa normală de markdown și va ocupa întreaga lățime a articolului:
 ~~~

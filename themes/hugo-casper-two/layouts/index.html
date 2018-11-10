@@ -7,6 +7,9 @@
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     <div class="post-feed">
+      <!-- Setam un parametru suplimentar aici cand apelam partialul post-list ca sa
+      putem folosi filtrari suplimentare doar pentru listele de pe home page -->
+      {{ .Scratch.Set "parentPage" "home" }}
       {{ partial "post-list" . }}
     </div>
 

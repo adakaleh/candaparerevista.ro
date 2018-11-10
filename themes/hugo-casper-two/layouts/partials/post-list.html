@@ -1,14 +1,27 @@
-{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") }}
+<!-- Intai trebuie sa stim daca lista de posturi e construita pentru home page sau pentru o categorie.
+In functie de asta, putem aplica filtre aditionale, respectiv sa ascundem anumite posturi din lista
+de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categorie  -->
+{{ $isHomePage := eq ($.Scratch.Get "parentPage") "home" }}
+
+{{ $afiseazaToatePosturile := (where .Data.Pages.ByDate.Reverse "Type" "post") }}
+<!-- Aceasta filtrare exclude posturile care au setat parametrul `hideOnHome: true`
+ (atentie: denumirea parametrului trebuie sa fie lowercase in conditia de la "where") -->
+{{ $afiseazaToatePosturileFaraHide := (where (where .Data.Pages.ByDate.Reverse "Type" "post") ".Params.hideonhome" "!=" "true") }}
+{{ $posturiAfisabile := cond ($isHomePage) $afiseazaToatePosturileFaraHide $afiseazaToatePosturile }}
+
+{{ $paginator := .Paginate $posturiAfisabile }}
+
 {{ $pageNumber := .Paginator.PageNumber}}
 {{ range $cardIndex, $cardPage := $paginator.Pages }}
 
+<!-- Verificam daca iterarea este la primul card de pe prima pagina ca sa-i putem defini o clasa css proprie -->
 {{ $isFirstCard := and (eq $pageNumber 1) (eq $cardIndex 0) }}
 {{ $firstCardCssClass := cond $isFirstCard "first-card" "" }}
 {{ $cardThumbSize := cond $isFirstCard .Site.Params.firstCardThumbSize .Site.Params.cardThumbSize }}
 
 <article class="post-card post {{ $firstCardCssClass }}">
 
-    {{/* ----- Imagine card ----- */}}
+    <!-- ----- Imagine card ----- -->
     {{if .Params.image}}
       <a class="post-card-image-link" href="{{ .Permalink }}">
         <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
@@ -34,7 +47,7 @@
       </a>
     {{end}}
 
-  {{/* ----- Conţinut card ----- */}}
+    <!-- ----- Conţinut card ----- -->
     <div class="post-card-content">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
@@ -71,7 +84,7 @@
     </div>
 </article>
 
-    {{/* ----- Card Blogul Comunităţii - doar pe prima pagină, după cardul principal ----- */}}
+    <!-- ----- Card Blogul Comunităţii - doar pe prima pagină, după cardul principal ----- -->
     {{ if $isFirstCard }}
       {{ with (where $.Data.Pages.ByDate.Reverse "Type" "blog") }}
         <article class="post-card blog-card">
