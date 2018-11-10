@@ -1,7 +1,0 @@
-{{ with (where .Data.Pages.ByDate.Reverse "Type" "blog") }}
-  {{ range . }}
-
-    {{ partial "blog-post" . }}
-
-  {{ end }}
-{{ end }}

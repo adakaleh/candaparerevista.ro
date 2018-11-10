@@ -13,8 +13,7 @@
 * [ ] Aside cu float left/width 50%
 
 ### Blog comunitate
-* [ ] Îmbunătăţiri layout
-* [ ] Link pe card
+* [ ] Modificare post list să nu apară niciodată primul (cardul mare)
 
 ### Mobile
 * [ ] Fix layout carduri prev/next

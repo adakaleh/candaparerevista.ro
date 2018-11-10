@@ -42,7 +42,7 @@ include-post "nume-unic-director-articol" "imagine/optionala.jpg"
     {{ with index $articol.Params "resources"}}
         {{ range where . "name" "==" "cover-image"}}
             {{ with .src }}
-                {{ $img_link := printf "%s/%s" $link_articol .src }}
+                {{ $img_link := printf "%s/%s" $link_articol . }}
                 <p><img src="{{$img_link}}"></p>
             {{end}}
         {{end}}

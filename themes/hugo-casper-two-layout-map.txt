@@ -29,8 +29,7 @@ single.html							- template principal pentru paginile de tip 'page'
 --------------------------
 \layouts\partials
 --------------------------
-blog-list.html						- pagina separată cu ştirile din comunitate (blog)
-blog-post.html						- card pentru ştirile din comunitate (blog)
+blog-post.html						- card pentru ştirile din comunitate, folosit și pentru licențe (blog)
 
 disqus.html
 footer.html
