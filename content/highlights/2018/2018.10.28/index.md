@@ -39,6 +39,7 @@ resources:
 * [Back from the dead: The people keeping old MMOs alive](https://www.gamesindustry.biz/articles/2018-11-02-the-people-keeping-old-mmos-alive) (GamesIndustry.biz)
 * [Poker Night At The Inventory Is An Awkward Time Capsule](https://kotaku.com/poker-night-at-the-inventory-is-an-awkward-time-capsule-1830191319) (Kotaku)
 * O serie de articole de la autori diverși despre viitorul jocurilor: [The future of gaming: How video game data, diversity, collaboration, and culture will evolve](https://qz.com/is/what-happens-next-2/1438720/future-of-gaming/) (Quartz)
+* * Capsule Crit, care publică periodic o colecţie de eseuri despre jocuri, au publicat [ediţia cu numărul 4](https://www.capsulecrit.com/intro04), în care puteţi citi materiale, printre altele, despre **Red Dead Redemption 2** sau **Stardew Valley**.
 
 
 ### _Not-a-review_
@@ -81,6 +82,7 @@ resources:
 * [Assassin&#8217;s Creed Odyssey travelogue](https://www.rockpapershotgun.com/2018/11/01/assassins-creed-odyssey-travelogue/) (RPS)
 * [The eeriest places in games are the ones where the environment is the monster](https://www.rockpapershotgun.com/2018/11/01/the-eeriest-places-in-games-are-the-ones-where-the-environment-is-the-monster) (RPS)
 * (Poze frumoase) [Oh No](https://kotaku.com/oh-no-1830146615/) (Kotaku)
+* [Game Box Art Critique November: Fallout 76, Hitman 2, Darksiders 3](https://www.videogamer.com/features/game-box-art-critique-november-fallout-76-hitman-2-darksiders-3) (VideoGamer)
 
 ## Made în România
 

@@ -53,6 +53,8 @@ Câteva știri înainte:
     "images/gameinformer.jpg|https://s3.amazonaws.com/prod-media.gameinformer.com/2018/11/01/9c0b3261/2018-12-cover-spread-800h.jpg|"
 >}}
 
+Plus: [The Making Of Game Informer’s Warcraft III: Reforged Cover](https://www.gameinformer.com/2018/11/06/the-making-of-game-informers-warcraft-iii-reforged-cover) (Game Informer)
+
 ## PC Gamer (UK)
 
 ### [Decembrie 2018](https://www.pcgamer.com/pc-gamer-uk-december-issue-cyberpunk-2077/ ) (#324)

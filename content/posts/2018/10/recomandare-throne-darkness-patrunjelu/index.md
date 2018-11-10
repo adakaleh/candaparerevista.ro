@@ -16,11 +16,11 @@ sursa:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1957
 
-inkuriExterne:
-review-level:
-   text: Review Level
-   link: http://arhivarevistevechi.mythweb.ro/arhiva/articole.php?editie-id=53&articol=1898
-   desc: Review-ul original din numărul din ianuarie 2002 al revistei Level
+linkuriExterne:
+    review-level:
+       text: Review Level
+       link: http://arhivarevistevechi.mythweb.ro/arhiva/articole.php?editie-id=53&articol=1898
+       desc: Review-ul original din numărul din ianuarie 2002 al revistei Level
 
 resources:
   - src: images/throne-darkness-card.jpg

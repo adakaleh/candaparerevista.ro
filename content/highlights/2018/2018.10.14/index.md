@@ -10,7 +10,7 @@ tags: [Retrospectiva săptămânii, Throne of Darkness, Rockstar, Red Dead Redem
 description: "Rockstar se trezește în mijlocul unui scandal legat de orele lungi pe care le petrec angajații la muncă și deschide din nou discuția despre un subiect sensibil în industrie. Cealaltă noutate mare a săptămânii e lansarea magazinului Discord. Mai avem și retrospectivă de adventure-uri Sierra, o istorie a curentului indie, câteva articole despre Red Dead Redemption 2 care stă să apară și multe altele, plus un „oldie but goldie” recomandat din comunitate."
 
 resources:
-  - src: images/throne-darkness-card.jpg
+  - src: images/rockstar-crunch.jpg
     name: "card-cover-image"
 
   - src:
@@ -126,5 +126,3 @@ resources:
 ## Recomandarea săptămânii
 
 {{< include-post "recomandare-throne-darkness-patrunjelu" >}}
-
-**Throne of Darkness** a avut și [un review în Level](http://arhivarevistevechi.mythweb.ro/arhiva/articole.php?editie-id=53&articol=1898), în primul număr din 2002. 
