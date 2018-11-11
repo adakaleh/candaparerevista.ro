@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starcraft on Site-ul comunității LEVEL</title>
+    <link>https://candaparerevista.ro/tags/starcraft/</link>
+    <description>Recent content in Starcraft on Site-ul comunității LEVEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://candaparerevista.ro/tags/starcraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retrospectiva săptămânii 4-10 noiembrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.11.04/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.11.04/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
+ Știri  Microsoft a organizat X018, conferința anuală dedicată ecosistemului Xbox. Printre noutățile anunțate se numără confirmarea achiziției Obsidian, dar și achiziția surpriză a încă unui studio: inXile.</description>
+    </item>
+    
+  </channel>
+</rss>

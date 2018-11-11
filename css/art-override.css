@@ -395,6 +395,12 @@
     flex: 0 1 66%;
 }
 
+/* postarile de tip blog nu au imagine,
+content-ul va ocupa 100% din latime */
+.read-next-feed .blog .post-card-content {
+    flex: 0 1 100%;
+}
+
 .read-next-feed .post-card-image-link {
     /*flex: 1 1 70%;*/
     flex: 1 1 auto;

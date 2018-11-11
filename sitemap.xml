@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2018/2018.11.04/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/blog/2018/11/noblog/</loc>
+    <lastmod>2018-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2018/11/retrospectiva-notelor-de-10/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +20,11 @@
   <url>
     <loc>https://candaparerevista.ro/highlights/2018/coperti-11/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/posts/2018/11/recomandare-from-dust-cristan/</loc>
+    <lastmod>2018-11-04T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +44,12 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/2018/2018.10.14/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/posts/2018/10/recomandare-throne-darkness-patrunjelu/</loc>
+    <lastmod>2018-10-21T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -413,6 +433,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/aliens-versus-predator/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/american-mcgee/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -456,7 +482,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/assassins-creed/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -486,6 +512,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/bards-tale/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/battlefield/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -539,13 +571,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/blizzard/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/tags/blizzcon/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -557,7 +589,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/blog/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -598,6 +630,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/celeste/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/chaser/</loc>
     <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -606,6 +644,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/child-of-light/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/chris-avellone/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -672,6 +716,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/authors/cristan/</loc>
+    <lastmod>2018-11-04T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/cultist-simulator/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -727,7 +777,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/dead-space-2/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -739,7 +789,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/denuvo/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -779,7 +829,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/dev.play/</loc>
-    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -791,7 +841,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/diablo/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -803,7 +853,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/discord-store/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -869,7 +919,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/elite-dangerous/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -934,6 +984,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/forgotton-anne/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/fortnite/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -959,7 +1015,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/from-dust/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-04T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -977,13 +1033,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/gamesmaster/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/tags/gamestm/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1077,7 +1133,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/guacamelee/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1131,19 +1187,19 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/tags/hollow-knight/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1196,6 +1252,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/jason-rohrer/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/journey/</loc>
     <lastmod>2018-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1215,7 +1277,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/katamari-damacy/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1294,7 +1356,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/loot-crate/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1325,6 +1387,12 @@
   <url>
     <loc>https://candaparerevista.ro/authors/marvas/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/max-payne/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1402,7 +1470,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/nitro/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1426,7 +1494,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/obsidian/</loc>
-    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1443,6 +1511,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/one-hour-one-life/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/openxcom/</loc>
     <lastmod>2018-05-20T20:00:09+02:00</lastmod>
     <priority>0</priority>
@@ -1455,8 +1529,14 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/opus-magnum/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/overcooked/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1468,13 +1548,19 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/paradox/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/tags/path-of-exile/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/authors/patrunjelu/</loc>
+    <lastmod>2018-10-21T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1593,14 +1679,26 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/rainbow-six-siege/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/raven-software/</loc>
     <lastmod>2018-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/categories/recomandare/</loc>
+    <lastmod>2018-11-04T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/red-dead-redemption/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1630,7 +1728,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/retrospectiva-s%C4%83pt%C4%83m%C3%A2nii/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1642,7 +1740,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/return-of-the-obra-dinn/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1667,6 +1765,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/rgda/</loc>
     <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/riot-games/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1702,7 +1806,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/saints-row-2/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1744,13 +1848,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/shovel-knight/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/tags/sierra/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1762,7 +1866,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1809,8 +1913,14 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/starcraft/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/stardew-valley/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1822,7 +1932,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/steam/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1876,7 +1986,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/telltale/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1900,7 +2010,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/tetris/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1912,7 +2022,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/the-banner-saga/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1964,7 +2074,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/throne-of-darkness/</loc>
-    <lastmod>2018-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2030,7 +2140,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/ubisoft/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2043,6 +2153,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/unavowed/</loc>
     <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/unbound-worlds-apart/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
