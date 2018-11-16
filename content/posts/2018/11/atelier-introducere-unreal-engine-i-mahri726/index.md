@@ -2,9 +2,8 @@
 title: "Introducere în Unreal Engine 4 (I)"
 subtitle: "Partea I: Introducere. Epic Games Launcher"
 type: post
-date: 2018-08-08
+date: 2018-11-17
 authors: mahri726
-draft: true
 categories:
     - Atelier
 tags:
@@ -18,6 +17,8 @@ sursa:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1290
 
+description: "Cred că fiecare gamer și-a dorit la un moment dat să facă un joc, drept urmare, am început o nouă serie de articole introductive pentru Unreal Engine 4. Poate, cumva, va stârni interesul cititorilor, iar scena indie românească va fi mai bogată. În acest atelier, vom face un joc FPS cu ajutorul Unreal Engine 4. La sfârşitul ultimei părți a atelierului, se va afla un link de unde veți putea descarcă jocul finalizat."
+
 resources:
   - src:
     name: "card-cover-image"
@@ -26,18 +27,17 @@ resources:
     name: "cover-image"
 ---
 
-{{% aside %}}
-## TODO
-* De adăugat linkuri către celelalte articole.
-* De citit încă o dată.
-{{% /aside %}}
+>Acest articol e primul dintr-o serie de 5 articole. Găsiți aici celelalte părți:
 
->Acest articol e primul dintr-o serie de 4 articole. Găsiți aici celelalte părți:
+>[Partea II: Introducere în Blueprints - nivelul de joc](/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726)
 
->* Partea II: Introducere în Blueprints
->* Partea III: Grafică și Audio
->* Partea IV: Resurse Suplimentare și Extra
+>[Partea III: Introducere în Blueprints - personajele](/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726)
 
+>[Partea IV: Grafică și Audio](/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726)
+
+>[Partea V: Împachetarea finală și resurse suplimentare](/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726)
+
+<br>
 
 Acum ceva timp, în revista Level, Laura și Sebastian porneau o serie de articole pe tema dezvoltării de jocuri video. Desigur, la acea vreme, uneltele pentru dezvoltare nu erau la îndemâna oricui, iar pe lângă faptul că erau foarte scumpe, necesitau și multă experiență pentru a ajunge la un rezultat cât de cât acceptabil. Astfel, menirea articolelor era mai mult de a oferi o perspectivă generală asupra industriei AAA de la acea vreme, decât să îți explice efectiv cum să faci un joc. Cred că fiecare gamer și-a dorit la un moment dat să facă un joc, drept urmare, am început o nouă serie de articole introductive pentru Unreal Engine 4. Poate, cumva, va stârni interesul cititorilor, iar scena indie românească va fi mai bogată.
 
@@ -129,4 +129,4 @@ Locul în care jocul începe este marcat cu un gamepad şi un steag. Navigați �
 
 **(6)**: Selectați `Light Source`, ori din scenă, ori din World Outliner, şi îi reduceți intensitatea la 0.5 în panel-ul `Details`.
 
-În următoarea parte vom lucra cu **Blueprints**, sistemul de scripting vizual. De asemenea, vom crea inamici, elemente de interfață precum bara de viață şi alte lucruri care s-ar putea găsi într-un shooter. ■
+În următoarele părți vom lucra cu **Blueprints**, sistemul de scripting vizual. De asemenea, vom crea inamici, elemente de interfață precum bara de viață şi alte lucruri care s-ar putea găsi într-un shooter. ■
