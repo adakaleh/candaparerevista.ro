@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Engine on Site-ul comunității LEVEL</title>
+    <link>https://candaparerevista.ro/tags/unreal-engine/</link>
+    <description>Recent content in Unreal Engine on Site-ul comunității LEVEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://candaparerevista.ro/tags/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducere în Unreal Engine 4 (I)</title>
+      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/</guid>
+      <description>Acest articol e primul dintr-o serie de 5 articole. Găsiți aici celelalte părți:
+Partea II: Introducere în Blueprints - nivelul de joc
+Partea III: Introducere în Blueprints - personajele
+Partea IV: Grafică și Audio
+Partea V: Împachetarea finală și resurse suplimentare
+ 
+Acum ceva timp, în revista Level, Laura și Sebastian porneau o serie de articole pe tema dezvoltării de jocuri video. Desigur, la acea vreme, uneltele pentru dezvoltare nu erau la îndemâna oricui, iar pe lângă faptul că erau foarte scumpe, necesitau și multă experiență pentru a ajunge la un rezultat cât de cât acceptabil.</description>
+    </item>
+    
+    <item>
+      <title>Introducere în Unreal Engine 4 (II)</title>
+      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726/</guid>
+      <description>Acest articol e al doilea dintr-o serie de 5 articole. Găsiți aici celelalte părți:
+Partea I: Introducere. Epic Games Launcher
+Partea III: Introducere în Blueprints - personajele
+Partea IV: Grafică și Audio
+Partea V: Împachetarea finală și resurse suplimentare
+ 
+Un joc video, spre deosebire de un film, este interactiv. Pentru a realiza mecanicile unui joc în Unreal Engine 4, se poate face programarea cu ajutorul limbajului C++, Blueprints sau amândouă.</description>
+    </item>
+    
+    <item>
+      <title>Introducere în Unreal Engine 4 (III)</title>
+      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/</guid>
+      <description>Acest articol e al treilea dintr-o serie de 5 articole. Găsiți aici celelalte părți:
+Partea I: Introducere. Epic Games Launcher
+Partea II: Introducere în Blueprints - nivelul de joc
+Partea IV: Grafică și Audio
+Partea V: Împachetarea finală și resurse suplimentare
+ Cum să efectuăm o scădere fatală? În seria de jocuri Half-Life, personajul principal, Gordon Freeman, avea un costum menit să îl protejeze de diverse pericole: radiații, acid, electricitate sau extratereștri.</description>
+    </item>
+    
+    <item>
+      <title>Introducere în Unreal Engine 4 (IV)</title>
+      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/</guid>
+      <description>Acest articol e al patrulea dintr-o serie de 5 articole. Găsiți aici celelalte părți:
+Partea I: Introducere. Epic Games Launcher
+Partea II: Introducere în Blueprints - nivelul de joc
+Partea III: Introducere în Blueprints - personajele
+Partea V: Împachetarea finală și resurse suplimentare
+ 
+Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului.
+Materiale Fiecare obiect din Unreal Engine 4 are la bază un material.</description>
+    </item>
+    
+    <item>
+      <title>Introducere în Unreal Engine 4 (V)</title>
+      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/</guid>
+      <description>Acest articol e ultimul dintr-o serie de 5 articole. Găsiți aici celelalte părți:
+Partea I: Introducere. Epic Games Launcher
+Partea II: Introducere în Blueprints - nivelul de joc
+Partea III: Introducere în Blueprints - personajele
+Partea IV: Grafică și Audio
+ Împachetarea finală Acum, că am terminat dezvoltarea jocului, îl putem împacheta într-un fișier executabil, însă, înainte de asta trebuie să facem câteva modificări.</description>
+    </item>
+    
+  </channel>
+</rss>
