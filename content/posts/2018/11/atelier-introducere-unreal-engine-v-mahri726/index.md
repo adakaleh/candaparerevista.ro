@@ -2,7 +2,7 @@
 title: "Introducere în Unreal Engine 4 (V)"
 subtitle: "Partea V: Împachetarea finală și resurse suplimentare"
 type: post
-date: 2018-11-17
+date: 2018-11-17T00:00:05
 authors: mahri726
 categories:
     - Atelier

@@ -2,7 +2,7 @@
 title: "Introducere în Unreal Engine 4 (II)"
 subtitle: "Partea II: Introducere în Blueprints - nivelul de joc"
 type: post
-date: 2018-11-17
+date: 2018-11-17T00:00:02
 authors: mahri726
 categories:
     - Atelier

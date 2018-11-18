@@ -2,7 +2,7 @@
 title: "Introducere în Unreal Engine 4 (IV)"
 subtitle: "Partea IV: Grafică și Audio"
 type: post
-date: 2018-11-17
+date: 2018-11-17T00:00:04
 authors: mahri726
 categories:
     - Atelier

@@ -5,7 +5,7 @@ date: 2018-11-04
 categories:
     - Highlights
 
-tags: [Retrospectiva săptămânii, From Dust, Kongregate, Kartridge, Red Dead Redemption, Child of Light, Blizzard, BlizzCon, Warcraft, Diablo, Thief, Spore, Tetris, Assassin's Creed, Carmen Sandiego, Dark Souls, Roblox, Wandersong, Destiny, Heat Signature, Gibbous - A Cthulhu adventure, Gibbous - A Cthulhu adventure]
+tags: [Retrospectiva săptămânii, From Dust, Kongregate, Kartridge, Red Dead Redemption, Child of Light, Blizzard, BlizzCon, Warcraft, Diablo, Thief, Spore, Tetris, Assassin's Creed, Carmen Sandiego, Dark Souls, Roblox, Wandersong, Destiny, Heat Signature, Gibbous - A Cthulhu adventure, Ebony Spire]
 
 description: "RDR2 are vânzări record, Blizzard le servește fanilor una caldă și alta rece la BlizzCon cu un remaster pentru Warcraft III și un Diablo nou, dar numai pentru mobile, iar Kongregate își lansează magazinul digital Kartridge. Iar la final, redescoperim un joc original, uitat prea repede: From Dust al lui Éric Chahi."
 

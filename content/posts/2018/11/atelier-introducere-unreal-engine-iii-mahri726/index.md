@@ -2,7 +2,7 @@
 title: "Introducere în Unreal Engine 4 (III)"
 subtitle: "Partea III: Introducere în Blueprints - personajele"
 type: post
-date: 2018-11-17
+date: 2018-11-17T00:00:03
 authors: mahri726
 categories:
     - Atelier

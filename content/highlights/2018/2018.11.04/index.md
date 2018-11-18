@@ -127,6 +127,7 @@ resources:
 * 9 noiembrie: **Thief Simulator** ([Steam](https://store.steampowered.com/app/704850/Thief_Simulator/))
 * 9 noiembrie: **Tetris Effect** (PS4) ([PlayStation Store](https://www.playstation.com/en-us/games/tetris-effect-ps4/))
 * 9 noiembrie: **11-11 Memories Retold** ([Steam](https://store.steampowered.com/app/735580/1111_Memories_Retold/), [Humble Store](https://www.humblebundle.com/store/1111-memories-retold))
+* 9 noiembrie: **HellSign** (Early Access) ([Steam](https://store.steampowered.com/app/606500/HellSign/))
 
 
 ## Prăvălii de jocuri

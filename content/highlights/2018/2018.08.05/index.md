@@ -5,7 +5,7 @@ date: 2018-08-12
 categories:
     - Highlights
 
-tags: [Retrospectiva săptămânii, Steam, Discord, Fallout 76, Fortnite, Walking Dead, Unavowed, Gibbous]
+tags: [Retrospectiva săptămânii, Steam, Discord, Fallout 76, Fortnite, Walking Dead, Unavowed, Gibbous - A Cthulhu adventure]
 
 description: "Bethesda renunță la Steam, Epic renunță la Google Play, mult așteptatele Dead Cells și We Happy Few ies din Early Access, iar adventure-ul românesc Gibbous are trailer oficial și pagină de steam. Și nu în ultimul rând, a ieșit Unavowed, pe care Azad, aventurierul nostru de serviciu, îl recomandă călduros."
 
