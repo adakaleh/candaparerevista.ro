@@ -71,6 +71,11 @@
     .read-next-feed .post-card, .read-next-feed .blog-post {
         max-width: 100%;
     }
+
+    .other-pages-first-cards {
+        -ms-flex: 1 1 100%;
+        flex: 1 1 100%;
+    }
 }
 
 @media (max-width: 500px) {
