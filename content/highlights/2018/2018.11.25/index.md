@@ -143,9 +143,9 @@ Artifact:
 
 ### Lansate
 * 26 noiembrie: **Zquirrels Jump** (proiect românesc) ([Steam](https://store.steampowered.com/app/966580/Zquirrels_Jump))
-*([Steam](https://store.steampowered.com/app/224000/Project_Eagle_A_3D_Interactive_Mars_Base/))
+* 27 noiembrie: **Project Eagle: A 3D Interactive Mars Base**, un [joc gratuit ce simulează o bază marțiană](https://www.rockpapershotgun.com/2018/11/27/project-eagle-martian-virtual-base-tour/) ([Steam](https://store.steampowered.com/app/224000/Project_Eagle_A_3D_Interactive_Mars_Base/))
 * 27 noiembrie: **Darksiders 3** ([Steam](https://store.steampowered.com/app/606280/Darksiders_III/), [gog.com](https://www.gog.com/game/darksiders_iii))
-* 27 noiembrie: **Loria** ([Steam](https://store.steampowered.com/app/946660/Loria/), [Hardcore Gamer](https://www.hardcoregamer.com/2018/11/27/loria-revitalizes-1990s-real-time-strategy-gameplay/319062/))
+* 27 noiembrie: **Loria** ([Steam](https://store.steampowered.com/app/946660/Loria/))
 * 29 noiembrie: **Artifact** ([Steam](https://store.steampowered.com/app/583950/Artifact/))
 * 29 noiembrie: **Rapture Rejects** ([Steam](https://store.steampowered.com/app/686600/Rapture_Rejects/))
 * 29 noiembrie: **Parkitect** ([Steam](https://store.steampowered.com/app/453090/Parkitect/), [gog.com](https://www.gog.com/game/parkitect))
