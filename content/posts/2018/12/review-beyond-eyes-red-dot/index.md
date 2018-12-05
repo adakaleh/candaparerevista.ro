@@ -24,7 +24,7 @@ resources:
     name: "cover-image"
 
 casetaTehnica:
-  concluzie: "..."
+  concluzie: "Beyond Eyes emoţionează şi captivează prin grafica deosebită, ce prinde contur sub ochii tăi. Este nevoie de puțină sensibilitate şi răbdare pentru a te conecta la ritmul lent, dar merită pentru mesajul inspiraţional şi pentru că îţi aminteşte să te bucuri de lucrurile mărunte, ca mirositul unei flori, sunetul liniştitor al unei ape curgătoare ori mângâiatul unei pisici."
 
   plusuri:
     - grafica este fermecătoare
@@ -33,8 +33,8 @@ casetaTehnica:
     - abordare inedită pentru a transmite experiența unui nevăzător
 
   minusuri:
-    - ritm lent, ce poate deveni frustrant
-    - momente în care nu e clar ce să faci mai departe
+    - ritm lent, ce poate deveni frustrant uneori
+    - câteva momente în care nu e clar ce să faci mai departe
     - interacțiune limitată cu mediul înconjurător și alte personaje
     - nu există dialoguri, trebuie să te bazezi doar pe liniile de text prestabilite
 ---
@@ -54,7 +54,7 @@ Spre final, lucrurile se complică puţin, căci apariția ploii face ca punctel
 
 În plus, după cum vă puteți închipui, partea sonoră are un rol covârșitor în atmosfera jocului, iar pe lângă ciripitul păsărelelor, batăile de clopot sau huruitul motoarelor, intervin în desfăşurarea poveştii scurte și atractive pasaje instrumentale, cum sunt cele intercalate într-o piesă de teatru pentru a anunţa o scenă mai dramatică ori mai înduioşătoare.
 
-Image
+![](gallery/beyond-eyes-1.jpg)
 
 Gameplay-ul – atât cât poate fi vorba despre „gameplay” în sensul tradițional - este redus la minimum. Nu există dialoguri în joc, iar puzzle-urile sunt și ele aproape absente. Parcursul lui Rae este o versiune foarte simplificată a unei realități posibile. Ajungi uneori să rătăcești pe câmp sau pe străduțe și nu ai idee ce trebuie să faci mai departe, iar asta îţi spune, de fapt, că nu ai acordat suficientă importanță unor puncte de reper şi unor secvenţe declanşate în anumite părţi ale jocului (scurte amintiri), ce îi sugerează lui Rae că Nani ar fi trecut prin acele locuri.
 
@@ -64,7 +64,12 @@ Până și modul în care este realizat controlul are un rol important. Jucător
 
 Jocul este scurt – poate fi terminat în 3-4 ore dacă ai răbdare să descoperi singur elementele ce compun călătoria aproape inițiatică a personajului. Povestea, continuată periodic prin câteva linii de text pe parcursul jocului, apelează permanent la emoţiile tale şi te face să îţi pese de Rae şi să trăieşti alături de ea fiecare tresărire, senzaţie, întâmplare.
 
-Image
+{{< figure-multi
+    "gallery/beyond-eyes-2.jpg|"
+    "gallery/beyond-eyes-3.jpg|"
+    "gallery/beyond-eyes-8.jpg|"
+>}}
+
 
 Prin lentoare, construcția neobișnuită a graficii și simplitatea gameplay-ului, Beyond Eyes nu este un joc convențional. Te face să rupi puțin ritmul, să pășești într-o lume recreată pas cu pas (ce potențial ar avea o versiune VR!), în care personajul tău are un handicap, iar scopul jocului nu este în principal acela de a te distra, de a-ți testa reflexele, ci acela de a te face să te implici emoțional, de a-ți testa răbdarea, empatia și capacitatea de a te bucura de lucruri mărunte, precum atingerea unei flori ori ciripitul păsărelelor.
 
