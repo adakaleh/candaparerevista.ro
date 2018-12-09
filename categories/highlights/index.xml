@@ -6,10 +6,20 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 09:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 2-8 decembrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.12.02/</link>
+      <pubDate>Sun, 09 Dec 2018 09:00:01 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.12.02/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
+ O săptămână plină, ce a debutat cu anunțul că Epic își lansează propriul magazin de jocuri, care s-a și deschis în timpul The Games Awards, celălalt mare subiect al săptămânii.</description>
+    </item>
     
     <item>
       <title>Revistele lunii decembrie 2018</title>
@@ -151,16 +161,6 @@
       <guid>https://candaparerevista.ro/highlights/2018/2018.09.16/</guid>
       <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1 )
  Ştiri Telltale Games se închide  Telltale Games se închide după un nou val de concedieri, după cel de la sfârşitul anului trecut.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 9-15 septembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.09.09/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.09.09/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1 )
- Ştiri  Parlamentul European a votat pe 12 septembrie o nouă directivă ce reglementează drepturile de copyright ale oricărui tip de media de pe internet.</description>
     </item>
     
   </channel>

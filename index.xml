@@ -6,10 +6,30 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 09:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 2-8 decembrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.12.02/</link>
+      <pubDate>Sun, 09 Dec 2018 09:00:01 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.12.02/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
+ O săptămână plină, ce a debutat cu anunțul că Epic își lansează propriul magazin de jocuri, care s-a și deschis în timpul The Games Awards, celălalt mare subiect al săptămânii.</description>
+    </item>
+    
+    <item>
+      <title>Stronghold Crusader</title>
+      <link>https://candaparerevista.ro/posts/2018/12/recomandare-stronghold-crusader-patrunjelu/</link>
+      <pubDate>Sun, 09 Dec 2018 09:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2018/12/recomandare-stronghold-crusader-patrunjelu/</guid>
+      <description>Firefly pregătesc de ceva vreme noul joc din seria Stronghold, iar dacă e să credem ce ne spun pe YouTube, așteptarea se apropie de final. Astfel că acum e un moment numai bun să aruncăm o privire asupra ultimului lor joc ce s-a bucurat, predominant, de succes: Stronghold Crusader.
+Lansat imediat după originalul Stronghold, este un spin-off plasat în estul mijlociu, în perioada cruciadelor. Bineînțeles, asta înseamnă o gramadă de conflicte între liderii Europei și cei ai Estului Mijlociu, iar în joc sunt prezente inclusiv personaje autentice precum Richard Inimă de Leu și Saladin.</description>
+    </item>
     
     <item>
       <title>Revistele lunii decembrie 2018</title>
@@ -162,26 +182,6 @@ Partea IV: Grafică și Audio
 Partea V: Împachetarea finală și resurse suplimentare
  
 Acum ceva timp, în revista Level, Laura și Sebastian porneau o serie de articole pe tema dezvoltării de jocuri video. Desigur, la acea vreme, uneltele pentru dezvoltare nu erau la îndemâna oricui, iar pe lângă faptul că erau foarte scumpe, necesitau și multă experiență pentru a ajunge la un rezultat cât de cât acceptabil.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 4-10 noiembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.11.04/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.11.04/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
- Știri  Microsoft a organizat X018, conferința anuală dedicată ecosistemului Xbox. Printre noutățile anunțate se numără confirmarea achiziției Obsidian, dar și achiziția surpriză a încă unui studio: inXile.</description>
-    </item>
-    
-    <item>
-      <title>Update schimbări</title>
-      <link>https://candaparerevista.ro/blog/2018/11/noblog/</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2018/11/noblog/</guid>
-      <description>Avem două schimbări mai importante pentru site.
-În primul rând, am scos caseta „Blogul Comunității”. Deși intenția la început era să avem update-uri frecvente, în practică am observat că nu avem atât de mult material încât să fie justificată prezența unei casete fixe într-un loc vizibil, astfel încât o postare de tip blog putea rămâne în același loc luni întregi, ocupând spațiul degeaba. Drept urmare, am scos caseta specială și am integrat postările în rând cu articolele normale.</description>
     </item>
     
   </channel>
