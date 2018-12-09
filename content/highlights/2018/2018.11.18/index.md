@@ -124,7 +124,8 @@ Plus:
 * 20 noiembrie: **Element: Space**, un tactical TBS (vezi [RPS](https://www.rockpapershotgun.com/2018/11/20/element-space-rpg-early-access-launch/) sau [RPG Codex](https://rpgcodex.net/forums/threads/124863)) s-a lansat în early access ([Steam](https://store.steampowered.com/app/887370/Element_Space/))
 * 20 noiembrie: **Farming Simulator 19** ([Steam](https://store.steampowered.com/app/787860/Farming_Simulator_19/))
 * 20 noiembrie: **Marvel’s Spider-Man: Turf Wars** ([PlayStation Store](https://store.playstation.com/en-ro/product/EP9000-CUSA11993_00-000000000000DLC2))
-* 22 noiembrie: **The Haunted Island, A Frog Detective Game** ([RPS](https://www.rockpapershotgun.com/2018/11/22/the-haunted-island-a-frog-detective-gam/), [Steam](https://store.steampowered.com/app/963000/The_Haunted_Island_a_Frog_Detective_Game/))
+* 20 noiembrie: **Quiet as a Stone** - vezi și [RPS](https://www.rockpapershotgun.com/2018/12/04/quiet-as-a-stone-diorama-game/) ([Steam](https://store.steampowered.com/app/872060/Quiet_as_a_Stone/))
+* 22 noiembrie: **The Haunted Island, A Frog Detective Game** - vezi și [RPS](https://www.rockpapershotgun.com/2018/11/22/the-haunted-island-a-frog-detective-gam/) ([Steam](https://store.steampowered.com/app/963000/The_Haunted_Island_a_Frog_Detective_Game/))
 
 ## Prăvălii de jocuri
 ### Știri
