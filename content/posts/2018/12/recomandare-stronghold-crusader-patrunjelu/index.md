@@ -36,4 +36,4 @@ Pentru critici și jucători, Crusader a fost la vremea lui ceva mai puțin apre
 
 Stronghold Crusader, împreună cu celelalte jocuri din serie, poate fi cumpărat atât de pe [GOG](https://www.gog.com/game/stronghold_crusader) cât și de pe [Steam](https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/). ■
 
-![](gallery/stronghold-crusader-1.jpg)
+![](gallery/stronghold-crusader-3.jpg)
