@@ -7,7 +7,7 @@ authors: patrunjelu
 categories:
     - Recomandare
 tags:
-    - Stronghold Crusader
+    - Patrician
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1957
 
