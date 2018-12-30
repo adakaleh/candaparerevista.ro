@@ -130,8 +130,10 @@ Pe final de an, știrile sunt mai puține, în schimb avem numeroase retrospecti
 
 #### 2019
 * [Our most anticipated games of 2019](https://www.pcgamer.com/our-most-anticipated-games-of-2019/) (PC Gamer)
+
 * [Developer Top 5 Games Of 2018](https://www.gameinformer.com/goty-2018/2018/12/22/developer-top-5-games-of-2018) (Games Informer)
 * [PC Game Release Date List 2019 – 2020](https://www.pcinvasion.com/pc-game-release-dates-2019-2020/) (PC Invasion)
+* [Every Big Game Coming Out in Winter 2019](http://www.kotaku.co.uk/2018/12/21/every-big-game-coming-out-in-winter-2019) (Kotaku)
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate
