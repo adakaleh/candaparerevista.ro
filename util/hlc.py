@@ -102,8 +102,11 @@ SITEURI_CUNOSCUTE = {
     'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz',
     'techraptor': 'TechRaptor',     'phoronix': 'Phoronix',         'wccftech': 'Wccf tech',
     'bloomberg': 'Bloomberg',       'medium.com':'Medium',          'filfre.net': 'The Digital Antiquarian',
-    'usgamer': 'USgamer',           'gematsu': 'Gematsu',           'rempton': 'Rempton Games',
-    'slowrun': 'SlowRun',
+    'usgamer': 'USgamer',           'rempton': 'Rempton Games',     'motherboard.vice': 'Motherboard',
+    'slowrun': 'SlowRun',           'gamedaily': 'GameDaily.biz',   'haywiremag': 'Haywire Magazine',
+    'forbes': 'Forbes',             'dsogaming': 'DSOGaming ',      'store.playstation': 'PlayStation Store',
+    'pastemagazine': 'Paste',       'gematsu': 'Gematsu',           'thehistoryofhowweplay': 'The History of How We Play',
+    'pcinvasion': 'PC Invasion',    'theringer.com': 'The Ringer',  'epicgames.com/store': 'Epic Store',                    'nintendo.com/games/': 'Nintendo Store'
 }
 
 MAGAZINE = {
@@ -112,7 +115,7 @@ MAGAZINE = {
     "humble"    : "humblebundle.com", # aici pretul e generat cu js, nu poate fi citit din html
     "fanatical" : "fanatical.com",  # fanatical au tot site-ul generat cu js, nu putem citi mai nimic
     "gmg"       : "greenmangaming",
-    "origin"    : "origin.com"
+    "origin"    : "origin.com",
 }
 
 EXCH_GBP_EUR = 1.1
@@ -490,8 +493,8 @@ def get_sectiune(linie):
         # return SectiuneAnunturiLansari(linie)
         # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
         return SectiuneStire(linie)
-    elif (titlu_contine('oferte')):
-        return SectiuneOferte(linie)
+    elif (titlu_contine('oferte', 'prăvălii')):
+        return SectiuneArticole(linie)
     elif (titlu_contine('recomandare')):
         return SectiuneRecomandare(linie)
 
