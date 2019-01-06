@@ -2,7 +2,9 @@ Codul sursă pentru site-ul [candaparerevista.ro](https://candaparerevista.ro)
 
 # Instalare
 
-# [...] TODO mai mult conținut
+Clonează repo-ul și rulează hugo ca să generezi site-ul. Fișierele site-ului vor fi puse în folderul „public”.
+
+Site-ul nu este compatibil cu ultimele versiuni Hugo. Versiunea [0.42.2](https://github.com/gohugoio/hugo/releases/tag/v0.42.2) e ultima care generează site-ul cum trebuie.
 
 # Conţinut
 
