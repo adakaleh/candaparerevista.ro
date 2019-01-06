@@ -7,7 +7,7 @@ Gata. După 5 luni de [„beta”](/blog/2018/0/beta/), putem să-l considerăm 
 
 În această perioadă ne-am ocupat de finisarea aspectelor care mai rămăseseră de rezolvat și am mai adăugat și câteva funcționalități noi, astfel încât în momentul de față avem o platformă cu aproape tot ce trebuie pentru a publica ușor materialele create de membrii comunității. 
 
-Și totul e _open source_, se încarcă repede, nu ținem cookies, JavaScript e redus la minim, nu avem reclame, pentru analytics (vizite/trafic) avem o [soluție liberă și open source](https://matomo.org/), nu se trimite nimic la Google sau în altă parte.
+Și totul e _open source_, se încarcă repede, JavaScript e redus la minim, nu avem reclame, pentru analytics (vizite/trafic) avem o [soluție liberă](https://matomo.org/) self-hosted, nu se trimite nimic la Google sau în altă parte. Datele sunt [publice](https://analitice.candaparerevista.ro/) și minimale - detalii [aici](https://forum.candaparerevista.ro/viewtopic.php?p=86966#p86966).
 
 Sigur că nu e perfect și nici nu e cel mai frumos, aspectul e doar puțin mai sus de „funcțional și atât”, dar cu timpul, și cu ajutorul vostru, o să îmbunătățim ce putem.
 
