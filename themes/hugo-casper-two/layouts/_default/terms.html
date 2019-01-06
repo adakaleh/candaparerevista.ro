@@ -47,11 +47,11 @@
     {{ if eq .Section "authors" }}
       <nav class="pagination" role="navigation">
         {{if .Paginator.HasPrev}}
-        <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+        <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Previous Authors</span></a>
         {{end}}
         <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
         {{if .Paginator.HasNext}}
-        <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
+        <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Next Posts</span> &rarr;</a>
         {{end}}
       </nav>
     {{end}}
