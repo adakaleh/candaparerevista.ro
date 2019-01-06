@@ -1,5 +1,8 @@
 Codul sursă pentru site-ul [candaparerevista.ro](https://candaparerevista.ro)
 
+* [Repository info](https://api.github.com/repos/adakaleh/candaparerevista.ro) (vezi size)
+* [Analytics](https://analitice.candaparerevista.ro/) - detalii [aici](https://forum.candaparerevista.ro/viewtopic.php?p=86966#p86966)
+
 # Instalare
 
 Clonează repo-ul și rulează hugo ca să generezi site-ul. Fișierele site-ului vor fi puse în folderul „public”.
