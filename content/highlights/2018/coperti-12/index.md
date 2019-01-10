@@ -37,7 +37,7 @@ resources:
 
 ## LEVEL (Cehia & Turcia)
 
-### [LEVEL (Cehia), noiembrie 2018 (#291)](http://www.level.cz/starsi-cisla/level-291/) | [LEVEL (Turcia), decembrie 2018 (#263)](https://www.level.com.tr/haber/level-aralik-263-sayisi-bayilerde.html)
+### [LEVEL (Cehia), decembrie 2018 (#291)](http://www.level.cz/starsi-cisla/level-291/) | [LEVEL (Turcia), decembrie 2018 (#263)](https://www.level.com.tr/haber/level-aralik-263-sayisi-bayilerde.html)
 
 {{< figure-multi-ext
     "images/level-cz-291.jpg|http://www.level.cz/wp-content/uploads/2018/11/LEVEL291.jpg|"
@@ -91,7 +91,7 @@ Coperțile generale:
 
 ([Twitter EDGE](https://twitter.com/edgeonline/))
 
-## RetroGamer (UK)
+## Retro Gamer (UK)
 
 ### [#188](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-188/)
 
@@ -114,7 +114,7 @@ Coperțile generale:
 
 ## The Games Machine (Italia)
 
-### [Noiembrie 2018](https://www.thegamesmachine.it/edicola/121331/tgm-359-novembre-2018/) (#359) | [Decembrie 2018](https://www.thegamesmachine.it/edicola/122930/tgm-360-dicembre-2018/) (#360)
+### [Noiembrie 2018](https://www.thegamesmachine.it/edicola/121331/tgm-359-novembre-2018/) (#359) | [Decembrie 2018 - Ianuarie 2019](https://www.thegamesmachine.it/edicola/122930/tgm-360-dicembre-2018/) (#360)
 
 {{< figure-multi-ext
     "images/games-machine-359.jpg|https://www.thegamesmachine.it/wp-content/uploads/2018/11/TGM_359_copertina-sito.jpg|"
@@ -190,4 +190,4 @@ Coperțile generale:
     "images/wireframe-3.jpg|https://magazines-static.raspberrypi.org/issues/cover_images/000/000/026/original/WF_3_Cover.png|"
 >}}
 
-(Varianta digitală e gratuită, aveți link pe pagina fiecărei ediții)
+(Varianta digitală e gratuită, aveți link de download pe pagina fiecărei ediții)

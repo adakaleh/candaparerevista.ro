@@ -38,7 +38,7 @@ Luna din titlul articolului se referă la perioada când au fost publicate revis
 
 ## LEVEL (Cehia)
 
-### [August 2018](http://www.level.cz/starsi-cisla/level-288/) & [Iunie-Iulie 2018](http://www.level.cz/starsi-cisla/level-287/)
+### [Septembrie 2018](http://www.level.cz/starsi-cisla/level-288/) & [Iulie 2018](http://www.level.cz/starsi-cisla/level-287/)
 
 {{< figure-multi-ext
     "images/level-cz-2018-09.jpg|http://www.level.cz/wp-content/uploads/2018/08/level288.jpg|"
@@ -99,7 +99,7 @@ Luna din titlul articolului se referă la perioada când au fost publicate revis
     "images/gamestm-2018-08.jpg|https://www.gamestm.co.uk/wp-content/uploads/2018/07/gtm202_cover-768x1006.png|"
 >}}
 
-## RetroGamer (UK)
+## Retro Gamer (UK)
 
 ### [Septembrie 2018](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-184/) (#184) & [August 2018](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-183/) (#183)
 

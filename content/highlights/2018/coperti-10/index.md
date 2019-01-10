@@ -33,7 +33,7 @@ resources:
 
 ## LEVEL (Cehia & Turcia)
 
-### [LEVEL (Cehia) septembrie 2018 (#289)](http://www.level.cz/starsi-cisla/level-289/) | [LEVEL (Turcia) octombrie 2018 (#261)](https://www.level.com.tr/haber/level-ekim-261-sayisi-bayilerde.html )
+### [LEVEL (Cehia) octombrie 2018 (#289)](http://www.level.cz/starsi-cisla/level-289/) | [LEVEL (Turcia) octombrie 2018 (#261)](https://www.level.com.tr/haber/level-ekim-261-sayisi-bayilerde.html )
 
 {{< figure-multi-ext
     "images/level-cz-2018-10-289.jpg|http://www.level.cz/wp-content/uploads/2018/09/level289-1.jpg|"
@@ -77,7 +77,7 @@ resources:
 
 ([Twitter gamesTM](https://twitter.com/gamesTMmag))
 
-## RetroGamer (UK)
+## Retro Gamer (UK)
 
 ### [#186](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-186/) & [#185](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-185/)
 

@@ -38,7 +38,7 @@ Câteva știri înainte:
 
 ## LEVEL (Cehia & Turcia)
 
-### [LEVEL (Cehia) octombrie 2018 (#290)](http://www.level.cz/starsi-cisla/level-290/ ) | [LEVEL (Turcia) noiembrie 2018 (#262)](https://www.level.com.tr/haber/level-kasim-262-sayisi-bayilerde.html )
+### [LEVEL (Cehia) noiembrie 2018 (#290)](http://www.level.cz/starsi-cisla/level-290/ ) | [LEVEL (Turcia) noiembrie 2018 (#262)](https://www.level.com.tr/haber/level-kasim-262-sayisi-bayilerde.html )
 
 {{< figure-multi-ext
     "images/level-cz-290.jpg|http://www.level.cz/wp-content/uploads/2018/10/LEVEL290.jpg|"
@@ -83,7 +83,7 @@ Plus: [The Making Of Game Informer’s Warcraft III: Reforged Cover](https://www
 
 ([Twitter gamesTM](https://twitter.com/gamesTMmag))
 
-## RetroGamer (UK)
+## Retro Gamer (UK)
 
 ### [#187](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-187/)
 
