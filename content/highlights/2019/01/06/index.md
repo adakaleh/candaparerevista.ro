@@ -120,6 +120,7 @@ Jocul Star Control: Origins e retras de la vânzare din cauza unui litigiu pe dr
 ### Lansate
 * 3 ianuarie: **Braveland Heroes** (early access) <sup>([Steam](https://store.steampowered.com/app/931650/Braveland_Heroes/))</sup>
 * 3 ianuarie: **Medieval Kingdom Wars** <sup>([Steam](https://store.steampowered.com/app/499660/Medieval_Kingdom_Wars/))</sup>
+* 5 ianuarie: The Eternal Castle [REMASTERED] <sup>([Steam](https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/))</sup>
 
 ## Prăvălii de jocuri
 
@@ -146,5 +147,5 @@ Jocul Star Control: Origins e retras de la vânzare din cauza unui litigiu pe dr
 {{% aside %}}
 **Retrospectiva săptămânii** este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața.
 
-De asemenea, rubrica e deschisă oricui vrea și poate contribui. Dacă ai citit vreun articol sau vreo știre interesantă, sau ai o recomandare de joc, și crezi că merită incluse în retrospectiva săptămânii, te așteptăm pe forum pe unul dintre topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622)].
+De asemenea, rubrica e deschisă oricui vrea și poate contribui. Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită incluse în retrospectiva săptămânii, te așteptăm pe forum pe unul dintre topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622)].
 {{% /aside %}}
