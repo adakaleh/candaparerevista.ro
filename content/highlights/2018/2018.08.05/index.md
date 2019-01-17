@@ -80,15 +80,8 @@ resources:
 * A revenit la ofertă [un combo despre care am mai scris edițiile trecute](https://www.fanatical.com/en/bundle/bayonetta-plus-vanquish-pack). Dacă vă grăbiți puțin, pentru 10,99 € puteți lua **Bayonetta** și **Vanquish**.
 
 
-## Recomandarea săptămânii: *Unavowed*
+## Recomandarea săptămânii
 
-![](images/unavowed-featured.jpg)
-
-După o serie de jocuri ceva mai „blânde” d.p.d.v. al poveștii și magnitudinii, cei de la Wadjet Eye au revenit în forță cu **Unavowed**, o explozie de forțe supranaturale care va ține jucătorul captivat pe tot parcursul aventurii. Acțiunea se petrece într-un New York invadat de diferite forțe eterice, precum fantome și creaturi interdimensionale, jucătorul fiind pus în pielea unui proaspăt recrut al organizației Unavowed, grup care se ocupă cu vânarea acestor dihănii. Misiunea ta va fi să urmărești demonul care te-a posedat și sub influența căruia ai comis numeroase atrocități.
-
-Atmosfera este apăsătoare, dată de ploaia continuă și estetica diferită a fiecărui cartier, de la suburbii serene la Brooklyn-ul acoperit de neon. Imersiunea este completată de ritmuri de jazz și blues, potrivite cu substratul trist al jocului. Suferința din **Unavowed** nu este una subtilă, elegantă, ca în celelalte jocuri de la Wadjet, precum seria **Blackwell** sau **Primordia**. Aceasta, în schimb, este puternică, colectivă, fără a da în bombastic, de un existențialism dureros. Deși jocul oferă alegeri, niciuna nu are consecințe doar bune sau rele, moralitatea fiind cenușie.
-
-Cu o scriitură de calitate și personaje bine conturate, Unavowed este unul din cele mai bune jocuri adventure din ultimii și nu pot decât să îl recomand călduros. (**Azad**)
+{{< include-post "recomandare-unavowed-azad" >}}
 
 * Cumpără de pe [Steam](https://store.steampowered.com/app/336140/Unavowed/) sau [GOG](https://www.gog.com/game/unavowed).
-* [Discuții pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=8&t=1464)
