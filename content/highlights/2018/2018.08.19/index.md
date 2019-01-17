@@ -168,19 +168,10 @@ Mai multe promoţii separate pe distribuitor, dintre care puteţi alege de la:
 * Green Man Gaming organizează [GamesAid 50 Game Charity Bundle 2018](https://www.greenmangaming.com/games/gamesaid-charity-bundle-pc/): 50 de jocuri pentru 50 de lire (aprox. 56,50€). Printre titlurile incluse se numără **Metal Gear Solid V** (**The Phantom Pain** şi **Ground Zeroes**), **Metal Gear Rising: Revengeance**, cele două titluri **Castlevania**, **Bomber Crew**, toate titlurile **Mount & Blade**, **Teleglitch Die More Edition**, **Crusader Kings II** (doar jocul de bază) sau **This War of Mine**.
 * Fanatical are [o promoție Sci-Fi](https://www.fanatical.com/en/collections/sci-fi): [Homeworld Remastered Collection](https://www.fanatical.com/en/game/homeworld-remastered-collection) (7,99€), [Into the Stars](https://www.fanatical.com/en/game/into-the-stars) (3,99€), Star Wars [KOTOR 1](https://www.fanatical.com/en/game/star-wars-knights-of-the-old-republic-aspyr) (2,99€) şi [KOTOR 2](https://www.fanatical.com/en/game/star-wars-knights-of-the-old-republic-ii-the-sith-lords-aspyr) (2,9€9) și multe altele. Reducere suplimentară de 10% cu cod `SUMMER10`.
 
-## Recomandarea săptămânii: *Hollow Knight*
+## Recomandarea săptămânii
 
-![](images/hollow-knight-cover.jpg)
+{{< include-post "recomandare-hollow-knight-mahdi" >}}
 
-**Hollow Knight** este unul dintre acele rare jocuri care pot fi numite „a labor of love” fără a te strâmba după rostirea acestui clișeu. Nu doar că este un joc de o calitate deosebită, dar dezvoltatorii săi au continuat să lanseze update-uri consistente de conținut în mod gratuit. **Godmaster** a fost lansat săptămâna aceasta și marchează finalul unei serii de 4 DLC-uri care au adus noi zone de explorat, la pachet cu boși și provocări suplimentare. De obicei ăsta e semnul unei lansări inițiale pripite - când producătorii rămân cu materiale nefolosite sau neterminate la masa de tăiere - dar acesta nu este cazul lui **Hollow Knight**.
-
-Deci care e treaba cu el? **Hollow Knight** este un joc făcut pe calapodul metroidvania: un 2D action-adventure vast și neliniar, cu accent pe explorare și combat. Lumea jocului ascunde multe secrete, dar și pericole pe măsură. Ești pus în pielea unui mic cavaler purtând un coif de rădașcă albă și înarmat cu o săbiuță. Obiectivul principal e încă ascuns și se va dezvălui abia mai târziu. Tot ce ai de făcut acum e să te dezmeticești și să cutreieri lumea, distrugând tot ce ți se opune. Pe drum vei întâlni tot felul de personaje din neamul insectelor - unele te vor ajuta, altele vor avea nevoie de ajutorul tău. În scurt timp încep să apară primele semne de întrebare, iar ceea ce părea un sidescroller liniar se va deschide tot mai mult spre formula unui metroidvania clasic. Ce-l deosebește de alte titluri din nișă e stilul său unic și atenția acordată detaliilor.
-
-{{< figure  src="images/hollow-knight-atmo.gif" attr="(Sursă: Steam Community)" attrlink="https://steamcommunity.com/sharedfiles/filedetails/?id=1478476209" >}}
-
-Jocul nu este ușor. Dar cu toate că îi lipsesc elementele de „handholding”, nu are o curbă de învățare abruptă. Eu, nepriceputul la platformere în general, am ajuns să stăpânesc destul de bine elementele de gameplay. Pe la jumătatea jocului făceam dash printre capcane ca un campion. Deci chiar dacă nu sunteți împătimiți ai genului, puteți să îi acordați o șansă. Cine știe, poate veți lua și voi microbul metroidvania.
-
-**Hollow Knight** ar fi meritat un review în toată regula pe site, și nu această modestă recomandare de subsol de pagină. Într-o zi vom avea însă și o variantă definitivă a jocului și poate ne vom reîntâlni atunci. (Mahdi)
+{{< figure  src="/posts/2018/08/recomandare-hollow-knight-mahdi/gallery/hollow-knight-atmo.gif" attr="(Sursă: Steam Community)" attrlink="https://steamcommunity.com/sharedfiles/filedetails/?id=1478476209" >}}
 
 * Cu ocazia lansării DLC-ului, jocul este în momentul de față oferit la reducere atât pe PC cât și pe Nintendo Switch:  [Steam](https://store.steampowered.com/app/367520/Hollow_Knight/) (9,89€), [GOG](https://www.gog.com/game/hollow_knight) (7,99€), [Humble Store](https://www.humblebundle.com/store/hollow-knight) (9,89€), [Nintendo Store](https://www.nintendo.com/games/detail/hollow-knight-switch) (9,89€)
-* V-a plăcut? Scrieți-ne impresiile voastre despre joc pe [thread-ul dedicat](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1472).
