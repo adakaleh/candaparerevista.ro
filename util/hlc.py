@@ -106,7 +106,8 @@ SITEURI_CUNOSCUTE = {
     'slowrun': 'SlowRun',           'gamedaily': 'GameDaily.biz',   'haywiremag': 'Haywire Magazine',
     'forbes': 'Forbes',             'dsogaming': 'DSOGaming ',      'store.playstation': 'PlayStation Store',
     'pastemagazine': 'Paste',       'gematsu': 'Gematsu',           'thehistoryofhowweplay': 'The History of How We Play',
-    'pcinvasion': 'PC Invasion',    'theringer.com': 'The Ringer',  'epicgames.com/store': 'Epic Store',                    'nintendo.com/games/': 'Nintendo Store'
+    'pcinvasion': 'PC Invasion',    'theringer.com': 'The Ringer',  'epicgames.com/store': 'Epic Store',
+    '': '',    'gamepressure': 'Gamepressure.com', 'nintendo.com/games/': 'Nintendo Store'
 }
 
 MAGAZINE = {
@@ -177,7 +178,7 @@ class SectiuneStire(Sectiune):
             if (linie.are_linkuri()):
                 url_incepe     = linie.get_links()[0].start
                 lista_sites = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
-                text_rescris = linie.text[:url_incepe] + "(" + lista_sites + ")"
+                text_rescris = linie.text[:url_incepe] + "<sup>(" + lista_sites + ")</sup>"
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
@@ -210,7 +211,7 @@ class SectiuneArticole(Sectiune):
         return lista_formatata
 
     def make_markdown_link(self, link):
-        return "[%s](%s) (%s) " % (link.text, link.url, link.nume_site)
+        return "[%s](%s) <sup>(%s)</sup>" % (link.text, link.url, link.nume_site)
 
 
 class SectiuneRomania(Sectiune):
