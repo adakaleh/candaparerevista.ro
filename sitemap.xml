@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2019/01/review-overgrowth-fular/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/01/27/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
   </url>
@@ -1526,7 +1531,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/fular/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2316,6 +2321,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/overgrowth/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/overload/</loc>
     <lastmod>2018-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2413,7 +2424,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2018-12-30T08:00:00+00:00</lastmod>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2617,7 +2628,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2773,7 +2784,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3408,6 +3419,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/wolfenstein-ii/</loc>
     <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/wolfire/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
