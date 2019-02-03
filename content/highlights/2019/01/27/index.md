@@ -43,6 +43,7 @@ O săptămână cu evenimente mai puține, dar însemnate. Chestionarul GDC ia p
 * [Resident Evil 2 and The Case for the Short Blockbuster](https://www.usgamer.net/articles/resident-evil-2-and-the-case-for-the-short-blockbuster) <sup>(USgamer)</sup>
 * [Analyzing Fictional Games: Quidditch](https://remptongames.com/2019/01/26/analyzing-fictional-games-quidditch/) <sup>(Rempton Games)</sup>
 * [In the Future, Video Games Will Care About You](https://medium.com/s/story/in-the-future-video-games-will-care-about-you-2bc852357d0b) <sup>(Medium)</sup>
+* [Meet the designers who make a living building tiny houses on The Sims](https://www.fastcompany.com/90295855/meet-the-designers-who-make-a-living-building-tiny-houses-on-the-sims) <sup>(Fast Company)</sup>
 
 ### Actualitate
 * [Machinima is a good reminder of just how disposable the internet is](https://www.pcgamer.com/machinima-is-a-good-reminder-of-just-how-disposable-the-internet-is/) <sup>(PC Gamer)</sup>
