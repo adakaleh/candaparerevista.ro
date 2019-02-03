@@ -165,6 +165,7 @@ O săptămână dominată de scandaluri și dispute: Bungie se desparte de Activ
 * 10 ianuarie: **Catherine Classic** <sup>([Steam](https://store.steampowered.com/app/893180/Catherine_Classic/))</sup>
 * 11 ianuarie: **New Super Mario Bros. U Deluxe** (Nintendo Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch))</sup>
 * 11 ianuarie: **Tales of Vesperia Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/738540/Tales_of_Vesperia_Definitive_Edition/))</sup>
+* 12 ianuarie: **Bright Memory - Episode 1** (early access) <sup>([Steam](https://store.steampowered.com/app/955050/Bright_Memory__Episode_1/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri

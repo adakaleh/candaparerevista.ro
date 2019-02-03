@@ -136,18 +136,6 @@ Opţiuni numeroase în acest weekend:
 * [Nioh: Complete Edition](https://store.steampowered.com/app/485510/Nioh_Complete_Edition___Complete_Edition/) la cel mai mic preţ de până acum (aprox. 23€)
 * Continuă [Summer Sale](https://www.greenmangaming.com/summer-sale/), cu flash deals la fiecare 12 ore
 
-## Recomandarea săptămânii: _Return of the Tentacle_
+## Recomandarea săptămânii
 
-![](images/rott-cover.jpg)
-
-**Return of the Tentacle** este un sequel făcut de o mână de fani ai lui **Day of the Tentacle**, un clasic al genului adventure. Oamenii din spatele jocului au reușit să păstreze viu spiritul originalului, atât prin stilul grafic ce este aproape identic cu cel din DotT, cât și prin muzica inspirată din coloana sonoră a jocului vechi.
-
-Puzzle-urile sunt destul de logice, doar cu ocazionale momente mai nebunești ce fac trimitere la logica întortocheată a lui DotT. Am fost plăcut surprins, de asemenea, de cât de line sunt tranzițiile între scene și cât de curat funcționează interfața. Deși voice acting-ul lasă de dorit în unele locuri, precum și calitatea dialogurilor, recomand călduros **Return of the Tentacle** pentru pasionații genului sau cei care doar vor să se întoarcă în timp, în universul acela întors pe dos.
-
-Jocul este făcut cu pasiune, atât pentru original cât și pentru jocurile LucasArts, cele două ore de joc fiind presărate cu trimiteri destul de spumoase la alte titluri ale companiei. Unui neinițiat îi recomand să joace originalul mai întâi pentru a înțelege toate referințele, mai ales că varianta remastered e apărută deja de doi ani. Cu o durată de doar două ore jocul este numai bun de jucat într-o seară, fiind o experiență lejeră, de vară. (**Azad**)
-
-Linkuri:
-
-* [Site oficial + Download](https://catmic.itch.io/return-of-the-tentacle)
-* Jocul original/remastered: [Steam](https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/), [Humble Store](https://www.humblebundle.com/store/day-of-the-tentacle-remastered), [gog.com](https://www.gog.com/game/day_of_the_tentacle_remastered)
-* [Discuţii pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=8&t=1841)
+{{< include-post "recomandare-rott-azad" >}}
