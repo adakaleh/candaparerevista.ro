@@ -1,7 +1,7 @@
 ---
 title: Super Smash Bros. Ultimate
 type: post
-date: 2019-01-31
+date: 2019-02-06
 authors: mahdi
 categories:
     - Review
@@ -12,11 +12,11 @@ tags:
 draft: true
 
 sursa:
-   link: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=88802
+   link: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=92208
    text: Articolele Comunității
-   data: 2018-12-02
+   data: 2019-02-04
 
-linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=88802
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=92208
 
 resources:
   - src: images/smb-cover.jpg
@@ -51,8 +51,11 @@ Pe scurt, **Super Smash Bros. Ultimate** e un joc *cu bătăi* între personaje 
 
 Nișa de fighting games este una foarte competitivă, dar seria Smash Bros a reușit să se impună, stârnind isterie la fiecare lansare. Distribuția pestriță de personaje nu a fost singurul ingredient al succesului. Nintendo a adus câteva schimbări rețetei convenționale de joc *cu bătăi* (adică „cară-i lovituri în freză adversarului până i se duce bara la zero”). În primul rând nu mai există bară de viață / stamina. Pentru a-ți învinge adversarul trebuie să-l lovești suficient de puternic și de strategic încât să-l proiectezi în afara celor patru margini ale nivelului. Fiecare lovitură pe care i-o plasezi cu succes îți face adversarul tot mai vulnerabil, acesta fiind aruncat la distanțe tot mai mari cu fiecare lovitură încasată.
 
-Un alt aspect care scoate în evidență **Super Smash Bros. Ultimate** este numărul mare de arene pe care se poate lupta, printre care și tot felul de scene dinamice, care necesită atenție suplimentară din partea jucătorilor. De exemplu unele arene fac un side scrolling constant spre dreapta - dacă rămâi în urmă riști să pici în neant. Alte lupte se poartă pe aripile unor avioane aflate în zbor. Un număr mare de scene se reconfigurează în diverse forme în timpul meciului, iar unele au și platforme destructibile. Laolaltă cu un număr variat de power up-uri și arme care pot fi culese, acestea fac din **Super Smash Bros. Ultimate** un hibrid de platformer și fighting game. Dar desigur, cei care preferă o luptă cât mai echilibrată într-un mediu static vor avea și această posibilitate.
+Un alt aspect care scoate în evidență **Super Smash Bros. Ultimate** este numărul mare de arene pe care se poate lupta, printre care și tot felul de scene dinamice, care necesită atenție suplimentară din partea jucătorilor. De exemplu unele arene fac un side scrolling constant spre dreapta - dacă rămâi în urmă riști să pici în neant. Alte lupte se poartă pe aripile unor avioane aflate în zbor. Un număr mare de scene se reconfigurează în diverse forme în timpul meciului, iar unele au și platforme destructibile. Laolaltă cu un număr variat de power up-uri și arme care pot fi culese, acestea fac din **Super Smash Bros. Ultimate** un hibrid de platformer și fighting game. Desigur, cei care preferă o luptă cât mai echilibrată într-un mediu static vor avea și această posibilitate.
 
+{{< figure-multi
+    "gallery/smb-14.jpg|"
+    "gallery/smb-21.jpg|" >}}
 
 ### De unul singur
 
@@ -66,13 +69,15 @@ Vestea bună e că **Super Smash Bros. Ultimate** oferă suficiente opțiuni pen
 
 După acest filmuleț jocul ne aruncă în pielea lui Kirby pe o hartă a lumii reimaginate de Galeem, o hartă colorată, dar presărată cu tot felul de oponenți și obstacole. Obiectivul campaniei e să îți găsești și să îți eliberezi camarazii de sub vraja lui Galeem, iar în final să te confrunți cu el. Lucrurile par simple la prima vedere: fiecare obstacol de pe hartă constă într-un meci împotriva unui personaj (sau mai multe) derulat în anumite condiții speciale, iar câștigarea lui îți deschide noi drumuri sau îți oferă anumite recompense. Meciurile oferă o varietate surprinzătoare de provocări: într-unul te bați cu un Pikachu uriaș, în altul te întâlnești cu Dr. Mario însoțit de opt Solid Snakes, ș.a.m.d. Unele sunt chiar grele, dar progresul pe hartă nefiind liniar, te poți întoarce la ele când te simți mai în putere.
 
-Lucrurile se complică puțin pe parcurs. Povestea ne spune că unele personaje sunt doar ținute captive de către Galeem, în timp ce altele au fost transformate definitiv și irevocabil în… abțibilduri. Prizonierii, o dată eliberați, pot fi selectați să lupte în locul lui Kirby. Abțibildurile pot fi în schimb doar echipate, conferindu-ți anumite bonusuri și rezistențe care vă vor face viața mai ușoară în anumite lupte. Mai mult decât atât, aceste stickers pot crește în nivel pe măsură ce sunt folosite, devenind tot mai eficace. Mai pot fi antrenate, respecializate sau trimise pe cont propriu în expediții speologice de unde se pot întoarce cu tot felul de goodies. Weird, huh? World of Light se transformă în cele din urmă într-un *collectathon* pentru amatorii de achievements, progresul putând fi urmărit într-un album virtual.
+Lucrurile se complică puțin pe parcurs. Povestea ne spune că unele personaje sunt doar ținute captive de către Galeem, în timp ce altele au fost transformate definitiv și irevocabil în… abțibilduri. Prizonierii, o dată eliberați, pot fi selectați să lupte în locul lui Kirby. Abțibildurile pot fi în schimb doar echipate, conferindu-ți anumite bonusuri și rezistențe care vă vor face viața mai ușoară în anumite lupte. Mai mult decât atât, aceste stickers pot crește în nivel pe măsură ce sunt folosite, devenind tot mai eficace. Mai pot fi antrenate, respecializate sau trimise pe cont propriu în expediții speologice de unde se pot întoarce cu tot felul de goodies. Weird, huh? World of Light se transformă în cele din urmă într-un collectathon pentru amatorii de achievements, progresul putând fi urmărit într-un album virtual.
 
 {{< figure  src="gallery/smb-01.jpg" caption="♫ O lume minunată, în care veți găsiii... ♪" >}}
 
-În concluzie, există suficiente activități cu care vă puteți consuma timpul în acest mod de joc. Eu personal nu sunt genul *completionist*, deci nu am dus campania până la capăt. Mi-a reținut însă atenția vreo 15 ore, timp în care am reușit să deblochez și roster-ul complet de personaje. Căci - am uitat să menționez - doar opt personaje sunt disponibile de la început pentru meciurile normale. O dată la un anumit interval de timp scurs în joc primiți din senin provocarea unui nou luptător, iar dacă-l învingeți, acesta va fi deblocat. Asta e încă o motivație ca să frecați jocul și în singleplayer - personajele eliberate în World of Light sunt deblocate și în restul modurilor de joc. Dar dacă nu vă surâde ideea de a avea 90% din roster neselectabil de la început, există și metode de a cheese-ui deblocarea personajelor. Mie însă mi-a făcut plăcere să le deblochez treptat, fără să grăbesc procesul.
+În concluzie, există suficiente activități cu care vă puteți consuma timpul în acest mod de joc. Cum nu sunt genul care ține neapărat să bifeze toate achievement-urile, nu am dus campania până la capăt. Mi-a reținut însă atenția vreo 10 ore, timp în care am reușit să deblochez și roster-ul complet de personaje. Căci - am uitat să menționez - doar opt personaje sunt disponibile de la început pentru meciurile normale. O dată la un anumit interval de timp scurs în joc primiți din senin provocarea unui nou luptător, iar dacă-l învingeți, acesta va fi deblocat. Asta e încă o motivație ca să frecați jocul și în singleplayer - personajele eliberate în World of Light sunt deblocate și în restul modurilor de joc. Dar dacă nu vă surâde ideea de a avea 90% din roster neselectabil de la început, există și metode de a cheese-ui deblocarea personajelor. Mie mi-a făcut plăcere să le deblochez treptat, fără să grăbesc procesul.
 
 **Super Smash Bros. Ultimate** mai are și un așa numit Smash Classic Mode, un set de minicampanii pentru fiecare personaj din roster. Acestea constau într-o succesiune de șapte meciuri cu diverși inamici, care culminează într-un boss battle. În funcție de dificultatea aleasă, se obțin tot felul de abțibilduri și alte recompense utile pentru modul World of Light.
+
+{{< figure  src="gallery/smb-03.jpg" caption="♫ ...nuuumai copiiii ♪" >}}
 
 ### În mai mulți
 
@@ -80,15 +85,23 @@ Când am mers de sărbători la un prieten de afară, mi-am luat Switch-ul cu mi
 
 Jocul este foarte prietenos cu începătorii, iar meciurile cu mai mulți combatanți sunt suficient de bezmetice și de intense încât toată lumea să se distreze, indiferent de nivelul de experiență al fiecăruia. Dincolo de modul tradițional de free for all, se mai pot face echipe 2 vs 2, sau se pot organiza mini-turnee (cu până la 32 de jucători). Iar dacă acestea nu sunt suficiente, Nintendo mai oferă alte câteva moduri minore de joc pe care o să vă las plăcerea să le descoperiți singuri.
 
-All in all, **Super Smash Bros. Ultimate** este un *party game* ideal. E *kawaii*, ușor de învățat și nu se ia foarte tare în serios. Numărul mare de personaje și arene garantează că nici un meci nu va fi la fel.
+All in all, **Super Smash Bros. Ultimate** este un party game ideal. E *kawaii*, ușor de învățat și nu se ia foarte tare în serios. Numărul mare de personaje și arene garantează că nici un meci nu va fi la fel.
+
+{{< figure-multi
+    "gallery/smb-05.jpg|"
+    "gallery/smb-18.jpg|" >}}
 
 Jocul se poate juca și online. Mie personal nu mi se pare prea distractiv să mă duelez cu necunoscuți random, cu care nu poți nici comunica. Am jucat câteva meciuri la întâmplare, dar m-am plictisit repede. Jucatul online are și o hibă majoră: de multe ori ești la mâna conexiunii adversarilor. Chiar dacă ai fibră bună, românească, conexiunea de cacao a unuia dintre ceilalți jucători poate strica meciul tuturor, cu input lag, sacadare și alte minuni. Dacă tot trebuie să plătești pentru Nintendo Online, poate n-ar fi stricat ca jocul să aibă un netcode mai bun (și poate niște servere dedicate, în loc de P2P).
 
-Un alt minus ar fi algoritmul de matchmaking. În teorie jocul îți oferă posibilitatea să îți configurezi un set de reguli pe care le preferi (de ex. vrei doar meciuri 2 vs. 2, fără powerups și cu un time limit de 1 min), urmând să fii cuplat cu alți jucători cu preferințe cât mai apropiate. Pentru mine nu a fost așa problematic, căci n-aveam preferințe foarte specifice, dar sunt mulți care s-au plâns pe net de meciurile foarte alandala în care au fost repartizați.
+Un alt minus ar fi algoritmul de matchmaking. În teorie jocul îți oferă posibilitatea să îți configurezi un set de reguli pe care le preferi (de exemplu vrei doar meciuri 2 vs. 2, fără powerups și cu un time limit de 1 min), urmând să fii cuplat cu alți jucători cu preferințe cât mai apropiate. Pentru mine nu a fost așa problematic, căci n-aveam preferințe foarte specifice, dar sunt mulți care s-au plâns pe net de meciurile foarte alandala în care au fost repartizați.
 
 Așadar, experiența online e după cum v-o fi norocul. În general cam toate jocurile *cu bătăi* au probleme la capitolul ăsta, dar jocul de față mi-a dat impresia că Nintendo nu prea și-a făcut temele.
 
 Mi-a plăcut însă modul de online co-op. În acesta tu și cu un prieten concurați de pe același Switch cu altă echipă de doi jucători, aleasă aleator online. Meciurile în acest mod mi s-au părut cele mai fun. Nu am dat de foarte mulți oponenți tryhard care se spărgeau în figuri; în general la capătul celălalt al firului se aflau alți doi prieteni care nu doreau decât să se distreze. În general și nivelul de experiență întâlnit e unul mai casual. Excepție a făcut un duo de finlandezi care ne-a demolat preț de vreo nouă meciuri, până ne-am lăsat păgubași - dacă dați vreodată de un Dark Link în echipă cu un Pikachu în „uniformă” de luchador, salutați-i din partea mea.
+
+{{< figure-multi
+    "gallery/smb-16.jpg|"
+    "gallery/smb-17.jpg|" >}}
 
 ### Cafteală aprofundată
 
@@ -96,13 +109,17 @@ Cât de complex este totuși **Super Smash Bros. Ultimate**? Am tot vorbit despr
 
 Schema de control este înșelător de simplă. Ai două butoane de atac, două de sărit (fără diferență între ele), un buton de grab și unul de shield. Combinând însă cele două tipuri de atac cu săriturile și cu cele patru direcții posibile de mișcare a personajului, se pot face nu mai puțin de 18 feluri de atacuri, dacă am numărat bine. Ok, o să spuneți, multe jocuri *cu bătăi* oferă un număr mare de lovituri posibile (cel puțin două-trei feluri de kick, două-trei feluri de punch, câteva lovituri din aer, plus o droaie de combos, etc.), dar ce mă frapează la **Super Smash Bros. Ultimate** este cât de mult diferă atacurile de la un personaj la altul. Atacul la care Ryu dă o palmă cu piciorul este cu totul diferit de cel al lui Solid Snake - care aruncă o grenadă. Combinațiile preferate de atacuri de la unul dintre ele nu mai sunt valabile când treceți la alt personaj. Da, orice fighter game bun oferă o varietate de atacuri unice fiecărui personaj, dar în general acestea vin altoite pe un fond comun de atacuri de bază. În jocul de față nu prea există așa ceva - aproape toate cele 74 de personaje sunt lucrate individual, iar diferențele dintre ele pot fi ca de la cer la pământ. Mogâldețe mititele precum Pikachu sau Kirby au cu totul alte stiluri și strategii de luptă față de matahalele Donkey Kong sau King Dedede. Există și oareșce filler material în roster, în persoana așa numiților echo fighters - personaje care sunt versiuni reskinned ale altora, fără diferențe semnificative de gameplay. Dar acestea sunt puține la număr.
 
+{{< figure-multi
+    "gallery/smb-20.jpg|"
+    "gallery/smb-04.jpg|" >}}
+
 Cu așa o varietate de personaje și stiluri de luptă v-ați aștepta ca jocul să fie complet nebalansat. Și într-adevăr, am citit multe reacții pe net și topuri de viabilitate în „meta”. Se plângeau ba de omniprezența personajelor din Fire Emblem, ba de jucătorii cu King K. Rool care în afară de spam cu muscheta nu știau altceva, ba de cine știe ce personaj flavor of the week. Într-un [articol recent din Famitsu](https://nintendoeverything.com/sakurai-talks-smash-bros-ultimate-online-mode-victory-rates-character-usage-more/), directorul Masahiro Sakurai a prezentat o situație surprinzătoare. O analiză statistică a ratelor de victorie între 30 decembrie și 5 ianuarie a revelat că:
 
 >As for 1-on-1 victory rates, no fighter is lower than 40% and no fighter exceeds 60%. In terms of Elite 1-on-1 matches, the character with the lowest percentage sits at 43.7%, while the character with the highest win rate is at 56.8%. There’s a noticeable difference there but considering that those percentages are for the highest and lowest of 74 fighters, overall you could say that the characters were fairly close to each other.
 
 Pe scurt, ciocu’ mic și joc de glezne. Nu vă mai bateți capul cu „meta” și jucați cu personajele care vă plac. Oricum n-o să ajungeți pe Elite.
 
-Dacă nu era evident până acum, sunt un *filthy casual*. Când joc **Super Smash Bros Ultimate** îmi place să spamez atacurile pe care le descopăr pe moment, uit mereu că am shield și grab attack; pe scurt, butonez aproape la întâmplare, nu prea iau decizii rapid, iar cratesurile rămân de multe ori neadunate. Și asta e ok. Jocul îi primește cu brațele deschise pe toți cei asemenea mie. La fel de bine vor fi primiți și cei care sunt mai calculați și găsesc satisfacție în a-și învăța personajele și a le exploata eficient avantajele. Cum am arătat mai sus, jocul oferă suficientă adâncime dincolo de fațada distractivă de party game.
+Dacă nu era evident până acum, sunt un filthy casual. Când joc **Super Smash Bros Ultimate** îmi place să spamez atacurile pe care le descopăr pe moment, uit mereu că am shield și grab attack; pe scurt, butonez aproape la întâmplare, nu prea iau decizii rapid, iar cratesurile rămân de multe ori neadunate. Și asta e ok. Jocul îi primește cu brațele deschise pe toți cei asemenea mie. La fel de bine vor fi primiți și cei care sunt mai calculați și găsesc satisfacție în a-și învăța personajele și a le exploata eficient avantajele. Cum am arătat mai sus, jocul oferă suficientă adâncime dincolo de fațada distractivă de party game.
 
 {{% aside %}}
 ### Tools of the trade
@@ -116,4 +133,4 @@ Experții recomandă folosirea unui Nintendo Switch Pro Controller pentru maxim�
 
 Să fim sinceri - dacă ai Switch și ești un fan Nintendo care a pus mâna și pe iterațiile anterioare ale lui Super Smash Bros., probabil ai deja jocul instalat încă de la lansare (și probabil te cheamă cg1700). Nu e nicio decizie de făcut aici, îl cumperi și gata, n-o să stai după recenzii. Valul de hype a fost mult prea mare. La ora actuală **Super Smash Bros. Ultimate** s-a vândut în peste 12 milioane de exemplare, devenind cel mai rapid vândut joc din istoria Nintendo.
 
-Iar dacă te afli în fața raftului cu jocuri noi și încă ești nehotărât dacă un fighting game merită 60 de euro, îți înțeleg ezitarea. Pentru mine a meritat. Din punct de vedere pur pragmatic, poate că nu mi-am „amortizat” încă investiția - am scos mai multe ore de distracție din alte jocuri mai ieftine. Dar pe lângă faptul că găsesc stupid genul ăsta de perspectivă, **Super Smash Bros. Ultimate** este un joc de cursă lungă. Nu este un joc pe care îl joci două săptămâni și îl termini, ci o piesă pe care o vei scoate din colecție de fiecare dată când este rost de quality time cu prietenii, la fel ca Super Mario Kart și alte party games consacrate.
+Iar dacă te afli în fața raftului cu jocuri noi și încă ești nehotărât dacă un fighting game merită 60 de euro, îți înțeleg ezitarea. Pentru mine a meritat. Din punct de vedere pur pragmatic, poate că nu mi-am „amortizat” încă investiția - am scos mai multe ore de distracție din alte jocuri mai ieftine. Dar pe lângă faptul că găsesc stupid genul ăsta de perspectivă, **Super Smash Bros. Ultimate** este un joc de cursă lungă. Nu este un joc pe care îl joci două săptămâni și îl termini, ci o piesă pe care o vei scoate din colecție de fiecare dată când este rost de quality time cu prietenii, la fel ca Super Mario Kart și alte party games consacrate. ■
