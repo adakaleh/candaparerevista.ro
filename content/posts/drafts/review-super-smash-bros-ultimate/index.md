@@ -9,8 +9,6 @@ tags:
     - super smash bros
     - nintendo
 
-draft: true
-
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=92208
    text: Articolele Comunității
@@ -19,7 +17,7 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=92208
 
 resources:
-  - src: images/smb-cover.jpg
+  - src: 
     name: "card-cover-image"
 
   - src: images/smb-cover.jpg
