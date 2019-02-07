@@ -1,7 +1,7 @@
 ---
 title: Super Smash Bros. Ultimate
 type: post
-date: 2019-02-06
+date: 2019-02-07
 authors: mahdi
 categories:
     - Review
@@ -17,7 +17,7 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&p=92208
 
 resources:
-  - src: 
+  - src:
     name: "card-cover-image"
 
   - src: images/smb-cover.jpg
