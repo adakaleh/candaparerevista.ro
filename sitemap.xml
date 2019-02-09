@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2019/coperti-02/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2019/02/review-super-smash-bros-ultimate/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -1779,13 +1784,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2024,14 +2029,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2692,7 +2697,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/revistele-lunii/</loc>
-    <lastmod>2019-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2848,7 +2853,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
