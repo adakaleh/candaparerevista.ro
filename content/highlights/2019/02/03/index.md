@@ -111,6 +111,9 @@ Epic Store face din nou valuri, de data aceasta asigurându-și exclusivitatea p
 * [Forking Hell: A Decade of Devolver Digital](http://www.kotaku.co.uk/2019/01/31/forking-hell-a-decade-of-devolver-digital) <sup>(Kotaku)</sup>
 * (Silent Hill 20 ani) [From Super Fan to Producer: An Insider&#039;s Perspective on Silent Hill](https://www.usgamer.net/articles/silent-hill-20th-anniversary-retrospective-feature-tomm-hulett) <sup>(USgamer)</sup>
 * (Silent Hill 20 ani) [Silent Hill at 20: the game that taught us to fear ourselves](https://www.theguardian.com/games/2019/jan/31/silent-hill-at-20-the-game-that-taught-us-to-fear-ourselves) <sup>(The Guardian)</sup>
+* [The Great Console Wars: A Brief History of Consoles and How Competition Birthed the Consoles We…](https://medium.com/@gmromero/the-great-console-wars-a-brief-history-of-consoles-and-how-competition-birthed-the-consoles-we-f03d89c8e8fb) <sup>(Medium)</sup>
+* [Gaming on the Web: The Rise and Fall of Browser Games](https://medium.com/@jessevilla/gaming-on-the-web-the-rise-and-fall-of-browser-games-77a1303c8a0c) <sup>(Medium)</sup>
+* [Civilization?](https://medium.com/@tcliff_93618/civilization-6c8b5b65bc9f) <sup>(Tristan Cliff / Medium)</sup>
 
 ### Dev, making of
 * [How making a new strategy game nearly destroyed Civ 5 designer Jon Shafer's life](https://www.pcgamer.com/how-making-a-new-strategy-game-nearly-destroyed-civ-5-designer-jon-shafers-life/) <sup>(PC Gamer)</sup>

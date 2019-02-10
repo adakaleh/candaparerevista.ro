@@ -119,7 +119,7 @@ Pe 6 decembrie a avut loc The Game Awards, un eveniment produs de prezentatorul 
 * [10 years later it was GTA 4's world, not its story, that made a lasting impression](https://www.pcgamer.com/10-years-later-it-was-gta-4s-world-not-its-story-that-made-a-lasting-impression/) (PC Gamer)
 * [History of Real-Time Strategy: The Birth (1981 - 1991)](http://www.vgchartz.com/article/393786/history-of-real-time-strategy-the-birth-1981-1991/) (VGChartz)
 * [How Battle Royale went from a manga to a Fortnite game mode](https://www.rockpapershotgun.com/2018/12/06/how-battle-royale-went-from-a-manga-to-a-fortnite-game-mode/) (RPS)
-* [Oddworld: A History In Interviews - Part One](http://fingerguns.net/features/2018/12/03/oddworld-a-history-in-interviews-part-one/) (FNGR GNS)
+* [Oddworld: A History In Interviews - Part One](http://fingerguns.net/features/2018/12/03/oddworld-a-history-in-interviews-part-one/) (Finger Guns)
 * [Before There Was ‘Fortnite,’ There Was ‘Starsiege: Tribes’](https://www.theringer.com/2018/12/5/18126162/starsiege-tribes-anniversary-first-person-shooters-fortnite-influence) (The Ringer)
 * [The Game Archaeologist: Neverwinter Nights 1 & 2](https://massivelyop.com/2018/12/08/the-game-archaeologist-neverwinter-nights-1-2/) (Massively OP)
 * [Controlling the Spice, Part 3: Westwood's Dune](https://www.filfre.net/2018/12/controlling-the-spice-part-3-westwoods-dune/) (The Digital Antiquarian)
