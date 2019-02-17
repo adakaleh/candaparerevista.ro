@@ -119,6 +119,7 @@ Linkuri rapide:
 * [Retro-Tinged Game Controllers: BX Foundry’s Handmade Joysticks](https://tedium.co/2019/02/07/bx-foundry-video-game-controllers/) <sup>(Tedium)</sup>
 * [25 Years On, Super Metroid’s Opening Act Remains Unmatched - Hardcore Gamer](https://www.hardcoregamer.com/2019/02/06/25-years-on-super-metroids-opening-act-remains-unmatched/324130/) <sup>(Hardcore Gamer)</sup>
 * [From Basic Training To Plastic Combat | Journeying Through 3DO’s Army Men, Part I](https://medium.com/sarge-is-dead/army-men-journey-part-uno-3b526a1b2b8a) <sup>(Medium)</sup>
+* [History of Real-Time Strategy: The Rise (1992 - 1998)](http://www.vgchartz.com/article/435727/history-of-real-time-strategy-the-rise-1992-1998/) <sup>(VGChartz)</sup>
 
 ---
 
@@ -169,6 +170,7 @@ Linkuri rapide:
 * 7 februarie: **The Stillness of the Wind** <sup>([Steam](https://store.steampowered.com/app/828900/The_Stillness_of_the_Wind/))</sup>
 * 8 februarie: **GOD EATER 3** <sup>([Steam](https://store.steampowered.com/app/899440/GOD_EATER_3/))</sup>
 * 8 februarie: **AWAY: Journey to the Unexpected** <sup>([gog.com](https://www.gog.com/game//away_journey_to_the_unexpected), [Steam](https://store.steampowered.com/app/573110/AWAY_Journey_to_the_Unexpected/))</sup>
+* 8 februarie: **West of Loathing DLC: Reckonin' at Gun Manor** <sup>([Steam](https://store.steampowered.com/app/954060/West_of_Loathing_Reckonin_at_Gun_Manor/))</sup>
 
 ## Prăvălii de jocuri
 
