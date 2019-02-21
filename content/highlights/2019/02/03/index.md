@@ -162,12 +162,12 @@ Epic Store face din nou valuri, de data aceasta asigurându-și exclusivitatea p
 * 31 ianuarie: **Re-Legion** <sup>([Steam](https://store.steampowered.com/app/782140/ReLegion/))</sup>
 * 31 ianuarie: **Praey for the Gods** (early access) <sup>([Steam](https://store.steampowered.com/app/494430/Praey_for_the_Gods/))</sup>
 * 31 ianuarie: **Warhammer Quest 2: The End Times** <sup>([Steam](https://store.steampowered.com/app/910450/Warhammer_Quest_2_The_End_Times/))</sup>
+* 31 ianuarie: **Lovecraft's Untold Stories** <sup>([Steam](https://store.steampowered.com/app/871420/Lovecrafts_Untold_Stories/), [gog.com](https://www.gog.com/game/lovecrafts_untold_stories))</sup>
 * 1 februarie: **Ace Combat 7: Skies Unknown** <sup>([Steam](https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/))</sup>
 * 1 februarie: **Spinnortality | cyberpunk management sim** <sup>([Steam](https://store.steampowered.com/app/822990/Spinnortality__cyberpunk_management_sim/))</sup>
 * 1 februarie: **Foundation** (early access) <sup>([Steam](https://store.steampowered.com/app/690830/Foundation/), [gog.com](https://www.gog.com/game/foundation))</sup>
 * 1 februarie: **Rainswept** <sup>([gog.com](https://www.gog.com/game/rainswept))</sup>
 * 1 februarie: **Wargroove** <sup>([Steam](https://store.steampowered.com/app/607050/Wargroove/))</sup>
-
 
 ## Prăvălii de jocuri
 * [What the Epic Store is missing right now](https://www.pcgamer.com/what-the-epic-store-is-missing-right-now/) <sup>(PC Gamer)</sup>
