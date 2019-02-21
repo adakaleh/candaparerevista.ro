@@ -14,7 +14,7 @@ sursa:
    text: Postarea originală (și incompletă) de pe Facebook
    data: 2019-02-18
 
-linkForum:
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1864&start=40#p93260
 
 resources:
   - src: images/simon-gocal-rozcesti.jpg
@@ -44,7 +44,7 @@ Intru în pădure, de data asta echipat complet, deși luminez ca Farul din Alex
 
 Bună ziua, doamnă, sunt de la Martorii lui Edison, organizația de tineret, aripa militantă. Am auzit că învățați sătencele la prostii, vă rog să încetați cu amestecul în treburile locale căci tulburați clerul și deranjați ordinea naturală a localității, ca să nu mai vorbesc de efectul negativ pe care îl au faptele dumneavoastră asupra moralului enoriașilor.
 
-Boierule, zice ea, nu-s boier, zic eu, marchizule, zicea ea, eu nu-i mai zic nimic că nu vreau să mă prindă noaptea în pădure, noaptea fiind aliatul natural al cumanului. Marchizule, eu sunt cu știința și le-am dat amărîtelor alifie bazată pe știință, alifia e mai halucinogenă, așa, unii văd Satana, alții văd opera din Sidney, mai sunt unii care văd rudele moarte și m-am gîndit că sătencele sunt din tagma ălora care văd rude după ce se droghează așa că le-am dat alifie cu drog să le alin durerea. Acu dacă ele văd diavol în loc de rudă, cu ce sunt eu de vină, dar fă-mi un hatîr și întreabă-le de sănătate, căci sunt cam îngrijorată, am pus prea multă mătrăgună și tare mi-e teamă ca ăstea să nu vadă deodată rudă, diavol și opera din Sidney, că așa înnebunește omul și-mi pierd clienții.
+Boierule, zice ea, nu-s boier, zic eu, marchizule, zicea ea, eu nu-i mai zic nimic că nu vreau să mă prindă noaptea în pădure, noaptea fiind aliatul natural al cumanului. Marchizule, eu sunt cu știința și le-am dat amărîtelor alifie bazată pe știință, alifia e mai halucinogenă, așa, unii văd Satana, alții văd opera din Sydney, mai sunt unii care văd rudele moarte și m-am gîndit că sătencele sunt din tagma ălora care văd rude după ce se droghează așa că le-am dat alifie cu drog să le alin durerea. Acu dacă ele văd diavol în loc de rudă, cu ce sunt eu de vină, dar fă-mi un hatîr și întreabă-le de sănătate, căci sunt cam îngrijorată, am pus prea multă mătrăgună și tare mi-e teamă ca ăstea să nu vadă deodată rudă, diavol și opera din Sydney, că așa înnebunește omul și-mi pierd clienții.
 
 Are dreptate hoașca, mă gîndesc eu, cu atît mai mult că ălea sunt în sat și ca să vorbesc cu ele trebuie să ies din pădure unde, cred că v-ați dat seama, nu mă simt prea în largul meu.
 
