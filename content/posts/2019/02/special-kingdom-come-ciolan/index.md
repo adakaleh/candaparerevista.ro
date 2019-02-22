@@ -8,6 +8,7 @@ categories:
     - Special
 tags:
     - kingdom come deliverance
+    - warhorse studios
 
 sursa:
    link: https://www.facebook.com/photo.php?fbid=190898098535974&set=a.129657564660028&type=3
