@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kingdom Come: Deliverance</title>
+      <link>https://candaparerevista.ro/posts/2019/02/review-kingdom-come-darthzombie/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/02/review-kingdom-come-darthzombie/</guid>
+      <description>Anunțul lui Kingdom Come: Deliverance de către Warhorse Studios din 2013 a provocat un val de hype greu de ignorat. RPG-ul nou-fondatei companii cehești conduse de către Daniel Vávra promitea că va fi o reprezentare fidelă a Evului Mediu, iar filmulețele de prezentare a combat-ului făceau rondurile prin multe forumuri, inclusiv al nostru. Campania de crowdfunding de pe Kickstarter a fost totodată una de mare succes, strângând aproape 1,25 milioane de Euro.</description>
+    </item>
     
     <item>
       <title>Kingdom Come</title>
@@ -145,16 +154,6 @@
       
       <guid>https://candaparerevista.ro/highlights/2018/retrospectiva-recomandarilor/</guid>
       <description>Începând de anul acesta tragem cortina peste secțiunea de recomandări din Retrospectiva Săptămânii și, ca să marcăm momentul (și pentru că tot e sezonul trecerilor în revistă) am făcut mai jos o listă cu toate recomandările pe care le-am făcut în anul care a trecut. Sperăm că ați jucat măcar o parte dintre ele. Recomandările și mini-review-urile voastre vor avea în continuare un loc pe site, doar că vor avea un caracter mai puțin periodic, iar articolele vor fi publicate separat.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 23-29 decembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.12.23/</link>
-      <pubDate>Sun, 30 Dec 2018 08:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.12.23/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
- Știrile și lansările s-au retras în bârlog și am rămas doar cu retrospectivele anului și cu multe jocuri de jucat.</description>
     </item>
     
   </channel>
