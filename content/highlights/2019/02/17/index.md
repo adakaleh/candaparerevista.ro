@@ -160,7 +160,7 @@ Linkuri rapide:
 * 15 februarie: **Crackdown 3** <sup>([Microsoft Store](https://www.microsoft.com/en-us/p/crackdown-3/9nxr6469dm2p))</sup>
 * 15 februarie: **JUMP FORCE** <sup>([Steam](https://store.steampowered.com/app/816020/JUMP_FORCE/))</sup>
 * 15 februarie: **Far Cry New Dawn** <sup>([Steam](https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/), [Ubi Store](https://store.ubi.com/us/far-cry-new-dawn/5bf319696b54a4ddc91e8843.html))</sup>
-* 15 februarie: **Metro Exodus** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/metro-exodus/home), [Epic Store](https://www.epicgames.com/store/en-US/product/flower))</sup>
+* 15 februarie: **Metro Exodus** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/metro-exodus/home))</sup>
 
 
 ## Prăvălii de jocuri
