@@ -14,6 +14,11 @@
 
 <script>hljs.initHighlightingOnLoad();</script>
 
+<script>
+  Array.from(document.getElementsByClassName("fotorama-fallback")).forEach(el => el.style.display = "none");
+  Array.from(document.getElementsByClassName("fotorama")).forEach(el => el.style.display = "block");
+</script>
+
 {{ with .Site.Params.googleAnalytics }}
   {{ "<!-- Google Analytics -->" | safeHTML }}
   <script>

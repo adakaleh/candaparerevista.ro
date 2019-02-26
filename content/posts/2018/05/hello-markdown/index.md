@@ -136,4 +136,4 @@ Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imper
 
 Sau din alt director:
 
-{{< gallery-fotorama "gallery-2" "titlu optional galerie 2">}}
+{{< gallery-fotorama "gallery-2">}}

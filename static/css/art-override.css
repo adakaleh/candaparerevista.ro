@@ -143,15 +143,14 @@
 }
 
 .post-full-content figure figcaption, .fotorama-gallery-title {
-    font-weight: 400;
     font-family: 'Merriweather Sans', sans-serif;
     font-style: italic;
-    color: #3eb0ef;
+    color: rgb(160, 5, 10);
     text-align: center;
     padding: 0 5em;
-    font-size: 1.5rem;
+    font-size: 1.55rem;
     line-height:1.3em;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
 }
 
 /* imagini articol - multi-figure cu caption */
@@ -591,5 +590,10 @@ content-ul va ocupa 100% din latime */
 
 /* galerie fotorama */
 .fotorama {
+    display: none;
     width: 100%;
+}
+
+.post-full-content .fotorama-fallback {
+    margin-bottom: 0;
 }

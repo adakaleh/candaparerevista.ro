@@ -7,6 +7,18 @@
 {{- if not ($.Page.Scratch.Get "fotoramacount") }}<link rel="stylesheet" href="/css/fotorama.css" />{{ end }}
 {{- $.Page.Scratch.Add "fotoramacount" 1 }}
 
+{{/* Noscript fallback - imagini aranjate ca in shortcode-ul figure-multi.html */}}
+<div class="fotorama-fallback figure-gallery">
+  {{ range $files }}
+  {{ $linkURL := print $dirPath "/" .Name | absURL }}
+  <figure>
+    <a href = "{{ $linkURL }}">
+      <img src="{{ $linkURL }}" alt="">
+    </a>
+  </figure>
+  {{ end }}
+</div>
+
 {{/* Vezi http://fotorama.io/customize/ pentru optiuni customizare */}}
 <div class="fotorama"
      data-width="100%"
