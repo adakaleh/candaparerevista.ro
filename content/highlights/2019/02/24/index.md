@@ -1,5 +1,5 @@
 ---
-title: "Retrospectiva săptămânii 17-24 februarie 2019"
+title: "Retrospectiva săptămânii 17-23 februarie 2019"
 type: post
 date: 2019-02-24T08:00:01
 categories:
@@ -50,7 +50,7 @@ Linkuri rapide:
 * [When did cutscenes start looking worse than actual video games?](https://www.theverge.com/2019/2/22/18235914/anthem-cutscenes-low-quality-final-fantasy-cgi) <sup>(The Verge)</sup>
 * [The Video Game Is You: An Approach to Video Game Criticism](https://variety.com/2019/gaming/opinion/how-to-review-video-games-criticism-1203143735/) <sup>(Variety)</sup>
 * [Why read video game reviews?](https://www.videogamer.com/features/why-read-video-game-reviews) <sup>(VideoGamer)</sup>
-
+* [Linux gaming is on a life-support system called Steam](https://www.engadget.com/2019/02/19/linux-gaming-steam-valve-epic-games-store/) <sup>(Engadget)</sup>
 ---
 
 ### Actualitate
