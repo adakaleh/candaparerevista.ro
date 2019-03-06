@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2019/03/review-little-briar-rose-red-dot/</loc>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/03/03/</loc>
     <lastmod>2019-03-03T08:00:01+00:00</lastmod>
   </url>
@@ -2034,7 +2039,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/indie/</loc>
-    <lastmod>2018-12-16T08:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2276,6 +2281,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/linux/</loc>
     <lastmod>2019-01-06T08:00:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/little-briar-rose/</loc>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2761,7 +2772,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2905,7 +2916,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/red_dot/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2983,7 +2994,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3157,7 +3168,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-03-03T08:00:01+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
