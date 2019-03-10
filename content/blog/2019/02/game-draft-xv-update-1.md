@@ -1,6 +1,6 @@
 ---
 title: Game Draft XV
-subtitle: Update 1
+subtitle: Update 1 - Alegeri
 type: blog
 date: '2019-02-24T08:00:00'
 ---

@@ -30,7 +30,8 @@ Linkuri rapide:
 * [Prăvălii de jocuri](#prăvălii-de-jocuri)
 
 
-![](images/coperta-retrospectiva-2019-03-03.jpg)</sup>
+![](images/coperta-retrospectiva-2019-03-03.jpg)
+
 ## Ştiri
 * THQ Nordic au avut nefericita inspirație să organizeze o sesiune AMA (ask me anything) pe forumul 8chan, faimos pentru... chestiile nasoale care se întâmplă pe acolo, cu are în mod normal nicio companie nu ar vrea să se asocieze. Și bineînțeles că toată treaba a reculat puternic și au ajuns la scuze publice și un șuvoi de reacții negative în doar câteva ore. <sup>([Ars Technica](https://arstechnica.com/gaming/2019/02/game-publishers-8chan-stunt-ends-with-apology-about-child-porn-white-supremacy/), [RPS](https://www.rockpapershotgun.com/2019/02/26/thq-nordic-held-a-qa-with-8chan-a-website-de-listed-from-google-for-child-porn/), [Gamasutra](http://www.gamasutra.com/view/news/337513/THQ_Nordic_inexplicably_hosts_AMA_in_a_notorious_internet_cesspool.php), [Eurogamer](https://www.eurogamer.net/articles/2019-02-27-thq-nordic-exec-still-in-job-after-8chan-stunt), [GameDaily.biz](https://gamedaily.biz/article/631/thq-nordic-facing-serious-backlash-after-8chan-ama))</sup>
 * Kinect primește o a doua șansă la viață sub forma unui mic dispozitiv pentru dezvoltatori și cercetători, cu tehnologie împrumutată de la HoloLens. <sup>([PCGamesInsider.biz](https://www.pcgamesinsider.biz/news/68589/the-kinect-is-now-a-400-small-form-pc-peripheral/))</sup>
