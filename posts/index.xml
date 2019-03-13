@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Brother Rabbit</title>
+      <link>https://candaparerevista.ro/posts/2019/03/review-my-brother-rabbit-azad/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/03/review-my-brother-rabbit-azad/</guid>
+      <description>Ce s-ar întâmpla dacă un joc și-ar plasa fundamentul poveștii pe traumele psihologice ale unui copil? Pe mecanismele de coping și construirea unei lumi fantastice unde respectivul copil poate schimba mersul lucrurilor?
+Jocul începe cu un slideshow de picturi în care este expusă premisa: sora mai mică a personajului principal se îmbolnăvește de ceva grav, nu ni se spune ce, și asistăm neputincioși la perindări cu ambulanța, prin spitale și clinici, în timp ce ea este dată pe mâinile doctorilor.</description>
+    </item>
     
     <item>
       <title>Little Briar Rose</title>
@@ -152,20 +162,6 @@ Partea V: Împachetarea finală și resurse suplimentare
  
 Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului.
 Materiale Fiecare obiect din Unreal Engine 4 are la bază un material.</description>
-    </item>
-    
-    <item>
-      <title>Introducere în Unreal Engine 4 (III)</title>
-      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:03 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/</guid>
-      <description>Acest articol e al treilea dintr-o serie de 5 articole. Găsiți aici celelalte părți:
-Partea I: Introducere. Epic Games Launcher
-Partea II: Introducere în Blueprints - nivelul de joc
-Partea IV: Grafică și Audio
-Partea V: Împachetarea finală și resurse suplimentare
- Cum să efectuăm o scădere fatală? În seria de jocuri Half-Life, personajul principal, Gordon Freeman, avea un costum menit să îl protejeze de diverse pericole: radiații, acid, electricitate sau extratereștri.</description>
     </item>
     
   </channel>

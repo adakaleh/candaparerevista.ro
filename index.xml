@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 08:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Brother Rabbit</title>
+      <link>https://candaparerevista.ro/posts/2019/03/review-my-brother-rabbit-azad/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/03/review-my-brother-rabbit-azad/</guid>
+      <description>Ce s-ar întâmpla dacă un joc și-ar plasa fundamentul poveștii pe traumele psihologice ale unui copil? Pe mecanismele de coping și construirea unei lumi fantastice unde respectivul copil poate schimba mersul lucrurilor?
+Jocul începe cu un slideshow de picturi în care este expusă premisa: sora mai mică a personajului principal se îmbolnăvește de ceva grav, nu ni se spune ce, și asistăm neputincioși la perindări cu ambulanța, prin spitale și clinici, în timp ce ea este dată pe mâinile doctorilor.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 3 - 9 martie 2019</title>
@@ -147,17 +157,6 @@ Linkuri rapide:
       
       <guid>https://candaparerevista.ro/posts/2019/02/review-super-smash-bros-ultimate/</guid>
       <description>Aș vrea să încep acest articol pe o notă nostalgică, cum e obiceiul la recenzii pentru jocurile din serii longevive. Însă, la fel ca pentru mulți alți români pasionați de jocuri, contactul meu cu Nintendo înainte de lansarea Switch-ului s-a limitat la butonat și stricat câteva console Terminator - notoria copie după NES - în mijlocul tulburilor ani ‘90. Primul joc din seria Super Smash Bros.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 27 ianuarie - 2 februarie 2019</title>
-      <link>https://candaparerevista.ro/highlights/2019/02/03/</link>
-      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2019/02/03/</guid>
-      <description>Epic Store face din nou valuri, de data aceasta asigurându-și exclusivitatea pentru Metro Exodus, un joc până acum disponibil la vânzare și pe Steam. EA cedează până la urmă și renunță la loot boxes în Belgia, s-a închis Wii Shop Channel, în China există de acum meseria de gamer profesionist și avem și multe (poate prea multe) articole bune de citit.
-
-Ştiri Metro Exodus  Epic Store continuă seria exclusivităților cu Metro Exodus, cu care marchează și o premieră.</description>
     </item>
     
   </channel>
