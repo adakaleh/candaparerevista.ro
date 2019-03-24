@@ -139,6 +139,7 @@ Linkuri rapide:
 * **Mutazione** <sup>([RPS](https://www.rockpapershotgun.com/2019/03/14/mutazione-tells-quiet-tales-in-a-wild-mutated-world/))</sup>
 * **A Year Of Rain** <sup>([GameSpace](https://www.gamespace.com/all-articles/news/year-of-rain-rts/))</sup>
 * **Towers** <sup>([Destructoid](https://www.destructoid.com/multiplayer-monster-climbing-adventure-towers-makes-one-hell-of-an-intro-546455.phtml))</sup>
+* **Stela** <sup>([Niche Gamer](https://nichegamer.com/2019/03/12/halo-infinite-co-dev-announces-new-platformer-stela/))</sup>
 
 ### Acum cu dată de lansare
 * **Photographs**: 3 aprilie <sup>([Games Informer](https://www.gameinformer.com/2019/03/14/photographs-from-the-creator-of-1000000-and-you-must-build-a-boat-releases-in-april))</sup>
