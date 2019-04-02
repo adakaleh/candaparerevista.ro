@@ -7,7 +7,7 @@ categories:
 
 tags: [Retrospectiva săptămânii, GDC, Google Stadia, Unreal Engine, Unity, Steam, Valve, Epic Store, Metro Exodus, Dawn of Man, Grand Theft Auto, Ape Out, Elite Dangerous, Mass Effect, Jason Rohrer, 'Command & Conquer', Overwatch, "No Man's Sky", Oculus Rift, Darklands, Splinter Cell]
 
-description: "GDC 2019 aduce noutăți importante, dintre care cea mai remarcabilă e platforma de game streaming Google Stadia. Epic Store aduce noi schimbări și exclusivități, portări pe PC în premieră de la Quantic Dreams și diverse opinii interesante de la oamenii din industrie. Iar cireașa de pe tortul săptămânii e anunțul că vom primi Vampire: The Masquerade – Bloodlines 2."
+description: "GDC 2019 aduce noutăți importante, dintre care cea mai remarcabilă e platforma de game streaming Google Stadia. Epic Store aduce noi schimbări și exclusivități, portări pe PC în premieră de la Quantic Dreams și diverse opinii interesante de la oamenii din industrie. S-a lansat în sfârști **Sekiro: Shadows Die Twice**, iar cireașa de pe tortul săptămânii e anunțul că vom primi Vampire: The Masquerade – Bloodlines 2."
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
@@ -19,7 +19,7 @@ resources:
     name: "cover-image"
 ---
 
-Game Developers Conference 2019 aduce noutăți importante, dintre care cea mai remarcabilă e platforma de game streaming Google Stadia. Apoi avem un Oculus Rift nou, Epic Store aduce noi schimbări și exclusivități, printre care așteptatul The Outer Worlds, portări pe PC în premieră de la Quantic Dreams, niște demo-uri apetisante de la Unreal și Unity și diverse opinii interesante de la oamenii din industrie. Iar cireașa de pe tortul săptămânii e anunțul că vom primi **Vampire: The Masquerade – Bloodlines 2**.
+Game Developers Conference 2019 aduce noutăți importante, dintre care cea mai remarcabilă e platforma de game streaming Google Stadia. Apoi avem un Oculus Rift nou, Epic Store aduce noi schimbări și exclusivități, printre care așteptatul The Outer Worlds, portări pe PC în premieră de la Quantic Dreams, niște demo-uri apetisante de la Unreal și Unity și diverse opinii interesante de la oamenii din industrie. S-a lansat în sfârști **Sekiro: Shadows Die Twice**, iar cireașa de pe tortul săptămânii e anunțul că vom primi **Vampire: The Masquerade – Bloodlines 2**.
 
 Linkuri rapide:
 
@@ -107,6 +107,7 @@ Linkuri rapide:
 * [The best games of 2019](https://www.theverge.com/2019/3/22/18212341/best-games-2019-xbox-ps4-nintendo-switch-pc-iphone-android) <sup>(The Verge)</sup>
 * [Keep Newcomer-Friendly Sequels Coming](https://www.gameinformer.com/opinion/2019/03/23/keep-newcomer-friendly-sequels-coming) <sup>(Games Informer)</sup>
 * [Games like Celeste and Hellblade show other devs how to get mental illness right](https://www.pcgamesn.com/games-mental-health) <sup>(PCGamesN)</sup>
+* [We Need More Videogame Folklorists](https://www.wired.com/2019/03/geeks-guide-braving-britannia/) <sup>(Wired)</sup>
 
 ---
 
