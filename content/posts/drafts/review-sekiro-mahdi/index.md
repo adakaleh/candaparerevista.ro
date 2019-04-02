@@ -9,6 +9,8 @@ tags:
     - sekiro
     - fromsoftware
 
+draft: true
+
 sursa:
    link:
    text: Articolele Comunității
