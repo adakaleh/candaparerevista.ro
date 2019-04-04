@@ -6,10 +6,19 @@
     <description>Recent content in Indie on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/tags/indie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Return of the Obra Dinn</title>
+      <link>https://candaparerevista.ro/posts/2019/04/review-return-obra-dinn-azad/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/04/review-return-obra-dinn-azad/</guid>
+      <description>Nu am fost niciodată un as al puzzle-urilor sau al genului adventure. Nu jucam jocuri din sfera asta când eram mic și nici nu eram vreun mare împătimit al rezolvatului de mistere. De fapt, când am început să joc adventure mă simțeam nevoit să mă folosesc de walkthroughs frecvent, dintr-o stranie teamă de a mă confrunta cu problemele. De-a lungul timpului am căpătat, în schimb, o adevărată pasiune pentru explorare și mistere și am devenit tot mai însetat de aventuri.</description>
+    </item>
     
     <item>
       <title>My Brother Rabbit</title>
@@ -143,16 +152,6 @@ Puzzle-urile sunt destul de logice, doar cu ocazionale momente mai nebunești ce
       <guid>https://candaparerevista.ro/posts/2018/06/review-convoy-nervozix/</guid>
       <description>Convoy e genul de joc pe care când îl vezi te miri puțin cum de nu a fost făcut mai devreme datorită temei abordate, și luând în considerare stilul vizual retrograd abordat de creatori, am putea crede că este într-adevăr făcut chiar mai devreme – undeva pe la începuturile anilor nouăzeci.
 Prăbușit și eșuat cu nava ta pe o planetă ce pare a fi undeva la marginea coloniilor stelare, pornești pe o suprafață aridă și vastă la cârma unui vehicul masiv flancat de diverse vehicule pentru apărare, căutând piesele necesare pentru repornirea RV-ului tău intergalactic.</description>
-    </item>
-    
-    <item>
-      <title>UnderRail</title>
-      <link>https://candaparerevista.ro/posts/2018/05/review-underrail-tg/</link>
-      <pubDate>Sun, 20 May 2018 20:00:10 +0200</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/05/review-underrail-tg/</guid>
-      <description>M-am gândit dacă să scriu sau nu un articol despre UnderRail, în primă fază am zis că poate impresia mea despre joc e influențată prea tare de faptul că tocmai îl jucasem, dar au trecut cam trei luni și nu s-a schimbat nimic.
-Din 2008 până în 2012 la UnderRail a lucrat predominant o singură persoană, în 2012 a fost lansat ca early-alpha pe diferite platforme digitale de distribuție, iar în 2013 a ajuns și pe Steam early access, pentru ca trei ani mai târziu să scoată în sfârșit capul la iveală și să apară în lista de noi apariții.</description>
     </item>
     
   </channel>
