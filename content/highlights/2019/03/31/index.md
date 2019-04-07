@@ -177,7 +177,8 @@ Linkuri rapide:
 * 26 martie: **Xenon Racer** <sup>([Steam](https://store.steampowered.com/app/899390/Xenon_Racer/))</sup>
 * 26 martie: **Outward** <sup>([Steam](https://store.steampowered.com/app/794260/Outward/))</sup>
 * 26 martie: **Grimshade** <sup>([Steam](https://store.steampowered.com/app/858100/Grimshade/))</sup>
-*  26 martie: **The Walking Dead: The Final Season** (ultimul episod) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/walking-dead-final-season/))</sup>
+* 26 martie: **The Walking Dead: The Final Season** (ultimul episod) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/walking-dead-final-season/))</sup>
+* 26 martie: **Where the Bees Make Honey** <sup>([Steam](https://store.steampowered.com/app/1001640/Where_the_Bees_Make_Honey/))</sup>
 * 28 martie: **WarCraft: Orcs & Humans** și **Warcraft II: Battle.net Edition** relansate pe GOG <sup>([gog.com](https://www.gog.com/game/warcraft_bundle), [Ars Technica](https://arstechnica.com/gaming/2019/03/jobs-done-warcraft-1-2-now-for-sale-on-gog-15-combined/))</sup>
 * 28 martie: **Risk of Rain 2** (early access) <sup>([Steam](https://store.steampowered.com/app/632360/Risk_of_Rain_2/))</sup>
 * 28 martie: **Warparty** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/777770/Warparty/))</sup>
@@ -185,7 +186,6 @@ Linkuri rapide:
 * 29 martie: **Tropico 6** <sup>([Steam](https://store.steampowered.com/app/492720/Tropico_6/))</sup>
 * 29 martie: **Assassin’s Creed III Remastered** <sup>([Ubi Store](https://store.ubi.com/ie/assassin-s-creed-iii-remastered/5c62f61dadc72438053897eb.html))</sup>
 * 30 martie: **Rend** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/547860/Rend/))</sup>
-
 
 ## Prăvălii de jocuri
 
