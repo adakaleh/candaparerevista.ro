@@ -10,11 +10,11 @@ tags:
     - fromsoftware
 
 sursa:
-   link:
+   link: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=2122
    text: Articolele Comunității
-   data:
+   data: 2019-04-08
 
-linkForum:
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=2122
 
 resources:
   - src: images/sekiro-card.jpg
