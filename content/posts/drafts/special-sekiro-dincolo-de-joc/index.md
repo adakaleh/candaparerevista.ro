@@ -1,7 +1,7 @@
 ---
 title: "Sekiro - Dincolo de joc"
 type: post
-date: 2019-04-04
+date: 2019-04-08
 authors: mahdi
 categories:
     - Special
@@ -17,10 +17,10 @@ sursa:
 linkForum:
 
 resources:
-  - src:
+  - src: images/sekiro-card.jpg
     name: "card-cover-image"
 
-  - src:
+  - src: images/sekiro-cover.jpg
     name: "cover-image"
 
 ---
@@ -35,7 +35,7 @@ Această prezență in Sekiro oferă un contrast interesant față de cum este r
 
 În atâta ficțiune japoneză câtă am reușit să consum până acum, prezența lui Buddha are caracteristica unui adevăr etern și imperturbabil. Surâsul lui Buddha rămâne mereu seren în fața tragediilor și încercărilor prin care trec personajele. În general am remarcat la ficțiunea cu teme istorice motivul ăsta. N-o să uit niciodată finalul lui Ran, capodopera lui Kurosawa - o dată ce tragediile și-au aflat deznodământul, ne regăsim printre ruinele unui castel, alături de Tsurumaru, personajul orb și neajutorat. Neavând nicio călăuză, se împiedică și scapă într-o râpă sulul cu pictura lui Buddha încredințat de sora lui. E punctul final în care orice licăr de speranță este pierdut pentru totdeauna.
 
-De altfel, o temă predilectă la japonezi este aceea a decăderii constante a societății și a abaterii de la calea cea „dreaptă”. Acest „nu mai e cum era o dată” e de fapt un sentiment universal, dar așa tradiționaliști cum îi știm, japonezii au perfecționat această artă a melancoliei. O anecdotă hâtră spune că dacă întrebi un bătrân din Kyoto cum mai merg lucrurile, o să îți răspundă că de la război încoace lucrurile n-au mai fost la fel. Și dacă întrebi de al doilea război mondial, o să îți spună că se referea de fapt la războiul Onin, de la 1400 și ceva, care a devastat capitala de atunci a Japoniei.
+De altfel, o temă predilectă la japonezi este aceea a decăderii constante a societății și a abaterii de la calea cea „dreaptă”. Acest „nu mai e cum era odată” e de fapt un sentiment universal, dar așa tradiționaliști cum îi știm, japonezii au perfecționat această artă a melancoliei. O anecdotă hâtră spune că dacă întrebi un bătrân din Kyoto cum mai merg lucrurile, o să îți răspundă că de la război încoace lucrurile n-au mai fost la fel. Și dacă îl întrebi despre al doilea război mondial, o să îți spună că se referea de fapt la războiul Onin, de la 1400 și ceva, care a devastat capitala de atunci a Japoniei.
 
 Într-un astfel de context, figura lui Buddha joacă rolul punctului de referință dintr-un trecut idealizat. Oamenii s-au îndepărtat de la învățăturile sale, au devenit mai egoiști și s-au lăsat cuprinși de patimi. O perspectivă deloc surprinzătoare - numeroasele războaie civile care au frământat Japonia și-au pus amprenta pe imaginarul colectiv. Numeroase temple au ars până în temelii, altele au rămas în paragină, iar aurul a fost jupuit de pe statuile lui Buddha, fără ca sacrilegiile să fie pedepsite.
 
@@ -47,7 +47,7 @@ Sekiro debutează într-o atmosferă similară de resemnare și cinism. Ținutul
 
 Există un loc special în infernul budist, rezervat celor consumați de furie și de setea de sânge. Aceștia devin *shura*, spirite demonice prinse în mrejele unui război etern. În mod figurativ, apelativul de *shura* e aplicat celor care și-au făcut din violența irațională un mod de viață. Fără să intru în detalii spoilerifice, în Sekiro regăsim noțiunea de *shura* atât la figurat cât și la propriu. Aveți grijă ce cale alegeți să urmați.
 
-În cele din urmă, Sekiro nu este un joc religios sau peste măsură de moralist. Conceptele budiste nu îți sunt vârâte în față, ci completează cu subtilitate un ciclu tematic început în Dark Souls. Deși inițial crea impresia un scenariu tipic de salvare a lumii, reaprinderea focului primordial din Dark Souls nu făcea decât să perpetueze ciclul suferinței și decăderii. În Sekiro intriga nu mai ține de salvarea lumii, ci de loialitatea față de lordul tău. Aceasta va fi pusă la încercare de către felurite personaje al căror punct comun este aceeași încăpățânare futilă în a-și prelungi existența prin mijloace nenaturale. Fie că intenția lor este bună sau malefică, eforturile lor nu aduc decât și mai multă suferință. Încă o dată, jucătorul va fi agentul care va putea fie să curme acest cerc vicios, fie să se lase prins cu totul în ghearele sale, amplificându-l.
+În cele din urmă, Sekiro nu este un joc religios sau peste măsură de moralist. Conceptele budiste nu îți sunt vârâte în față, ci completează cu subtilitate un ciclu tematic început în Dark Souls. Deși inițial crea impresia unui scenariu tipic de salvare a lumii, reaprinderea focului primordial din Dark Souls nu făcea decât să perpetueze ciclul suferinței și decăderii. În Sekiro intriga nu mai ține de salvarea lumii, ci de loialitatea față de lordul tău. Aceasta va fi pusă la încercare de către felurite personaje al căror punct comun este aceeași încăpățânare futilă în a-și prelungi existența prin mijloace nenaturale. Fie că intenția lor este bună sau malefică, eforturile lor nu aduc decât și mai multă suferință. Încă o dată, jucătorul va fi agentul care va putea fie să curme acest cerc vicios, fie să se lase prins cu totul în ghearele sale, amplificându-l.
 
 {{< figure  src="images/sekiro-temple.jpg" >}}
 
@@ -87,10 +87,10 @@ Cei de la FromSoftware s-au lăsat mânați de acest spirit peisagistic când au
     "images/sekiro-landscape-1.jpg|"
     "images/sekiro-landscape-2.jpg|" >}}
 
-Revenind la lună, poate că nu este tocmai întâmplător că Sekiro debutează într-un astfel de cadru nocturn. Duelul de la finalul secvenței de început are loc în condiții foarte asemănătoare cu cel de la finalul lui Bloodborne: un câmp de plante unduindu-se sub lumina spectrală a lunii pline. Poate că citesc prea mult printre rânduri, dar îmi este clar că această similaritate punctează locul lui Sekiro în panoplia de jocuri FromSoftware. Unde se încheie Soulsborne, începe Sekiro. Și, la fel cum protagonistul își pierde brațul în această confruntare, și noi va trebui să o luăm aproape de la zero în această nouă aventură, în care multe lucruri nu mai sunt cum le știam.
+Revenind la lună, poate că nu este tocmai întâmplător că Sekiro debutează într-un astfel de cadru nocturn. Duelul de la finalul secvenței de început are loc în condiții foarte asemănătoare cu cel de la finalul lui Bloodborne: un câmp de plante unduindu-se sub lumina spectrală a lunii pline. Poate că citesc prea mult printre rânduri, dar îmi este clar că această similaritate punctează locul lui Sekiro în panoplia de jocuri FromSoftware. Unde se încheie Soulsborne, începe Sekiro. Și, la fel cum protagonistul își pierde brațul în această confruntare și trebuie să reînvețe să lupte, și noi va trebui să lăsăm în urmă ce am învățat în Dark Souls înainte de a pleca în această nouă aventură.
 
 ### În încheiere
 
 La fel ca jocurile din seria Soulsborne, Sekiro nu este foarte „vorbăreț” - accentul se pune mai mult pe acțiune și gameplay și mai puțin pe secvențe cinematice și lore dumps. Are totuși mai multe de spus decât lasă impresia și mă aștept să văd și pentru el nenumărate video-uri și articole care despică firul în patru despre lumea pe care o creează.
 
-Data viitoare voi vorbi mai mult despre joc și mai puțin despre poveștile din spatele lui, dar cine știe ce revelații îmi rezervă în continuare. Poate vom avea și o partea a doua a acestui text. ■
+Data viitoare voi vorbi mai mult despre joc și mai puțin despre poveștile din spatele lui, dar cine știe ce revelații îmi rezervă în continuare. ■
