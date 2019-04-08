@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sekiro - Dincolo de joc</title>
+      <link>https://candaparerevista.ro/posts/2019/04/special-sekiro-dincolo-de-joc/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/04/special-sekiro-dincolo-de-joc/</guid>
+      <description>Au trecut două săptămâni de când am primit o copie pentru review de la reprezentanța românească a Activision. Recenzia e în curs de scriere, dar va mai dura puțin până vom avea verdictul final pe site. Asta în principal pentru că nu am terminat încă Sekiro; după cum veți citi în review, e genul de experiență de joc care nu poate fi forțată așa de ușor.</description>
+    </item>
     
     <item>
       <title>Return of the Obra Dinn</title>
@@ -141,20 +150,6 @@ Lansat imediat după originalul Stronghold, este un spin-off plasat în estul mi
       <guid>https://candaparerevista.ro/posts/2018/11/recomandare-superflight-cristan/</guid>
       <description>Superflight este un „simulator” de costum cu aripă (wingsuit), care te lasă să zbori în voie în jurul unor stânci colorate. Nu este un simulator adevărat, dar redă foarte bine senzația de zbor și viteză și, în plus, poți zbura la nesfârșit.
 Grafica e simplă și colțuroasă, după cum veți vedea, este absolut suficientă, iar paleta de culori și lumina creează o atmosferă foarte plăcută. Nivelurile sunt generate aleatoriu, iar în fiecare nivel se găsesc portaluri către alte niveluri, putând schimba astfel peisajul și, practic, se poate zbura la nesfârșit.</description>
-    </item>
-    
-    <item>
-      <title>Introducere în Unreal Engine 4 (V)</title>
-      <link>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:05 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/</guid>
-      <description>Acest articol e ultimul dintr-o serie de 5 articole. Găsiți aici celelalte părți:
-Partea I: Introducere. Epic Games Launcher
-Partea II: Introducere în Blueprints - nivelul de joc
-Partea III: Introducere în Blueprints - personajele
-Partea IV: Grafică și Audio
- Împachetarea finală Acum, că am terminat dezvoltarea jocului, îl putem împacheta într-un fișier executabil, însă, înainte de asta trebuie să facem câteva modificări.</description>
     </item>
     
   </channel>
