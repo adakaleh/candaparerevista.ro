@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2019/04/carti-1q84-triggerix/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/coperti-04/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url>
@@ -1364,6 +1369,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/categories/c%C4%83r%C8%9Bi/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/daedalic/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1830,6 +1841,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/fic%C8%9Biune/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/fifa/</loc>
     <lastmod>2019-02-24T08:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -2136,6 +2153,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/harlan-ellison/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/haruki-murakami/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3084,7 +3107,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3492,7 +3515,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4037,6 +4060,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/town-of-salem/</loc>
     <lastmod>2019-01-06T08:00:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/authors/triggerix/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
