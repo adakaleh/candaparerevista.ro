@@ -27,6 +27,6 @@ Ei bine, acum trei zile, după o pauză îndelungată de la abuzurile care erau 
 
 N-am mai așteptat să ajung acasă, ci am deschis cutia pe drum și, cu lacrămi în ochi, aproape am căzut în genunchi sub un stîlp de iluminat public, convins că sunt părtaș la o minune.
 
-În cutia parcă mai voluminoasă decît mi-o aduceam eu aminte, sălășuiau 30 de comprimate masticabile aranjate regulamentar în trei folii de plastic și aluminiu. Trei! ■
+În cutia parcă mai voluminoasă decît mi-o aduceam eu aminte, sălășluiau 30 de comprimate masticabile aranjate regulamentar în trei folii de plastic și aluminiu. Trei! ■
 
 {{< figure  src="images/cockaigne.jpg" caption="Țara trîndavilor (Pieter Bruegel ăl Bătrîn, 1567)" >}}
