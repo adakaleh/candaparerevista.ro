@@ -6,10 +6,19 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 7 - 13 aprilie 2019</title>
+      <link>https://candaparerevista.ro/highlights/2019/04/14/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2019/04/14/</guid>
+      <description>A fost anunțat, în sfârșit, Star Wars Jedi: Fallen Order, Rockstar își încheie socotelile cu Pinkertonii, un AI șterge pe jos cu campionii mondiali de Dota 2, iar rețelele sociale nu vor să facă reclamă la (jocul cu) marijuana. Plus, ca în fiecare săptămână, avem mult material de citit despre Sekiro: Shadows Die Twice (încă), Outward, Metal Gear Solid, Dune, The Walking Dead, Alpha Centauri și&amp;hellip; Windows 3.</description>
+    </item>
     
     <item>
       <title>Revistele lunii aprilie 2019</title>
@@ -150,15 +159,6 @@ Linkuri rapide:
       <description>O săptămână cu evenimente mai puține, dar însemnate. Chestionarul GDC ia pulsul dezvoltatorilor de jocuri, A.I.-ul dezvoltat de Google să joace StarCraft II e acum suficient de capabil încât să învingă jucători profesioniști, vom avea competiții cu premii pentru Farming Simulator și, desigur, Capcom lansează remake-ul pentru Resident Evil 2 care e foarte bine primit.
 
 Ştiri  Netflix continuă șirul adaptărilor după jocuri video cu o producție bazată pe seria Resident Evil.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 13-19 ianuarie 2019</title>
-      <link>https://candaparerevista.ro/highlights/2019/01/20/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2019/01/20/</guid>
-      <description>Aflăm săptămâna aceasta că agenția Pinkerton încă există și dau în judecată Rockstar pentru că le-au folosit „imaginea” în Red Dead Redemption II. Investitorii Activision-Blizzard încearcă să afle dacă despărțirea de Bungie a fost rezultatul unei fraude, Unity revine la sentimente mai bune față de Improbable, iar clasificarea PEGI va include și avertismente privind cumpărăturile pe bani reali. Avem și un rezumat al speedrun-urilor de la AGDQ 2019, un sumar detaliat al schimbărilor care au venit și urmează să vină la Steam și o retrospectivă a ce înseamnă GOG.</description>
     </item>
     
   </channel>
