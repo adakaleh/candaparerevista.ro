@@ -182,6 +182,7 @@ Linkuri rapide:
 * 28 martie: **WarCraft: Orcs & Humans** și **Warcraft II: Battle.net Edition** relansate pe GOG <sup>([gog.com](https://www.gog.com/game/warcraft_bundle), [Ars Technica](https://arstechnica.com/gaming/2019/03/jobs-done-warcraft-1-2-now-for-sale-on-gog-15-combined/))</sup>
 * 28 martie: **Risk of Rain 2** (early access) <sup>([Steam](https://store.steampowered.com/app/632360/Risk_of_Rain_2/))</sup>
 * 28 martie: **Warparty** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/777770/Warparty/))</sup>
+* 28 martie: **The World Next Door** <sup>([Steam](https://store.steampowered.com/app/755470/The_World_Next_Door/))</sup>
 * 29 martie: **Unheard** <sup>([Steam](https://store.steampowered.com/app/942970/Unheard/))</sup>
 * 29 martie: **Tropico 6** <sup>([Steam](https://store.steampowered.com/app/492720/Tropico_6/))</sup>
 * 29 martie: **Assassin’s Creed III Remastered** <sup>([Ubi Store](https://store.ubi.com/ie/assassin-s-creed-iii-remastered/5c62f61dadc72438053897eb.html))</sup>
