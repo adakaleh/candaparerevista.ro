@@ -79,6 +79,7 @@ Linkuri rapide:
 * [Journey to the Mother-Tongue](https://medium.com/mammon-machine-zeal/journey-to-the-mother-tongue-c36957161abe) <sup>(Medium)</sup>
 * [Historians discuss Return of the Obra Dinn](http://www.gamasutra.com/blogs/BobWhitaker/20190408/340278/Historians_discuss_Return_of_the_Obra_Dinn.php) <sup>(Gamasutra)</sup>
 * [My Darling Clementine: The End of Telltale and The Walking Dead](https://www.pastemagazine.com/articles/2019/04/my-darling-clementine-the-end-of-telltale-and-the.html) <sup>(Paste Magazine)</sup>
+* [Sekiro - Dincolo de joc](https://candaparerevista.ro/posts/2019/04/special-sekiro-dincolo-de-joc/) <sup>(Cand Apare Revista)</sup>
 
 ---
 
