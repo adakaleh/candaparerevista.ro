@@ -186,6 +186,7 @@ Linkuri rapide:
 * 29 martie: **Unheard** <sup>([Steam](https://store.steampowered.com/app/942970/Unheard/))</sup>
 * 29 martie: **Tropico 6** <sup>([Steam](https://store.steampowered.com/app/492720/Tropico_6/))</sup>
 * 29 martie: **Assassin’s Creed III Remastered** <sup>([Ubi Store](https://store.ubi.com/ie/assassin-s-creed-iii-remastered/5c62f61dadc72438053897eb.html))</sup>
+* 29 martie: **Unheard** <sup>([Steam](https://store.steampowered.com/app/942970/Unheard/))</sup>
 * 30 martie: **Rend** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/547860/Rend/))</sup>
 
 ## Prăvălii de jocuri

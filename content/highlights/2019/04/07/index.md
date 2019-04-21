@@ -160,6 +160,7 @@ Linkuri rapide:
 * **Borderlands 3**: 13 septembrie <sup>([Ars Technica](https://arstechnica.com/gaming/2019/04/borderlands-3-is-the-next-big-epic-game-store-exclusive/))</sup>
 
 ### Lansate
+* 31 martie: **Annwn: The Otherworld** <sup>([Steam](https://store.steampowered.com/app/770860/Annwn_the_Otherworld/))</sup>
 * 1 aprilie: **Totally Accurate Battle Simulator** (early access) <sup>([Steam](https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/))</sup>
 * 2 aprilie: **The 7th Guest: 25th Anniversary Edition** <sup>([Steam](https://store.steampowered.com/app/1044340/The_7th_Guest_25th_Anniversary_Edition/), [gog.com](https://www.gog.com/game/the_7th_guest_25th_anniversary_edition))</sup>
 * 2 aprilie: **Serious Sam: Tormental** (early access) <sup>([Steam](https://store.steampowered.com/app/640340/Serious_Sam_Tormental/))</sup>
