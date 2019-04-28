@@ -47,7 +47,7 @@ Linkuri rapide:
 * Și câteva știri din zona filmelor și serialelor:
   * Serialul Halo produs de Showtime l-a distribuit pe Pablo Schreiber în rolul lui Master Chief. <sup>([Shacknews](https://www.shacknews.com/article/111288/halo-showtime-series-to-star-pablo-schreiber-as-master-chief), [PC Gamer](https://www.pcgamer.com/showtimes-halo-series-has-found-its-master-chief-and-its-this-guy/), [The Hollywood Reporter](https://www.hollywoodreporter.com/live-feed/showtimes-halo-casts-pablo-schreiber-as-master-chief-1202661), [Variety](https://variety.com/2019/tv/news/halo-series-showtime-pablo-schreiber-master-chief-1203191695/))</sup>
   * Serialul Witcher produs de Netflix va fi lansat la sfârșitul anului. <sup>([PC Gamer](https://www.pcgamer.com/the-witcher-netflix-series-is-coming-in-late-2019/), [Eurogamer](https://www.eurogamer.net/articles/2019-04-17-netflix-says-its-witcher-television-series-will-be-out-at-the-end-of-this-year))</sup>
-  * Filmul Minecraft va fi lansat în 2022 <sup>([Polygon](https://www.polygon.com/2019/4/17/18412638/minecraft-movie-release-date-director-mojang), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2019-04-18-mojang-sets-march-2022-date-for-minecraft-movie-premiere))</sup>
+  * Filmul Minecraft va fi lansat în 2022. <sup>([Polygon](https://www.polygon.com/2019/4/17/18412638/minecraft-movie-release-date-director-mojang), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2019-04-18-mojang-sets-march-2022-date-for-minecraft-movie-premiere))</sup>
 
 ## Articole (critică, dev, design)
 
