@@ -171,6 +171,7 @@ Linkuri rapide:
 * 4 aprilie: **MarZ: Tactical Base Defense** (early access) <sup>([Steam](https://store.steampowered.com/app/682530/MarZ_Tactical_Base_Defense/))</sup>
 * 5 aprilie: **Supraland** (early access) <sup>([Steam](https://store.steampowered.com/app/813630/Supraland/))</sup>
 * 5 aprilie: **notmycar** (early access) <sup>([Steam](https://store.steampowered.com/app/694720/notmycar/))</sup>
+* 5 aprilie: **Feather** <sup>([Steam](https://store.steampowered.com/app/545040/Feather/))</sup>
 
 ## Prăvălii de jocuri
 
