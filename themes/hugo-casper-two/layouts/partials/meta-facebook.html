@@ -22,6 +22,9 @@
 
 {{if .Params.image }}
     <meta property="og:image" content="{{ .Params.image | absURL}}"/>
+{{else if .Resources.GetMatch "feature-image"}}
+    {{ $image := .Resources.GetMatch "feature-image"}}
+      <meta property="og:image" content="{{ $image.Permalink}}"/>
 {{else if .Resources.GetMatch "cover-image"}}
     {{ $image := .Resources.GetMatch "cover-image"}}
       <meta property="og:image" content="{{ $image.Permalink}}"/>

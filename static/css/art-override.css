@@ -27,6 +27,18 @@
     margin-bottom: 1vw;
 }
 
+/* (sectiune titlu articol pentru featured) */
+html body.post-template div.site-wrapper main#site-main.site-main.outer div.inner article.post-full.posts.post header.post-full-header.featured {
+    position: relative;
+    z-index: 50;
+    padding: 20vh 3vh 30vh 3vh;
+    color: white;
+}
+
+.featured a, .featured h1 {
+    color: white;
+}
+
 .post-full-categories {
     text-transform:uppercase;
     text-align:center;
@@ -57,14 +69,23 @@
     border-bottom: 1px solid #090a0b;
 }
 
+.featured .post-full-meta {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
 .post-full-meta {
     padding: 0.5em 0;
     margin: 2em 0 0;
     font-weight: 300;
 }
 
-.post-full-meta-date, .post-full-meta-author {
+.post-full-meta-date:not(.featured), .post-full-meta-author:not(.featured) {
     color: #090a0b;
+}
+
+.featured .post-full-meta-date, .featured .post-full-meta-author, .featured .post-full-meta-author a  {
+    color: white;
 }
 
 .post-full-meta-author {
@@ -86,13 +107,23 @@
 }
 
 /* imagine principala */
-.post-full-image {
+.post-full-image:not(.featured) {
     /*margin:0 -10vw -100px;*/
     margin: 0 -2vw -2vw;
     /* height:600px; */
     min-height: 30vh;
     height: 55vh;
     border-radius: 0;
+}
+
+/* imagine principala featured */
+html body.post-template div.site-wrapper main#site-main.site-main.outer div.inner article.post-full.posts.post figure.post-full-image.featured  {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 80vh;
+    background-position: center top;
 }
 
 /* umbra stanga si dreapta de la suprapunerea articolui peste main image */

@@ -138,6 +138,17 @@ Imaginea principală (cover), care va apărea pe card şi la începutul articolu
 ~~~
 Dacă lipsește, pe carduri va fi afișată o imagine aleasă la întâmplare din setul de imagini default, iar în articol nu va fi afișat nimic.
 
+### Feature image
+Pentru articolele pe care vrem să le scoatem în evidență mai mult, putem specifica o imagine mai mare, astfel:
+* în front matter se adaugă parametrul `featured: true`
+* la resurse se adaugă calea către imaginea mare:
+~~~
+  resources :
+    - src: "images/image-2.jpg"
+      name: "feature-image"
+~~~
+Atenție: dacă se păstrează și resursa pentru "cover-image", imaginile trebuie să fie diferite, altfel nu pot fi găsite două resurse diferite care indică către același fișier de imagine.
+
 ### Redimensionare imagini
 Toate imaginile recunoscute ca page resources (aflate într-un bundle cu structura de mai sus) pot fi citite separat, iar imaginile pot fi și redimensionate astfel:
 ~~~
