@@ -1,6 +1,12 @@
 {{$isBlogPage := eq .Section "blog"}}
 {{$blogPostCssClass := cond $isBlogPage "blog" "" }}
 
+
+{{/* TODO improve this */}}
+{{$featureImage := .Resources.GetMatch "feature-image"}}
+{{$isFeatured := (and (eq .Params.featured true) $featureImage) }}
+{{$featuredCssClass := cond (not (eq $isFeatured false)) "featured" "" }}
+
 <article class="post-full {{ .Section }} post">
     {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
     {{$authorName := $author.name  }}
@@ -8,8 +14,8 @@
     {{$authorDescription := $author.description }}
     {{$authorWebsite := $author.website }}
 
-    {{/* ----- Imagine principală articol ----- */}}
-    <header class="post-full-header">
+    {{/* ----- Header articol (titlu, subtitlu, dată și autor) ----- */}}
+    <header class="post-full-header {{$featuredCssClass}}">
         {{with .Params.categories }}
             <div class="post-full-categories">
                 {{ range $index, $categ := . }}
@@ -34,7 +40,11 @@
     </header>
 
     {{/* ----- Imagine principală articol ----- */}}
-    {{if .Params.image}}
+    {{ if $isFeatured }}
+
+        <figure class="post-full-image {{$featuredCssClass}}" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url({{ $featureImage.Permalink }})"></figure>
+
+    {{else if .Params.image}}
         <figure class="post-full-image" style="background-image: url({{.Params.image | absURL }})"></figure>
 
     {{else}}

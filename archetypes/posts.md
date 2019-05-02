@@ -23,6 +23,11 @@ date: {{ .Date }}
 # Daca autorul explicit lipseşte, autorul va fi cel default, adica site-ul
 authors: 
 
+# (optional) se specifica daca vrem sa afisam o imagine mai mare pentru coperta
+# articolului; trebuie specificata si o imagine la resurse (vezi mai jos) pentru
+# a avea efect
+featured: true
+
 # (optional) listă de forma `categories: ["cat1", "cat2", "cat3"]`
 # sau
 # `categories:`
@@ -79,9 +84,9 @@ linkForum:
 
 
 # (optional, recomandat) calea către imaginea articolului, relativ la directorul articolului:
-# - pentru card, va fi căutată una dintre cele două imagini, în ordina de mai jos, sau, 
+# - pentru card, va fi căutată una dintre cele două imagini (card sau cover), în ordinea de mai jos, sau,
 #   dacă lipsește, va fi înlocuită cu o imagine generică;
-# - pentru imaginea principală a articolului, va fi căutată doar imaginea "cover-image"
+# - pentru imaginea principală a articolului, va fi căutată imaginea "feature-image" apoi "cover-image"
 # Se completează doar src astfel: `src: "images/coperta.jpg"`
 resources:
   - src: 
@@ -90,6 +95,8 @@ resources:
   - src: 
     name: "cover-image"
 
+  - src:
+    name: "feature-image"
 ---
 
 _(conținutul tău aici)_
