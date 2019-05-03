@@ -5,6 +5,7 @@ date: 2019-05-03
 authors: mahdi
 categories:
     - Review
+featured: true
 tags:
     - sekiro
     - fromsoftware
@@ -21,7 +22,7 @@ resources:
     name: "card-cover-image"
 
   - src: images/sekiro-cover.jpg
-    name: "cover-image"
+    name: "feature-image"
 
 casetaTehnica:
   concluzie: "Sekiro este un alt joc excepțional marca FromSoftware. Puneți mâna pe el dacă sunteți în căutarea unui joc cu atmosferă deosebită și nu vă temeți de provocări."
