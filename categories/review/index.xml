@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sekiro: Shadows Die Twice</title>
+      <link>https://candaparerevista.ro/posts/2019/05/review-sekiro/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/05/review-sekiro/</guid>
+      <description>Bătrânul cioplește fără încetare în templul părăsit. Între două boluri de sake îmi mărturisește că, oricât ar încerca să cioplească un Buddha, din mâini îi ies doar încarnări ale furiei. Printre scândurile templului se întrezărește prima ninsoare a anului. Îmi vine să mă așez și eu lângă el să îmi încerc destoinicia cu blocurile de lemn, dar știu că după atâtea morți - și ale mele, și ale lor - din dalta mea tot idoli schimonosiți de furie se vor naște.</description>
+    </item>
     
     <item>
       <title>Pyre</title>
@@ -138,16 +147,6 @@ Modul în care percepem timpul a fost subiect de joacă pentru multe titluri, de
       
       <guid>https://candaparerevista.ro/posts/2018/09/review-contradiction-spot-the-liar-zombie/</guid>
       <description>Văzându-l pe Northernlion luându-l la puricat recent, am decis să încerc şi eu Contradiction: Spot The Liar!, iar dacă tot l-am terminat m-am gândit că nu i-ar strica un mic review aici. Jocul lansat de Baggy Cat în 2015 este un FMV detective adventure game finanțat parțial de o campanie pe Kickstarter de dimensiuni nu foarte impresionante, numai 4500 de euro. Căutând mai multe detalii despre companie nu am găsit mare lucru, Contradiction fiind singura lor producție notabilă.</description>
-    </item>
-    
-    <item>
-      <title>Bounty Train</title>
-      <link>https://candaparerevista.ro/posts/2018/09/review-bounty-train-michilangelo/</link>
-      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/09/review-bounty-train-michilangelo/</guid>
-      <description>Am o prietenă care îmi tot zice că sunt hater, că nimic nu-mi place. Eu îi răspund că nu-s, doar am standarde înalte.
-În cazul de față, aceste standarde înalte se traduc prin faptul că dacă nu vorbeam cu Cristan că o să scriu despre joc, nu aș fi dus niciodată Bounty Train până la capăt, darămite să mă mai chinui și cu un DLC. Nu mă înțelegeți greșit, jocul nu e rău.</description>
     </item>
     
   </channel>
