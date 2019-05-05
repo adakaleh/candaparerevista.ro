@@ -140,7 +140,10 @@ Linkuri rapide:
 * 25 aprilie: **Yuppie Psycho** <sup>([Steam](https://store.steampowered.com/app/597760/Yuppie_Psycho/))</sup>
 * 25 aprilie: **SteamWorld Quest** (Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/steamworld-quest-hand-of-gilgamech-switch/))</sup>
 * 25 aprilie: **Imperator: Rome** <sup>([Steam](https://store.steampowered.com/app/859580/Imperator_Rome/), [gog.com](https://www.gog.com/game/imperator_rome))</sup>
+* 25 aprilie: **Dark Devotion** <sup>([Steam](https://store.steampowered.com/app/718590/Dark_Devotion/), [gog.com](https://www.gog.com/game/dark_devotion))</sup>
+* 26 aprilie: **Lorelai** <sup>([Steam](https://store.steampowered.com/app/593960/Lorelai/))</sup>
 * 26 aprilie: **Days Gone** (PlayStation 4) <sup>([PlayStation Store](https://store.playstation.com/en-us/product/UP9000-CUSA08966_00-DAYSGONECOMPLETE))</sup>
+* 26 aprilie: **Himno** <sup>([Steam](https://store.steampowered.com/app/931690/Himno/))</sup>
 
 ## Prăvălii de jocuri
 
