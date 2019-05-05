@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 28 aprilie - 4 mai 2019</title>
+      <link>https://candaparerevista.ro/highlights/2019/05/05/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2019/05/05/</guid>
+      <description>Valve își prezintă headset-ul VR, Epic Games cumpără Rocket League, Steam ajunge la 1 miliard de conturi, Notch nu a fost invitat la aniversarea de 10 ani a Minecraft, se vorbește în continuare și de crunch-ul de la NetherRealm, Ubisoft încearcă să elimine reseller-ii de jocuri, apare un serviciu de streaming pentru jocuri retro și apare și un nou joc Earthworm Jim, exclusiv pe viitoarea retro-consolă Intellivision.</description>
+    </item>
     
     <item>
       <title>Sekiro: Shadows Die Twice</title>
@@ -138,15 +147,6 @@
       
       <guid>https://candaparerevista.ro/highlights/2019/03/24/</guid>
       <description>Game Developers Conference 2019 aduce noutăți importante, dintre care cea mai remarcabilă e platforma de game streaming Google Stadia. Apoi avem un Oculus Rift nou, Epic Store aduce noi schimbări și exclusivități, printre care așteptatul The Outer Worlds, portări pe PC în premieră de la Quantic Dreams, niște demo-uri apetisante de la Unreal și Unity și diverse opinii interesante de la oamenii din industrie. S-a lansat în sfârști Sekiro: Shadows Die Twice, iar cireașa de pe tortul săptămânii e anunțul că vom primi Vampire: The Masquerade – Bloodlines 2.</description>
-    </item>
-    
-    <item>
-      <title>Game Draft XV</title>
-      <link>https://candaparerevista.ro/blog/2019/03/game-draft-xv-update-3/</link>
-      <pubDate>Sun, 24 Mar 2019 08:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2019/03/game-draft-xv-update-3/</guid>
-      <description>&lt;p&gt;Jocul a luat sfârșit. Finala cea mare (și singura) &lt;a href=&#34;https://forum.candaparerevista.ro/viewtopic.php?f=59&amp;amp;t=2107&#34;&gt;s-a desfășurat&lt;/a&gt; între Azad și TG, cu listele de mai jos:&lt;/p&gt;</description>
     </item>
     
   </channel>

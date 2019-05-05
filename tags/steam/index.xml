@@ -6,10 +6,19 @@
     <description>Recent content in Steam on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/tags/steam/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 28 aprilie - 4 mai 2019</title>
+      <link>https://candaparerevista.ro/highlights/2019/05/05/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2019/05/05/</guid>
+      <description>Valve își prezintă headset-ul VR, Epic Games cumpără Rocket League, Steam ajunge la 1 miliard de conturi, Notch nu a fost invitat la aniversarea de 10 ani a Minecraft, se vorbește în continuare și de crunch-ul de la NetherRealm, Ubisoft încearcă să elimine reseller-ii de jocuri, apare un serviciu de streaming pentru jocuri retro și apare și un nou joc Earthworm Jim, exclusiv pe viitoarea retro-consolă Intellivision.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 31 martie - 6 aprilie 2019</title>
@@ -148,16 +157,6 @@ Linkuri rapide:
       <guid>https://candaparerevista.ro/highlights/2018/2018.08.12/</guid>
       <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1 )
  Ştiri  Arkane vor lua o pauză de la Dishonored și Prey și vor „explora” experiențe multiplayer (VG247) THQ Nordic a achiziționat drepturile pentru trilogia de jocuri Timesplitters (THQ Nordic, Polygon) Se pare că Valve lucrează în culise la dezvoltarea unui toolset care să permită jocurilor făcute pentru Windows să ruleze pe Linux (VG247, Ars Technica) Valve lucrează și la Steam.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 5 - 11 august 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.08.05/</link>
-      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.08.05/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1 )
- Ştiri  Discord anunță The Discord Store. (Discord app blog) Blizzard confirmă oficial că are în lucru mai multe proiecte legate de Diablo.</description>
     </item>
     
   </channel>
