@@ -33,6 +33,10 @@ resources:
 
 > **"Revistele lunii"** este rubrica lunară în care ne uităm la chioșcul virtual cu reviste de jocuri din lumea întreagă, cât încă mai există. Avem coperți, cu link către sursă.
 
+Linkuri rapide:
+
+[LEVEL](#level) | [Game Informer](#game-informer-sua) | [PC Gamer](#pc-gamer-uk) | [EDGE](#edge-uk) | [RetroGamer](#retro-gamer-uk) | [PC Guru](#pc-guru-ungaria) | [The Games Machine](#the-games-machine-italia) | [Pelit](#pelit-finlanda) | [Pelaaja](#pelaaja-finlanda) | [Hobby Consolas](#hobby-consolas-spania) | [Power Unlimited](#power-unlimited-olanda) | [PC Games](#pc-games-germania) | [Wireframe](#wireframe-marea-britanie) | [CanardPC](#canardpc-franta)
+
 ## LEVEL (Cehia & Turcia)
 
 ### [LEVEL (Cehia) (#)](http://www) | [LEVEL (Turcia), xxx 2019 (#)](https://www)
@@ -150,3 +154,11 @@ resources:
 >}}
 
 (Varianta digitală e gratuită, aveți link de download pe pagina fiecărei ediții)
+
+## CanardPC (Franta)
+
+### [XXX 2019](http://www) (#)
+
+{{< figure-multi-ext
+    "images/|https://www|"
+>}}
