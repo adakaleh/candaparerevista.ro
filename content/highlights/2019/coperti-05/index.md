@@ -33,7 +33,7 @@ resources:
 
 Linkuri rapide:
 
-[LEVEL](#level) | [Game Informer](#game-informer-sua) | [PC Gamer](#pc-gamer-uk) | [EDGE](#edge-uk) | [RetroGamer](#retro-gamer-uk) | [PC Guru](#pc-guru-ungaria) | [The Games Machine](#the-games-machine-italia) | [Pelit](#pelit-finlanda) | [Pelaaja](#pelaaja-finlanda) | [Hobby Consolas](#hobby-consolas-spania) | [Power Unlimited](#power-unlimited-olanda) | [PC Games](#pc-games-germania) | [Wireframe](#wireframe-marea-britanie) | [CanardPC](#canardpc-franta)
+[LEVEL](#level) | [Game Informer](#game-informer-sua) | [PC Gamer](#pc-gamer-uk) | [EDGE](#edge-uk) | [RetroGamer](#retro-gamer-uk) | [PC Guru](#pc-guru-ungaria) | [The Games Machine](#the-games-machine-italia) | [Pelit](#pelit-finlanda) | [Pelaaja](#pelaaja-finlanda) | [Hobby Consolas](#hobby-consolas-spania) | [Power Unlimited](#power-unlimited-olanda) | [PC Games](#pc-games-germania) | [Wireframe](#wireframe-marea-britanie) | [Canard PC](#canard-pc-franta)
 
 ## LEVEL
 
@@ -155,7 +155,7 @@ Ediţia normală şi ediţia pentru abonaţi:
 
 (Varianta digitală e gratuită, aveți link de download pe pagina fiecărei ediții)
 
-## CanardPC (Franta)
+## Canard PC (Franța)
 
 ### [Mai 2019](https://www.canardpc.com/numero/394) (#394) | [Aprilie 2019](https://www.canardpc.com/numero/393) (#393) | [Martie 2019](https://www.canardpc.com/numero/392) (#392) | [Februarie 2019](https://www.canardpc.com/numero/391) (#391) | [Ianuarie 2019](https://www.canardpc.com/numero/390) (#390)
 

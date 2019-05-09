@@ -35,7 +35,7 @@ resources:
 
 Linkuri rapide:
 
-[LEVEL](#level) | [Game Informer](#game-informer-sua) | [PC Gamer](#pc-gamer-uk) | [EDGE](#edge-uk) | [RetroGamer](#retro-gamer-uk) | [PC Guru](#pc-guru-ungaria) | [The Games Machine](#the-games-machine-italia) | [Pelit](#pelit-finlanda) | [Pelaaja](#pelaaja-finlanda) | [Hobby Consolas](#hobby-consolas-spania) | [Power Unlimited](#power-unlimited-olanda) | [PC Games](#pc-games-germania) | [Wireframe](#wireframe-marea-britanie) | [CanardPC](#canardpc-franta)
+[LEVEL](#level) | [Game Informer](#game-informer-sua) | [PC Gamer](#pc-gamer-uk) | [EDGE](#edge-uk) | [RetroGamer](#retro-gamer-uk) | [PC Guru](#pc-guru-ungaria) | [The Games Machine](#the-games-machine-italia) | [Pelit](#pelit-finlanda) | [Pelaaja](#pelaaja-finlanda) | [Hobby Consolas](#hobby-consolas-spania) | [Power Unlimited](#power-unlimited-olanda) | [PC Games](#pc-games-germania) | [Wireframe](#wireframe-marea-britanie) | [CanardPC](#canard-pc-franta)
 
 ## LEVEL (Cehia & Turcia)
 
