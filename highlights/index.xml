@@ -6,10 +6,19 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 5 - 11 mai 2019</title>
+      <link>https://candaparerevista.ro/highlights/2019/05/12/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2019/05/12/</guid>
+      <description>O săptămână plină de evenimente: angajații Riot Games întrerup lucrul în semn de protest, un senator american vrea să interzică loot boxes pentru minori, scandal la Gearbox între CEO-ul Randy Pitchford și fostul actor al lui Claptrap, acuzații de plagiat la Bethesda, investigații de hărțuire sexuală la QuanticDream, studiouri închise și altele. Iar în știri mai pozitive, Sony lansează documentarul making-of despre God of War, vechiul Minecraft e acum gratis, Euro Truck Simulator 2 își plasează noul expansion în România, Titan Quest lansează un nou expansion surpriză, iar Unbound: Worlds Apart dă drumul la Kickstarter.</description>
+    </item>
     
     <item>
       <title>Revistele lunii mai 2019</title>
@@ -147,15 +156,6 @@ Linkuri rapide:
       <description>Președintele Nintendo America se retrage, lăsându-i locul vicepreședintelui Bowser. EA îl șterge pe Cristiano Ronaldo de pe coperțile FIFA 19, ArenaNet anunță concedieri, iar angajații Microsoft protestează împotriva folosirii HoloLens în sisteme militare, Anthem e lansat în sfârșit pentru toată lumea, dar reacțiile nu sunt cele așteptate, John Romero amână SIGIL, iar Valve scoate conținutul video non-gaming de pe Steam.
 Linkuri rapide:
  Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 10-16 februarie 2019</title>
-      <link>https://candaparerevista.ro/highlights/2019/02/17/</link>
-      <pubDate>Sun, 17 Feb 2019 08:00:01 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2019/02/17/</guid>
-      <description>Activision-Blizzard anunță încasări record pentru 2018, dar în același timp concediază 8% din angajați. De partea cealaltă, Apex Legends revigorează perspectivele EA, System Shock 3 rămâne fără publisher, iar Nintendo anunță noutăți pentru fanii Switch. A fost în același timp și o săptămână cu lansări importante: Civilization VI: Gathering Storm, Far Cry New Dawn, Metro Exodus, Enderal, iar Flower ajunge în sfârșit și pe PC.</description>
     </item>
     
   </channel>
