@@ -128,7 +128,7 @@ Linkuri rapide:
 
 * Două jocuri românești se numără printre cele 15 finaliste de la Nordic Game Discovery Contest: **Bossgard** și **Interrogation**. Plus **Pendula Swing**, un joc produs de o companie suedeză la care lucrează și Laura Bularca, pe care o știți din Level. <sup>([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2019-05-03-nordic-game-discovery-contest-reveals-15-finalists-for-2019))</sup>
 
-
+## Anunţuri şi lansări de jocuri
 ### Anunţate
 * **Automachef** <sup>([Destructoid](https://www.destructoid.com/robo-kitchen-simulator-automachef-has-my-full-attention-551957.phtml))</sup>
 * **Overpass** <sup>([Shacknews](https://www.shacknews.com/article/111578/all-terrain-racing-game-overpass-speeding-to-consoles-and-pc))</sup>
@@ -143,6 +143,7 @@ Linkuri rapide:
 * 30 aprilie: **Fade To Silence** (early access) <sup>([Steam](https://store.steampowered.com/app/706020/Fade_to_Silence/), [gog.com](http://www.gog.com/news/release_fade_to_silence))</sup>
 * 30 aprilie: **Fell Seal: Arbiter's Mark** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/), [gog.com](http://www.gog.com/news/release_fell_seal_arbiters_mark))</sup>
 * 30 aprilie: **Last Epoch** (early access) <sup>([Steam](https://store.steampowered.com/app/899770/Last_Epoch/))</sup>
+* 30 aprilie: **Uboat** <sup>([Steam](https://store.steampowered.com/app/494840/UBOAT/))</sup>
 * 1 mai: **Close To The Sun**  <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/close-to-the-sun/))</sup>
 * 1 mai: **Epitasis** <sup>([Steam](https://store.steampowered.com/app/662240/Epitasis/))</sup>
 * 2 mai: **Rise Of Industry** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/671440/Rise_of_Industry/), [gog.com](https://www.gog.com/game/rise_of_industry))</sup>

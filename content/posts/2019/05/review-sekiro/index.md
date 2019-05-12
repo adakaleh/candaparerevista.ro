@@ -7,8 +7,8 @@ categories:
     - Review
 featured: true
 tags:
-    - sekiro
-    - fromsoftware
+    - "Sekiro: Shadows Die Twice"
+    - FromSoftware
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=2130
