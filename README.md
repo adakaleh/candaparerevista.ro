@@ -11,6 +11,8 @@ Site-ul nu este compatibil cu ultimele versiuni Hugo. Versiunea [0.42.2](https:/
 
 # Conţinut
 
+Parametrii din front matter sunt explicați în [archetypes](archetypes/posts.md).
+
 ## Articole
 Se pot introduce articole în corpul altui articol folosind parțialul `include-post.html`, folosind sintaxa:
 
@@ -42,6 +44,31 @@ Pentru a omite unele articole din lista de posturi afișate pe home page, se poa
 Când acest parametru e setat, articolul nu va fi inclus în lista de articole de pe home (indiferent de numărul de pagini), dar va apărea în celelalte secțiuni alte site-ului, cum ar fi pagina de articole sau pagina autorului.
 
 Acest parametru e util atunci când publicăm un articol în categoria "Recomandare" în același timp cu publicarea Retrospectivei Săptămânii în care includem articolul respectiv (folosind parțialul `include-post` de mai sus) la "Recomandarea Săptămânii". În felul ăsta, evităm să avem două articole consecutive cu același conținut (și poate și aceeași imagine pe card).
+
+## Info-box
+Pentru a introduce în articol o casetă cu informații despre joc, sunt 2 posibilități:
+
+### În front matter
+Vezi comentariile din [archetypes](archetypes/posts.md) sau din [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).
+
+### În articol, cu un shortcode
+Parametrii sunt trecuți separat, cu nume și valoare, ca în exemplul de mai jos. Linkurile pentru cumpărare trebuie separate cu `|`, iar fiecare link e compus din nume și url (separate cu `,`). Vezi și exemplul din [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md). Ordinea nu e importantă.
+
+~~~
+text articol aici
+
+{{< info-box
+  data="2016"
+  gen="Lista cu genuri, virgula, alt gen"
+  producator="Numele producătorului"
+  platforme="PC,XBOX"
+  metacritic="https://www.link.url"
+  opencritic="https://www.link.url"
+  cumpara="Nume link,https://url.link|Alt link,https://www.alt.url"
+>}}
+
+text articol aici
+~~~
 
 ## Imagini
 Pentru a introduce imagini în articole, există 4 variante:
@@ -137,6 +164,17 @@ Imaginea principală (cover), care va apărea pe card şi la începutul articolu
       name: "cover-image"
 ~~~
 Dacă lipsește, pe carduri va fi afișată o imagine aleasă la întâmplare din setul de imagini default, iar în articol nu va fi afișat nimic.
+
+### Feature image
+Pentru articolele pe care vrem să le scoatem în evidență mai mult, putem specifica o imagine mai mare, astfel:
+* în front matter se adaugă parametrul `featured: true`
+* la resurse se adaugă calea către imaginea mare:
+~~~
+  resources :
+    - src: "images/image-2.jpg"
+      name: "feature-image"
+~~~
+Atenție: dacă se păstrează și resursa pentru "cover-image", imaginile trebuie să fie diferite, altfel nu pot fi găsite două resurse diferite care indică către același fișier de imagine.
 
 ### Redimensionare imagini
 Toate imaginile recunoscute ca page resources (aflate într-un bundle cu structura de mai sus) pot fi citite separat, iar imaginile pot fi și redimensionate astfel:

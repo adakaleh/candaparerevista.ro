@@ -23,6 +23,11 @@ date: {{ .Date }}
 # Daca autorul explicit lipseşte, autorul va fi cel default, adica site-ul
 authors: 
 
+# (optional) se specifica daca vrem sa afisam o imagine mai mare pentru coperta
+# articolului; trebuie specificata si o imagine la resurse (vezi mai jos) pentru
+# a avea efect
+featured: true
+
 # (optional) listă de forma `categories: ["cat1", "cat2", "cat3"]`
 # sau
 # `categories:`
@@ -55,6 +60,12 @@ sursa:
    text: 
    data:
 
+# (optional) un text în caz că articolul necesită un disclaimer
+# (ex: "Articol scris în baza unei copii de review de la producător”)
+# valorile pot fi `default` (caz în care va fi folosit textul predefinit
+# în config.toml) sau orice alt text, dacă trebuie să fie customizat.
+disclaimerReviewCopy:
+
 # (optional) diverse resurse pentru download, relevante pentru articol
 # trebuie sa fie o structura de tipul
 # `download:`
@@ -63,6 +74,24 @@ sursa:
 # `    link: download/resursa.pdf`  # link relativ catre resursa
 # `    desc: O scurtă descriere a resursei ce poate fi descărcată`
 download:
+
+# (optional) informatii tehnice minime despre joc sau carte
+# dintre parametrii care pot fi dati, doar `data` este obligatoriu
+# vezi exemplu in [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).
+# `  data: # un string oarecare, nu trebuie să fie în format dată`
+# `  producator: # numele producătorului (pentru jocuri)`
+# `  autor: # numele autorului (pentru cărți)`
+# `  platforme: # o lista în format "[PC , XBOX]"`
+# `  reviews: # linkuri catre paginile de metacritic si/sau opencritic`
+# `    metacritic: https://www.link.url`
+# `    opencritic: https://www.link.url`
+# `  cumpara: # o lista de array-uri cu nume si link, exemplu:` 
+# `    - [Steam, https://store.steampowered.com/app/951440/Volcanoids/]`
+infoBox:
+
+# (optional) caseta-concluzie cu nota, plusuri, minusuri, alternativa;
+# vezi exemplu in [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).
+casetaTehnica:
 
 # (optional) diverse linkuri suplimentare, relevante pentru articol
 # trebuie sa fie o structura de tipul
@@ -79,9 +108,9 @@ linkForum:
 
 
 # (optional, recomandat) calea către imaginea articolului, relativ la directorul articolului:
-# - pentru card, va fi căutată una dintre cele două imagini, în ordina de mai jos, sau, 
+# - pentru card, va fi căutată una dintre cele două imagini (card sau cover), în ordinea de mai jos, sau,
 #   dacă lipsește, va fi înlocuită cu o imagine generică;
-# - pentru imaginea principală a articolului, va fi căutată doar imaginea "cover-image"
+# - pentru imaginea principală a articolului, va fi căutată imaginea "feature-image" apoi "cover-image"
 # Se completează doar src astfel: `src: "images/coperta.jpg"`
 resources:
   - src: 
@@ -90,6 +119,8 @@ resources:
   - src: 
     name: "cover-image"
 
+  - src:
+    name: "feature-image"
 ---
 
 _(conținutul tău aici)_
