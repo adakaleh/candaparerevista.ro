@@ -61,6 +61,10 @@
         <div class="kg-card-markdown {{ $blogPostCssClass }}">
         {{ .Content }}
 
+            {{ with .Params.infoBox }}
+                {{ partial "info-box" . }}
+            {{ end }}
+
             {{ with .Params.casetaTehnica }}
                 {{ partial "caseta-tehnica" . }}
             {{ end }}

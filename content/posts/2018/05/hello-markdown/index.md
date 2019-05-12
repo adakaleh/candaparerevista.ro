@@ -33,6 +33,18 @@ linkuriExterne:
     text: Hugo Translator
     link: https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/
     desc: Un mic ajutor pentru a înţelege mai bine cum se foloseşte Go în template-urile Hugo, având şi comparaţii cu PHP sau JavaScript.
+infoBox:
+  data: '2017-02-14'
+  gen: [Bătaie cu catane]
+  producator: FromSoftware
+  autor: Johnny Hidetaka
+  platforme: [PC , XBOX]
+  reviews:
+    metacritic: https://www.metacritic.com/game/pc/sekiro-shadows-die-twice
+    opencritic: https://opencritic.com/game/6629/devil-may-cry-5
+  cumpara:
+    - [Steam, https://store.steampowered.com/app/951440/Volcanoids/]
+    - [GOG, https://www.gog.com/game/katana_zero]
 casetaTehnica:
   nota: 6.8
   verdict: "Nașpa."
@@ -40,7 +52,7 @@ casetaTehnica:
   alternativa:
     nume: "Seria Total War"
     descriere: "La noi în țară, titlurile din seria Total War anterioare Rome II se vînd la prețuri foarte mici. Este vorba de jocuri care merită toată atenția noastră de pasionați, realizate mult mai bine decît Rome II. Ele sînt alternativa. Și își fac toți banii, cu vîrf și îndesat."
-    imagine: gallery/1.jp
+    imagine: gallery/1.jpg
     link: https://store.steampowered.com/app/4760/Rome_Total_War__Collection/
 
   plusuri:
@@ -76,6 +88,18 @@ A paragraph (with a footnote):
 A blockquote (a gray bar at the left and lightgray background):
 
 > Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.
+
+Info-box intern:
+
+{{< info-box
+  data="2016"
+  gen="Bătaie cu catane"
+  producator="My Man"
+  platforme="PC,XBOX"
+  cumpara="Steam,https://store.steampowered.com/app/951440/Volcanoids/|GOG,https://www.gog.com/game/katana_zero"
+  opencritic="https://opencritic.com/game/6629/devil-may-cry-5"
+  metacritic="https://www.metacritic.com/game/pc/sekiro-shadows-die-twice"
+>}}
 
 Some code (with a drop-shadow effect):
 
