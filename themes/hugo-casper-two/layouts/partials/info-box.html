@@ -1,0 +1,23 @@
+<div class="info-box">
+  <div class="info-box-title">INFORMAȚII GENERALE</div>
+  <div class="info-box-container">
+    <span class="info-box-item"><span class="label">Data apariției: </span>{{.data}}</span>
+    {{ with .producator}}<span class="info-box-item"><span class="label">Producător: </span>{{.}}</span>{{ end }}
+    {{ with .gen}}<span class="info-box-item"><span class="label">Gen: </span>{{ delimit . "," }}</span>{{ end }}
+    {{ with .autor }}<span class="info-box-item"><span class="label">Autor: </span>{{.}}</span>{{ end }}
+    {{ with .platforme }}
+      <span class="info-box-item"><span class="label">Platforme:</span> {{ delimit . ", " }} </span>
+    {{ end }}
+    {{ with .reviews }}
+      <span class="info-box-item"><span class="label">Reviews: </span>
+        {{ if .metacritic }} <a href = "{{.metacritic}}">Metacritic</a>{{ end }}{{ if and .metacritic .opencritic }}, {{ end }}
+        {{ if .opencritic }} <a href = "{{.metacritic}}">OpenCritic</a>{{ end }}
+      </span>
+    {{ end }}
+    {{ with .cumpara }}
+      <span class="info-box-item"><span class="label">Cumpără:</span>
+        {{ range $index, $magazinCuLink := . }}{{if $index}}, {{end}}<a href = "{{index $magazinCuLink 1}}">{{- index $magazinCuLink 0 -}}</a>{{ end }}
+      </span>
+    {{ end }}
+  </div>
+</div>
