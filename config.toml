@@ -71,6 +71,9 @@ summaryLength = 65
   # alte labels
   labelReadNext = "Alte Articole"
 
+  # disclaimer review key
+  disclaimerReviewKey = "Articolul a fost scris în baza unei copii de review oferite de producător."
+
   #casper or caspertwo
   singleViewStyle = "casper"
 

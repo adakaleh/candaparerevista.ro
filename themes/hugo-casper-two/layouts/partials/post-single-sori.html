@@ -75,7 +75,7 @@
         {{ partial "gallery-all" . }}
 
         {{/* ----- Caseta informaţii suplimentare articol ----- */}}
-        {{ if or .Params.sursa .Params.tags .Params.linkuriExterne .Params.linkForum (eq .Section "posts") }}
+        {{ if or .Params.sursa .Params.disclaimerReviewCopy .Params.tags .Params.linkuriExterne .Params.linkForum (eq .Section "posts") }}
         <section class="post-full-article-metadata">
             <hr>
             <!--h2>Despre</h2-->
@@ -83,9 +83,15 @@
 
 
                 {{/* afisam info licenta doar pentru articolele din categoria 'posts', pentru celelalte se presupune ca e cea default */}}
+                {{/* la fel si pentru disclaimerul despre copiile de review - doar posturile pot avea un astfel de text */}}
                 {{ if eq .Section "posts" }}
                     {{ $licentaFile := printf "LICENSE-%s.md" (or .Params.licenta "default") }}
                     {{ $licentaArticol := .Site.GetPage "page" "licenses" $licentaFile }}
+
+                    {{ with .Params.disclaimerReviewCopy }}
+                        {{ $disclaimerText := cond (eq . "default") $.Site.Params.disclaimerReviewKey . }}
+                        <p><span class="post-full-article-extra-categ">Disclaimer</span>: <em>{{ $disclaimerText }}</em></p>
+                    {{ end }}
 
                     {{ with $licentaArticol }}
                         <p><span class="post-full-article-extra-categ">Licență articol</span>: <a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp;&nbsp;</p>

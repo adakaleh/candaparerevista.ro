@@ -60,6 +60,12 @@ sursa:
    text: 
    data:
 
+# (optional) un text în caz că articolul necesită un disclaimer
+# (ex: "Articol scris în baza unei copii de review de la producător”)
+# valorile pot fi `default` (caz în care va fi folosit textul predefinit
+# în config.toml) sau orice alt text, dacă trebuie să fie customizat.
+disclaimerReviewCopy:
+
 # (optional) diverse resurse pentru download, relevante pentru articol
 # trebuie sa fie o structura de tipul
 # `download:`

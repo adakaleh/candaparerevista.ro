@@ -19,6 +19,7 @@ sursa:
   text: blogul autorului
   link: https://github.com/eueung/hugo-casper-two
 licenta: default
+disclaimerReviewCopy: default
 download:
   versiune-text:
     text: Text version
