@@ -34,6 +34,8 @@ linkuriExterne:
     text: Hugo Translator
     link: https://regisphilibert.com/blog/2017/04/hugo-go-template-translator-explained-understanding/
     desc: Un mic ajutor pentru a înţelege mai bine cum se foloseşte Go în template-urile Hugo, având şi comparaţii cu PHP sau JavaScript.
+disableGallery: false
+classicGallery: false
 infoBox:
   data: '2017-02-14'
   gen: [Bătaie cu catane]
@@ -155,10 +157,15 @@ Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imper
 
 Galerie cu toate imaginile dintr-un director:
 
-{{< gallery-fotorama "gallery" "titlu optional galerie">}}
+{{< gallery "gallery" "titlu optional galerie cu caption"
+      "1.jpg|Caption 1.jpg"
+      "3.jpg|Caption 3.jpg"
+>}}
 
 Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.
 
 Sau din alt director:
 
-{{< gallery-fotorama "gallery-2">}}
+{{< gallery "gallery-2" ""
+    "5.jpg|Caption 5.jpg"
+>}}

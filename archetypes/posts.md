@@ -75,6 +75,15 @@ disclaimerReviewCopy:
 # `    desc: O scurtă descriere a resursei ce poate fi descărcată`
 download:
 
+# (optional) daca e prezent si e true, nu va mai fi afisata 
+# galeria la sfarsitul articolului
+disableGallery:
+
+# (optional) daca disableGallery nu e true, iar acest parametru
+# e prezent si este true, atunci galeria de la sfarsit va fi 
+# afisata in modul vechi (doar thumbs, fara fotorama)
+classicGallery:
+
 # (optional) informatii tehnice minime despre joc sau carte
 # dintre parametrii care pot fi dati, doar `data` este obligatoriu
 # vezi exemplu in [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).

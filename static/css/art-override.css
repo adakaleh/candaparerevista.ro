@@ -173,7 +173,7 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     margin-bottom: 1.5em;
 }
 
-.post-full-content figure figcaption, .fotorama-gallery-title {
+.post-full-content figure figcaption, .fotorama-gallery-title, .fotorama__caption__wrap {
     font-family: 'Merriweather Sans', sans-serif;
     font-style: italic;
     color: rgb(160, 5, 10);
@@ -182,6 +182,18 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     font-size: 1.55rem;
     line-height:1.3em;
     letter-spacing: 0.02em;
+}
+
+.fotorama__caption__wrap {
+    background-color: rgba(0,0,0,.75)!important;
+    padding: 1em 2em!important;
+    font-size: 1.7rem;
+    width: 100%;
+}
+
+.fotorama-gallery-title {
+    font-size: 1.8rem;
+    margin-bottom: 0.2em;
 }
 
 /* imagini articol - multi-figure cu caption */
