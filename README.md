@@ -71,14 +71,14 @@ text articol aici
 ~~~
 
 ## Imagini
-Pentru a introduce imagini în articole, există 4 variante:
+Pentru a introduce imagini în articole, există mai multe variante:
 
 #### Varianta simplă
 Fiecare imagine se introduce separat folosind sintaxa normală de markdown și va ocupa întreaga lățime a articolului:
 ~~~
 text articol aici
 
-![un titlu pentru imagine](sursa/imaginii.jpg)
+![un titlu optional pentru imagine](sursa/imaginii.jpg)
 
 text articol aici
 ~~~
@@ -114,9 +114,32 @@ text articol aici
 Se foloseşte un shortcode custom `figure-multi-ext`. Fiecare imagine trebuie trecută pe un rând separat, iar sursa imaginii locale, sursa originlă, comentariul opțional și descrierea opțională "alt" vor fi separate de `|`, ca în exemplul de mai jos. Imaginile vor fi afişate pe cât posibil la dimensiunea reală, fără să fie cropate sau restrânse în alt fel. De asemenea, fiecare imagine are ataşat şi un link către sursa originală a imaginii.
 ~~~
 text articol aici
+
 {{< figure-multi-ext
     "sursa/imagine-locala-1.jpg|https://link.sursa.originala.a.imaginii-1|Comentariu opţional ce va fi afișat sub imaginea 1|Descriere opţională pentru imaginea 1"
     "sursa/imagine-locala-2.jpg|https://link.sursa.originala.a.imaginii-2|Comentariu opţional ce va fi afișat sub imaginea 2|Descriere opţională pentru imaginea 2"
+>}}
+
+text articol aici
+~~~
+
+#### Galerie
+Se foloseşte shortcode-ul custom `gallery`. La modul cel mai simplu, se folosește specificând doar un director din care să ia imaginile:
+~~~
+text articol aici
+
+{{< gallery "gallery-directory" "titlu optional" >}}
+
+text articol aici
+~~~
+
+Suplimentar, se pot specifica și imaginile la care vrem să atașăm un caption. În acest caz, titlul nu mai este opțional (dar poate fi lăsat gol), iar numele imaginii se separă de comentariu cu `|`.
+
+~~~
+text articol aici
+{{< gallery "gallery-directory" "titlu optional" 
+    "imagine-1.jpg|Comentariu pentru imaginea 1"
+    "imagine-4.jpg|Comentariu pentru alta imagine"
 >}}
 text articol aici
 ~~~

@@ -1,12 +1,15 @@
 /*
 Put this file in /static/css/hugo-easy-gallery.css
 Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
+*//*
+
+
+
 */
-
-
 /*
 Grid Layout Styles
-*/
+*//*
+
 .gallery {
     overflow: hidden;
     margin: 10px;
@@ -15,35 +18,47 @@ Grid Layout Styles
 .gallery .box {
     float: left;
     position: relative;
-    /* Default: 1 tile wide */
+    */
+/* Default: 1 tile wide *//*
+
     width: 100%;
     padding-bottom: 100%; 
 }
 @media only screen and (min-width : 365px) {
-    /* Tablet view: 2 tiles */
+    */
+/* Tablet view: 2 tiles *//*
+
     .gallery .box {
         width: 50%;
         padding-bottom: 50%;
     }
 }
 @media only screen and (min-width : 480px) {
-    /* Small desktop / ipad view: 3 tiles */
+    */
+/* Small desktop / ipad view: 3 tiles *//*
+
     .gallery .box {
         width: 33.3%;
-        padding-bottom: 33.3%; /*  */
+        padding-bottom: 33.3%; */
+/*  *//*
+
     }
 }
 @media only screen and (min-width : 9999px) {
-   /* Medium desktop: 4 tiles */
+   */
+/* Medium desktop: 4 tiles *//*
+
    .box {
       width: 25%;
       padding-bottom: 25%;
    }
 }
 
+*/
 /*
 Transition styles
-*/
+*//*
+
 .gallery.hover-transition figure,
 .gallery.hover-effect-zoom .img, 
 .gallery:not(.caption-effect-appear) figcaption,
@@ -53,11 +68,15 @@ Transition styles
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
+*/
 /*
 figure styles
-*/
+*//*
+
 figure {
-    position:relative; /* purely to allow absolution positioning of figcaption */
+    position:relative; */
+/* purely to allow absolution positioning of figcaption *//*
+
     overflow: hidden;
 }
 .gallery figure {
@@ -80,9 +99,11 @@ figure {
     transform: translateY(-5px);
 }
 
+*/
 /*
 img / a styles
-*/
+*//*
+
 
 .gallery .img {
     position: absolute;
@@ -98,7 +119,9 @@ img / a styles
     transform: scale(1.05);
 }
 .gallery img {
-    display: none; /* only show the img if not inside a gallery */
+    display: none; */
+/* only show the img if not inside a gallery *//*
+
 }
 figure a {
     position: absolute;
@@ -108,9 +131,11 @@ figure a {
     bottom: 0;
 }
 
+*/
 /*
 figcaption styles
-*/
+*//*
+
 .gallery figcaption,
 .fancy-figure figcaption {
     position: absolute;
@@ -120,7 +145,9 @@ figcaption styles
     background: #000;
     color: #FFF;
     text-align: center;
-    font-size: 75%; /* change this if you want bigger text */
+    font-size: 75%; */
+/* change this if you want bigger text *//*
+
     background: rgba(0, 0, 0, 0.5);
     opacity: 1;
     cursor: pointer;
@@ -154,6 +181,9 @@ figcaption styles
     top: 100%;
 }
 figcaption p {
-    margin: auto; /* override style in theme */
+    margin: auto; */
+/* override style in theme *//*
+
 }
 
+*/
