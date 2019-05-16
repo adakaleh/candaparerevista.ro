@@ -1,10 +1,37 @@
-{{with .Resources.Match "gallery/*" }}
-<section class="post-full-content-gallery">
+<!-- Based on http://fotorama.io/ -->
+{{ $fotoramaGalleryDisabled := and (isset .Params "classicgallery") .Params.classicGallery }}
+
+{{ with .Resources.Match "gallery*/*" }}
+
+  {{ $fotoramaFallbackCss := cond $fotoramaGalleryDisabled "" "fotorama-fallback"  }}
+
   <hr>
   <h4>Galerie imagini</h4>
-  {{ range .ByType "image" }}
-  {{ $thumb := .Fill $.Site.Params.galerieThumbSize }}
-  <a href = "{{ .RelPermalink }}"><img class = "gallery-thumb"src="{{ $thumb.Permalink }}" style="display: inline-block;" ></a>
+  <section class="post-full-content-gallery {{ $fotoramaFallbackCss }}">
+    {{ range .ByType "image" }}
+      {{ $thumb := .Fill $.Site.Params.galerieThumbSize }}
+      <a href = "{{ .RelPermalink }}"><img class = "gallery-thumb"src="{{ $thumb.Permalink }}" style="display: inline-block;" ></a>
+    {{ end }}
+  </section>
+
+  {{ if not $fotoramaGalleryDisabled }}
+    <!-- count how many times we've called this shortcode; load the css if it's the first time -->
+    {{- if not ($.Page.Scratch.Get "fotoramacount") }}<link rel="stylesheet" href="/css/fotorama.css" />{{ end }}
+    {{- $.Page.Scratch.Add "fotoramacount" 1 }}
+
+    {{/* Vezi http://fotorama.io/customize/ pentru optiuni customizare */}}
+    <div class="fotorama"
+         data-width="100%"
+         data-allowfullscreen="native"
+         data-keyboard="true"
+         data-fit="scaledown"
+         data-nav="thumbs"
+    >
+      <!--data-navposition="top"-->
+      {{ range .ByType "image" }}
+        {{ $thumb := .Fill $.Site.Params.galerieThumbSize }}
+        <a href="{{ .RelPermalink }}"><img src="{{ $thumb.Permalink }}"></a>
+      {{ end }}
+    </div>
   {{ end }}
-</section>
 {{ end }}

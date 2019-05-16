@@ -72,7 +72,9 @@
         </div>
 
         {{/* ----- Galeria de la sfârşit (imaginile din /gallery ) ----- */}}
-        {{ partial "gallery-all" . }}
+        {{ if not .Params.disableGallery }}
+            {{ partial "gallery-all" . }}
+        {{ end }}
 
         {{/* ----- Caseta informaţii suplimentare articol ----- */}}
         {{ if or .Params.sursa .Params.disclaimerReviewCopy .Params.tags .Params.linkuriExterne .Params.linkForum (eq .Section "posts") }}

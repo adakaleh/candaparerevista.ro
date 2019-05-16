@@ -169,20 +169,31 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
 }
 
 /* imagini articol - figure cu caption */
-.post-full-content figure {
+.post-full-content figure, .fotorama-gallery-title {
     margin-bottom: 1.5em;
 }
 
-.post-full-content figure figcaption {
-    font-weight: 400;
+.post-full-content figure figcaption, .fotorama-gallery-title, .fotorama__caption__wrap {
     font-family: 'Merriweather Sans', sans-serif;
     font-style: italic;
-    color: #3eb0ef;
+    color: rgb(160, 5, 10);
     text-align: center;
     padding: 0 5em;
-    font-size: 1.5rem;
+    font-size: 1.55rem;
     line-height:1.3em;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
+}
+
+.fotorama__caption__wrap {
+    background-color: rgba(0,0,0,.75)!important;
+    padding: 1em 2em!important;
+    font-size: 1.7rem;
+    width: 100%;
+}
+
+.fotorama-gallery-title {
+    font-size: 1.8rem;
+    margin-bottom: 0.2em;
 }
 
 /* imagini articol - multi-figure cu caption */
@@ -641,4 +652,14 @@ content-ul va ocupa 100% din latime */
     padding: 0 5px 0;
     font-size: 1.1em;
     line-height: 1em;
+}
+
+/* galerie fotorama */
+.fotorama {
+    display: none;
+    width: 100%;
+}
+
+.post-full-content .fotorama-fallback {
+    margin-bottom: 0;
 }
