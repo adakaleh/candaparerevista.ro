@@ -422,3 +422,29 @@ a {
 .blog-post .post-card-date {
     text-align: right;
 }
+
+/* override navigatie jos */
+.first-posts, .newer-posts {
+    position: relative;
+    float: left;
+}
+
+.first-posts {
+    margin-right: 1em;
+}
+
+.last-posts {
+    margin-left: 1em;
+}
+
+.last-posts, .older-posts {
+    position: relative;
+    float: right;
+}
+
+.page-number-current-page {
+    border: #ddd 1px solid;
+    border-radius: 4px;
+    padding: 0.3em;
+    background-color: #fff;
+}
