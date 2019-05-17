@@ -3,11 +3,11 @@ In functie de asta, putem aplica filtre aditionale, respectiv sa ascundem anumit
 de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categorie  -->
 {{ $isHomePage := eq ($.Scratch.Get "parentPage") "home" }}
 
-{{ $afiseazaToatePosturile := (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
+{{ $toatePosturile := (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
 <!-- Aceasta filtrare exclude posturile care au setat parametrul `hideOnHome: true`
  (atentie: denumirea parametrului trebuie sa fie lowercase in conditia de la "where") -->
-{{ $afiseazaToatePosturileFaraHide := (where (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) ".Params.hideonhome" "!=" "true") }}
-{{ $posturiAfisabile := cond ($isHomePage) $afiseazaToatePosturileFaraHide $afiseazaToatePosturile }}
+{{ $toatePosturileFaraHide := (where (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) ".Params.hideonhome" "!=" "true") }}
+{{ $posturiAfisabile := cond ($isHomePage) $toatePosturileFaraHide $toatePosturile }}
 
 {{ $paginator := .Paginate $posturiAfisabile }}
 
@@ -20,6 +20,8 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
   {{ $isFirstCardFirstPage := and (eq $pageNumber 1) (eq $cardIndex 0) }}
   {{ $isFirstCardsOtherPages := and (gt $pageNumber 1) (in (slice 0 1 2) $cardIndex ) }}
   {{ $firstCardCssClass := cond (and $isFirstCardFirstPage $isNotBlogCard) "first-card" (cond (and $isFirstCardsOtherPages $isNotBlogCard) "other-pages-first-cards" "")  }}
+
+  {{ $isNotFirstCardHomePage:= ne (and $isHomePage $isFirstCardFirstPage) true }}
 
   {{ $cardThumbSize := cond $isFirstCardFirstPage .Site.Params.firstCardThumbSize .Site.Params.cardThumbSize }}
 
@@ -67,7 +69,7 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
             </header>
             <section class="post-card-excerpt">
               <!-- pentru cardurile de blog vrem sa vedem mai mult text, pentru ca n-au imagine -->
-              {{ $clampCssClass := cond ($isNotBlogCard) "js-text-clamp" "" }}
+              {{ $clampCssClass := cond (and $isNotBlogCard $isNotFirstCardHomePage) "js-text-clamp" "" }}
               <p class="{{ $clampCssClass }}">
                 {{ if .Description }}
                   {{ .Description | markdownify }}
