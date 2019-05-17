@@ -417,7 +417,7 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
     e mai important sa fie aici corect. */
     justify-content: flex-end;
-
+    margin: 0;
     padding: 2em 0;
 }
 
