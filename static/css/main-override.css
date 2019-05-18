@@ -281,6 +281,17 @@ a {
     font-size: 1.1rem;
 }
 
+.post-card-reading-time {
+    margin-left: auto;
+    align-self: center;
+    color: rgba(128, 128, 128, 0.8);
+    font-size: 1rem;
+
+}
+.post-card-reading-time:after {
+    content: " min";
+}
+
 /*.post-feed article {
   max-height: 400px;
 }*/
