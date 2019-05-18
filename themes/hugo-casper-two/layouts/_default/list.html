@@ -1,8 +1,13 @@
 {{ partial "head" . }}
 
-<body class="home-template"><div class="site-wrapper">
 
-{{ partial "header" . }}
+{{if (eq .Section "blog")}}
+  <body class="tag-template"><div class="site-wrapper">
+  {{ partial "header-sori-term" . }}
+{{else}}
+  <body class="home-template"><div class="site-wrapper">
+  {{ partial "header" . }}
+{{end}}
 
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">

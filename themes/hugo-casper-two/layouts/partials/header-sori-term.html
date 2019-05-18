@@ -41,6 +41,8 @@
     <div class="site-header-content">
         {{if eq .Section "authors" }}
           <h1 class="site-title">Autori</h1>
+        {{else if eq .Section "blog" }}
+          <h1 class="site-title">Blog</h1>
         {{else}}
           <h1 class="site-title">Articole</h1>
         {{end}}
