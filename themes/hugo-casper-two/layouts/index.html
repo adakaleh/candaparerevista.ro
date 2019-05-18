@@ -1,15 +1,17 @@
+<!-- Setam un parametru suplimentar aici pentru a-l citi in partiale
+in caz ca sunt necesare procesari diferite pentru home page -->
+{{ .Scratch.Set "parentPage" "home" }}
 {{ partial "head" . }}
 
 <body class="home-template"><div class="site-wrapper">
 
+<!-- aici e folosit flagul "home" pentru a ascunde logo-ul -->
 {{ partial "header" . }}
 
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     <div class="post-feed">
-      <!-- Setam un parametru suplimentar aici cand apelam partialul post-list ca sa
-      putem folosi filtrari suplimentare doar pentru listele de pe home page -->
-      {{ .Scratch.Set "parentPage" "home" }}
+      <!-- aici e folosit flagul "home" pentru filtrari suplimentare -->
       {{ partial "post-list" . }}
     </div>
 

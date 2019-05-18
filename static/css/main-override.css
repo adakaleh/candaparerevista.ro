@@ -54,6 +54,12 @@ a {
     padding-bottom: 0;
 }
 
+.site-nav .site-nav-separator {
+    padding: 10px 6px;
+    color: #fff;
+    opacity: .8;
+}
+
 .forum-button {
 
 }

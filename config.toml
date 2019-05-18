@@ -103,12 +103,12 @@ summaryLength = 65
   url = "/blog/"
   weight = 98
 
-[[menu.main]]
+[[menu.pages]]
   name = "Despre"
   url = "/despre/"
   weight = 97
 
-[[menu.main]]
+[[menu.pages]]
   name = "Contact"
   url = "/contact/"
   weight = 96
