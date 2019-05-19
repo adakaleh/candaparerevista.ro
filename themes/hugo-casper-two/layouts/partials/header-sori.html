@@ -1,5 +1,7 @@
 <header class="site-header outer"
-  {{if .Site.Params.cover}} style="background-image: url({{.Site.Params.cover | absURL}}); background-size: cover" {{end}}
+  {{/* Pentru headerul din pagina articolelor nu punem imagine de fundal
+  pentru ca nu arata bine in paginile cu feature cover si oricum e prea mica */}}
+  {{/*if .Site.Params.cover}} style="background-image: url({{.Site.Params.cover | absURL}}); background-size: cover" {{end*/}}
 >
   <div class="inner">
 
