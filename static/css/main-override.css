@@ -130,7 +130,7 @@ a {
     }
 
     /* main card content */
-    .home-template .post-feed .first-card :not(.blog) .post-card-content {
+    .home-template .post-feed .first-card:not(.blog) .post-card-content {
         /*flex: 0 1 357px;*/
         flex: 0 1 38%;
     }
