@@ -87,27 +87,32 @@ OUTPUT_FILE = "rezultat_final_markdown.txt" if not is_debug else "test_rezultat_
 DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEM</span>"
 
 SITEURI_CUNOSCUTE = {
-    'idlethumbs': 'Idle Thumbs',    'pcgamer': 'PC Gamer',          'rockpapershotgun': 'RPS',
-    'gamasutra': 'Gamasutra',       'unwinnable': 'Unwinnable',     'eurogamer': 'Eurogamer',
-    'wired': 'Wired',               'kotaku': 'Kotaku',             'destructoid': 'Destructoid',
-    'vg247': 'VG247',               'waypoint.vice': 'Waypoint',    'gameinformer': 'Games Informer',
-    'arstechnica': 'Ars Technica',  'gamereactor': 'Gamereactor',   'gamesindustry': 'GamesIndustry.biz',
-    'vgchartz': 'VGChartz',         'theverge': 'The Verge',        'pcgamesn': 'PCGamesN',
-    'techpowerup': 'TechPowerUp',   'variety': 'Variety',           'massivelyop': 'Massively OP',
-    'rpgcodex': 'RPG Codex',        'videogamer': 'VideoGamer',     'steamcommunity': 'Steam Community',
-    'gog.com': 'gog.com',           'steampowered.com': 'Steam',    'humblebundle.com/store': 'Humble Store',
-    'gamesradar': 'GamesRadar+',    'venturebeat': 'VentureBeat',   'humblebundle': 'Humble Bundle',
-    'avclub': 'A.V. Club',          'tedium': 'Tedium',             'hardcoregamer': 'Hardcore Gamer',
-    'polygon': 'Polygon',           'guardian': 'The Guardian',     'engadget': 'Engadget',
-    'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz',
-    'techraptor': 'TechRaptor',     'phoronix': 'Phoronix',         'wccftech': 'Wccf tech',
-    'bloomberg': 'Bloomberg',       'medium.com':'Medium',          'filfre.net': 'The Digital Antiquarian',
-    'usgamer': 'USgamer',           'rempton': 'Rempton Games',     'motherboard.vice': 'Motherboard',
-    'slowrun': 'SlowRun',           'gamedaily': 'GameDaily.biz',   'haywiremag': 'Haywire Magazine',
-    'forbes': 'Forbes',             'dsogaming': 'DSOGaming ',      'store.playstation': 'PlayStation Store',
-    'pastemagazine': 'Paste',       'gematsu': 'Gematsu',           'thehistoryofhowweplay': 'The History of How We Play',
-    'pcinvasion': 'PC Invasion',    'theringer.com': 'The Ringer',  'epicgames.com/store': 'Epic Store',
-    '': '',    'gamepressure': 'Gamepressure.com', 'nintendo.com/games/': 'Nintendo Store'
+    'idlethumbs': 'Idle Thumbs',        'pcgamer': 'PC Gamer',              'rockpapershotgun': 'RPS',
+    'gamasutra': 'Gamasutra',           'unwinnable': 'Unwinnable',         'eurogamer': 'Eurogamer',
+    'wired': 'Wired',                   'kotaku': 'Kotaku',                 'destructoid': 'Destructoid',
+    'vg247': 'VG247',                   'waypoint.vice': 'Waypoint',        'gameinformer': 'Games Informer',
+    'arstechnica': 'Ars Technica',      'gamereactor': 'Gamereactor',       'gamesindustry': 'GamesIndustry.biz',
+    'vgchartz': 'VGChartz',             'theverge': 'The Verge',            'pcgamesn': 'PCGamesN',
+    'techpowerup': 'TechPowerUp',       'variety': 'Variety',               'massivelyop': 'Massively OP',
+    'rpgcodex': 'RPG Codex',            'videogamer': 'VideoGamer',         'steamcommunity': 'Steam Community',
+    'gog.com': 'gog.com',               'steampowered.com': 'Steam',        'humblebundle.com/store': 'Humble Store',
+    'gamesradar': 'GamesRadar+',        'venturebeat': 'VentureBeat',       'humblebundle': 'Humble Bundle',
+    'avclub': 'A.V. Club',              'tedium': 'Tedium',                 'hardcoregamer': 'Hardcore Gamer',
+    'polygon': 'Polygon',               'guardian': 'The Guardian',         'engadget': 'Engadget',
+    'shacknews': 'Shacknews',           'dotesports': 'Dot Esports',        'pcgamesinsider': 'PCGamesInsider.biz',
+    'techraptor': 'TechRaptor',         'phoronix': 'Phoronix',             'critical-distance': 'Critical Distance',
+    'bloomberg': 'Bloomberg',           'medium.com':'Medium',              'filfre.net': 'The Digital Antiquarian',
+    'usgamer': 'USgamer',               'rempton': 'Rempton Games',         'motherboard.vice': 'Motherboard',
+    'slowrun': 'SlowRun',               'gamedaily': 'GameDaily.biz',       'haywiremag': 'Haywire Magazine',
+    'forbes': 'Forbes',                 'dsogaming': 'DSOGaming ',          'store.playstation': 'PlayStation Store',
+    'pastemagazine': 'Paste',           'gematsu': 'Gematsu',               'thehistoryofhowweplay': 'The History of How We Play',
+    'pcinvasion': 'PC Invasion',        'theringer.com': 'The Ringer',      'firstpersonscholar': 'First Person Scholar',
+    'microsoft.com': 'Microsoft Store', 'gamepressure': 'Gamepressure.com', 'nintendo.com/games/': 'Nintendo Store',
+    'store.ubi.com': 'Ubi Store',       'gamespace.com': 'GameSpace',       'problemmachine': 'The Problem Machine',
+    'wccftech': 'Wccf tech',            'ea.com/games':'EA Store',          'psychologyofgames': 'The Psychology of Video Games',
+    'fanbyte':'Fanbyte',                'epicgames.com/store': 'Epic Store','landofobscusion': 'The Land of Obscusion',
+    'gizmodo':'Gizmodo',                'timber-owls.com': 'Timber Owls',   'bulletpointsmonthly': 'Bullet Points Monthly',
+    'resetera.com':'ResetEra',          'videogameschronicle':'VideoGamesChronicle',  'historianon.wordpress':'Historian On Games'
 }
 
 MAGAZINE = {
@@ -117,6 +122,32 @@ MAGAZINE = {
     "fanatical" : "fanatical.com",  # fanatical au tot site-ul generat cu js, nu putem citi mai nimic
     "gmg"       : "greenmangaming",
     "origin"    : "origin.com",
+}
+
+TERMINATII_DE_CURATAT = {
+    '- VideoGamer.com',
+    '- Hardcore Gamer',
+    '- VG247',
+    '- DEEP HELL',
+    '- Finger Guns',
+    '| Opinion',
+    '| Sidequest',
+    '| DSOGaming | The Dark Side Of Gaming',
+    '| Unwinnable',
+    '| PC Invasion',
+    '| The Obscuritory',
+    '| Massively Overpowered',
+    '&#8211; Haywire Magazine',
+    'The Digital Antiquarian',
+    '| VGC',
+    '| Into The Spine',
+    '&#8211; First Person Scholar'
+}
+
+# TODO: de folosit
+PREFIXE_DE_CURATAT = {
+    'Opinion |',
+    '&raquo; ',
 }
 
 EXCH_GBP_EUR = 1.1
@@ -210,8 +241,19 @@ class SectiuneArticole(Sectiune):
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
 
+    def curata_nume_if_necessary(self, text_link):
+        # TODO de implementat si prefixele de curatat
+        for bad_suffix in TERMINATII_DE_CURATAT:
+            if text_link.endswith(bad_suffix):
+                cleaned_text = text_link[:-len(bad_suffix)]
+                if is_debug:
+                    print("Curatare '%s' <<>> '%s'" % (text_link, cleaned_text), end='\r')
+                return cleaned_text.strip()
+
+        return text_link.strip()
+
     def make_markdown_link(self, link):
-        return "[%s](%s) <sup>(%s)</sup>" % (link.text, link.url, link.nume_site)
+        return "[%s](%s) <sup>(%s)</sup>" % (self.curata_nume_if_necessary(link.text), link.url, link.nume_site)
 
 
 class SectiuneRomania(Sectiune):
