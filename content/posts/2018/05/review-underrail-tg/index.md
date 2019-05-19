@@ -10,7 +10,7 @@ tags:
     - UnderRail
     - RPG
     - indie
-
+featured: true
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1280
    text: Articolele Comunității / Nivelul 2 Community Edition - Numărul 2
@@ -19,11 +19,11 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1280
 
 resources:
-  - src:
+  - src: images/card.jpg
     name: "card-cover-image"
 
   - src: images/cover.jpg
-    name: "cover-image"
+    name: "feature-image"
 ---
 M-am gândit dacă să scriu sau nu un articol despre UnderRail, în primă fază am zis că poate impresia mea despre joc e influențată prea tare de faptul că tocmai îl jucasem, dar au trecut cam trei luni și nu s-a schimbat nimic.
 

@@ -12,7 +12,7 @@ tags:
     - Bioshock
     - FPS
     - Irrational Games
-
+featured: true
 sursa:
    link:
    text: Articolul ar fi trebuit să apară în numărul Level din decembrie 2013.
@@ -28,11 +28,11 @@ linkuriExterne:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1850
 
 resources:
-  - src:
+  - src: "images/burial-at-sea-card.jpg"
     name: "card-cover-image"
 
   - src: "images/burial-at-sea-cover.jpg"
-    name: "cover-image"
+    name: "feature-image"
 
 casetaTehnica:
   nota: 9,4

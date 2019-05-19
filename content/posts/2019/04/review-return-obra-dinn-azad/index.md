@@ -25,7 +25,18 @@ resources:
   - src: images/obra_dinn_cover.png
     name: "cover-image"
 
-
+disclaimerReviewCopy: default
+infoBox:
+  data: '2018-10-18'
+  gen: [Adventure, Puzzle]
+  producator: Lucas Pope
+  platforme: [PC]
+  reviews:
+    metacritic: https://www.metacritic.com/game/pc/return-of-the-obra-dinn
+    opencritic: https://www.opencritic.com/game/1726/return-of-the-obra-dinn
+  cumpara:
+    - [Steam, https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/]
+    - [GOG, https://www.gog.com/game/return_of_the_obra_dinn]
 casetaTehnica:
   concluzie: "Mi-aș fi dorit ca Return of the Obra Dinn să dureze mai mult, dar cine știe, probabil ar fi devenit repetitiv. Altfel, singurele reproșuri pe care i le pot aduce sunt superficialitatea cu care sunt realizate unele personaje și lipsa clarității uneori."
   alternativa:
@@ -77,5 +88,3 @@ Jocul vine cu o grafică originală, având intenția să reproducă estetica jo
 Muzica apare doar în amintirile prin care te perinzi și rezonează destul de bine cu evenimentele la care iei parte. O confruntare cu creaturile va genera automat o melodie ceva mai antrenantă și plină de adrenalină, începutul unei revolte va da naștere unor piese mai tensionate și mai triste, etc. De altfel sunetul este o componentă esențială care face toată aventura să pară una organică. Astfel fiecare pas pe care îl faci va fi urmat de scârțâitul lemnului sau va fi amuțit de răgetul furtunii de pe mare.
 
 În concluzie, Return of the Obra Dinn nu este un adventure pe care îl pot compara cu altele. Abundă în originalitate și îi va oferi multe ore plăcute jucătorului răbdător, care vrea să fie cât mai minuțios și privește toată experiența ca pe una meditativă. Îl recomand cu căldură celor care vor o experiență de detectiv făcută cum trebuie. Dacă m-ar pune cineva să dau exemple de jocuri pe care le consider opere de artă, RotOD ar fi unul dintre acestea. O sinestezie în care logica triumfă, RotOD reprezintă jocul atât intelectualizat cât și distractiv. ■
-
-> Articolul a fost scris în baza unei copii de review oferite de producător.

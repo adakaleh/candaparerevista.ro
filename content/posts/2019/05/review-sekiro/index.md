@@ -5,6 +5,7 @@ date: 2019-05-03
 authors: mahdi
 categories:
     - Review
+    - Featured
 featured: true
 tags:
     - "Sekiro: Shadows Die Twice"
@@ -23,7 +24,19 @@ resources:
 
   - src: images/sekiro-cover.jpg
     name: "feature-image"
-
+disclaimerReviewCopy: Articolul a fost scris în baza unei copii de review oferite de Netzah Game, distribuitorul oficial al Activision în România.
+infoBox:
+  data: '2019-03-22'
+  gen: [Bătăi cu katane]
+  producator: FromSoftware
+  platforme: [PC, PS4, XBox One]
+  reviews:
+    metacritic: https://www.metacritic.com/game/pc/sekiro-shadows-die-twice
+    opencritic: https://opencritic.com/game/6630/sekiro-shadows-die-twice
+  cumpara:
+    - [Steam, https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice/]
+    - [PlayStation Store, https://store.playstation.com/en-us/product/UP0002-CUSA12047_00-SEKIROGAME000001]
+    - [Microsoft Store, https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice/bqd5wrrp2d6q]
 casetaTehnica:
   concluzie: "Sekiro este un alt joc excepțional marca FromSoftware. Puneți mâna pe el dacă sunteți în căutarea unui joc cu atmosferă deosebită și nu vă temeți de provocări."
   alternativa:
@@ -138,5 +151,3 @@ Obișnuiam să judec jocurile după câte un element care avea întâietate în 
 M-am bucurat să constat că Sekiro nu a fost deloc precum acele jocuri lipsite de ritm. Pe parcursul a 60 de ore mi-a menținut viu interesul, fără să înece acțiunea într-o mare de conținut de umplutură și fără să își piardă inspirația până la final. Am regăsit în el scânteia de uimire și nerăbdarea de a vedea „ce se mai întâmplă”. Am regăsit și o maturizare a temelor predilecte ale lui Miyazaki - din nou, fără pretenția de a epata sau a servi pe tavă Mari Adevăruri. Dacă am terminat celelalte Souls-uri cu un sentiment de epuizare și de „nu mai vreau să mai aud de Dark Souls pentru următorul an”, aici am rămas la final cu senzația că vreau mai mult.
 
 Dacă ar fi să îi reproșez ceva, ar fi reciclarea oponenților și a câtorva niveluri. Nu i-ar fi stricat mai multe înfruntări unice și poate încă una sau două locații majore pe care să le putem explora. Dar acestea sunt mărunțișuri și cântăresc mult prea puțin în raport cu tot ce are jocul de oferit. Eu vi-l recomand cu căldură, indiferent dacă ați jucat sau nu celelalte jocuri ale lui Miyazaki. Nu cred că este prea devreme pentru mine să îl pun în fruntea listei scurte pentru Jocul Anului. Ghost of Tsushima - mănușa a fost aruncată. ■
-
-> Articolul a fost scris în baza unei copii de review oferite de **Netzah Game**, distribuitorul oficial al **Activision** în România.

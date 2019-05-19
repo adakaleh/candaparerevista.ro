@@ -10,7 +10,7 @@ tags:
     - ELEX
     - RPG
     - Piranha Bytes
-
+featured: true
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1830
    text: Articolele Comunității
@@ -19,11 +19,11 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1830
 
 resources:
-  - src:
+  - src: images/card.jpg
     name: "card-cover-image"
 
   - src: images/cover.jpg
-    name: "cover-image"
+    name: "feature-image"
 ---
 De-a lungul existenței mele pe internet am mai scris introducerea asta de câteva ori. E răsuflarea nostalgică binecunoscută în rândurile jucătorilor, când îți amintești cu plăcere momente din jocurile tale preferate.
 

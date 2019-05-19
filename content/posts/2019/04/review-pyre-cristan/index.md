@@ -17,14 +17,25 @@ sursa:
    data: 2019-04-03
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2121
-
+featured: true
 resources:
   - src: images/pyre-card.jpg
     name: "card-cover-image"
 
   - src: images/pyre-cover.jpg
-    name: "cover-image"
-
+    name: "feature-image"
+infoBox:
+  data: '2017-07-25'
+  gen: [Visual Novel, Sport, RPG]
+  producator: Supergiant Games
+  platforme: [PC, Linux, Mac, PS4]
+  reviews:
+    metacritic: https://www.metacritic.com/game/pc/pyre
+    opencritic: https://www.opencritic.com/game/4460/pyre
+  cumpara:
+    - [Steam, https://store.steampowered.com/app/462770/Pyre/]
+    - [GOG, https://www.gog.com/game/pyre]
+    - [PlayStation Store, https://store.playstation.com/en-us/product/UP2125-CUSA05441_00-PYREGAME20170000]
 casetaTehnica:
   concluzie: "O poveste excelentă, cu scenariu, dialoguri și personaje superbe. Dacă prindeți și gustul întrecerilor, o alternativă originală la sistemele de luptă din RPG-uri, vă așteaptă o experiență minunată. Iar dacă nu, povestea oricum compensează din plin. Recomand fără rezerve."
 

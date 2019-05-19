@@ -12,7 +12,7 @@ tags:
     - Total War
     - Strategie
     - Creative Assembly
-
+featured: true
 sursa:
    link:
    text: Articolul ar fi trebuit să apară în numărul Level din decembrie 2013.
@@ -27,11 +27,11 @@ download:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=1843
 
 resources:
-  - src:
+  - src: "images/Rome-2-card.jpg"
     name: "card-cover-image"
 
   - src: "images/Rome-2-cover.jpg"
-    name: "cover-image"
+    name: "feature-image"
 
 casetaTehnica:
   nota: 6.8

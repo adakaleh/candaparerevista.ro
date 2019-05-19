@@ -45,9 +45,9 @@ Povestea, deşi simplă, te atrage de la început prin atmosfera de basm orienta
 
 Dispariția ciudată a Iramului, despre care afli că are legătură cu djinii (creaturi din mitologia arabă, aici cu fața „duhului” din lampa lui Aladdin) și o amuletă magică lăsată de mama ta, te scoate de tot din zona de confort. De acum, ești nevoit să străbați în lung și-n lat deșerturile Arabiei pentru a salva regatul de blestemul aruncat asupră-i.
 
-{{< figure-multi
-    "gallery/caravan-2.jpg|O parte dintre misiunile primite constau în transportul de mărfuri. "
-    "gallery/caravan-1.jpg|Au fost folosite nume de orașe antice din Peninsula Arabă. Așezarile sunt frumos desenate, însa nu același lucru se poate spune și despre fețele personajelor. "
+{{< gallery "gallery-1" ""
+    "caravan-2.jpg|O parte dintre misiunile primite constau în transportul de mărfuri. "
+    "caravan-1.jpg|Au fost folosite nume de orașe antice din Peninsula Arabă. Așezarile sunt frumos desenate, însa nu același lucru se poate spune și despre fețele personajelor. "
 >}}
 
 Gameplay-ul propriu-zis nu este deloc complicat. Te deplasezi cu ajutorul unei hărți, pe care orașele apar pe măsură ce afli noi indicii legate de misiunea ta. Comerțul este activitatea de bază: cumperi ieftin, vinzi scump și o iei de la capăt. Tot pe hartă găsești și prețurile mărfurilor din fiecare oraș, astfel încât îți poți face din timp o strategie pentru a minimiza deplasările și maximiza profitul.
@@ -56,9 +56,9 @@ Călătoriile sunt pline de riscuri și peripeții. Se poate întâmpla să îț
 
 Așezările nu sunt doar sursă de profit, ci și de noi misiuni. La cele câteva guilds din oraşe poți crește, contra cost, nivelul personajului. Deşi costisitor, acest upgrade este necesar pentru a dobândi abilități noi, lucru valabil și în cazul eroilor pe care îi poți angaja - ai la dispoziție mercenari, vindecători, iscoade, neguţători sau rogues. Aliații te salvează de la prea multe drumuri şi multe tranzacţii și contează destul de mult în care dintre ei vrei să investești.
 
-{{< figure-multi
-    "gallery/caravan-3.jpg|Ghoulii sunt printre puținii inamici întâlniți în deșert, alături de djini și tâlhari."
-    "gallery/caravan-4.jpg|Sistemul de luptă este identic cu cel de negociere. Primele confruntări sunt însă în dezavantajul personajului tău."
+{{< gallery "gallery-2" ""
+    "caravan-3.jpg|Ghoulii sunt printre puținii inamici întâlniți în deșert, alături de djini și tâlhari."
+    "caravan-4.jpg|Sistemul de luptă este identic cu cel de negociere. Primele confruntări sunt însă în dezavantajul personajului tău."
 >}}
 
 Luptele și negocierile se desfășoară prin intermediul unui mini-joc, un fel de „piatră, foarfece, hârtie” cu zaruri, a căror valoare, combinată cu nivelul abilităţilor tale, trebuie să îţi aducă un punctaj mai mare decât al adversarului. La început te vei confrunta doar cu personaje mai avansate decât tine, aşa că te vei vedea nevoit de multe ori să eviţi lupta şi să te axezi pe comerţ sau pe îndeplinirea unor sarcini care îţi vor ridica nivelul de experienţă pentru a le putea face față. Problema este că, pe măsură ce avansezi în nivel, nu acelaşi lucru se întâmplă și cu adversarii tăi, care încetează în scurt timp să mai reprezinte o provocare.
@@ -67,10 +67,10 @@ Cealaltă problemă a jocului este că te loveşti mereu de aceleaşi 10-12 even
 
 Repetitivitatea și lipsa de noi provocări fac să îți cam scadă interesul de la un anumit punct al jocului, în funcție de cât de repede avansezi în nivel și avere. Povestea ar fi putut face diferența, dar acesta este liniară și își pierde și ea, mai ales în a doua parte a jocului, capacitatea de a te surprinde. Interacțiunea cu personajele centrale este minimă, iar opțiunile de dialog sunt restrânse și cu consecințe limitate ca impact și durată. Scenariul nu ia mai deloc în calcul personajele secundare, iar asta te face să nu îți pese foarte mult de eroii pe care îi conduci. În limita banilor de care dispui, îi poți înlocui cu ușurință.
 
-{{< figure-multi
-    "gallery/caravan-5.jpg|Grafica e bine adaptată temei, prin detaliile arhitecturale, costumația personajelor şi decorul natural."
-    "gallery/caravan-6.jpg|Arhitectura și relieful variază, de la ținuturile arse de soare și dominate de nisip..."
-    "gallery/caravan-7.jpg|... la zonele mai vii şi colorate ale oazelor cu apă și verdeață."
+{{< gallery "gallery-3" ""
+    "caravan-5.jpg|Grafica e bine adaptată temei, prin detaliile arhitecturale, costumația personajelor şi decorul natural."
+    "caravan-6.jpg|Arhitectura și relieful variază, de la ținuturile arse de soare și dominate de nisip..."
+    "caravan-7.jpg|... la zonele mai vii şi colorate ale oazelor cu apă și verdeață."
 >}}
 
 Cu toate acestea, jocul atrage datorită sursei de inspirație şi a accesibilităţii. Grafica în tonuri calde, muzica liniștitoare și atenția pentru detalii în ceea ce privește arhitectura și decorurile reușesc să te introducă destul de bine în atmosfera de aventură în deșert și de exotic oriental și să te țină în fața monitorului până la final, mai ales dacă ești atras de jocurile cu comerț și nu te deranjează puțin grinding.
