@@ -1,6 +1,7 @@
 <!-- Sunt mai multe taxonomii, dar ne intereseaza doar categoriile si tags -->
 <div class="taxonomy-list">
-  {{ range $taxonomyName := slice "categories" "tags" }}
+  <!-- Afisare categorii + tags -->
+  {{/*  {{ range $taxonomyName := slice "categories" "tags" }}
   <h2>{{ $taxonomyName | title }} </h2>
   <section>
     {{ $taxonomy := index $.Site.Taxonomies $taxonomyName }}&#x2F;&nbsp;
@@ -8,5 +9,20 @@
     <a href="{{ "/" | relLangURL}}{{ $taxonomyName }}/{{ $key | urlize }}">{{ $key }}</a> ({{$value.Count}})&nbsp;&#x2F;&nbsp;
     {{ end }}
   </section>
-  {{ end }}
+  {{ end }}  */}}
+
+  <!-- Afisare doar categorii -->
+  <section>
+    {{ $taxonomyName := "categories"}}
+    {{ $taxonomy := index $.Site.Taxonomies $taxonomyName }}
+    {{ range $key, $value := $taxonomy }}
+    <h3><a href="{{ "/" | relLangURL}}{{ $taxonomyName }}/{{ $key | urlize }}">{{ $key | title }}</a> ({{$value.Count}})&nbsp;</h3>
+      <!-- Afisare lista articole din fiecare categorie -->
+      {{/*  <ul>
+        {{ range $value.Pages}}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>  */}}
+    {{ end }}
+  </section>
 </div>

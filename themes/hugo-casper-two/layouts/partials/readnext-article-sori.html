@@ -1,7 +1,8 @@
-<article class="post-card">
-  {{ $isNotBlogCard := ne .Type "blog" }}
+{{ $isBlogCard := eq .Type "blog" }}
+{{ $blogCssClass := cond $isBlogCard "blog" "" }}
+<article class="post-card {{$blogCssClass}}">
 
-  {{ if ($isNotBlogCard) }}
+  {{ if (ne $blogCssClass true) }}
     <!-- ----- Imagine card ----- -->
     <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
     {{if .Params.image}}
@@ -63,6 +64,7 @@
           <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
           <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
         </div>
+        <div class="post-card-reading-time">{{.ReadingTime}}</div>
     </footer>
   </div>
 </article>

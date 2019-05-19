@@ -26,6 +26,7 @@
 * [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 * [ ] De folosit page resources pentru download
 * [ ] Optimizare fonturi (de scos fonturi nefolosite, unicode ranges) - ?
+* [ ] De îmbunătățit paginație (navigation.html) - pus listă page numbers în loc de Page X of Y
 
 ### Documentatie
 * [ ] Info contribuitori git / site map
@@ -33,7 +34,7 @@
 
 ### Functionalitati suplimentare
 * [x] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3)
-* [ ] Galerie de imagini
+* [x] Galerie de imagini
 * [x] RSS limită
 * [ ] RSS improv: adăugare categorie la titlu sau RSS-uri separate
 * [ ] Search

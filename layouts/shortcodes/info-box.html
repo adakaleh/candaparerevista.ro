@@ -1,0 +1,16 @@
+<!-- Partial folosit pentru a introduce în articol o casetă cu informații despre joc.-->
+{{ $data := .Get "data" }}
+{{ $prod := .Get "producator" }}
+{{ $autor := .Get "autor" }}
+{{ $gen := split (.Get "gen") "," }}
+{{ $platforme := split (.Get "platforme") "," }}
+{{ $tempLinkuriMag := split (.Get "cumpara") "|" }}
+{{ $cumpara := apply $tempLinkuriMag "split" "." "," }}
+{{ $metacritic := .Get "metacritic" }}
+{{ $opencritic := .Get "opencritic" }}
+
+{{ $params := (dict "data" $data "producator" $prod "autor" $autor "gen" $gen "platforme" $platforme "cumpara" $cumpara "reviews" (dict "metacritic" $metacritic "opencritic" $opencritic)) }}
+
+<div class="mini-info-box">
+  {{ partial "info-box" $params }}
+</div>

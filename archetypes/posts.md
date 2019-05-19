@@ -60,6 +60,12 @@ sursa:
    text: 
    data:
 
+# (optional) un text în caz că articolul necesită un disclaimer
+# (ex: "Articol scris în baza unei copii de review de la producător”)
+# valorile pot fi `default` (caz în care va fi folosit textul predefinit
+# în config.toml) sau orice alt text, dacă trebuie să fie customizat.
+disclaimerReviewCopy:
+
 # (optional) diverse resurse pentru download, relevante pentru articol
 # trebuie sa fie o structura de tipul
 # `download:`
@@ -68,6 +74,33 @@ sursa:
 # `    link: download/resursa.pdf`  # link relativ catre resursa
 # `    desc: O scurtă descriere a resursei ce poate fi descărcată`
 download:
+
+# (optional) daca e prezent si e true, nu va mai fi afisata 
+# galeria la sfarsitul articolului
+disableGallery:
+
+# (optional) daca disableGallery nu e true, iar acest parametru
+# e prezent si este true, atunci galeria de la sfarsit va fi 
+# afisata in modul vechi (doar thumbs, fara fotorama)
+classicGallery:
+
+# (optional) informatii tehnice minime despre joc sau carte
+# dintre parametrii care pot fi dati, doar `data` este obligatoriu
+# vezi exemplu in [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).
+# `  data: # un string oarecare, nu trebuie să fie în format dată`
+# `  producator: # numele producătorului (pentru jocuri)`
+# `  autor: # numele autorului (pentru cărți)`
+# `  platforme: # o lista în format "[PC , XBOX]"`
+# `  reviews: # linkuri catre paginile de metacritic si/sau opencritic`
+# `    metacritic: https://www.link.url`
+# `    opencritic: https://www.link.url`
+# `  cumpara: # o lista de array-uri cu nume si link, exemplu:` 
+# `    - [Steam, https://store.steampowered.com/app/951440/Volcanoids/]`
+infoBox:
+
+# (optional) caseta-concluzie cu nota, plusuri, minusuri, alternativa;
+# vezi exemplu in [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).
+casetaTehnica:
 
 # (optional) diverse linkuri suplimentare, relevante pentru articol
 # trebuie sa fie o structura de tipul
