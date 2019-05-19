@@ -4,9 +4,9 @@
     <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Previous</span></a>
   {{end}}
 
-  <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
+  {{/*<span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>*/}}
 
-  {{/* "TODO de tratat cazurile cand sunt prea multe pagini" }}
+  {{/* "TODO de tratat cazurile cand sunt prea multe pagini" */}}
   <span class="page-number hide">
     {{ $currentPage := .Paginator.PageNumber }}
     {{ range .Paginator.Pagers}}
@@ -17,7 +17,6 @@
       {{ end }}
     {{end}}
   </span>
-  {{*/}}
 
   {{if .Paginator.HasNext}}
     <a class="last-posts" href="{{ .Paginator.Last.URL }}"> &raquo; </a>
