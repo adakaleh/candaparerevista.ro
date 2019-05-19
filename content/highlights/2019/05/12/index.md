@@ -174,6 +174,7 @@ Linkuri rapide:
 * 9 mai: **Life Is Strange 2 - Episode 3** <sup>([Steam](https://store.steampowered.com/app/895491/Life_is_Strange_2__Episode_3/))</sup>
 * 9 mai: **SiNKR 2** <sup>([Steam](https://store.steampowered.com/app/973220/SiNKR_2/))</sup>
 * 10 mai: **TwinCop** <sup>([Steam](https://store.steampowered.com/app/676930/TwinCop/))</sup>
+* 10 mai: **Snakeybus** <sup>([Steam](https://store.steampowered.com/app/1012560/Snakeybus/))</sup>
 
 ## Prăvălii de jocuri
 
