@@ -46,7 +46,7 @@ summaryLength = 90
 
   # logo site si imagine fundal pentru header
   logo = "/img/car_logo.png"
-  cover       = "/img/site_cover.jpg"
+  cover = "/img/car_cover.jpg"
 
   # dimensiuni pentru resize cover image din cards
   # (resize Height prop.: "x350", resize Width prop.: "350x")

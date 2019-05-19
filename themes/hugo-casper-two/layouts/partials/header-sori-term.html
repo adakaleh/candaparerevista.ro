@@ -1,4 +1,6 @@
-<header class="site-header outer">
+<header class="site-header outer"
+  {{if .Site.Params.cover}} style="background-image: url({{.Site.Params.cover | absURL}}); background-size: cover" {{end}}
+>
   <div class="inner">
 
     {{ partial "site-nav" . }}
