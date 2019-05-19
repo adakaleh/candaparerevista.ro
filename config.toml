@@ -12,7 +12,7 @@ rssLimit = 15
 
 # câte cuvinte să fie afișate în cardurile
 # de pe prima pagină (.Summary)
-summaryLength = 65
+summaryLength = 90
 
 # toate variabilele aici:
 # https://gohugo.io/getting-started/configuration/

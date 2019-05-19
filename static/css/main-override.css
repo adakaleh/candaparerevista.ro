@@ -130,7 +130,7 @@ a {
     }
 
     /* main card content */
-    .home-template .post-feed .first-card .post-card-content {
+    .home-template .post-feed .first-card :not(.blog) .post-card-content {
         /*flex: 0 1 357px;*/
         flex: 0 1 38%;
     }
@@ -144,8 +144,12 @@ a {
         line-height: 1.55em
     }
 
-    .home-template .post-feed .first-card .post-card-content-link {
+    .home-template .post-feed .first-card:not(.blog) .post-card-content-link {
         padding: 0.8em 1.5em 0.5em;
+    }
+
+    .home-template .post-feed .blog.first-card .post-card-content-link {
+        padding: 3em;
     }
 
     /* main card footer */
@@ -350,6 +354,7 @@ a {
   align-items: center;
   justify-content: center;
 }
+
 .blog .post-card-content-link {
   display: flex;
   flex-grow: 1;
@@ -358,6 +363,7 @@ a {
   /* centreaza elementele pe orizontala, daca vrem pentru titlu */
   align-items: center;
   color: #000;
+  padding: 1.5em;
 }
 
 .blog .post-card-content-link .post-card-header {

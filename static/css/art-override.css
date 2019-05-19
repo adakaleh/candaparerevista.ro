@@ -485,6 +485,10 @@ content-ul va ocupa 100% din latime */
     line-height:1.5em;
 }
 
+.read-next-feed .blog .post-card-content-link {
+    padding: 1.5em;
+}
+
 .read-next-feed .blog-post {
     max-width: 47%;
 }

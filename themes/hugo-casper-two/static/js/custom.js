@@ -5,4 +5,10 @@ $(document).ready(function () {
     $.each(modules, function (index, module) {
         $clamp(module, {clamp: 6});
     });
+
+    var modulesDouble = document.getElementsByClassName("js-text-clamp-double");
+
+    $.each(modulesDouble, function (index, module) {
+        $clamp(module, {clamp: 12});
+    });
 });

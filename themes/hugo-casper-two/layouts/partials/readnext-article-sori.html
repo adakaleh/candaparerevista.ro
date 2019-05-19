@@ -1,7 +1,8 @@
-<article class="post-card">
-  {{ $isNotBlogCard := ne .Type "blog" }}
+{{ $isBlogCard := eq .Type "blog" }}
+{{ $blogCssClass := cond $isBlogCard "blog" "" }}
+<article class="post-card {{$blogCssClass}}">
 
-  {{ if ($isNotBlogCard) }}
+  {{ if (ne $blogCssClass true) }}
     <!-- ----- Imagine card ----- -->
     <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
     {{if .Params.image}}
