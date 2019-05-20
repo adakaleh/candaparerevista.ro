@@ -169,20 +169,31 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
 }
 
 /* imagini articol - figure cu caption */
-.post-full-content figure {
+.post-full-content figure, .fotorama-gallery-title {
     margin-bottom: 1.5em;
 }
 
-.post-full-content figure figcaption {
-    font-weight: 400;
+.post-full-content figure figcaption, .fotorama-gallery-title, .fotorama__caption__wrap {
     font-family: 'Merriweather Sans', sans-serif;
     font-style: italic;
-    color: #3eb0ef;
+    color: rgb(160, 5, 10);
     text-align: center;
     padding: 0 5em;
-    font-size: 1.5rem;
+    font-size: 1.55rem;
     line-height:1.3em;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
+}
+
+.fotorama__caption__wrap {
+    background-color: rgba(0,0,0,.75)!important;
+    padding: 1em 2em!important;
+    font-size: 1.7rem;
+    width: 100%;
+}
+
+.fotorama-gallery-title {
+    font-size: 1.8rem;
+    margin-bottom: 0.2em;
 }
 
 /* imagini articol - multi-figure cu caption */
@@ -406,7 +417,7 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     dar la ultimul articol nu. Dar e ok, primul articol va fi oricum mai vizibil si se mai schimba,
     e mai important sa fie aici corect. */
     justify-content: flex-end;
-
+    margin: 0;
     padding: 2em 0;
 }
 
@@ -474,6 +485,10 @@ content-ul va ocupa 100% din latime */
     line-height:1.5em;
 }
 
+.read-next-feed .blog .post-card-content-link {
+    padding: 1.5em;
+}
+
 .read-next-feed .blog-post {
     max-width: 47%;
 }
@@ -511,14 +526,14 @@ content-ul va ocupa 100% din latime */
 
 /* --- caseta tehnica rating/nota --- */
 
-.caseta-tehnica {
+.caseta-tehnica, .info-box {
     width: 100%;
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 0.9em;
     margin: 2em 0;
 }
 
-.caseta-tehnica-title {
+.caseta-tehnica-title, .info-box-title {
     text-align: center;
     font-weight: bold;
     font-size: 1.5em;
@@ -527,13 +542,17 @@ content-ul va ocupa 100% din latime */
     background-color: rgba(0,0,0,0.7);
 }
 
+.info-box .info-box-item {
+    margin-right: 0.5em;
+}
+
 .nota-plus-minus {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
-.caseta-tehnica-section {
+.caseta-tehnica-section, .info-box-container {
     padding: 1em 0;
     border-bottom: 1px solid rgba(0,0,0,0.7);
 }
@@ -579,6 +598,7 @@ content-ul va ocupa 100% din latime */
 .nota-plus-minus .verdict {
     font-weight: bold;
     font-size: 1.5em;
+    margin-top: 0.5em;
 }
 
 .rating-container ul {
@@ -596,10 +616,28 @@ content-ul va ocupa 100% din latime */
     margin-bottom: 0.3em;
 }
 
-.caseta-tehnica-section .label {
+.caseta-tehnica-section .label, .info-box .label {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+/* info box overrides pentru shortcodes */
+.mini-info-box  {
+    width: 100%;
+    border-top: 1px solid rgba(0,0,0,0.7);
+}
+.mini-info-box .info-box {
+    margin-top: 0;
+    font-size: 0.8em;
+}
+.mini-info-box .info-box-title {
+    display: none;
+}
+
+.mini-info-box .info-box-container {
+    padding: 0.5em 0;
+}
+/* -- end overrides mini-info-box -- */
 
 .pluses li:before,
 .minuses li:before {
@@ -618,4 +656,14 @@ content-ul va ocupa 100% din latime */
     padding: 0 5px 0;
     font-size: 1.1em;
     line-height: 1em;
+}
+
+/* galerie fotorama */
+.fotorama {
+    display: none;
+    width: 100%;
+}
+
+.post-full-content .fotorama-fallback {
+    margin-bottom: 0;
 }

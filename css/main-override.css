@@ -54,6 +54,12 @@ a {
     padding-bottom: 0;
 }
 
+.site-nav .site-nav-separator {
+    padding: 10px 6px;
+    color: #fff;
+    opacity: .8;
+}
+
 .forum-button {
 
 }
@@ -124,7 +130,7 @@ a {
     }
 
     /* main card content */
-    .home-template .post-feed .first-card .post-card-content {
+    .home-template .post-feed .first-card:not(.blog) .post-card-content {
         /*flex: 0 1 357px;*/
         flex: 0 1 38%;
     }
@@ -138,8 +144,12 @@ a {
         line-height: 1.55em
     }
 
-    .home-template .post-feed .first-card .post-card-content-link {
+    .home-template .post-feed .first-card:not(.blog) .post-card-content-link {
         padding: 0.8em 1.5em 0.5em;
+    }
+
+    .home-template .post-feed .blog.first-card .post-card-content-link {
+        padding: 3em;
     }
 
     /* main card footer */
@@ -275,17 +285,36 @@ a {
     font-size: 1.1rem;
 }
 
+.post-card-reading-time {
+    margin-left: auto;
+    align-self: center;
+    color: rgba(128, 128, 128, 0.8);
+    font-size: 1rem;
+
+}
+.post-card-reading-time:after {
+    content: " min";
+}
+
 /*.post-feed article {
   max-height: 400px;
 }*/
 
 /* lista categorii si tags */
-.post-feed .taxonomy-list:first-child {
-    width: 100%;
+.tag-template .post-feed {
+    /* margin default e -20px */
+    margin: 1em 0 0;
 }
 
-.post-feed .taxonomy-list h2 {
-    font-size: 2.8rem;
+.post-feed .taxonomy-list:first-child {
+    width: 80%;
+    /* margin default e -20px */
+    margin: 0 auto;
+}
+
+.post-feed .taxonomy-list h3 {
+    font-size: 1.8rem;
+    display: inline-block;
 }
 
 /* card autori din pagina /authors */
@@ -325,6 +354,7 @@ a {
   align-items: center;
   justify-content: center;
 }
+
 .blog .post-card-content-link {
   display: flex;
   flex-grow: 1;
@@ -333,6 +363,7 @@ a {
   /* centreaza elementele pe orizontala, daca vrem pentru titlu */
   align-items: center;
   color: #000;
+  padding: 1.5em;
 }
 
 .blog .post-card-content-link .post-card-header {
@@ -421,4 +452,30 @@ a {
 
 .blog-post .post-card-date {
     text-align: right;
+}
+
+/* override navigatie jos */
+.first-posts, .newer-posts {
+    position: relative;
+    float: left;
+}
+
+.first-posts {
+    margin-right: 1em;
+}
+
+.last-posts {
+    margin-left: 1em;
+}
+
+.last-posts, .older-posts {
+    position: relative;
+    float: right;
+}
+
+.page-number-current-page {
+    border: #ddd 1px solid;
+    border-radius: 4px;
+    padding: 0.3em;
+    background-color: #fff;
 }

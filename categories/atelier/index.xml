@@ -22,7 +22,8 @@ Partea I: Introducere. Epic Games Launcher
 Partea II: Introducere în Blueprints - nivelul de joc
 Partea III: Introducere în Blueprints - personajele
 Partea IV: Grafică și Audio
- Împachetarea finală Acum, că am terminat dezvoltarea jocului, îl putem împacheta într-un fișier executabil, însă, înainte de asta trebuie să facem câteva modificări.</description>
+ Împachetarea finală Acum, că am terminat dezvoltarea jocului, îl putem împacheta într-un fișier executabil, însă, înainte de asta trebuie să facem câteva modificări.
+În primul rând, este nevoie de o modalitate de a închide jocul. Pentru asta, vom deschide FirstPerson Character și vom adaugă nodul Escape. Legat de el va fi nodul Execute Console Command.</description>
     </item>
     
     <item>
@@ -38,7 +39,7 @@ Partea III: Introducere în Blueprints - personajele
 Partea V: Împachetarea finală și resurse suplimentare
  
 Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului.
-Materiale Fiecare obiect din Unreal Engine 4 are la bază un material.</description>
+Materiale Fiecare obiect din Unreal Engine 4 are la bază un material. Acest material influențează modul în care acesta este vizualizat. Materialele pot avea texturi diferite și grade de reflexie diferită.</description>
     </item>
     
     <item>
@@ -52,7 +53,7 @@ Partea I: Introducere. Epic Games Launcher
 Partea II: Introducere în Blueprints - nivelul de joc
 Partea IV: Grafică și Audio
 Partea V: Împachetarea finală și resurse suplimentare
- Cum să efectuăm o scădere fatală? În seria de jocuri Half-Life, personajul principal, Gordon Freeman, avea un costum menit să îl protejeze de diverse pericole: radiații, acid, electricitate sau extratereștri.</description>
+ Cum să efectuăm o scădere fatală? În seria de jocuri Half-Life, personajul principal, Gordon Freeman, avea un costum menit să îl protejeze de diverse pericole: radiații, acid, electricitate sau extratereștri. Costumul avea o proprietate specială: îl punea pe jucător să aibă grijă de o variabilă numită „HP”.</description>
     </item>
     
     <item>
@@ -67,7 +68,7 @@ Partea III: Introducere în Blueprints - personajele
 Partea IV: Grafică și Audio
 Partea V: Împachetarea finală și resurse suplimentare
  
-Un joc video, spre deosebire de un film, este interactiv. Pentru a realiza mecanicile unui joc în Unreal Engine 4, se poate face programarea cu ajutorul limbajului C++, Blueprints sau amândouă.</description>
+Un joc video, spre deosebire de un film, este interactiv. Pentru a realiza mecanicile unui joc în Unreal Engine 4, se poate face programarea cu ajutorul limbajului C++, Blueprints sau amândouă. Blueprints, spre deosebire de C++, este un sistem de scripting vizual. Aceasta înseamnă că dezvoltatorul jocului, în loc să scrie linii de cod într-un document, creează un grafic format din mai multe noduri.</description>
     </item>
     
     <item>
