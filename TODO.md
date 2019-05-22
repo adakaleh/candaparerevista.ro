@@ -2,7 +2,8 @@
 ### General
 * [ ] De stabilit categorii fixe
 * [ ] Logo - improve
-* [ ] Buton Forum mai proeminent (?)
+* [x] Buton Forum mai proeminent
+* [ ] Pagină credits, cu link în footer - Hugo, Casper, font, imagine fundal etc.
 
 ### Prima pagină
 * [ ] De testat și modificat pentru cazurile cu autor/avatar lipsă sau default
