@@ -155,6 +155,7 @@ Linkuri rapide:
 * 14 mai: **A Plague Tale: Innocence** <sup>([Steam](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/))</sup>
 * 14 mai: **RAGE 2** <sup>([Steam](https://store.steampowered.com/app/548570/RAGE_2/))</sup>
 * 14 mai: **Sniper Elite V2 Remastered** <sup>([Steam](https://store.steampowered.com/app/728740/Sniper_Elite_V2_Remastered/), [gog.com](https://www.gog.com/game/sniper_elite_v2_remastered))</sup>
+* 14 mai: **Sumatra: Fate of Yandi** <sup>([Steam](https://store.steampowered.com/app/610900/Sumatra_Fate_of_Yandi/))</sup>
 * 15 mai: **Druidstone: The Secret of Menhir Forest** <sup>([Steam](https://store.steampowered.com/app/954650/Druidstone_The_Secret_of_the_Menhir_Forest/), [gog.com](https://www.gog.com/game/druidstone_the_secret_of_the_menhir_forest))</sup>
 * 15 mai: **Don't Starve: Hamlet** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/712640/Dont_Starve_Hamlet/))</sup>
 * 15 mai: **Red And The Deadly Sins** (early access) <sup>([Steam](https://store.steampowered.com/app/910380/Red_and_the_Deadly_Sins/))</sup>
@@ -166,6 +167,8 @@ Linkuri rapide:
 * 16 mai: **Alt-Frequencies** <sup>([Steam](https://store.steampowered.com/app/1035050/AltFrequencies/))</sup>
 * 16 mai: **Talisman: Origins** <sup>([Steam](https://store.steampowered.com/app/1033170/Talisman_Origins/))</sup>
 * 16 mai: **Castlevania Anniversary Collection** <sup>([Steam](https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/))</sup>
+* 16 mai: **Alt Frequencies** <sup>([Steam](https://store.steampowered.com/app/1035050/AltFrequencies/))</sup>
+* 17 mai: **Eden Rising** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/345330/Eden_Rising/))</sup>
 
 ## Prăvălii de jocuri
 * [Epic’s store continues to absorb PC gaming exclusives large and small](https://arstechnica.com/gaming/2019/05/epics-store-continues-to-absorb-pc-gaming-exclusives-large-and-small/) <sup>(Ars Technica)</sup>
