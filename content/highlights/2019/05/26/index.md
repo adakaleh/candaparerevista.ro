@@ -5,9 +5,9 @@ date: 2019-05-26
 categories:
     - Highlights
 
-tags: []
+tags: [Sony, Rage 2, No Man's Sky, Morrowind, Tetris 99, Riot Games, Anno 1800, Minecraft, Mortal Kombat, Dreams, Return of the Obra Dinn, Noita, "Pathfinder: Kingmaker", "Shakedown: Hawaii", Metro Exodus, Just Cause, Knights of the Old Republic, Oculus Rift, THQ Nordic, Piranha Bytes, Playdate]
 
-description: ""
+description: "THQ Nordic achiziționează legendarul studio Piranha Bytes, Sony își deschide un studio dedicat pentru ecranizări de jocuri, s-au lansat Total War: Three Kingdoms și Pathologic 2, în curând vom avea o consolă de buzunar cu manivelă, iar pe Steam a început curățenia de primăvară."
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
@@ -19,7 +19,7 @@ resources:
     name: "cover-image"
 ---
 
-<span style='background-color:red'>SUMAR ... </span>
+THQ Nordic achiziționează legendarul studio Piranha Bytes, Sony își deschide un studio dedicat pentru ecranizări de jocuri, s-au lansat Total War: Three Kingdoms și Pathologic 2, în curând vom avea o consolă de buzunar cu manivelă, iar pe Steam a început curățenia de primăvară.
 
 Linkuri rapide:
 
@@ -34,16 +34,22 @@ Linkuri rapide:
 ## Ştiri
 * Sony își face un studio dedicat - PlayStation Productions - pentru a ecraniza jocuri video pentru TV și cinema. <sup>([Destructoid](https://www.destructoid.com/sony-announces-playstation-productions-which-will-adapt-games-to-tv-and-film-in-house-554293.phtml), [VideoGamesChronicle](https://www.videogameschronicle.com/news/playstation-productions-to-adapt-games-for-film-and-tv/), [Games Informer](https://www.gameinformer.com/2019/05/20/playstation-productions-to-bring-sony-interactive-video-game-properties-to-film-tv))</sup>
 * Anunțul de săptămâna trecută privind parteneriatul dintre Sony și Microsoft i-a luat prin surprindere pe cei din echipa PlayStation. <sup>([Bloomberg](https://www.bloomberg.com/news/articles/2019-05-19/sony-s-deal-with-microsoft-blindsided-its-own-playstation-team), [Ars Technica](https://arstechnica.com/gaming/2019/05/report-sony-employees-caught-off-guard-by-microsoft-cloud-partnership/), [PCGamesInsider.biz](http://www.pcgamesinsider.biz/news/69033/report-playstation-team-didnt-know-about-sony-microsoft-cloud-tech-deal-until-announcement/), [VideoGamesChronicle](https://www.videogameschronicle.com/news/playstation-had-to-calm-workers-over-microsoft-cloud-deal/))</sup>
-* Apare un film Just Cause. O casă de producție din Germania a achiziționat drepturile de ecranizare și l-a angat pe scenaristul filmelor John Wick pentru a scrie un scenariu. Filmul va apărea în 2021. <sup>([Variety](https://variety.com/2019/film/news/just-cause-movie-video-game-adaptation-1203221927/), [VideoGamesChronicle](https://www.videogameschronicle.com/news/john-wick-creator-writing-just-cause-movie/), [Games Informer](https://www.gameinformer.com/gamer-culture/2019/05/22/john-wick-creator-heading-up-a-just-cause-film-adaptation))</sup>
-* <sup>([Destructoid](https://www.destructoid.com/the-oculus-quest-and-oculus-rift-s-are-out-today-554383.phtml))</sup>
+* Apare un film **Just Cause**. O casă de producție din Germania a achiziționat drepturile de ecranizare și l-a angajat pe scenaristul filmelor John Wick pentru a scrie un scenariu. Filmul va apărea în 2021. <sup>([Variety](https://variety.com/2019/film/news/just-cause-movie-video-game-adaptation-1203221927/), [VideoGamesChronicle](https://www.videogameschronicle.com/news/john-wick-creator-writing-just-cause-movie/), [Games Informer](https://www.gameinformer.com/gamer-culture/2019/05/22/john-wick-creator-heading-up-a-just-cause-film-adaptation))</sup>
+* Deși nu a fost anunțat încă oficial, umblă vorba în târg că și **Knights Of The Old Republic** va avea parte de o ecranizare. <sup>([BuzzFeed](https://www.buzzfeednews.com/article/kateaurthur/new-star-wars-movie-knights-of-the-old-republic), [ShackNews](https://www.shacknews.com/article/111904/knights-of-the-old-republic-movies-rumored-to-be-going-forward), [US Gamer](https://www.usgamer.net/articles/report-star-wars-knights-of-the-old-republic-film-adaptation-already-has-a-script))</sup>
+* S-au lansat Oculus Quest și Oculus Rift S, noile modele performante de Oculus Rift VR. <sup>([Destructoid](https://www.destructoid.com/the-oculus-quest-and-oculus-rift-s-are-out-today-554383.phtml))</sup>
 * THQ Nordic cumpără celebra companie Piranha Bytes. <sup>([PC Gamer](https://www.pcgamer.com/thq-nordic-acquires-gothic-and-risen-developer/), [DSOGaming ](https://www.dsogaming.com/news/thq-nordic-has-48-unannounced-games-under-development-4a-games-working-on-a-new-triple-a-game/), [Eurogamer](https://www.eurogamer.net/articles/2019-05-22-thq-nordic-acquires-gothic-creator-piranha-bytes), [RPS](https://www.rockpapershotgun.com/2019/05/22/thq-nordic-buy-piranha-bytes/))</sup>. În altă ordine de idei, THQ Nordic a anunțat că are 80 de jocuri în curs de dezvoltare, din care 48 încă nu au fost dezvăluite. <sup>([Games Informer](https://www.gameinformer.com/2019/05/22/thq-nordic-currently-has-80-games-in-development), [PC Gamer](https://www.pcgamer.com/thq-nordic-has-nearly-50-unannounced-games-in-development/), [Shacknews](https://www.shacknews.com/article/111882/thq-nordic-has-80-games-in-active-development-right-now))</sup>
-* O companie anunță o nouă consolă mobilă ce evocă vechile GameBoy. Compania se numește Panic și sunt cei care se ocupă de publishing pentru jocurile **Firewatch** și **Untitled Goose Game**. Iar dispozitivul mobil se numește Playdate și are și o manivelă. Și e galbenă. :) <sup>([Eurogamer](https://www.eurogamer.net/articles/2019-05-23-playdate-is-a-quirky-new-handheld-with-some-great-indie-designers-onboard-and-it-has-a-crank), [Destructoid](https://www.destructoid.com/playdate-is-a-funky-mini-gaming-handheld-slated-for-2020-554531.phtml), [Kotaku](https://kotaku.com/the-people-who-published-firewatch-are-now-making-a-gam-1834958316), [Shacknews](https://www.shacknews.com/article/111870/what-is-the-panic-playdate-handheld-gaming-system), [The Verge](https://www.theverge.com/circuitbreaker/2019/5/22/18628360/playdate-panic-teenage-engineering-qwop-katamari), [Variety](https://variety.com/2019/gaming/news/playdate-announce-1203224422/))</sup>
+* O companie anunță o nouă consolă mobilă ce evocă vechile GameBoy. Compania se numește Panic și sunt cei care se ocupă de publishing pentru jocurile **Firewatch** și **Untitled Goose Game**. Iar dispozitivul mobil se numește Playdate și are și o manivelă. Și e galben. :) <sup>([Eurogamer](https://www.eurogamer.net/articles/2019-05-23-playdate-is-a-quirky-new-handheld-with-some-great-indie-designers-onboard-and-it-has-a-crank), [Destructoid](https://www.destructoid.com/playdate-is-a-funky-mini-gaming-handheld-slated-for-2020-554531.phtml), [Kotaku](https://kotaku.com/the-people-who-published-firewatch-are-now-making-a-gam-1834958316), [Shacknews](https://www.shacknews.com/article/111870/what-is-the-panic-playdate-handheld-gaming-system), [The Verge](https://www.theverge.com/circuitbreaker/2019/5/22/18628360/playdate-panic-teenage-engineering-qwop-katamari), [Variety](https://variety.com/2019/gaming/news/playdate-announce-1203224422/))</sup>
+* Dependența de jocuri a fost recunoscută oficial ca boală de către Organizația Mondială a Sănătății. Clasificarea va intra în vigoare începând cu 1 ianuarie 2022. <sup>([VGC](https://www.videogameschronicle.com/news/game-addiction-officially-recognised-as-disease/))</sup>
 
 
 ## Articole (critică, dev, design)
 
 * [The state of singleplayer games in 2019 so far](https://www.pcgamer.com/the-state-of-singleplayer-games-in-2019-so-far/) <sup>(PC Gamer)</sup>
 * [Fortnite is basically a giant, endless advertisement now](https://www.polygon.com/2019/5/23/18635920/fortnite-jumpman-john-wick-marvel-brand-advertisement) <sup>(Polygon)</sup>
+* [Why devs make merchandise and what it costs them](https://www.pcgamer.com/why-devs-make-merchandise-and-what-it-costs-them/) <sup>(PC Gamer)</sup>
+* [Games that ask: what are cities?](https://www.eurogamer.net/articles/2019-05-25-games-that-ask-what-are-cities) <sup>(Eurogamer)</sup>
+* [Why 2019 has thus far been an underwhelming year for games](https://www.usgamer.net/articles/why-2019-has-thus-far-been-a-year-to-forget-for-gaming) <sup>(US Gamer)</sup>
+* [Technicolor dystopias: why the colorful wastelands of Rage 2, Far Cry New Dawn, and Fallout 76 are suddenly popular](https://www.usgamer.net/articles/technicolor-dystopias-feature-colorful-wastelands-rage-2-far-cry-new-dawn-fallout-76) <sup>(US Gamer)</sup>
 
 ---
 
@@ -52,6 +58,7 @@ Linkuri rapide:
 * [Report: Sony leads a cloud gaming market that will hit $2.5B by 2023](https://gamedaily.biz/article/882/report-sony-leads-a-cloud-gaming-market-that-will-hit-25b-by-2023-ihs-markit) <sup>(GameDaily.biz)</sup>
 * [Why the quirky Playdate portable could succeed where Ouya failed](https://arstechnica.com/gaming/2019/05/why-the-quirky-playdate-portable-could-succeed-where-ouya-failed/) <sup>(Ars Technica)</sup>
 * [Video Games Should Be Weirder](https://kotaku.com/video-games-should-be-weirder-1834991545) <sup>(Kotaku)</sup>
+* [What will Playstation Productions mean for video game movies](https://www.usgamer.net/articles/what-will-playstation-productions-mean-for-video-game-movies) <sup>(US Gamer)</sup>
 
 ---
 
@@ -63,6 +70,7 @@ Linkuri rapide:
 * [Dreams becomes reality: the game that can make an artist out of anyone](https://www.theguardian.com/games/2019/may/23/dreams-becomes-reality-the-game-that-can-make-an-artist-out-of-anyone) <sup>(The Guardian)</sup>
 * [&#8216;Tetris 99&#8217; Is a Maelstrom of Industry Trends](https://variety.com/2019/gaming/columns/tetris-99-is-a-maelstrom-of-industry-trends-1203224469/) <sup>(Variety)</sup>
 * [Shakedown: Hawaii Shows Why Capitalism Sucks](https://unwinnable.com/2019/05/22/shakedown-hawaii-shows-why-capitalism-sucks/) <sup>(Unwinnable)</sup>
+* [Why Valve making its own auto chess is a big deal](https://www.usgamer.net/articles/why-valve-making-its-own-auto-chess-is-a-big-deal) <sup>(US Gamer)</sup>
 
 ---
 
@@ -75,7 +83,7 @@ Linkuri rapide:
 * [Why Anno 1800 became the fastest-selling entry in the 21-year-old franchise](https://www.pcgamesinsider.biz/success-story/69049/why-anno-1800-became-the-fastest-selling-entry-in-the-21-year-old-franchise/) <sup>(PCGamesInsider.biz)</sup>
 * [The accidental authenticity of Devolver Digital](https://www.gamesindustry.biz/articles/2019-05-21-the-accidental-authenticity-of-devolver-digital) <sup>(GamesIndustry.biz)</sup>
 * [Inside Station F: The grander ambitions of Ubisoft](https://www.gamesindustry.biz/articles/2019-05-21-inside-station-f-the-grander-ambitions-of-ubisoft) <sup>(GamesIndustry.biz)</sup>
-
+* [$1.2bn and almost six years later: How Microsoft supports indies with ID@Xbox and Game Pass](https://www.pcgamesinsider.biz/industry-icon/69058/12bn-and-almost-six-years-later-how-microsoft-supports-indies-with-idxbox-and-game-pass/) <sup>(PC Games Insider)</sup>
 ---
 
 ### Istorie, retrospectivă
@@ -98,14 +106,9 @@ Linkuri rapide:
 * [Broken Landscapes](https://www.slowrun.me/2019/05/broken-landscapes.html) <sup>(SlowRun)</sup>
 * [An Unfair Fight](https://kotaku.com/an-unfair-fight-1834739245) <sup>(Kotaku)</sup>
 
-
-## Made în România
-
-* <span style='background-color:red'>Știre despre Nordic Conf.</span>
-
-
 ## Anunţuri şi lansări de jocuri
 * [Human Head's Viking RPG Rune renamed again, will be an Epic exclusive at launch](https://www.pcgamer.com/human-heads-viking-rpg-rune-renamed-again-will-be-an-epic-exclusive-at-launch/) <sup>(PC Gamer)</sup>
+* [The Next Call of Duty Is Called Modern Warfare (Yep, Really)](https://kotaku.com/the-next-call-of-duty-is-called-modern-warfare-yep-re-1835007019) <sup>(Kotaku)</sup>
 
 ### Anunţate
 * **Grid**, un reboot al seriei <sup>([Destructoid](https://www.destructoid.com/codemasters-announces-a-grid-reboot-set-for-september-release-554394.phtml))</sup>
@@ -113,6 +116,11 @@ Linkuri rapide:
 * **Tiny Metal: Full Metal Rumble** <sup>([RPS](https://www.rockpapershotgun.com/2019/05/22/tiny-metal-full-metal-rumble-deploys-on-pc-later-this-year/))</sup>
 * **Baldo** <sup>([Destructoid](https://www.destructoid.com/where-s-baldo-he-s-in-a-new-game-that-looks-like-zelda-and-ni-no-kuni-554459.phtml))</sup>
 * **Art of Rally** <sup>([PC Gamer](https://www.pcgamer.com/art-of-rally-is-a-stylized-racing-game-from-the-maker-of-absolute-drift/))</sup>
+* **MythBusters: The Game** <sup>([GameReactor](https://www.gamereactor.eu/news/765693/))</sup>
+* **Arma 3: Contact**, un expansion cu extratereștri <sup>([Polygon](https://www.polygon.com/2019/5/24/18637808/arma-3-contact-spinoff-expansion-aliens))</sup>
+* **Blaster Master Zero** vine și pe PC <sup>([Destructoid](https://www.destructoid.com/blaster-master-zero-blasts-onto-steam-next-month-554739.phtml))</sup>
+* **Travis Strikes Again** va ajunge și pe Steam și PS4 <sup>([PC Gamer](https://www.pcgamer.com/travis-strikes-again-no-more-heroes-is-coming-to-steam/))</sup>
+* **Pathfinder: Kingmaker** va fi relansat pe 6 iunie ca Enhanced Edition, împreună cu următorul DLC, **Beneath the Stolen Lands** <sup>([PC Gamer](https://www.pcgamer.com/pathfinder-kingmaker-is-getting-an-enhanced-edition-in-june/))</sup>
 
 ### Acum cu dată de lansare
 * **Outer Wilds**: 30 mai <sup>([GameSpace](https://www.gamespace.com/all-articles/news/outer-wilds-coming-to-xbox-one-and-pc-via-epic-games-store-on-may-30/))</sup>
@@ -135,6 +143,9 @@ Linkuri rapide:
 * 23 mai: **Conglomerate 451** (early access) <sup>([Steam](https://store.steampowered.com/app/1022710/Conglomerate_451/))</sup>
 * 23 mai: **Pathologic 2** <sup>([Steam](https://store.steampowered.com/app/505230/Pathologic_2/), [gog.com](https://www.gog.com/game/pathologic_2))</sup>
 * 24 mai: **XERA: Survival** (early access) <sup>([Steam](https://store.steampowered.com/app/625340/XERA_Survival/))</sup>
+* 24 mai: **Steambirds Alliance Beta** <sup>([Steam](https://store.steampowered.com/app/1047410/Steambirds_Alliance_Beta/))</sup>
+* 24 mai: **Splitgate: Arena Warfare** <sup>([Steam](https://store.steampowered.com/app/677620/Splitgate_Arena_Warfare/))</sup>
+
 
 ## Prăvălii de jocuri
 
@@ -159,6 +170,8 @@ Linkuri rapide:
 
 ### Reduceri și promoții
 * [Classic Xbox games discounted at Microsoft in a huge Backward Compatible Sale](https://www.polygon.com/deals/2019/5/21/18634472/xbox-backward-compatible-sale-best-deals-one-360-red-dead-redemption) <sup>(Polygon)</sup>
+* [Best PC gaming deals of the week - 24th May 2019](https://www.rockpapershotgun.com/2019/05/24/best-pc-gaming-deals-of-the-week-24th-may-2019/) <sup>(RPS)</sup>
+* [Steam is challenging us to clear out our backlogs](https://www.destructoid.com/steam-is-challenging-us-to-clear-out-our-backlogs-554783.phtml) <sup>(Destructoid)</sup>
 
 ---
 
