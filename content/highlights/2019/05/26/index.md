@@ -25,7 +25,6 @@ Linkuri rapide:
 
 * [Știri](#ştiri)
 * [Articole (critică, dev, design)](#articole-critică-dev-design)
-* [Made în România](#made-în-românia)
 * [Anunţuri şi lansări de jocuri](#anunţuri-şi-lansări-de-jocuri)
 * [Prăvălii de jocuri](#prăvălii-de-jocuri)
 
@@ -39,7 +38,7 @@ Linkuri rapide:
 * S-au lansat Oculus Quest și Oculus Rift S, noile modele performante de Oculus Rift VR. <sup>([Destructoid](https://www.destructoid.com/the-oculus-quest-and-oculus-rift-s-are-out-today-554383.phtml))</sup>
 * THQ Nordic cumpără celebra companie Piranha Bytes. <sup>([PC Gamer](https://www.pcgamer.com/thq-nordic-acquires-gothic-and-risen-developer/), [DSOGaming ](https://www.dsogaming.com/news/thq-nordic-has-48-unannounced-games-under-development-4a-games-working-on-a-new-triple-a-game/), [Eurogamer](https://www.eurogamer.net/articles/2019-05-22-thq-nordic-acquires-gothic-creator-piranha-bytes), [RPS](https://www.rockpapershotgun.com/2019/05/22/thq-nordic-buy-piranha-bytes/))</sup>. În altă ordine de idei, THQ Nordic a anunțat că are 80 de jocuri în curs de dezvoltare, din care 48 încă nu au fost dezvăluite. <sup>([Games Informer](https://www.gameinformer.com/2019/05/22/thq-nordic-currently-has-80-games-in-development), [PC Gamer](https://www.pcgamer.com/thq-nordic-has-nearly-50-unannounced-games-in-development/), [Shacknews](https://www.shacknews.com/article/111882/thq-nordic-has-80-games-in-active-development-right-now))</sup>
 * O companie anunță o nouă consolă mobilă ce evocă vechile GameBoy. Compania se numește Panic și sunt cei care se ocupă de publishing pentru jocurile **Firewatch** și **Untitled Goose Game**. Iar dispozitivul mobil se numește Playdate și are și o manivelă. Și e galben. :) <sup>([Eurogamer](https://www.eurogamer.net/articles/2019-05-23-playdate-is-a-quirky-new-handheld-with-some-great-indie-designers-onboard-and-it-has-a-crank), [Destructoid](https://www.destructoid.com/playdate-is-a-funky-mini-gaming-handheld-slated-for-2020-554531.phtml), [Kotaku](https://kotaku.com/the-people-who-published-firewatch-are-now-making-a-gam-1834958316), [Shacknews](https://www.shacknews.com/article/111870/what-is-the-panic-playdate-handheld-gaming-system), [The Verge](https://www.theverge.com/circuitbreaker/2019/5/22/18628360/playdate-panic-teenage-engineering-qwop-katamari), [Variety](https://variety.com/2019/gaming/news/playdate-announce-1203224422/))</sup>
-* Dependența de jocuri a fost recunoscută oficial ca boală de către Organizația Mondială a Sănătății. Clasificarea va intra în vigoare începând cu 1 ianuarie 2022. <sup>([VGC](https://www.videogameschronicle.com/news/game-addiction-officially-recognised-as-disease/))</sup>
+* Dependența de jocuri a fost recunoscută oficial ca boală de către Organizația Mondială a Sănătății. Clasificarea va intra în vigoare începând cu 1 ianuarie 2022. <sup>([VGC](https://www.videogameschronicle.com/news/game-addiction-officially-recognised-as-disease/), [Shacknews](https://www.shacknews.com/article/111908/who-labels-gaming-disorder-an-addiction-related-illness), [Games Informer](https://www.gameinformer.com/2019/05/25/world-health-organization-classifies-game-addiction-as-a-behavioral-disease), [Polygon](https://www.polygon.com/2019/5/25/18639893/gaming-disorder-addiction-world-health-organization-who-icd-11), [Kotaku](https://kotaku.com/gaming-disorder-now-a-recognized-illness-according-to-1835026321), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2019-05-25-world-health-organisation-makes-gaming-disorder-a-recognised-illness))</sup>
 
 
 ## Articole (critică, dev, design)
@@ -71,6 +70,7 @@ Linkuri rapide:
 * [&#8216;Tetris 99&#8217; Is a Maelstrom of Industry Trends](https://variety.com/2019/gaming/columns/tetris-99-is-a-maelstrom-of-industry-trends-1203224469/) <sup>(Variety)</sup>
 * [Shakedown: Hawaii Shows Why Capitalism Sucks](https://unwinnable.com/2019/05/22/shakedown-hawaii-shows-why-capitalism-sucks/) <sup>(Unwinnable)</sup>
 * [Why Valve making its own auto chess is a big deal](https://www.usgamer.net/articles/why-valve-making-its-own-auto-chess-is-a-big-deal) <sup>(US Gamer)</sup>
+* [It's Time to Celebrate The Witcher 3's Yennefer as One of Gaming's Most Complex Women](https://www.pastemagazine.com/articles/2019/05/its-time-to-celebrate-the-witcher-3s-yennefer-as-o.html) <sup>(Paste)</sup>
 
 ---
 
@@ -84,6 +84,7 @@ Linkuri rapide:
 * [The accidental authenticity of Devolver Digital](https://www.gamesindustry.biz/articles/2019-05-21-the-accidental-authenticity-of-devolver-digital) <sup>(GamesIndustry.biz)</sup>
 * [Inside Station F: The grander ambitions of Ubisoft](https://www.gamesindustry.biz/articles/2019-05-21-inside-station-f-the-grander-ambitions-of-ubisoft) <sup>(GamesIndustry.biz)</sup>
 * [$1.2bn and almost six years later: How Microsoft supports indies with ID@Xbox and Game Pass](https://www.pcgamesinsider.biz/industry-icon/69058/12bn-and-almost-six-years-later-how-microsoft-supports-indies-with-idxbox-and-game-pass/) <sup>(PC Games Insider)</sup>
+
 ---
 
 ### Istorie, retrospectivă
@@ -92,6 +93,7 @@ Linkuri rapide:
 * [War Stories: Lucas Pope and what almost sank Return of the Obra Dinn](https://arstechnica.com/gaming/2019/05/war-stories-lucas-pope-and-what-almost-sunk-return-of-the-obra-dinn/) <sup>(Ars Technica)</sup>
 * [After Nearly 40 Years, Video Games Still Don&#39;t Do Lord Of The Rings Justice](https://kotaku.com/after-nearly-40-years-video-games-still-dont-do-lord-o-1834901260) <sup>(Kotaku)</sup>
 * [Mortal Kombat began something special: the idea of fighting games with lore](https://www.polygon.com/2019/5/23/18634304/mortal-kombat-lore-story-history-arcafe-comics) <sup>(Polygon)</sup>
+* [Taking A Look(ing Glass) at Thief: Deadly Shadows... 15 Years Later](https://www.gamasutra.com/blogs/MichelSabbagh/20190524/341158/Taking_A_Looking_Glass_at_Thief_Deadly_Shadows_15_Years_Later.php) <sup>(Gamasutra)</sup>
 
 ---
 
@@ -99,6 +101,7 @@ Linkuri rapide:
 * [The Noita devs on how to make a fun game when everything is falling](https://www.rockpapershotgun.com/2019/05/23/the-noita-devs-on-how-to-make-a-fun-game-when-everything-is-falling/) <sup>(RPS)</sup>
 * [Game Design Deep Dive: Re-imagining the double-jump in  The Messenger](https://www.gamasutra.com/view/news/343113/Game_Design_Deep_Dive_Reimagining_the_doublejump_in_The_Messenger.php) <sup>(Gamasutra)</sup>
 * [Game Design Deep Dive: Environmental storytelling in  Generation Zero](https://www.gamasutra.com/view/news/342811/Game_Design_Deep_Dive_Environmental_storytelling_in_Generation_Zero_.php) <sup>(Gamasutra)</sup>
+* [Designing for horror and hope in  A Plague Tale: Innocence](https://www.gamasutra.com/view/news/343184/Designing_for_horror_and_hope_in_A_Plague_Tale_Innocence.php) <sup>(Gamasutra)</sup>
 
 ---
 
@@ -142,10 +145,11 @@ Linkuri rapide:
 * 23 mai: **Total War: Three Kingdoms** <sup>([Steam](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/))</sup>
 * 23 mai: **Conglomerate 451** (early access) <sup>([Steam](https://store.steampowered.com/app/1022710/Conglomerate_451/))</sup>
 * 23 mai: **Pathologic 2** <sup>([Steam](https://store.steampowered.com/app/505230/Pathologic_2/), [gog.com](https://www.gog.com/game/pathologic_2))</sup>
+* 23 mai: **Project Winter** <sup>([Steam](https://store.steampowered.com/app/774861/Project_Winter/))</sup>
+* 23 mai: **S.W.I.N.E. HD Remaster** <sup>([Steam](https://store.steampowered.com/app/944010/SWINE_HD_Remaster/))</sup>
 * 24 mai: **XERA: Survival** (early access) <sup>([Steam](https://store.steampowered.com/app/625340/XERA_Survival/))</sup>
 * 24 mai: **Steambirds Alliance Beta** <sup>([Steam](https://store.steampowered.com/app/1047410/Steambirds_Alliance_Beta/))</sup>
 * 24 mai: **Splitgate: Arena Warfare** <sup>([Steam](https://store.steampowered.com/app/677620/Splitgate_Arena_Warfare/))</sup>
-
 
 ## Prăvălii de jocuri
 
