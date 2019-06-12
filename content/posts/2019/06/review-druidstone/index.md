@@ -1,14 +1,12 @@
 ---
-title: "Druidstone"
+title: "Druidstone: The Secret of the Menhir Forest"
 type: post
 date: 2019-06-13
-authors: TG
+authors: tg
 categories:
     - Review
 tags:
-    - Druidstone
-
-draft: true
+    - "Druidstone: The Secret of the Menhir Forest"
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2148
@@ -17,17 +15,18 @@ sursa:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2148
 
-disclaimerReviewCopy: Articolul a fost scris în baza unei copii de review oferite de producătorul jocului.
+disclaimerReviewCopy: default
 
 resources:
-  - src: images/druidstone-card.jpg
+  - src:
     name: "card-cover-image"
 
   - src: images/druidstone-cover.jpg
     name: "cover-image"
+
 infoBox:
   data: '2019-05-15'
-  gen: [RPG/Strategy/Adventure]
+  gen: [RPG, Strategy, Adventure]
   producator: Ctrl Alt Ninja
   platforme: [PC]
   reviews:
@@ -40,7 +39,7 @@ infoBox:
 
 ---
 
-În 2012, înainte ca toate drumurile să fie pline de indie-uri și kickstartere care profită de nostalgia jucătorilor, Almost Human, un studio finlandez format din numai patru persoane, lansa Legend of Grimrock. Un blobber care s-a bucurat de un succes neașteptat de mare, ce avea să fie o adevărată premoniție pentru următoarele valuri de producători mici și mari care concurează astăzi pentru atenția noastră, pe scena independentă. Ce treabă are asta cu Druidstone: The Secret of the Menhir Forest? Între timp, o parte din Almost Human s-a desprins, formând un nou studio: "Ctrl Alt Ninja", și se face că s-au gândit să debuteze cu un hibrid RPG - TBS - Puzzle.
+În 2012, înainte ca toate drumurile să fie pline de indie-uri și kickstartere care profită de nostalgia jucătorilor, Almost Human, un studio finlandez format din numai patru persoane, lansa Legend of Grimrock. Un _blobber_ care s-a bucurat de un succes neașteptat de mare, ce avea să fie o adevărată premoniție pentru următoarele valuri de producători mici și mari care concurează astăzi pentru atenția noastră, pe scena independentă. Ce treabă are asta cu Druidstone: The Secret of the Menhir Forest? Între timp, o parte din Almost Human s-a desprins, formând un nou studio: "Ctrl Alt Ninja", și se face că s-au gândit să debuteze cu un hibrid RPG - TBS - Puzzle.
 
 Ușor de remarcat că vorbim despre un indie veritabil aici: echipa de opt oameni, nume de studio amuzant și titlu de joc ales probabil după vreo șase beri, nu de un departament de marketing. Mai mult, cine și-ar forma o opinie despre joc doar pe baza pozelor sau informațiilor oferite de producători, ar putea fi puțin cam... nemotivați să-l încerce. La o adică, nu mai suntem în 2012, e foarte posibil să găsești și în mâncarea de la restaurant vreun indie cu elemente de puzzle și RPG. Eu unul, venind abia trecut prin Sekiro, eram pregătit pentru o experiență relaxantă în compania unui joc pe ture, frumos colorat.
 
