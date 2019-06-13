@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Druidstone: The Secret of the Menhir Forest</title>
+      <link>https://candaparerevista.ro/posts/2019/06/review-druidstone/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/06/review-druidstone/</guid>
+      <description>În 2012, înainte ca toate drumurile să fie pline de indie-uri și kickstartere care profită de nostalgia jucătorilor, Almost Human, un studio finlandez format din numai patru persoane, lansa Legend of Grimrock. Un blobber care s-a bucurat de un succes neașteptat de mare, ce avea să fie o adevărată premoniție pentru următoarele valuri de producători mici și mari care concurează astăzi pentru atenția noastră, pe scena independentă. Ce treabă are asta cu Druidstone: The Secret of the Menhir Forest? Între timp, o parte din Almost Human s-a desprins, formând un nou studio: &amp;ldquo;Ctrl Alt Ninja&amp;rdquo;, și se face că s-au gândit să debuteze cu un hibrid RPG - TBS - Puzzle.</description>
+    </item>
     
     <item>
       <title>State of Mind</title>
@@ -142,16 +151,6 @@ Ceea ce ne aduce la jocul despre care voi vorbi puțin azi, Pool Panic.</descrip
       <guid>https://candaparerevista.ro/posts/2018/10/review-scrapland-fular/</guid>
       <description>La capătul a douăzeci de ore mă găsii pe platforma spațioportului luându-mi la revedere de la noii prieteni, pretextându-le că am nevoie de o schimbare de peisaj. Chimera nu mai prezenta o curiozitate pentru mine, iar cele câteva challenge-uri secundare nu-mi dădură imboldul necesar să le duc la capăt având în vedere că deja știam ce recompensă mă aștepta la finalul lor.
 Scrapland poate fi cel mai lesne descris ca un GTA3 cu roboți, așa cum le-am spus tuturor celor care au reacționat cu un „Huh?” când am menționat titlul jocului.</description>
-    </item>
-    
-    <item>
-      <title>Superhot</title>
-      <link>https://candaparerevista.ro/posts/2018/10/review-superhot-nervozix/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/10/review-superhot-nervozix/</guid>
-      <description>Superhot mi-a atras atenția încă din stadiul de prototip, cândva prin 2013. Pe atunci jocul era accesat din browser și avea doar trei nivele. Câțiva ani mai târziu și puțin efort au dus la produsul de față, cuplând cu o picătură de world-building și un fir narativ mecanica principală din prototip, clar transmisă de deviza jocului – “time moves when you move”.
-Modul în care percepem timpul a fost subiect de joacă pentru multe titluri, de la jocuri third-person precum clasicul Max Payne sau Prince of Persia: The Sands of Time, până la FPS-uri ca F.</description>
     </item>
     
   </channel>
