@@ -407,6 +407,10 @@ Noutăți în materie de procesoare și plăci video pentru gameri:
 * [The winners and losers of E3 2019](https://www.videogameschronicle.com/features/the-winners-and-losers-of-e3/) <sup>(VideoGamesChronicle)</sup>
 * [The Actual Winners and Losers of E3 2019](https://www.usgamer.net/articles/the-actual-winners-and-losers-of-e3-2019) <sup>(USgamer)</sup>
 * [PC Gamer's Best of E3 2019 Awards](https://www.pcgamer.com/e3-2019-awards/) <sup>(PC Gamer)</sup>
+* [The biggest disappointments of E3](https://www.pcgamer.com/the-biggest-disappointments-of-e3/) <sup>(PC Gamer)</sup>
+* [E3 2019's most mysterious game reveals](https://www.pcgamer.com/e3-2019-mysterious-games/) <sup>(PC Gamer)</sup>
+* [The 16 best games of E3 2019](https://www.theguardian.com/games/2019/jun/19/the-16-best-games-of-e3-2019) <sup>(The Guardian)</sup>
+* [The hidden gems of E3 2019](https://www.pcgamer.com/e3-hidden-gems-2019/) <sup>(PC Gamer)</sup>
 
 #### Trailers
 * [E3 2019: The Complete E3 Trailer Collection](http://fingerguns.net/games/2019/06/11/e3-2019-the-complete-e3-trailer-collection/) <sup>(Finger Guns)</sup>
@@ -424,6 +428,8 @@ Noutăți în materie de procesoare și plăci video pentru gameri:
 * [E3 2019: the future of video games is complicated](https://www.theguardian.com/games/2019/jun/13/e3-2019-the-future-of-video-games-is-complicated) <sup>(The Guardian)</sup>
 * [E3 2019 killed CG reveal videos](https://venturebeat.com/2019/06/14/e3-2019-killed-cg-reveal-videos/) <sup>(VentureBeat)</sup>
 * [Here&#039;s What Was Missing From E3 2019](https://www.gameinformer.com/e3-2019/2019/06/14/heres-what-was-missing-from-e3-2019) <sup>(Games Informer)</sup>
+* [E3 2019 in photos: Gooigi, crazy arcade machines, and a DOOM museum](https://arstechnica.com/gaming/2019/06/e3-2019-in-photos-gooigi-crazy-arcade-machines-and-a-doom-museum/) <sup>(Ars Technica)</sup>
+* [Don't let ego kill E3](https://www.gamesindustry.biz/articles/2019-06-17-dont-let-ego-kill-e3-opinion) <sup>(GamesIndustry.biz)</sup>
 
 ---
 
