@@ -28,7 +28,7 @@ Linkuri rapide:
 * Duminică, 9 iunie: [Microsoft](#microsoft) | [Bethesda](#bethesda) | [Devolver Digital](#devolver-digital)
 * Luni, 10 iunie: [UploadVR](#uploadvr) | [The PC Gaming Show](#the-pc-gaming-show) | [Limited Run](#limited-run) | [Ubisoft](#ubisoft) | [The Kinda Funny Showcase](#the-kinda-funny-showcase) | [Square Enix](#square-enix)
 * Marți, 11 iunie: [Nintendo](#nintendo)
-* [E3, 11-13 iunie](#e3-11-13-iunie)
+* [E3, 11-13 iunie](#e3-expo)
 
 ![](images/coperta-retrospectiva-2019-06-16-special-e3.jpg)
 
@@ -411,6 +411,7 @@ Noutăți în materie de procesoare și plăci video pentru gameri:
 * [E3 2019's most mysterious game reveals](https://www.pcgamer.com/e3-2019-mysterious-games/) <sup>(PC Gamer)</sup>
 * [The 16 best games of E3 2019](https://www.theguardian.com/games/2019/jun/19/the-16-best-games-of-e3-2019) <sup>(The Guardian)</sup>
 * [The hidden gems of E3 2019](https://www.pcgamer.com/e3-hidden-gems-2019/) <sup>(PC Gamer)</sup>
+* [Final Fantasy VII Remake crowned best game of E3 2019](https://www.videogameschronicle.com/news/final-fantasy-vii-remake-crowned-best-game-of-e3-2019/) <sup>(VideoGamesChronicle)</sup>
 
 #### Trailers
 * [E3 2019: The Complete E3 Trailer Collection](http://fingerguns.net/games/2019/06/11/e3-2019-the-complete-e3-trailer-collection/) <sup>(Finger Guns)</sup>

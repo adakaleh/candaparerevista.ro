@@ -83,6 +83,7 @@ Linkuri rapide:
 * 11 iunie: **American Truck Simulator - Washington** <sup>([Steam](https://store.steampowered.com/app/1015160/American_Truck_Simulator__Washington/))</sup>
 * 13 iunie: **Seeds of Resilience** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/877080/Seeds_of_Resilience/))</sup>
 * 13 iunie: **Naval Action** <sup>([Steam](https://store.steampowered.com/app/311310/Naval_Action/))</sup>
+* 13 iunie: **Overcooked! 2 - Night of the Hangry Horde** <sup>([Steam](https://store.steampowered.com/app/1017510/Overcooked_2__Night_of_the_Hangry_Horde/))</sup>
 * 14 iunie: **Chippy** <sup>([Steam](https://store.steampowered.com/app/602700/Chippy/))</sup>
 * 14 iunie: **Blaster Master Zero** <sup>([Steam](https://store.steampowered.com/app/1034900/Blaster_Master_Zero/))</sup>
 
