@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recomandări Steam Summer Sale 2019</title>
+      <link>https://candaparerevista.ro/posts/2019/07/recomandari-steam-summer-sale-2019/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/07/recomandari-steam-summer-sale-2019/</guid>
+      <description>Steam Summer Sale e în toi. În caz că nu v-a făcut nimic cu ochiul până acum sau dacă aveți rețineri în a cheltui prea mult, s-ar putea ca lista care urmează să vă fie de folos. Am strâns pentru voi ce ni s-a părut mai interesant dintre jocurile scoase la ofertă pe Steam, dar nu neapărat dintre cele mai cunoscute. Cele mai multe dintre ele sunt indie și costă sub 10 euro.
+Și nu uitați și de recomandările de pe pagina noastră Steam Curator, pe care nu le-am mai repetat aici.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 23 - 30 iunie 2019</title>
@@ -165,15 +175,6 @@ DA, TU!
 DĂ CLICK SĂ AFLI CUM!
 CUM M-AM ÎNDRĂGOSTIT LA OFICIU… CE DRACU, MĂ, AI ȘI UITAT?
 Nimeni nu merge la Poștă din prea multă iubire pentru aproapele său. Sau pentru iubire. Nici măcar pentru un articol care i-ar putea aduce Pulitzerul și cel puțin trei cirezi de fani și fane sapiosexuali. Sacrificiul e prea mare. Eu unul prefer să mor un anonim decît să apar la știri într-un reportaj despre omul între două vîrste care a mușcat-o pe dirigintă de mînă, a turbat și acum umblă ca bezmeticul pe străzi tastîndu-și cu un singur deget CNP-ul la o tastatură alfanumerică imaginară.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 5 - 11 mai 2019</title>
-      <link>https://candaparerevista.ro/highlights/2019/05/12/</link>
-      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2019/05/12/</guid>
-      <description>O săptămână plină de evenimente: angajații Riot Games întrerup lucrul în semn de protest, un senator american vrea să interzică loot boxes pentru minori, scandal la Gearbox între CEO-ul Randy Pitchford și fostul actor al lui Claptrap, acuzații de plagiat la Bethesda, investigații de hărțuire sexuală la QuanticDream, studiouri închise și altele. Iar în știri mai pozitive, Sony lansează documentarul making-of despre God of War, vechiul Minecraft e acum gratis, Euro Truck Simulator 2 își plasează noul expansion în România, Titan Quest lansează un nou expansion surpriză, iar Unbound: Worlds Apart dă drumul la Kickstarter.</description>
     </item>
     
   </channel>
