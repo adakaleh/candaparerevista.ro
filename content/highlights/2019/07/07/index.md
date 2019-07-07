@@ -7,7 +7,7 @@ categories:
 
 tags: [Games Done Quick, Alan Wake, Devotion, Nvidia, 'Witcher (Netflix)', City of Heroes, Yakuza, 'Hellblade: Senua’s Sacrifice', Dishonored 2, Paradox, John Wick Hex, Cyberpunk 2077, Roblox, 'Counter-Strike: Global Offensive', Artifact, Borderlands, Sierra Online, Zachtronics, Halo 2, Gato Roboto, Gwent, Shenmue 3, Epic]
 
-description: "Formația Iron Maiden dă în judecată jocul Ion Maiden, AMD și Intel anunță noutăți hardware, în special procesoare, DeepMind AI devine bun și la Quake III, Activision anunță un reboot pentru Call of Duty Modern Warfare, Hideo Kojima ne spune data de lansare pentru Death Stranding, GOG dă drumul la summer sale și avem câteva lansări interesante, printre care Outer Wilds, Void Bastards, Kids, Gato Roboto și românescul Second Hand: Frankie’s Revenge."
+description: "Primele imagini din Witcher ne arată un Geralt cu o singură sabie (ca toată lumea), Franța încearcă să ademenească devii din UK după Brexit, Nvidia lansează o nouă serie de plăci video pentru a putea concura cu AMD, City of Heroes prosperează după moarte, CEO-ul Paradox ne explică de 30% e un comision prea mare pentru Steam, iar Epic plusează la capitolul exclusivități oferindu-se să suporte restiturile de bani către clienții nemulțumiți."
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
