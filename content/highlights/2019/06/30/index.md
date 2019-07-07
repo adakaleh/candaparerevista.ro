@@ -1,5 +1,5 @@
 ---
-title: "Retrospectiva săptămânii 23 - 30 iunie 2019"
+title: "Retrospectiva săptămânii 23 - 29 iunie 2019"
 type: post
 date: 2019-06-30
 categories:
@@ -60,6 +60,7 @@ Linkuri rapide:
 ### _Not-a-review_
 * [Outer Wilds Is One Of The Best Games I&#39;ve Ever Played](https://kotaku.com/outer-wilds-is-one-of-the-best-games-ive-ever-played-1835801654) <sup>(Kotaku)</sup>
 * [Turning Despair Into Laughs With Void Bastards](https://www.gameinformer.com/the-virtual-life/2019/06/26/turning-despair-into-laughs-with-void-bastards) <sup>(Games Informer)</sup>
+* [In the Reflection of a Dying Star: Wonder and Terror in Outer Wilds](https://medium.com/@trevor.d.thomp/in-the-reflection-of-a-dying-star-wonder-and-terror-in-outer-wilds-abaf17277427) <sup>(Medium)</sup>
 
 ---
 

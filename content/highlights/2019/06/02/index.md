@@ -115,7 +115,7 @@ Linkuri rapide:
 * [The Japanese myths and woodblock art behind Sekiro’s creatures](https://www.rockpapershotgun.com/2019/05/31/the-japanese-myths-and-woodblock-art-behind-sekiros-creatures/) <sup>(RPS)</sup>
 * [Oh Pinchy](https://kotaku.com/oh-pinchy-1835053380) <sup>(Kotaku)</sup>
 * [Some Of The Art Behind Game Of Thrones: The Final Season](https://kotaku.com/some-of-the-art-behind-game-of-thrones-the-final-seaso-1835107052) <sup>(Kotaku)</sup>
-
+* [Inside the intricate world of video game cartography](https://www.canadiangeographic.ca/article/inside-intricate-world-video-game-cartography) <sup>(Canadian Geographic)</sup>
 
 ## Made în România
 * Cavaleria.ro publică un video interviu cu cei de la Rikodu despre **Second Hand: Frankie’s Revenge**. <sup>([Cavaleria.ro](https://cavaleria.ro/gaming/video-cum-se-fac-jocurile-video-in-romania-ep-4/))</sup>
