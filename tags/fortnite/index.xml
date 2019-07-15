@@ -6,10 +6,21 @@
     <description>Recent content in Fortnite on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 07:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/tags/fortnite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 7-13 iulie 2019 (&#43; 14 iulie)</title>
+      <link>https://candaparerevista.ro/highlights/2019/07/15/</link>
+      <pubDate>Mon, 15 Jul 2019 07:00:01 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2019/07/15/</guid>
+      <description>Cuphead devine un serial animat adevărat, Nintendo lansează o versiune și mai portabilă a Switch-ului și, într-o lovitură de teatru total așteptată, jocul Ion Maiden își schimbă numele, scandalul G2A are încă ecouri iar Gibbous - A Cthulhu Adventure are dată de lansare.
+Linkuri rapide:
+ Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  În ceea ce este probabil cea mai previzibilă tranziție cu putință, Cuphead devine un serial animat produs de Netflix. (Ars Technica, Eurogamer) Nintendo anunță o nouă variantă de Switch, ce va putea fi folosit doar ca dispozitiv portabil - Switch Lite (Eurogamer, Ars Technica, Polygon, VideoGamesChronicle, IGN).</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 5 - 11 mai 2019</title>
@@ -154,17 +165,6 @@ Linkuri rapide:
       <guid>https://candaparerevista.ro/highlights/2018/2018.11.18/</guid>
       <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
  Știri  Skybound au început să lucreze la sezonul final din The Walking Dead. (Eurogamer, Games Informer, The Verge) Valve nu va mai produce Steam Link după ce stocurile actuale se vor epuiza. (Eurogamer, Games Informer, The Verge, Ars Technica) 20th Century Fox a înregistrat marca Alien: Blackout pentru jocuri video.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 23-29 septembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.09.23/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.09.23/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1 )
- Ştiri Telltale Games se închide Anunțul de săptămâna trecută privind concedierile masive și închiderea companiei are urmări:
- Deși părea foarte probabil că ultimul sezon din The Walking Dead va fi anulat - inclusiv actrița care-i dă voce lui Clementine e sceptică - Telltale anunță că e posibil ca ultimele episoade să fie finalizate cu ajutorul unor parteneri externi, dar încă nu e nimic concret.</description>
     </item>
     
   </channel>
