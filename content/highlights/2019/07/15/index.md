@@ -5,7 +5,7 @@ date: 2019-07-15T07:00:01
 categories:
     - Highlights
 
-tags: [Cuphead, Nintendo Switch, Ion Maiden, Ion Fury, Auto Chess, Mordhau, Judgement, Barotrauma, God of War, "No Man's Sky", Carmen Sandiego, Warframe, Final Fantasy IX, King Kong, Zelda, Master of Orion, My Friend Pedro, Fortnite, Subnautica, Gibbous - A Cthulhu Adventure, G2A, Steam]
+tags: [Cuphead, Nintendo Switch, Ion Maiden, Ion Fury, Auto Chess, Mordhau, Judgement, Barotrauma, God of War, Outer Wilds, "No Man's Sky", Carmen Sandiego, Warframe, Final Fantasy IX, King Kong, Zelda, Master of Orion, My Friend Pedro, Fortnite, Subnautica, Gibbous - A Cthulhu Adventure, G2A, Steam]
 
 description: "Cuphead devine un serial animat adevărat, Nintendo lansează o versiune și mai portabilă a Switch-ului și, într-o lovitură de teatru total așteptată, jocul Ion Maiden își schimbă numele, scandalul G2A are încă ecouri iar Gibbous - A Cthulhu Adventure are dată de lansare."
 
@@ -60,6 +60,7 @@ Linkuri rapide:
 * [Real Justice](http://www.bulletpointsmonthly.com/2019/07/10/real-justice/) <sup>(Bullet Points Monthly)</sup>
 * [Putting the &quot;U&quot; In Trauma](https://unwinnable.com/2019/07/12/putting-the-u-in-trauma/) <sup>(Unwinnable)</sup>
 * [We Must Be Better](http://www.firstpersonscholar.com/we-must-be-better/) <sup>(First Person Scholar)</sup>
+* [From Student Project to Backpacking in Space: The Story Behind the Mystery Sci-Fi Outer Wilds](https://www.usgamer.net/articles/mobius-digital-outer-wilds-feature-interview-alex-beachum) <sup>(USgamer)</sup>
 
 ---
 
@@ -131,6 +132,7 @@ Linkuri rapide:
 * 11 iulie: **Eagle Island** <sup>([Steam](https://store.steampowered.com/app/681110/Eagle_Island/))</sup>
 * 11 iulie: **Field of Glory: Empires** <sup>([Steam](https://store.steampowered.com/app/1011390/Field_of_Glory_Empires/))</sup>
 * 11 iulie: **Tiny Metal: Full Metal Rumble** <sup>([Steam](https://store.steampowered.com/app/1102100/TINY_METAL_FULL_METAL_RUMBLE/))</sup>
+* 11 iulie: **Griftlands** (early access) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/griftlands))</sup>
 
 ## Prăvălii de jocuri
 
