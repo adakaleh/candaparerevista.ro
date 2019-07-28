@@ -79,6 +79,7 @@ Linkuri rapide:
 
 ### Lansate
 * 10 iunie: **Devolver Bootleg** <sup>([Steam](https://store.steampowered.com/app/1066260/Devolver_Bootleg/))</sup>
+* 10 iunie: **Koikatsu Party** <sup>([Steam](https://store.steampowered.com/app/1073440/__Koikatsu_Party/))</sup>
 * 11 iunie: **Looking for Heals** (early access) <sup>([Steam](https://store.steampowered.com/app/1037750/Looking_for_Heals/))</sup>
 * 11 iunie: **American Truck Simulator - Washington** <sup>([Steam](https://store.steampowered.com/app/1015160/American_Truck_Simulator__Washington/))</sup>
 * 13 iunie: **Seeds of Resilience** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/877080/Seeds_of_Resilience/))</sup>
