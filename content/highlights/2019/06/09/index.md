@@ -166,6 +166,7 @@ Linkuri rapide:
 * **Shenmue III**: 19 noiembrie în loc de 27 august <sup>([Destructoid](https://www.destructoid.com/shenmue-iii-delayed-three-months-to-late-2019-555769.phtml))</sup>
 
 ### Lansate
+* 4 iunie: **Reventure** <sup>([Steam](https://store.steampowered.com/app/900270/Reventure/))</sup>
 * 5 iunie: **Barotrauma** (early access) <sup>([Steam](https://store.steampowered.com/app/602960/Barotrauma/))</sup>
 * 5 iunie: **Hyperspace Delivery Service** <sup>([Steam](https://store.steampowered.com/app/876320/Hyperspace_Delivery_Service/))</sup>
 * 6 iunie: **Quake II RTX** <sup>([Steam](https://store.steampowered.com/app/1089130/Quake_II_RTX/))</sup>
@@ -174,7 +175,6 @@ Linkuri rapide:
 * 6 iunie: **MotoGP19** <sup>([Steam](https://store.steampowered.com/app/984780/MotoGP19/))</sup>
 * 7 iunie: **Journey** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/journey))</sup>
 * 7 iunie: **Octopath Traveler** <sup>([Steam](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/))</sup>
-
 
 ## Prăvălii de jocuri
 

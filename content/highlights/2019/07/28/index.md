@@ -5,7 +5,7 @@ date: 2019-07-28
 categories:
     - Highlights
 
-tags: [Nintendo, loot boxes, Hand of Fate, Rutger Hauer, GTA Online, Sea of Solitude, Gris, Barotrauma, Final Fantasy XV, "Fallout: New Vegas", Never Alone, Outer Wilds, "Sekiro: Shadows Die Twice", Hitman 2, Samurai Shodown, Nowhere Prophet, 198x, PUBG, Bloodstained, Oddworld, "The Hunter: Call of the Wild", Jagged Alliance 2, Famicom, Heaven Will Be Mine, Fortnite, Epic Store]
+tags: [Nintendo, loot boxes, Hand of Fate, Rutger Hauer, GTA Online, Sea of Solitude, Gris, Barotrauma, Final Fantasy XV, "Fallout: New Vegas", Never Alone, Outer Wilds, "Sekiro: Shadows Die Twice", Hitman 2, Samurai Shodown, Nowhere Prophet, 198x, PUBG, Bloodstained, Oddworld, "The Hunter: Call of the Wild", Jagged Alliance 2, Famicom, Heaven Will Be Mine, Fortnite, Epic Store, "Heaven's Vault"]
 
 description: "Overwatch produce o grămadă (mai multe grămezi, de fapt) de bani, joy-con-urile sensibile duc până la urmă la probleme legale pentru Nintendo, loot boxes nu sunt jocuri de noroc în Marea Britanie, iar actorul Rutger Hauer a murit. Avem și multe lansări, un nou joc exclusiv Epic Store și multe articole interesante."
 
@@ -55,9 +55,10 @@ Linkuri rapide:
 
 ### Actualitate
 * [The Nintendo Switch’s Joy-Con drift problem, explained](https://www.theverge.com/2019/7/22/20706144/nintendo-switch-joy-con-drift-problem-explained) <sup>(The Verge)</sup>
-* [GTA's casino isn't the worst of gambling in games - but it puts it in perspective](https://www.eurogamer.net/articles/2019-07-26-gtas-casino-isnt-the-worst-of-gambling-in-games-but-it-puts-it-in-perspective) <sup>(Eurogamer)</sup>
 * [Goodbye Rutger Hauer, it's such a shame you were only in two games](https://www.eurogamer.net/articles/2019-07-25-goodbye-rutger-hauer-its-such-a-shame-you-were-only-in-two-games) <sup>(Eurogamer)</sup>
 * [Remembering Rutger Hauer, Black-Armored Knight of the Genre](https://www.wired.com/story/remembering-rutger-hauer-king-of-the-genre/) <sup>(Wired)</sup>
+* [GTA's casino isn't the worst of gambling in games - but it puts it in perspective](https://www.eurogamer.net/articles/2019-07-26-gtas-casino-isnt-the-worst-of-gambling-in-games-but-it-puts-it-in-perspective) <sup>(Eurogamer)</sup>
+* [The six-year story of GTA Online's long-vacant casino](https://www.eurogamer.net/articles/2019-07-23-the-six-year-story-behind-gta-onlines-long-vacant-casino) <sup>(Eurogamer)</sup>
 
 ---
 
@@ -72,6 +73,7 @@ Linkuri rapide:
 * [&#39;Samurai Shodown&#39; Could Be the Breakout Game at Evo. Here&#39;s Why.](https://www.vice.com/en_us/article/j5wyqd/samurai-shodown-could-be-the-breakout-game-at-evo-heres-why) <sup>(Vice)</sup>
 * [Bullet Points: Nowhere Prophet's Indofuturism](https://techraptor.net/content/nowhere-prophet-indofuturism) <sup>(TechRaptor)</sup>
 * [198X is a vomit-free version of Ready Player One](https://www.videogamer.com/features/198x-is-a-vomit-free-version-of-ready-player-one) <sup>(VideoGamer)</sup>
+* [Heaven's Vault (inkle)](https://emshort.blog/2019/07/23/heavens-vault-inkle/) <sup>(Emily Short Blog)</sup>
 
 ---
 
@@ -145,6 +147,7 @@ Linkuri rapide:
 * 25 iulie: **Wolfenstein: Cyberpilot** <sup>([Steam](https://store.steampowered.com/app/1056970/Wolfenstein_Cyberpilot_International_Version/))</sup>
 * 25 iulie: **A Place for the Unwilling** <sup>([Steam](https://store.steampowered.com/app/1064310/A_Place_for_the_Unwilling/))</sup>
 * 25 iulie: **Fantasy Strike** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/390560/Fantasy_Strike/))</sup>
+* 25 iulie: **Songbird Symphony** <sup>([Steam](https://store.steampowered.com/app/909820/Songbird_Symphony/))</sup>
 * 26 iulie: **Fire Emblem: Three Houses** (Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch/))</sup>
 * 26 iulie: **KILL la KILL -IF** <sup>([Steam](https://store.steampowered.com/app/922500/KILL_la_KILL_IF/))</sup>
 
