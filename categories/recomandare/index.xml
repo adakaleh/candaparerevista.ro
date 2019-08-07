@@ -6,10 +6,19 @@
     <description>Recent content in Recomandare on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/recomandare/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Raiders Of The Lost Island</title>
+      <link>https://candaparerevista.ro/posts/2019/07/recomandare-raiders-lost-island/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/07/recomandare-raiders-lost-island/</guid>
+      <description>În ultimii ani, mai ales după ce a mai crescut și fiică-mea, am devenit din ce în ce mai interesat de jocuri cu multiplayer local, pentru sesiuni de joacă în familie - atât cele competitive, cât și cele cooperative. Și, cu timpul, am construit o colecție destul de consistentă și variată, din care aș remarca în special TowerFall Ascension ca exponent al jocurilor competitive și Overcooked, care are o componentă cooperativă foarte bine dezvoltată, pe lângă un mod de joc competitiv pe echipe. De aceea, din valul recent de jocuri indie românești, cel mai mult mi-a atras atenția titlul de față, care, pe lângă faptul că este un joc dedicat multiplayer-ului local, vine și cu un concept inedit: este în același timp și competitiv și cooperativ.</description>
+    </item>
     
     <item>
       <title>Recomandări Steam Summer Sale 2019</title>
@@ -146,16 +155,6 @@ Este anul 1844 și suntem puși în pielea lui Miles Fordham, un detectiv partic
       <guid>https://candaparerevista.ro/posts/2018/08/recomandare-unavowed-azad/</guid>
       <description>După o serie de jocuri ceva mai „blânde” din punct de vedere al poveștii și magnitudinii, cei de la Wadjet Eye au revenit în forță cu Unavowed, o explozie de forțe supranaturale care va ține jucătorul captivat pe tot parcursul aventurii.
 Acțiunea se petrece într-un New York invadat de diferite forțe eterice, precum fantome și creaturi interdimensionale, jucătorul fiind pus în pielea unui proaspăt recrut al organizației Unavowed, grup care se ocupă cu vânarea acestor dihănii. Misiunea ta va fi să urmărești demonul care te-a posedat și sub influența căruia ai comis numeroase atrocități.</description>
-    </item>
-    
-    <item>
-      <title>Stardew Valley</title>
-      <link>https://candaparerevista.ro/posts/2018/07/recomandare-stardew-valley-cristan/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/07/recomandare-stardew-valley-cristan/</guid>
-      <description>Jocul perfect a devenit și mai bun! Odată cu lansarea patch-ului din 1 august, Stardew Valley are acum și multiplayer și e momentul perfect să-l (re)vizitați!
-Pentru cei care nu știu, Stardew Valley e&amp;hellip; greu de descris în doar câteva cuvinte. E un simulator de viață la țară, în care trebuie să te ocupi de ferma moștenită de la bunicul tău, dar totodată trebuie să ai grijă și de relația cu mica comunitate lângă care se află ferma. Personajul tău poate stabili relații de prietenie (sau chiar de căsătorie) cu personajele din orășel, se poate implica în restaurarea centrului cultural și de activități al orașului (prilej de multe quest-uri) și poate participa la numeroase festivități ce au loc periodic.</description>
     </item>
     
   </channel>
