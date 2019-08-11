@@ -5,9 +5,9 @@ date: 2019-08-11
 categories:
     - Highlights
 
-tags: []
+tags: [Gibbous, Sony, Microsoft, Nintendo, Take-Two Interactive, loot boxes, Ooblets, Epic Store, Age of Wonders]
 
-description: "Lorem ipsum"
+description: "Într-o săptămână mai săracă în știri aflăm totuși că Sony, Microsoft și Nintendo fac un pas important spre reglementarea loot box-urilor, Take-Two Interactive continuă să facă o grămadă de bani din GTA Online, iar Epic Games sunt dați în judecată pentru problemele de securitate a datelor din Fortnite. Și nu în ultimul rând, s-a lansat în sfârșit Gibbous, unul dintre cele mai așteptate jocuri indie românești."
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
@@ -19,7 +19,7 @@ resources:
     name: "cover-image"
 ---
 
-Streamer-ul Ninja face (și mai mulți) bani și aduce profit și pentru Microsoft, site-ul E3 face publice datele personale ale jurnaliștilor, turneul Fortnite aduce multe premii și îmbogățește adolescenții, iar Rockstar reușește să nu plătească impozite pe profit în Marea Britanie în ultimul deceniu. Și săptămână plină pentru jocurile indie românești: s-au lansat **Raiders Of The Lost Island** și **Space Mercs**.
+Într-o săptămână mai săracă în știri aflăm totuși că Sony, Microsoft și Nintendo fac un pas important spre reglementarea loot box-urilor, Take-Two Interactive continuă să facă o grămadă de bani din GTA Online, iar Epic Games sunt dați în judecată pentru problemele de securitate a datelor din Fortnite. Și nu în ultimul rând, s-a lansat în sfârșit Gibbous, unul dintre cele mai așteptate jocuri indie românești.
 
 Linkuri rapide:
 
