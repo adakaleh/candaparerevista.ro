@@ -1,7 +1,7 @@
 ---
 title: Tales of the Neon Sea
 type: post
-date: 2019-08-11
+date: 2019-08-12
 authors: azad
 categories:
     - Review
@@ -39,6 +39,25 @@ infoBox:
   cumpara:
     - [Steam, https://store.steampowered.com/app/828740/Tales_of_the_Neon_Sea/]
 
+casetaTehnica:
+  concluzie:
+  alternativa:
+    nume: "Blade Runner (filmul)"
+    descriere: "Dacă vreți să vedeți de unde a luat naștere cyberpunkul așa cum îl știm, vedeți filmul ăsta. Merită văzut și sequel-ul, 2049, pe care îl consider excepțional."
+    link: https://www.imdb.com/title/tt0083658/
+
+  plusuri:
+    - estetica retro
+    - orașul plin de viață
+    - antagonistul fascinant
+    - pisici
+
+  minusuri:
+    - unele minijocuri frustrante și inutile
+    - personaje secundare slăbuțe
+
+  nota: 8
+  verdict:
 ---
 
 Tales of the Neon Sea a fost un joc despre care nu am știut mai nimic. Nu am urmărit developmentul său, nu am avut nici cea mai mică idee despre existența sa înainte sa văd trailerul de lansare. Apoi trailerul în sine a venit cu o idee interesantă. Un oraș de inspirație asiatică învăluit în neon? Referințe la filme sf vechi? Pisici? Count me in! Dezvoltat de către Palm Pioneer, momentan sunt disponibile doar primele 3 capitole din joc, dar aceste 3 capitole aduc peste 10 ore de joacă.
@@ -51,7 +70,7 @@ Suntem aruncați într-un oraș plin de viață și înecat în neon, în care l
 
 Impresia pe care mi-a facut-o primul contact cu lumea din Tales of the Neon Sea a fost similară cu ce am trăit am atunci când am văzut lumea bogată în detalii din primul Blade Runner. Acest film a fost printre primele mele contacte cu genul cyberpunk, așa că m-am putut scufunda cu un sentiment de nostalgie în marea de neon (sic) pe care ne-o oferă TotNS. După cum vom vedea, Neon Sea se inspiră din Blade Runner în multe privințe, dar și din diverse creații de science fiction, precum I, Robot sau Star Trek.
 
-Povestea începe cu Rex, un personaj cu o aură de mister, căzut într-o canalizare și rănit. Nu stăm mult degeaba și trebuie să fugim de ceea ce pare o combinație ciudată de Grim Reaper cu o mască ciudată cu cioc de pasăre. Odată ce reușim să scăpăm, următorul nostru obiectiv este de a repara implanturile cibernetice ale lui Rex. Câteva puzzle-uri și mini-games mai târziu, ni se prezintă un concept care pare o glumă la început. Putem juca cu William, un motan salvat de Rex acum ceva timp și care poate ieși din orice încurcătură. Desigur, acesta nu poate vorbi, doar mieuna, dar el înțelege ceea ce spun oamenii și îl scoate pe Rex din belele de multe ori. Așa că primul nostru obiectiv cu William este să omorâm niște cyber-șobolani pentru niște părți de care Rex are nevoie ca să își repare implanturile.  
+Povestea începe cu Rex, un personaj cu o aură de mister, căzut într-o canalizare și rănit. Nu stăm mult degeaba și trebuie să fugim de ceea ce pare o combinație ciudată de Grim Reaper cu o mască ciudată cu cioc de pasăre. Odată ce reușim să scăpăm, următorul nostru obiectiv este de a repara implanturile cibernetice ale lui Rex. Câteva puzzle-uri și mini-games mai târziu, ni se prezintă un concept care pare o glumă la început. Putem juca cu William, un motan salvat de Rex acum ceva timp și care poate ieși din orice încurcătură. Desigur, acesta nu poate vorbi, doar mieuna, dar el înțelege ceea ce spun oamenii și îl scoate pe Rex din belele de multe ori. Așa că primul nostru obiectiv cu William este să omorâm niște cyber-șobolani pentru niște piese de care Rex are nevoie ca să își repare implanturile.  
 
 Până și partea animală este implementată în mecanica și mitologia jocului. Există un conflict între animalele normale și cele bionice, cele din urmă fiind îmbunătățite prin diverse mijloace tehnologice pentru a testa cipuri sau îmbunătățiri înainte de a  le aplica pe subiecți umani. Acest conflict este reprezentat cel mai bine prin perspectiva lui William, care face parte dintr-o organizație criminală a pisicilor. Similară ca organizare cu mafia italiană, unul dintre obiectivele de mai târziu va fi să descoperim o pisica bionică infiltrată în organizație pentru a putea câștiga influența Don-ului pisicesc și a avansa în poveste.
 
@@ -65,7 +84,7 @@ Cu excepția lui William, celelalte personaje secundare din Tales of the Neon Se
 
 ![](gallery/neon03.jpg)
 
-D.p.d.v. grafic, jocul arborează un stil retro-pixelat iar aspectul învechit și vestimentația personajelor reprezintă omagii aduse anilor 80. Trench coat-ul lui Rex, hainele suprasaturate în culori și combinațiile ieșite din comun aduc aminte de acești ani, dar nici frizurile îndrăznețe și îmbibate de vopsea nu se lasă mai prejos. De exemplu, tricoul purtat cu sacou, marcă a anilor 80 în seriale precum Miami Vice, se împletește cu îmbrăcămintea tradițională japoneză, kimonoul. Deși poate da impresia de kitsch, consider că toate aceste elemente reușesc să se îmbine natural în Neon Sea, fără să îți dea impresia că ceva nu se află la locul său. Estetic vorbind, pot să compar jocul cu stilul japonez Ukyo-E. Această formă de artă reușește să capteze lumea aflată în mișcare, iar Neon Sea nu este o excepție. În lumea hiper-tehnologizată a acestui joc, totul se află în permanentă ”curgere”.  Locurile prin care ne perindăm sunt de asemenea demne de a fi menționate. Suntem purtați prin niveluri bogate în detalii, cum ar fi centre comerciale bogate în detalii, periferii sărăcăcioase sau zone industriale pustii.
+Din punct de vedere grafic, jocul arborează un stil retro-pixelat iar aspectul învechit și vestimentația personajelor reprezintă omagii aduse anilor 80. Trench coat-ul lui Rex, hainele suprasaturate în culori și combinațiile ieșite din comun aduc aminte de acești ani, dar nici frizurile îndrăznețe și îmbibate de vopsea nu se lasă mai prejos. De exemplu, tricoul purtat cu sacou, marcă a anilor 80 în seriale precum Miami Vice, se împletește cu îmbrăcămintea tradițională japoneză, kimonoul. Deși poate da impresia de kitsch, consider că toate aceste elemente reușesc să se îmbine natural în Neon Sea, fără să îți dea impresia că ceva nu se află la locul său. Estetic vorbind, pot să compar jocul cu stilul japonez Ukyo-E. Această formă de artă reușește să capteze lumea aflată în mișcare, iar Neon Sea nu este o excepție. În lumea hiper-tehnologizată a acestui joc, totul se află în permanentă ”curgere”.  Locurile prin care ne perindăm sunt de asemenea demne de a fi menționate. Suntem purtați prin niveluri bogate în detalii, cum ar fi centre comerciale bogate în detalii, periferii sărăcăcioase sau zone industriale pustii.
 
 ![](gallery/neon04.jpg)
 
