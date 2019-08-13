@@ -115,7 +115,7 @@ Ediţia normală şi ediţia pentru abonaţi:
 
 ## Pelaaja (Finlanda)
 
-### [Iulie 2019](https://pelaaja.fi/lehdet/pelaaja-lehden-kesan-tuplanumero-kaupoissa) (#202)
+### [Iulie-August 2019](https://pelaaja.fi/lehdet/pelaaja-lehden-kesan-tuplanumero-kaupoissa) (#202)
 
 {{< figure-multi-ext
     "images/pelaaja-202.jpg|https://scontent.fotp3-3.fna.fbcdn.net/v/t1.0-9/65774956_10157264610877510_8169923194594000896_n.jpg?_nc_cat=103&_nc_oc=AQnr2lpDbMYBPuqjDo5iff8l2Fw6750xD1hBx9AN3eaxZbGzyEOyjyj5QeVt7VAwJb0&_nc_ht=scontent.fotp3-3.fna&oh=c3cdd2ef32044df7b985bebb11ec7699&oe=5DBEF2EC|"

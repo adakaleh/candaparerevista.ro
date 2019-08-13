@@ -6,8 +6,9 @@ authors: cristan
 categories:
     - Recomandare
 tags:
-    - raiders of the lost island
+    - Raiders of the Lost Island
     - last tales
+    - Made în România
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=85&t=1871
 
