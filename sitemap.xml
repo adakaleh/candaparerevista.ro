@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2019/coperti-08/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/08/11/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
@@ -2929,13 +2934,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3459,6 +3464,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/mad-box/</loc>
     <lastmod>2019-01-06T08:00:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/made-%C3%AEn-rom%C3%A2nia/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4496,7 +4507,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/revistele-lunii/</loc>
-    <lastmod>2019-07-15T07:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4760,7 +4771,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
