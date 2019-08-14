@@ -12,6 +12,8 @@ tags:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=85&t=1871
 
+disclaimerReviewCopy: default
+
 resources:
   - src: gallery/12-rotli.jpg
     name: "card-cover-image"
@@ -53,15 +55,15 @@ Jocul a fost lansat săptămâna trecută pe Steam în _early access_ și, deși
 Am stat puțin de vorbă cu Alex Simion de la Last Tales despre noul său joc și despre provocările vieții de developer indie. Este o premieră pentru site-ul nostru - primul interviu cu un developer pe care îl publicăm.
 
 
-*Conceptul jocului mă duce cu gândul la boardgame-ul [Forbidden Island](https://boardgamegeek.com/boardgame/65244/forbidden-island). Cum ți-a venit ideea jocului și ce inspirații ai avut?*
+_**Conceptul jocului mă duce cu gândul la boardgame-ul [Forbidden Island](https://boardgamegeek.com/boardgame/65244/forbidden-island). Cum ți-a venit ideea jocului și ce inspirații ai avut?**_
 
 Într-adevăr, Forbidden Island e unul din jocurile noastre preferate și a fost una din sursele de inspirație. Ar mai fi și Overcooked. Astea pe partea de co-op. Pe partea competitivă ar fi Gang Beasts dar și elemente din alte boardgame-uri, precum Small Worlds sau Stone Age.
 
-*Ce planuri ai pentru perioada de early access? Ce plănuiești să mai introduci?*
+_**Ce planuri ai pentru perioada de early access? Ce plănuiești să mai introduci?**_
 
 Consider că versiunea early access are tot ce îi trebuie pentru a asigura multe ore de distracție. Sunt 12 hărți, 21 de personaje și toate mecanicile de bază. Cu toate astea însă, pentru release doresc să mai adaug câteva insule și câteva elemente de gameplay pe care cel puțin noi, în familie, vrem să le încercăm. Dar depinde și de succesul jocului până atunci și de ce mai cer jucătorii.
 
-*Având în vedere conceptul jocului, cum ai abordat designul hărților și balansarea elementelor de gameplay, pentru a stimula atât cooperarea cât și competitivitatea jucătorilor?*
+_**Având în vedere conceptul jocului, cum ai abordat designul hărților și balansarea elementelor de gameplay, pentru a stimula atât cooperarea cât și competitivitatea jucătorilor?**_
 
 Ideea de la care am pornit a fost să vin cu un joc care împinge jucătorii la ceartă, dar în același timp îi obligă să se împace și să găsească o soluție pentru a supraviețui. Practic câștigi dacă ai cele mai multe comori. Și nu e doar despre cât ai apucat să colectezi tu, ci și despre cât ai furat de la colegul tău. Sunt comori foarte scumpe, precum diamantul de 10 puncte, care îți poate da un motiv destul de serios să-l pocnești pe cel din stânga ta. :) Pe de altă parte, insula se inundă în cam 4-5 minute. Dacă nimeni nu ajută la construcția bărcii, nimeni nu supraviețuiește și nu mai contează deloc ce are fiecare. Ideal e să-i convingi pe ceilalți că tu nu ai mare lucru, și să lucreze ei la barcă. E un joc mai diferit, în care contează mult interacțiunea dintre jucătorii de pe canapea. Merge foarte bine între prieteni competitivi. Sau între copii, pentru că ei se exteriorizează ușor.
 
@@ -69,27 +71,27 @@ Designul hărților susține aceste idei prin modul în care apa se mișcă, poz
 
 De asemenea, o serie de decizii și elemente de design sprijină aceste concepte. Nu arăt câți bani are fiecare în timpul raidului, pentru a lăsa loc de speculații. Las jucătorii să facă echipe sau să le rupă. Colecția de idoli unici poate înscrie foarte multe puncte la urmă, dacă cineva e lăsat să o obțină pe toată.
 
-*Ești singurul developer? Ai avut și ajutor? Dacă ai fost singur, cum a fost experiența solo? Vei continua?*
+_**Ești singurul developer? Ai avut și ajutor? Dacă ai fost singur, cum a fost experiența solo? Vei continua?**_
 
 Jocul a pornit la Global Gamejam 2017 cu niște prieteni, dar după eveniment am continuat singur. De atunci sunt cam doi ani jumate. Au mai fost prieteni care m-au mai ajutat cu level design sau muzică. Un rol foarte important l-a avut familia, pentru că în tot acest timp am jucat împreună și asta a fost un factor foarte motivant pentru mine. Multe din idei au venit din modul cum jucam noi și ce simțeam că ne place. Cristina, soția mea, m-a ajutat mult la evenimente precum Dev-Play, Start2Play, Comic con, Casual Connect, etc. Copiii au venit mereu cu idei și sugestii. Nu pot spune că a fost o experiență solo și nu cred că fără sprijinul lor jocul ar fi ajuns unde este acum.
 
-*Cât a durat dezvoltarea jocului? Ai lucrat full-time sau doar în timpul liber? Dacă full-time - cum te-ai finanțat? Fonduri proprii sau vreun program de investiție?*
+_**Cât a durat dezvoltarea jocului? Ai lucrat full-time sau doar în timpul liber? Dacă full-time - cum te-ai finanțat? Fonduri proprii sau vreun program de investiție?**_
 
 Cum ziceam, sunt doi ani și jumătate până acum, și probabil se duc spre trei. Asta în timpul liber. Am notat cam 2000 de ore. Finanțare proprie. În afară de orele lucrate, am cheltuit puțin pe asseturi grafice și muzică, însă marea parte a investiției a fost pe deplasări la diverse expoziții, precum Casual Connect London.
 
-*Ce experiență relevantă aveai înainte de a începe lucrul la joc? A fost nevoie să mai înveți ceva pe parcurs?*
+_**Ce experiență relevantă aveai înainte de a începe lucrul la joc? A fost nevoie să mai înveți ceva pe parcurs?**_
 
 Fac jocuri de când mă știu :) și lucrez în industrie de aproape 20 ani. Desigur, întotdeauna ai de învățat. Am încercat să nu mă arunc la lucruri pe care nu le pot stăpâni, dar tot au fost multe provocări, atât tehnice cât și pe zona de design.
 
-*Ce obstacole sau provocări ai avut pe parcursul dezvoltării?*
+_**Ce obstacole sau provocări ai avut pe parcursul dezvoltării?**_
 
 Timpul a fost cel mai mare inamic. Să te împarți între job, copii și hobby, să mai bagi 3-4 ore seara, sau să petreci weekendul în casă la calculator... după un timp se simte. Și fără o motivație puternică, mulți renunță.
 
-*Spune-ne câte ceva despre experiența ta de gaming - jocurile preferate, cum ai început, etc.*
+_**Spune-ne câte ceva despre experiența ta de gaming - jocurile preferate, cum ai început, etc.**_
 
 Păi am început cu HC-urile când eram mic și, deși e mult de atunci, am reușit să-mi păstrez pasiunea pentru asta. În ultima vreme timpul mă forțează să joc doar ce vreau cu adevărat. Prefer aventuri cu poveste, jocuri nu foarte lungi. De la titluri precum Last Of Us, Uncharted, până la Walking Dead, Dark Souls, Horizon Zero Dawn.
 
-*Care sunt planurile de după acest titlu? Vreun joc nou?*
+_**Care sunt planurile de după acest titlu? Vreun joc nou?**_
 
 Desigur, am o listă lungă de idei și prototipuri în așteptare și mereu zic că o să fac ceva scurt, să nu mă mai întind 2-3 ani. Dar vedem, momentan să termin Raiders Of The Lost Island. :)
 
