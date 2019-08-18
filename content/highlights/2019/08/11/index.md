@@ -209,6 +209,7 @@ Linkuri rapide:
 ))</sup>
 * 8 august: **Steel Circus** (early access) <sup>([Steam](https://store.steampowered.com/app/969680/Steel_Circus/
 ))</sup>
+* 9 august: **Electronic Super Joy 2** <sup>([Steam](https://store.steampowered.com/app/1113940/Electronic_Super_Joy_2/))</sup>
 
 
 ## Prăvălii de jocuri
