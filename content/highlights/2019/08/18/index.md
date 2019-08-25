@@ -47,6 +47,7 @@ Linkuri rapide:
 * [Finding Human Interest Stories in Virtual Reality](https://hyperallergic.com/509737/syrmor-youtube-vrchat-interviews/) <sup>(Hyperallergic )</sup>
 * [Applying Videogame Theory to Escape Rooms: the Definition of a &quot;Game&quot;](https://www.gamasutra.com/blogs/AlastairAitchison/20190813/348526/Applying_Videogame_Theory_to_Escape_Rooms__the_Definition_of_a_quotGamequot.php) <sup>(Gamasutra)</sup>
 * [The Uncertain Future of Video Game History](https://egmnow.com/the-uncertain-future-of-video-game-history/) <sup>(EGM)</sup>
+* [How an Online Mob Created a Playbook for a Culture War](https://www.nytimes.com/interactive/2019/08/15/opinion/what-is-gamergate.html) <sup>(NY Times)</sup>
 
 ---
 
@@ -67,6 +68,7 @@ Linkuri rapide:
 * [Stop asking &quot;is it political?&quot; It always is](https://www.gamesindustry.biz/articles/2019-08-15-stop-asking-is-it-political-it-always-is-opinion) <sup>(GamesIndustry.biz)</sup>
 * [Discord Explains How It Handles Harassment, Doxxing, and Threatening Behaviour](https://www.kotaku.co.uk/2019/08/14/discord-explains-how-it-handles-harassment-doxxing-and-threatening-behavior) <sup>(Kotaku)</sup>
 * [How Ark: Survival Evolved &quot;fell into sustainable revenue&quot; without skins or loot boxes](https://www.gamesindustry.biz/articles/2019-08-16-how-ark-survival-evolved-fell-into-sustainable-revenue-without-skins-or-loot-boxes) <sup>(GamesIndustry.biz)</sup>
+* [Phil Spencer Is Exactly Who You Think He Is](https://www.gamespot.com/articles/phil-spencer-is-exactly-who-you-think-he-is/1100-6468846/) <sup>(Gamespot)</sup>
 
 ---
 
