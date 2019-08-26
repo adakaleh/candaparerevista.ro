@@ -145,6 +145,7 @@ Linkuri rapide:
 * Interviu pe Cavaleria.ro cu Cătălin Butnariu, președintele RGDA și fondatorul fondatorul Dev.Play. <sup>([Cavaleria.ro](https://cavaleria.ro/general/video-jocuri-video-made-in-romania/))</sup>
 * Interviu cu Nicolae Berbece, fondatorul studioului Those Awesome Guys, studioul din spatele jocului **Move or Die**. <sup>([Medium](https://medium.com/the-logician/an-interview-with-nicolae-berbece-forbes-europe-2019-sports-games-a449d21e7f44))</sup>
 * Interviu cu Cătălin Zima-Zegreanu de la Breadcrumbs Interactive, cei care lucrează la **Yaga**. <sup>([TheXboxHub](http://www.thexboxhub.com/exclusive-interview-with-lead-designer-and-writer-on-yaga/))</sup>
+* Cinci studiouri românești au participat la Gamescom cu jocurile lor: Rikodu (**Second Hand: Frankie’s Revenge**), Critique Gaming (**Interrogation**), Last Tales (**Raiders of the Lost Island**), Sand Sailor Studio (**Bossgard**), AMC Games (**Future Tribes**). <sup>([StartupCafe.ro](https://www.startupcafe.ro/idei-si-antreprenori/startup-nation-firma-itc-gamescom-2019-jocuri-video.htm))</sup>
 
 ## Anunțuri și lansări de jocuri
 ### Anunţate
