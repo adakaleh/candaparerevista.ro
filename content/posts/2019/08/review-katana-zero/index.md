@@ -17,6 +17,8 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2186
 
 disclaimerReviewCopy: default
 
+licenta: cc-by
+
 resources:
   - src: images/kz.jpg
     name: "card-cover-image"
@@ -66,7 +68,7 @@ Până la acest Katana Zero, cei de la Askiisoft s-au făcut remarcați în cerc
 
 Poate știți deja de prin videouri cum merge treaba în Katana Zero - un samurai dă buzna peste răufăcători și le împrăștie sângele pixelat pe pereți în timp ce pe fundal zumzăie synth-uri retro. Nu există bare de viață, e suficient ca protagonistul să încaseze un singur glonț sau lovitură ca nivelul să fie reluat de la... zero.
 
-În Katana Zero controlăm un personaj ciudat, al cărui look tradițional de samurai - kimono + katana - face notă discordantă în peisajul futuristic-distopic desprins parcă din producțiile din anii '80. Dragonul, căci așa e numit protagonistul, este un veteran al unui fictiv război inspirat de cel din Vietnam (altă obsesie optzecistă), care-și câștigă existența ca asasin plătit. În scurt timp însă lucrurile se complică, iar Dragonul trebuie să deslușească ițele unei tenebroase conspirații.
+În Katana Zero controlăm un personaj ciudat, al cărui look tradițional de samurai — kimono + katana — face notă discordantă în peisajul futuristic-distopic desprins parcă din producțiile din anii '80. Dragonul, căci așa e numit protagonistul, este un veteran al unui fictiv război inspirat de cel din Vietnam (altă obsesie optzecistă), care-și câștigă existența ca asasin plătit. În scurt timp însă lucrurile se complică, iar Dragonul trebuie să deslușească ițele unei tenebroase conspirații.
 
 Un iz familiar de Hotline Miami impregnează tot jocul și nu cred că e tocmai o coincidență. Violență rapidă și neiertătoare - *bifat*, pixel art - *bifat*, culori „neon” - *bifat*, clișee action/exploitation - *bifat*, coloană sonoră retrowave - *bifat*. Cu toate acestea, ar fi nedrept și prematur să considerăm Katana Zero doar o clonă de Hotline Miami. Perspectiva de side scroller față de cea de top down nu e singura abatere de la rețetă.
 
@@ -79,7 +81,7 @@ Un iz familiar de Hotline Miami impregnează tot jocul și nu cred că e tocmai 
 
 Luptele mai sunt condimentate și de posibilitatea de a folosi unele obiecte găsite prin nivel - satâruri, busturi de marmură, cocteiluri molotov, fumigene. Uneori e chiar recomandat să fie evitată vărsarea de sânge, jocul având și o componentă de stealth care poate fi folosită în unele misiuni. N-o fi chiar la nivel de Mark of the Ninja, dar mai rupe puțin din monotonia violențelor.
 
-Pus pe hârtie, tot arsenalul de abilități și obiecte pare că trivializează jocul. În realitate, Katana Zero nu este deloc o plimbare în parc, ci face parte din categoria aceea de jocuri cinstite, dar necruțătoare. Se moare des, iar singura modalitate de a progresa este aceea de a deveni mai bun™, folosind eficient uneltele care îți sunt puse la dispoziție. Nu există o progresie în abilități, damage sau puncte suplimentare de viață, iar inamicii de la început de joc vor rămâne la fel de puternici până la sfârșit. Singurul lucru care se schimbă este abilitatea ta ca jucător de a face față cu brio provocărilor tot mai ridicate pe care ți le aruncă jocul.
+Pus pe hârtie, tot arsenalul de abilități și obiecte pare că trivializează jocul. În realitate, Katana Zero nu este deloc o plimbare în parc, ci face parte din categoria aceea de jocuri cinstite, dar necruțătoare. Se moare des, iar singura modalitate de a progresa este aceea de a *deveni mai bun*™, folosind eficient uneltele care îți sunt puse la dispoziție. Nu există o progresie în abilități, damage sau puncte suplimentare de viață, iar inamicii de la început de joc vor rămâne la fel de puternici până la sfârșit. Singurul lucru care se schimbă este abilitatea ta ca jucător de a face față provocărilor tot mai ridicate pe care ți le aruncă jocul.
 
 Dacă ești genul care se lasă ușor păgubaș sau care caută în jocuri o oază de relaxare, probabil că nu e jocul potrivit pentru tine. Cine își găsește însă satisfacția în a stăpâni tot mai bine mecanicile unui joc și a trece într-un sfârșit peste obstacole care păreau insurmontabile va aprecia acest joc. Totodată n-aș vrea totuși să las impresia că am trecut printr-un chin infernal - Katana Zero este un joc scurtuț (~6 ore), iar părțile mai dificile alternează suficient de mult cu momente relaxate în așa fel încât să nu se transforme într-o corvoadă.
 
