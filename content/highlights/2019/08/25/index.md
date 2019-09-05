@@ -121,6 +121,7 @@ Linkuri rapide:
 * [Typing games sure did get strange](https://www.pcgamer.com/typing-games-sure-did-get-strange/) <sup>(PC Gamer)</sup>
 * [Three years on, No Man's Sky is a messy wonder](https://www.eurogamer.net/articles/2019-08-22-three-years-on-no-mans-sky-is-a-messy-befuddling-wonder) <sup>(Eurogamer)</sup>
 * [The Legend of Lotus Spring](https://obscuritory.com/adventure/legend-of-lotus-spring/) <sup>(The Obscuritory)</sup>
+* [Remembering the Early Days of BioWare with Co-Founder Trent Oster](https://www.usgamer.net/articles/reflections-on-the-early-days-of-bioware-co-founder-trent-oster) <sup>(USgamer)</sup>
 
 ---
 
@@ -145,7 +146,6 @@ Linkuri rapide:
 * Interviu pe Cavaleria.ro cu Cătălin Butnariu, președintele RGDA și fondatorul fondatorul Dev.Play. <sup>([Cavaleria.ro](https://cavaleria.ro/general/video-jocuri-video-made-in-romania/))</sup>
 * Interviu cu Nicolae Berbece, fondatorul studioului Those Awesome Guys, studioul din spatele jocului **Move or Die**. <sup>([Medium](https://medium.com/the-logician/an-interview-with-nicolae-berbece-forbes-europe-2019-sports-games-a449d21e7f44))</sup>
 * Interviu cu Cătălin Zima-Zegreanu de la Breadcrumbs Interactive, cei care lucrează la **Yaga**. <sup>([TheXboxHub](http://www.thexboxhub.com/exclusive-interview-with-lead-designer-and-writer-on-yaga/))</sup>
-* Cinci studiouri românești au participat la Gamescom cu jocurile lor: Rikodu (**Second Hand: Frankie’s Revenge**), Critique Gaming (**Interrogation**), Last Tales (**Raiders of the Lost Island**), Sand Sailor Studio (**Bossgard**), AMC Games (**Future Tribes**). <sup>([StartupCafe.ro](https://www.startupcafe.ro/idei-si-antreprenori/startup-nation-firma-itc-gamescom-2019-jocuri-video.htm))</sup>
 
 ## Anunțuri și lansări de jocuri
 ### Anunţate
@@ -186,7 +186,8 @@ Linkuri rapide:
 * 22 august: **Life is Strange 2 – Episode 4** <sup>([Steam](https://store.steampowered.com/app/895492/Life_is_Strange_2__Episode_4/))</sup>
 * 23 august: **Telling Lies** <sup>([Steam](https://store.steampowered.com/app/762830/Telling_Lies/), [gog.com](https://www.gog.com/game/telling_lies))</sup>
 * 23 august: **Mable & The Wood** <sup>([Steam](https://store.steampowered.com/app/568070/Mable__The_Wood/), [gog.com](https://www.gog.com/game/mable_the_wood))</sup>
-
+* 23 august: **Plunge** <sup>([Steam](https://store.steampowered.com/app/1128690/Plunge/))</sup>
+* 23 august: **Death Crown** <sup>([Steam](https://store.steampowered.com/app/814530/Death_Crown/))</sup>
 
 ## Prăvălii de jocuri
 
