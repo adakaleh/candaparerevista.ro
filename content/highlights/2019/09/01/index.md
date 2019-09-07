@@ -55,6 +55,7 @@ Mai multe persoane cunoscute din industria jocurilor au fost acuzate de foști a
 * [Depiction of War in Games: Can You Do Better?](https://www.gamasutra.com/blogs/AndrewBarron/20190826/348562/Depiction_of_War_in_Games_Can_You_Do_Better.php) <sup>(Gamasutra)</sup>
 * [Video Games & Nostalgia: An Intertwined Relationship](https://www.gamasutra.com/blogs/MattBoyer/20190826/349367/Video_Games__Nostalgia_An_Intertwined_Relationship.php) <sup>(Gamasutra)</sup>
 * [Poetry in motion - FMV&#39;s unlikely revival](https://wireframe.raspberrypi.org/features/poetry-in-motion-fmvs-unlikely-revival) <sup>(Wireframe magazine)</sup>
+* [Filosofia politică a jocurilor - Barbari la porțile Cetății](https://mindcraftstories.ro/index.php/2019/08/29/filosofia-politica-a-jocurilor-barbari-la-portile-cetatii/) <sup>(Mindcraft Stories)</sup>
 
 ---
 
@@ -167,12 +168,14 @@ Mai multe persoane cunoscute din industria jocurilor au fost acuzate de foști a
 * 27 august: **The Bard's Tale IV Director's Cut** <sup>([Steam](https://store.steampowered.com/app/1091980/The_Bards_Tale_IV_Directors_Cut/), [gog.com](https://www.gog.com/game/the_bards_tale_iv_directors_cut_standard_edition))</sup>
 * 27 august: **Pagan Online** (iese din earlya access) <sup>([Steam](https://store.steampowered.com/app/992640/Pagan_Online/))</sup>
 * 28 august: **Monster Sanctuary** (early access) <sup>([Steam](https://store.steampowered.com/app/814370/Monster_Sanctuary/))</sup>
+* 28 august: **Headspun** <sup>([Steam](https://store.steampowered.com/app/808770/Headspun/))</sup>
 * 29 august: **Ashes of Oahu** <sup>([Steam](https://store.steampowered.com/app/671600/Ashes_of_Oahu/))</sup>
 * 29 august: **The Lord of the Rings: Adventure Card Game** <sup>([Steam](https://store.steampowered.com/app/509580/The_Lord_of_the_Rings_Adventure_Card_Game/))</sup>
 * 29 august: **Heave Ho** <sup>([Steam](https://store.steampowered.com/app/905340/Heave_Ho/), [gog.com](https://www.gog.com/game/heave_ho))</sup>
 * 30 august: **The Dark Pictures Anthology: Man of Medan** <sup>([Steam](https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/))</sup>
 * 30 august: **Blair Witch** <sup>([Steam](https://store.steampowered.com/app/1092660/Blair_Witch/))</sup>
 * 30 august: **Decay of Logos** <sup>([Steam](https://store.steampowered.com/app/759570/Decay_of_Logos/), [gog.com](https://www.gog.com/game/decay_of_logos))</sup>
+* 30 august: **Serious Sam Classics: Revolution** <sup>([Steam](https://store.steampowered.com/app/227780/Serious_Sam_Classics_Revolution/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri
@@ -198,3 +201,11 @@ Mai multe persoane cunoscute din industria jocurilor au fost acuzate de foști a
 ### Reduceri și promoții
 * [Get Ready for Halloween With Humble&#39;s Spooky Horror Bundle](https://kinjadeals.theinventory.com/get-ready-for-halloween-with-humbles-spooky-horror-bund-1837709989) <sup>(The Inventory)</sup>
 * [Best PC gaming deals of the week &#8211; 30th August 2019](https://www.rockpapershotgun.com/2019/08/30/best-pc-gaming-deals-of-the-week-30th-august-2019/) <sup>(RPS)</sup>
+
+---
+
+{{% aside %}}
+**Retrospectiva săptămânii** este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața.
+
+De asemenea, rubrica e deschisă oricui vrea și poate contribui. Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită incluse în retrospectiva săptămânii, te așteptăm pe forum pe unul dintre topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622)].
+{{% /aside %}}

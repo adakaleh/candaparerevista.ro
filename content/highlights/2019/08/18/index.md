@@ -167,3 +167,11 @@ Linkuri rapide:
 * [Mr Flipper is a free pinball game with one hell of a twist](https://www.pcgamer.com/mr-flipper-is-a-free-pinball-game-with-one-hell-of-a-twist/) <sup>(PC Gamer)</sup>
 * [Play Galactic Civilizations III for free on Steam this weekend](https://www.gamespace.com/all-articles/news/play-galactic-civilizations-iii-for-free-on-steam-this-weekend/) <sup>(GameSpace)</sup>
 * [New Free Steam Demo Is A Modern-Day Superman Game](https://kotaku.com/new-free-steam-demo-is-a-modern-day-superman-game-1837178287) <sup>(Kotaku)</sup>
+
+---
+
+{{% aside %}}
+**Retrospectiva săptămânii** este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața.
+
+De asemenea, rubrica e deschisă oricui vrea și poate contribui. Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită incluse în retrospectiva săptămânii, te așteptăm pe forum pe unul dintre topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622)].
+{{% /aside %}}

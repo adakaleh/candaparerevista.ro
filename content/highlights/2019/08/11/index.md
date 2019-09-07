@@ -263,3 +263,11 @@ Linkuri rapide:
 ) <sup>(Hardcore Gamer)</sup>
 * [Humble Bohemia Interactive Bundle](https://zonait.ro/humble-bohemia-interactive-bundle/
 ) <sup>(Zona IT)</sup>
+
+---
+
+{{% aside %}}
+**Retrospectiva săptămânii** este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața.
+
+De asemenea, rubrica e deschisă oricui vrea și poate contribui. Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită incluse în retrospectiva săptămânii, te așteptăm pe forum pe unul dintre topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622)].
+{{% /aside %}}
