@@ -1,7 +1,7 @@
 ---
 title: "Retrospectiva săptămânii 1 - 7 septembrie"
 type: post
-date: 2019-09-08
+date: 2019-09-08T00:06:02
 categories:
     - Highlights
 
