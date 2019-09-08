@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2019/09/08/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/2019/coperti-09/</loc>
+    <lastmod>2019-09-08T00:06:01+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/09/01/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -1370,6 +1380,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/battlefront-2/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/battletoads/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1650,6 +1666,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/catherine-full-body/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/caves-of-qud/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1803,7 +1825,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/control/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2155,7 +2177,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/double-fine/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2372,6 +2394,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/esa/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/et/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2683,7 +2711,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/gamescom/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3035,13 +3063,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3521,6 +3549,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/life-is-strange-2/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/limited-run/</loc>
     <lastmod>2019-06-16T07:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -3762,7 +3796,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/minecraft/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4127,8 +4161,14 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/origin-systems/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/outer-wilds/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4146,7 +4186,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/overcooked/</loc>
-    <lastmod>2018-10-21T10:00:01+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4170,7 +4210,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/overwatch/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4553,6 +4593,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/rebel-galaxy-outlaw/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/categories/recomandare/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4680,7 +4726,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/revistele-lunii/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4847,6 +4893,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/seaman/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/second-hand-frankies-revenge/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4962,7 +5014,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5387,6 +5439,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/terran-shield/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/terrawurm/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -5614,7 +5672,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/tomb-raider/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5746,7 +5804,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/unbound-worlds-apart/</loc>
-    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5979,6 +6037,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/wilmots-warehouse/</loc>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/wipeout/</loc>
     <lastmod>2019-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -5986,7 +6050,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/witcher/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6058,7 +6122,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/world-of-warcraft/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
