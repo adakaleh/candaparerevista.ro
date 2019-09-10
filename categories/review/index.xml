@@ -6,10 +6,20 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Great Perhaps</title>
+      <link>https://candaparerevista.ro/posts/2019/09/review-great-perhaps/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2019/09/review-great-perhaps/</guid>
+      <description>&amp;ldquo;I go now to seek a great perhaps.&amp;rdquo; - François Rabelais
+Pasiunea mea pentru science fiction a început acum mulți ani și nu cu vreo serie clasică americană, cum ar fi Star Wars sau Star Trek. Deși am ajuns să le apreciez ceva mai târziu, interesul meu pentru sci fi are sorginte rusească. Aveam vreo 13 – 14 ani când am văzut Călăuza lui Tarkovski pentru prima oară, iar interesul meu pentru acest film a plecat de la jocurile Stalker. Deși nu am petrecut mult timp în jocurile propriu-zise, filmul m-a fermecat și a fost scânteia care m-a determinat să devorez cărțile fraților Strugațki, apoi filmele rusești de anticipație, și abia peste ceva vreme aveam să trec și la media americană.</description>
+    </item>
     
     <item>
       <title>Katana ZERO</title>
@@ -140,15 +150,6 @@ Intriga este binecunoscută: Frumoasa Adormită (Briar Rose în versiunea fraţi
       <guid>https://candaparerevista.ro/posts/2018/12/review-beyond-eyes-red-dot/</guid>
       <description>Ai încercat vreodată să mergi cu ochii închişi? E terifiant! Încerci să te agăți de fiecare sunet, cauți să detectezi cu mâinile posibilele obstacole din cale și, oricât ai încerca, e imposibil să nu te alegi cu câteva lovituri. Dar dacă ai fi lipsit de vedere cu adevărat? Beyond Eyes explorează această premisă inconfortabilă şi te poartă într-o călătorie inițiatică în care fiecare pas este, la propriu, un pas în necunoscut.
 Jocul este, în esență, un walking simulator, ce atrage mai ales prin originala grafică în acuarelă, şi care te ţine conectat la poveste făcându-te să trăieşti bucuriile, temerile, reuşitele sau dezamăgirile fetiţei oarbe pe care trebuie să o ghidezi.</description>
-    </item>
-    
-    <item>
-      <title>Expeditions: Viking</title>
-      <link>https://candaparerevista.ro/posts/2018/11/review-expeditions-viking-tg/</link>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/11/review-expeditions-viking-tg/</guid>
-      <description>În 2013 Logic Artists, un studio format din aproximativ 10 angajați, lansa Expeditions: Conquistador, un hibrid TBS–RPG care te punea în pielea liderului unei expediții către America de Sud, în foarte colorata perioadă a marilor descoperiri. Pe lângă abordarea unei perioade istorice destul de puțin folosită în jocuri, Logic Artists au impresionat și prin faptul că au dus proiectul la bun sfârșit cu resurse minime. Doar 77 de mii de dolari s-au strâns pe Kickstarter, la care s-au adăugat și fondurile lor proprii. Un indie veritabil așadar, în care nu s-a irosit nimic și genul de joc care în jumătate din cazuri probabil că nu ajunge să iasă pe piață într-un stadiu jucabil.</description>
     </item>
     
   </channel>
