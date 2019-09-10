@@ -12,8 +12,6 @@ tags:
     - Caligari Games
     - Daedalic Entertainment
 
-draft: true
-
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2199
    text: Articolele Comunității
@@ -43,6 +41,7 @@ infoBox:
     - [GOG, https://www.gog.com/game/the_great_perhaps]
     - [Humble Store, https://www.humblebundle.com/store/the-great-perhaps]
 
+description: "Pasiunea mea pentru science fiction a început acum mulți ani și nu cu vreo serie clasică americană, cum ar fi Star Wars sau Star Trek. Deși am ajuns să le apreciez ceva mai târziu, interesul meu pentru sci fi are sorginte rusească. Aveam vreo 13 – 14 ani când am văzut *Călăuza* lui Tarkovski pentru prima oară, iar interesul meu pentru acest film a plecat de la jocurile Stalker. Când am dat de **The Great Perhaps** - adventure al rușilor de la Caligari Games - am știut că mă așteaptă ceva deosebit."
 
 casetaTehnica:
   concluzie:
