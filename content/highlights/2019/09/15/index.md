@@ -28,6 +28,7 @@ Linkuri rapide:
 * [Anunţuri şi lansări de jocuri](#anunțuri-și-lansări-de-jocuri)
 * [Prăvălii de jocuri](#prăvălii-de-jocuri)
 
+![](images/coperta-retrospectiva-2019-09-15.jpg)
 
 ## Știri
 
@@ -68,6 +69,7 @@ Linkuri rapide:
 ) <sup>(RPS)</sup>
 * ['Minecraft' has been quietly dominating for over 10 years, and now has 112 million players every month](https://www.businessinsider.com/minecraft-monthly-player-number-microsoft-2019-9
 ) <sup>(Business Insider)</sup>
+
 ---
 
 ### Reportaj
@@ -88,8 +90,6 @@ Linkuri rapide:
 * [The Rose Colored Galaxy](https://unwinnable.com/2019/09/10/the-rose-colored-galaxy/
 ) <sup>(Unwinnable)</sup>
 * [World Of Warcraft Classic's first two weeks have been one big high school reunion](https://www.rockpapershotgun.com/2019/09/12/world-of-warcraft-classics-first-two-weeks-have-been-one-big-high-school-reunion/
-) <sup>(RPS)</sup>
-* [How Outer Wilds built a planet which falls apart](https://www.rockpapershotgun.com/2019/09/11/how-outer-wilds-built-a-planet-which-falls-apart/
 ) <sup>(RPS)</sup>
 
 ---
@@ -121,12 +121,18 @@ Linkuri rapide:
 ) <sup>(A Critical Hit)</sup>
 * [The Story Behind the Tireless Slog of Porting &#39;Double Dragon&#39; to Genesis](https://www.vice.com/en_us/article/59nd9d/the-story-behind-the-tireless-slog-of-porting-double-dragon-to-genesis
 ) <sup>(Vice)</sup>
+* [An Oral History of ‘Snake’ on Nokia](https://melmagazine.com/en-us/story/snake-nokia-6110-oral-history-taneli-armanto) <sup>(MEL)</sup>
+* [Chris Bateman's journey from  Discworld Noir  lead to making  Lords of Midnight  tribute  Silk](https://www.gamasutra.com/view/news/349015/Chris_Batemans_journey_from_Discworld_Noir_lead_to_making_Lords_of_Midnight_tribute_Silk.php) <sup>(Gamasutra)</sup>
+* [Nearly 30 years ago, Mortal Kombat’s blood forever changed the video game industry](https://www.polygon.com/2019/9/13/20812985/nearly-30-years-ago-mortal-kombats-blood-forever-changed-the-video-game-industry) <sup>(Polygon)</sup>
+* [Amy Hennig, Hideaki Itsuno, and Other Developers Share Their Favorite Dreamcast Games, 20 Years Later](https://www.usgamer.net/articles/developers-on-their-favorite-dreamcast-games-20th-anniversary) <sup>(USgamer)</sup>
 
 ---
 
 ### Dev, making of, mecanici
 * [The making of Gears 5: how the Coalition hit 60fps - and improved visual quality](https://www.eurogamer.net/articles/digitalfoundry-2019-gears-5-tech-interview
 ) <sup>(Eurogamer)</sup>
+* [How Outer Wilds built a planet which falls apart](https://www.rockpapershotgun.com/2019/09/11/how-outer-wilds-built-a-planet-which-falls-apart/
+) <sup>(RPS)</sup>
 
 ---
 
@@ -154,6 +160,7 @@ Linkuri rapide:
 ))</sup>
 * **Book of Travels** <sup>([PC Gamer](https://www.pcgamer.com/book-of-travels-is-a-tmo-a-tiny-multiplayer-online-game/
 ))</sup>
+* **Argonus & the Gods of Stone** <sup>([GameSpace](https://www.gamespace.com/all-articles/news/argonus-the-gods-of-stone-announced-for-october/))</sup>
 
 ### Acum cu dată de lansare
 * **Mutazione**: 19 septembrie <sup>([Eurogamer](https://www.eurogamer.net/articles/2019-09-13-weird-beautiful-mutant-soap-opera-mutazione-is-out-next-week
@@ -188,11 +195,9 @@ Linkuri rapide:
 ))</sup>
 * 13 septembrie: **Kind Words** <sup>([Steam](https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/
 ))</sup>
-
-
+* 13 septembrie: **Breathedge** <sup>([Steam](https://store.steampowered.com/app/738520/Breathedge/))</sup>
 
 ## Prăvălii de jocuri
-
 ### Știri
 * [Discord's Nitro Games will be closed in October](https://www.pcgamer.com/discords-nitro-games-will-be-closed-in-october/
 ) <sup>(PC Gamer)</sup>
