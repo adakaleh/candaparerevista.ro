@@ -5,7 +5,7 @@ date: 2019-09-22
 categories:
     - Highlights
 
-tags: ["Knights & Bikes", Twitch, IGDB.com, Valve, League of Legends, Runescape, NBA 2K20, A Short Hike, Control, Dead Cells, Apple Arcade, Marble Drop, Devotion, The Shrouded Isle, Eliza, Nauticrawl, Stones of Solace, Wardialler]
+tags: [Knights and Bikes, Twitch, IGDB.com, Valve, League of Legends, Runescape, NBA 2K20, A Short Hike, Control, Dead Cells, Apple Arcade, Marble Drop, Devotion, The Shrouded Isle, Eliza, Nauticrawl, Stones of Solace, Wardialler]
 
 description: "Indie-ul proaspăt publicat de Double Fine devine un serial animat, Twitch cumpără igdb.com, iar un tribunal francez dă un verdict care ar putea schimba felul în care cumpărăm și folosim jocurile pe Steam. De asemenea, s-a lansat Apple Arcade, aflăm câți bani au plătit Epic Store pentru exclusivitatea lui Control, s-au lansat o mulțime de jocuri, a fost anunțat un nou joc Total War și avem în sfârșit o dată de lansare pentru Disco Elysium."
 
@@ -52,6 +52,7 @@ Linkuri rapide:
 * [Apple Arcade invests in developers while ensuring studios retain rights to their games](https://gamedaily.biz/article/1221/apple-arcade-invests-in-developers-while-ensuring-studios-retain-rights-to-their-games) <sup>(GameDaily.biz)</sup>
 * [Apple Arcade is Mobile Gaming Without All the Bullshit](https://www.kotaku.co.uk/2019/09/19/apple-arcade-is-mobile-gaming-without-all-the-bullshit) <sup>(Kotaku)</sup>
 * [A Major Legal Battle May Change How Digital Game Sales Work](https://www.wired.com/story/valve-resell-digital-games/) <sup>(Wired)</sup>
+* [Apple Arcade is great because developers have steadily made iOS an amazing platform](https://www.eurogamer.net/articles/2019-09-21-apple-arcade-is-great-because-developers-have-steadily-made-ios-an-amazing-platform) <sup>(Eurogamer)</sup>
 
 ---
 
@@ -82,6 +83,7 @@ Linkuri rapide:
 * [Arcade Perfect: How Pac-Man was ported to consoles](https://www.videogameschronicle.com/features/arcade-perfect-how-pac-man-was-ported-to-consoles/) <sup>(VideoGamesChronicle)</sup>, plus [Arcade perfect: charting the often tortured journey of old school ports](https://www.eurogamer.net/articles/2019-09-15-arcade-perfect-charting-the-often-tortured-journey-of-old-school-ports) <sup>(Eurogamer)</sup>
 * [A Panel Shaped Screen: remembering the sprite comics of the mid-2000s](https://www.rockpapershotgun.com/2019/09/19/a-panel-shaped-screen-the-games-we-use-to-make-comics/) <sup>(RPS)</sup>
 * [Marble Drop](https://obscuritory.com/puzzle/marble-drop/) <sup>(The Obscuritory)</sup>
+* [The Game Archaeologist: The day Dungeons and Dragons Online dropped the free-to-play bomb](https://massivelyop.com/2019/09/21/the-game-archaeologist-the-day-dungeons-and-dragons-online-dropped-the-free-to-play-bomb/) <sup>(Massively OP)</sup>
 
 ---
 
@@ -131,14 +133,14 @@ Linkuri rapide:
 * 19 septembrie: **Jenny LeClue** <sup>([Steam](https://store.steampowered.com/app/319870/Jenny_LeClue__Detectivu/), [gog.com](https://www.gog.com/game/jenny_leclue_detectivu))</sup>
 * 19 septembrie: **PlanetSide Arena** (early access) <sup>([Steam](https://store.steampowered.com/app/987350/PlanetSide_Arena/))</sup>
 * 20 septembrie: **Ni no Kuni Wrath of the White Witch Remastered** <sup>([Steam](https://store.steampowered.com/app/798460/Ni_no_Kuni_Wrath_of_the_White_Witch_Remastered/))</sup>
+* 19 septembrie: **Cardpocalypse** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/cardpocalypse/))</sup>
+* 19 septembrie: **Police Stories** <sup>([Steam](https://store.steampowered.com/app/539470/Police_Stories/))</sup>
 * 20 septembrie: **Untitled Goose Game** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/untitled-goose-game-switch/), [Steam](https://store.steampowered.com/app/837470/Untitled_Goose_Game/))</sup>
 * 20 septembrie: **The Legend of Zelda: Link's Awakening** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/))</sup>
 * 20 septembrie: **Untitled Goose Game** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/untitled-goose-game))</sup>
 * 20 septembrie: **Sojourn** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/the-sojourn/))</sup>
-* 19 septembrie: **Cardpocalypse** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/cardpocalypse/))</sup>
 
 ## Prăvălii de jocuri
-
 ### Știri
 * [Rockstar rolls out its new PC launcher, gives away San Andreas to anyone who installs it](https://www.destructoid.com/rockstar-rolls-out-its-new-pc-launcher-gives-away-san-andreas-to-anyone-who-installs-it-567136.phtml) <sup>(Destructoid)</sup>
 * [Steam's Discovery update is making things worse for some indie developers](https://www.pcgamer.com/steams-discovery-update-is-making-things-worse-for-some-indie-developers/) <sup>(PC Gamer)</sup>
