@@ -95,6 +95,7 @@ Linkuri rapide:
 * ['It was the right choice': how the Gears 5 team built a credible female hero](https://www.theguardian.com/games/2019/sep/26/how-the-gears-5-team-built-a-credible-female-hero) <sup>(The Guardian)</sup>
 * [Combat, co-op, and proc gen: Inside the design of  Remnant: From the Ashes](https://www.gamasutra.com/view/news/350883/Combat_coop_and_proc_gen_Inside_the_design_of_Remnant_From_the_Ashes.php) <sup>(Gamasutra)</sup>
 * [Raven Software devs look back at the making of  Jedi Outcast](https://www.gamasutra.com/view/news/351134/Raven_Software_devs_look_back_at_the_making_of_Jedi_Outcast.php) <sup>(Gamasutra)</sup>
+* [How Gears of War changed to become Xbox Game Pass’ biggest launch](https://www.polygon.com/xbox-one/2019/9/28/20889044/gears-5-xbox-game-pass-multiplayer-boot-camp-xbox-one-pc) <sup>(Polygon)</sup>
 
 ---
 
