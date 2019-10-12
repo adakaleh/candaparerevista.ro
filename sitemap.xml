@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2019/coperti-10/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/posts/2019/10/review-little-misfortune/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/10/06/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -2801,7 +2811,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/fular/</loc>
-    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3237,13 +3247,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3716,14 +3726,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3773,6 +3783,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/little-briar-rose/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/little-misfortune/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4672,7 +4688,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4990,13 +5006,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/tags/revistele-lunii/</loc>
-    <lastmod>2019-09-08T00:06:01+00:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5302,7 +5318,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
