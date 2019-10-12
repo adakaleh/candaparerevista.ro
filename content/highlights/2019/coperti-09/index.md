@@ -68,7 +68,7 @@ Ediţia normală şi ediţia pentru abonaţi:
 ([Twitter EDGE](https://twitter.com/edgeonline))
 
 ## Retro Gamer (UK)
-### [#143](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-198/)
+### [#198](https://www.myfavouritemagazines.co.uk/retro-gamer-print-back-issues/retro-gamer-issue-198/)
 {{< figure-multi-ext
 	"images/retro-gamer-143.jpg|https://content.myfavouritemagazines.co.uk/out/pictures//master/product/1/ret_p1(43).jpg|"
 >}}
