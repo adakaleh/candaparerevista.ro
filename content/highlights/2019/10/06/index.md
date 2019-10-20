@@ -80,7 +80,7 @@ Linkuri rapide:
 * [10 years on and 20 more to go - Mojang on the present and future of Minecraft](https://www.eurogamer.net/articles/2019-10-02-10-years-on-and-20-more-to-go-mojang-on-the-present-and-future-of-minecraft) <sup>(Eurogamer)</sup>
 * [Woo-Hoo! The Making of Stranglehold](https://www.kotaku.co.uk/2019/10/04/woo-hoo-the-making-of-stranglehold) <sup>(Kotaku)</sup>
 * [Betrayal at Krondor](https://www.filfre.net/2019/10/betrayal-at-krondor/) <sup>(The Digital Antiquarian)</sup>
-
+* [The story behind Liberty Island, Deus Ex's most iconic level](https://www.pcgamer.com/the-story-behind-liberty-island-deus-exs-most-iconic-level/) <sup>(PC Gamer)</sup>
 ---
 
 ### Dev, making of, mecanici
