@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2019/10/20/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2019/10/review-little-misfortune/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -1552,7 +1557,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/blizzard/</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1930,7 +1935,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/control/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2049,8 +2054,14 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/dantes-inferno/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/dark-souls/</loc>
-    <lastmod>2019-03-17T08:00:01+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2257,6 +2268,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/disco-elysium/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/discord/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2319,6 +2336,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/dota-auto-chess/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/dotemu/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2414,7 +2437,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/e3/</loc>
-    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2786,7 +2809,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/fortnite/</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3204,7 +3227,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/hearthstone/</loc>
-    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3282,13 +3305,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3445,6 +3468,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/interactive-stone/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/internet-archive/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3732,7 +3761,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/league-of-legends/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3767,14 +3796,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3822,6 +3851,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/little-beetle-bottle-battle/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/little-briar-rose/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3841,7 +3876,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/loot-boxes/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4236,6 +4271,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/n1rv-ann-a/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/nauticrawl/</loc>
     <lastmod>2019-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4328,6 +4369,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/ninja/</loc>
     <lastmod>2019-08-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/ninja-turtles/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4542,6 +4589,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/overland/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/overload/</loc>
     <lastmod>2018-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4549,7 +4602,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/overwatch/</loc>
-    <lastmod>2019-09-08T00:06:02+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4573,7 +4626,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/paradox/</loc>
-    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5107,7 +5160,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/riot-games/</loc>
-    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5389,7 +5442,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6287,7 +6340,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/untitled-goose-game/</loc>
-    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6317,7 +6370,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/va-11-hall-a/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6521,7 +6574,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/witcher-3/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
