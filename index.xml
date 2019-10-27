@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 20 - 26 octombrie</title>
+      <link>https://candaparerevista.ro/highlights/2019/10/27/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2019/10/27/</guid>
+      <description>Fallout 76 o comite din nou, mai întâi anunțând un abonament plătit (scump) pentru funcționalități exclusive, apoi pentru că acele funcționalități nu&amp;hellip; funcționează. Și, în plus, asta se întâmplă în aceeași săptămână în care s-a lansat The Outer Worlds. Apoi, acțiunile Ubisoft se prăbușesc după ce recunoaște eșecul titlurilor de anul acesta, în frunte cu Breakpoint, Fornite stabilește recoduri de vizionare după ce a distrus harta jocului, Google își deschide studio de jocuri pentru Stadia, Yaga are dată de lansare și niște clujeni lansează un boardgame bazat pe tradițiile românești de nuntă cu grafică originală.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 13 - 19 octombrie</title>
@@ -159,17 +168,6 @@ Linkuri rapide:
       
       <guid>https://candaparerevista.ro/posts/2019/08/review-katana-zero/</guid>
       <description>Cei de la Devolver Digital sunt probabil la ora actuală cei mai cunoscuți publisheri indie. Prezentările lor trăsnite de la E3 și portofoliul presărat cu clasici indie - precum Serious Sam, Broforce, Pathologic, Enter the Gungeon, Minit și multe altele - i-au adus mereu în centrul atenției. În timp ce alți distribuitori preferă să se axeze pe jocuri safe, cu audiență generală, Devolver nu s-au sfiit niciodată să promoveze jocuri cu un specific mai experimental sau mai edgy, cu mecanici ieșite din zona mainstream. Dacă ești un developer aflat la început de drum și ești luat sub aripa Devolver, poți spune că ești pe drumul cel bun, toți copiii cool vor vrea să pună mâna pe jocul tău.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 18 - 24 august</title>
-      <link>https://candaparerevista.ro/highlights/2019/08/25/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2019/08/25/</guid>
-      <description>Gamescom 2019 a fost evenimentul principal al săptămânii (și candaparerevista a fost acolo) și a venit cu multe trailere și anunțuri de jocuri, avem și multe știri despre filme bazate pe jocuri, Denuvo bagă DRM în jocurile de mobile, aflăm cât valorează piața de jocuri din UE, Valve face un Steam separat pentru China și citim o retrospectivă despre Alpha Centauri al lui Sid Meier.
-Linkuri rapide:
- Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  Un reboot al filmului Resident Evil e în lucru.</description>
     </item>
     
   </channel>
