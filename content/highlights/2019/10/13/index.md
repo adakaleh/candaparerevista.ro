@@ -5,7 +5,7 @@ date: 2019-10-13
 categories:
     - Highlights
 
-tags: [PlayStation, Epic Games, Fortnite, Ubisoft, Blizzard, "Vampire The Masquerade: Bloodlines", "Stygian: Reign Of The Old Ones", Untitled Goose Game, Void Bastards, "Warhammer 40,000: Gladius - Relics of War", Warsaw, Noita, Neo Cab, Man of Medan, NBA Live, NBA 2K, Apple Arcade, Cryostasis, Bully, Enter the Matrix, Midgard, Telling Lies, Hypnospace Outlaw, "Chivalry: Medieval Warfare", Indivisible, Killer Queen Black, Chromosome Evil, Mushroom Hunt, Terra Nil]
+tags: [PlayStation, Epic Games, Fortnite, Ubisoft, Blizzard, Hearthstone, "Vampire The Masquerade: Bloodlines", "Stygian: Reign Of The Old Ones", Untitled Goose Game, Void Bastards, "Warhammer 40,000: Gladius - Relics of War", Warsaw, Noita, Neo Cab, Man of Medan, NBA Live, NBA 2K, Apple Arcade, Cryostasis, Bully, Enter the Matrix, Midgard, Telling Lies, Hypnospace Outlaw, "Chivalry: Medieval Warfare", Indivisible, Killer Queen Black, Chromosome Evil, Mushroom Hunt, Terra Nil]
 
 description: "Blizzard devine din nou ținta criticilor publice după ce a pedepsit un jucător de Hearthstone pentru afirmații care le-ar putea afecta afacerea din China, Epic Games sunt dați în judecată pentru că Fortnite dă dependență, aflăm când se lansează PlayStation 5, ne readucem aminte de Enter the Matrix și Cryostasis, iar jocul românesc Chromosome Evil publică primul trailer."
 

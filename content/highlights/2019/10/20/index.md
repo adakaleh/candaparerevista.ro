@@ -143,6 +143,7 @@ Câteva noutăți în subiectul de săptămâna trecută despre Blizzard:
 * 15 octombrie: **Disco Elysium** <sup>([Steam](https://store.steampowered.com/app/632470/Disco_Elysium/), [gog.com](https://www.gog.com/game/disco_elysium))</sup>
 * 15 octombrie: **Outbuddies** <sup>([Steam](https://store.steampowered.com/app/1083310/OUTBUDDIES/), [gog.com](https://www.gog.com/game/outbuddies))</sup>
 * 15 octombrie: **Grandia HD Remaster** <sup>([Steam](https://store.steampowered.com/app/1034860/GRANDIA_HD_Remaster/))</sup>
+* 15 octombrie: **Rebel Inc: Escalation** (early access) <sup>([Steam](https://store.steampowered.com/app/1088790/Rebel_Inc_Escalation/))</sup>
 * 16 octombrie: **Chernobylite** (early access) <sup>([Steam](https://store.steampowered.com/app/1016800/Chernobylite/), [gog.com](https://www.gog.com/game/chernobylite))</sup>
 * 16 octombrie: **Beat Hazard 2** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/618740/Beat_Hazard_2/), [gog.com](https://www.gog.com/game/beat_hazard_2))</sup>
 * 17 octombrie: **Felix The Reaper** <sup>([Steam](https://store.steampowered.com/app/919410/Felix_The_Reaper/), [gog.com](https://www.gog.com/game/felix_the_reaper))</sup>
@@ -153,6 +154,7 @@ Câteva noutăți în subiectul de săptămâna trecută despre Blizzard:
 * 17 octombrie: **Stranded Sails - Explorers of the Cursed Islands** <sup>([Steam](https://store.steampowered.com/app/943260/Stranded_Sails__Explorers_of_the_Cursed_Islands/), [gog.com](https://www.gog.com/game/stranded_sails_explorers_of_the_cursed_islands))</sup>
 * 17 octombrie: **The Fisherman - Fishing Planet** <sup>([Steam](https://store.steampowered.com/app/1072480/The_Fisherman__Fishing_Planet/))</sup>
 * 17 octombrie: **Kine** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/kine/))</sup>
+* 17 octombrie: **The Jackbox Party Pack 6** <sup>([Steam](https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/))</sup>
 * 18 octombrie: **Plants vs. Zombies: Battle for Neighborville** (iese din early access) <sup>([Origin](https://www.origin.com/can/en-us/store/plants-vs-zombies/pvz-battle-for-neighborville))</sup>
 * 18 octombrie: **Manifold Garden** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/manifold-garden/))</sup>
 * 19 octombrie: **Surviving the Aftermath** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/surviving-the-aftermath/))</sup>
