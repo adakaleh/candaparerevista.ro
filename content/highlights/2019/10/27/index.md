@@ -70,6 +70,7 @@ Linkuri rapide:
 * [I played Morels: The Hunt with a mycologist, who also happens to be my father](https://www.rockpapershotgun.com/2019/10/20/i-played-morels-the-hunt-with-a-mycologist-who-also-happens-to-be-my-father/) <sup>(RPS)</sup>
 * [Opened World: Shattered Memories](http://www.haywiremag.com/columns/opened-world-shattered-memories/) <sup>(Haywire Magazine)</sup>
 * [Coming to terms with brutality in Call of Duty: Modern Warfare](https://venturebeat.com/2019/10/25/the-deanbeat-coming-to-terms-with-brutality-in-call-of-duty-modern-warfare/) <sup>(VentureBeat)</sup>
+* [Red Dead Redemption 2 is a Pale Imitation of its Inspirations](https://www.kotaku.co.uk/2019/10/26/red-dead-redemption-2-is-a-pale-imitation-of-its-inspirations) <sup>(Kotaku)</sup>
 
 #### Disco Elysium
 * [Disco Elysium puts a full party of NPC companions in your head](https://www.pcgamer.com/disco-elysium-puts-a-full-party-of-npc-companions-in-your-head/) <sup>(PC Gamer)</sup>
