@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2019/11/recomandare-tropico-2/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2019/11/03/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
   </url>
@@ -4750,7 +4755,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/patrunjelu/</loc>
-    <lastmod>2018-12-23T08:00:00+00:00</lastmod>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4900,7 +4905,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5098,7 +5103,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/recomandare/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5530,7 +5535,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6321,6 +6326,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/tropico/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/tropico-2/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
