@@ -7,8 +7,6 @@ categories:
     - Lunea începe sâmbăta
 tags:
 
-draft: true
-
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1844
 
 description: "Observ cu îngrijorare că bicicliștii au prins curaj după '89 și se apropie din ce în ce mai mult și mai în viteză de așezările umane. De unde nu pleacă niciodată fără o oaie, o găină, un Eurocolor, o gogonea sau ce mai are scheianul prin gospodărie. Au existat cazuri, și nu izolate, de bicicliști care, după ce s-au înfruptat cu sălbăticie din murăturile destinate consumului în anotimpul hibernal, au luat ostatice cîteva familii de scheieni gospodari și i-au obligat pe sărmanii oameni să le urce bicicletele la deal."
