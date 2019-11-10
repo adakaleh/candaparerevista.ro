@@ -156,6 +156,7 @@ Linkuri rapide:
 * 24 octombrie: **Rise Of Industry: 2130** <sup>([Steam](https://store.steampowered.com/app/1139110/Rise_of_Industry_2130/), [gog.com](https://www.gog.com/game/rise_of_industry_2130))</sup>
 * 24 octombrie: **Space Company Simulator** (early access) <sup>([Steam](https://store.steampowered.com/app/923970/Space_Company_Simulator/))</sup>
 * 25 octombrie: **Call of Duty: Modern Warfare** <sup>([Site Call of Duty](https://www.callofduty.com/modernwarfare/buy))</sup>
+* 25 octombrie: **MO: Astray** <sup>([Steam](https://store.steampowered.com/app/1104660/MO_Astray/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri
