@@ -31,4 +31,4 @@ Pentru a condimenta experiența de joc, te poți băga puțin și în politică.
 
 Tropico 2 poate fi găsit atât pe [Steam](https://store.steampowered.com/app/33520/Tropico_Reloaded/) cât și pe [GOG.com](https://www.gog.com/game/tropico_reloaded), iar singurul neajuns major pe care i-l pot găsi este absența unui HD patch. Din păcate, ești blocat la rezoluții 4:3. Dar calitatea jocului compensează din plin, și curând vei uita de aceste neajunsuri.
 
-*Yo ho, yo ho, a pirate's life for me!*
+*Yo ho, yo ho, a pirate's life for me!* ■
