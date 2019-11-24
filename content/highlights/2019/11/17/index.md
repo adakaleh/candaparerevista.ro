@@ -79,6 +79,7 @@ Linkuri rapide:
 * [The Personal Story Behind Parvati, the Surprise Star of &#39;The Outer Worlds&#39;](https://www.vice.com/en_us/article/3kxm43/the-personal-story-behind-parvati-the-surprise-star-of-the-outer-worlds) <sup>(Vice)</sup>
 * [Mutazione Is a Quiet Lesson in Spiritual Botany](https://www.pastemagazine.com/articles/2019/11/mutazione-gardening.html) <sup>(Paste)</sup>
 * [A Storm Is Blowing from Paradise: Disco Elysium on the Past and Present](https://medium.com/@alastairhadden/a-storm-is-blowing-from-paradise-disco-elysium-on-the-past-and-present-e2fff5d629be) <sup>(Medium)</sup>
+* [American Nomad – Death Stranding and Public Infrastructure](https://www.rebind.io/american-nomad-death-stranding-and-public-infrastructure-3436/) <sup>(RE:BIND)</sup>
 
 #### Death Stranding
 * [Death Stranding Is a Collective Power Fantasy About Infrastructure and Aid](https://www.vice.com/en_us/article/a35md4/death-stranding-is-a-collective-power-fantasy-about-infrastructure-and-aid) <sup>(Vice)</sup>
@@ -169,9 +170,9 @@ Linkuri rapide:
 * 12 noiembrie: **Yaga** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/yaga/))</sup>
 * 13 noiembrie: **Battle Breakers** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/battle-breakers))</sup>
 * 14 noiembrie: **Bee Simulator** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/bee-simulator/home))</sup>
-* 14 noiembrie: **Sparklite** <sup>([Steam](https://store.steampowered.com/app/943140/Sparklite/))</sup>
+* 14 noiembrie: **Sparklite** <sup>([Steam](https://store.steampowered.com/app/943140/Sparklite/), [gog.com](https://www.gog.com/game/sparklite))</sup>
 * 14 noiembrie: **Terminator: Resistance** <sup>([Steam](https://store.steampowered.com/app/954740/Terminator_Resistance/))</sup>
-* 14 noiembrie: **Blacksad: Under The Skin** <sup>([Steam](https://store.steampowered.com/app/1003890/Blacksad_Under_the_Skin/))</sup>
+* 14 noiembrie: **Blacksad: Under The Skin** <sup>([Steam](https://store.steampowered.com/app/1003890/Blacksad_Under_the_Skin/), [gog.com](https://www.gog.com/game/blacksad_under_the_skin))</sup>
 * 14 noiembrie: **Age of Empires II: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/))</sup>
 * 15 noiembrie: **Star Wars Jedi: Fallen Order** <sup>([EA Store](https://www.ea.com/games/starwars/jedi-fallen-order/buy))</sup>
 
