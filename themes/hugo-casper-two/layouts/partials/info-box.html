@@ -11,7 +11,7 @@
     {{ with .reviews }}
       <span class="info-box-item"><span class="label">Reviews: </span>
         {{ if .metacritic }} <a href = "{{.metacritic}}">Metacritic</a>{{ end }}{{ if and .metacritic .opencritic }}, {{ end }}
-        {{ if .opencritic }} <a href = "{{.metacritic}}">OpenCritic</a>{{ end }}
+        {{ if .opencritic }} <a href = "{{.opencritic}}">OpenCritic</a>{{ end }}
       </span>
     {{ end }}
     {{ with .cumpara }}
