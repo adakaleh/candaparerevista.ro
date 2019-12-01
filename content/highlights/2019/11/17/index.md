@@ -137,6 +137,7 @@ Linkuri rapide:
 ## Made în România
 * S-a lansat **Yaga** pe Epic Store și primește și atenția presei internaționale, inclusiv de la PC Gamer. <sup>([Go4Games](http://jocuri.go4it.ro/stiri-si-articole/rpg/yaga-action-rpg-ul-romanesc-de-inspiratie-folclorica-este-disponibil-acum-18576808), [PC Gamer](https://www.pcgamer.com/folklore-monsters-romanian-hip-hop-and-a-one-armed-blacksmith-star-in-this-action-rpg/), [PC Invasion](https://www.pcinvasion.com/yaga-the-years-quirkiest-rpg-is-out-today/))</sup>
 * Alte două jocuri românești au acum demo jucabil: **WarriOrb** <sup>([Steam](https://store.steampowered.com/app/1193760/WarriOrb_Prologue/))</sup> și **Unbound: Worlds Apart**. <sup>([Steam](https://store.steampowered.com/app/814680/Unbound_Worlds_Apart/))</sup>
+* [Bucharest Gaming Week – Adolescența unei industrii care face jocurile](https://mindcraftstories.ro/index.php/2019/11/13/bucharest-gaming-week-adolescenta-unei-industrii-care-face-jocurile/) <sup>(Mindcraft Stories)</sup>
 
 ## Anunțuri şi lansări de jocuri
 ### Anunţate

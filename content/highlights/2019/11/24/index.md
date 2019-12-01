@@ -50,6 +50,7 @@ Linkuri rapide:
 * [Video game influencers are disrupting data capitalism and building new communities](https://qz.com/1749836/video-game-influencers-are-disrupting-data-capitalism-and-building-communities/) <sup>(Quartz)</sup>
 * [The evolution of online gaming threatens extinction for the disconnected life](https://games.avclub.com/the-evolution-of-online-gaming-threatens-extinction-for-1839897254) <sup>(A.V. Club)</sup>
 * [Neo-Retro: Modern games that build on the past](https://wireframe.raspberrypi.org/articles/neo-retro-modern-games-that-build-on-the-past) <sup>(Wireframe magazine)</sup>
+* [Filosofia Politică a Jocurilor: Democrația și Alegerile în jocuri](https://mindcraftstories.ro/index.php/2019/11/19/filosofia-politica-a-jocurilor-democratia-si-alegerile-in-jocuri/) <sup>(Mindcraft Stories)</sup>
 
 ---
 
