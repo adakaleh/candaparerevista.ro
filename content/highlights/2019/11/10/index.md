@@ -48,7 +48,7 @@ Linkuri rapide:
 * [In 2020, I can no longer abide the 100-hour RPG](https://www.polygon.com/2019/11/7/20952172/outer-worlds-rpg-length-20-hour-game-100-hour-story-campaign) <sup>(Polygon)</sup>
 * [My obsession with progression meters, and the art of shaping the player experience](https://www.eurogamer.net/articles/2019-11-09-my-obsession-with-progression-meters-and-the-art-of-shaping-the-player-experience) <sup>(Eurogamer)</sup>
 * [In Japan's '80s PC magazines, games were included as sound on cheap vinyl 'albums'](https://www.pcgamer.com/in-japans-80s-pc-magazines-games-were-included-as-sound-on-cheap-vinyl-albums/) <sup>(PC Gamer)</sup>
-* [2019 was the year that capitalism became video games&#039; greatest villain](https://www.windowscentral.com/2019-year-capitalism-became-video-games-greatest-villain) <sup>(<span style='background-color:red'>PROBLEM</span>)</sup>
+* [2019 was the year that capitalism became video games&#039; greatest villain](https://www.windowscentral.com/2019-year-capitalism-became-video-games-greatest-villain) <sup>(Windows Central)</sup>
 
 ---
 

@@ -63,6 +63,7 @@ Linkuri rapide:
 * [Off the Grid: DmC: Devil May Cry](http://www.haywiremag.com/columns/off-the-grid-dmc-devil-may-cry/) <sup>(Haywire Magazine)</sup>
 * [Opened World: What Binds Us](http://www.haywiremag.com/columns/opened-world-what-binds-us/) <sup>(Haywire Magazine)</sup>
 * (spoilers) [‘Death Stranding’ Is a Glimpse Into the Future of Video Games](https://www.theringer.com/2019/11/26/20982630/death-stranding-hideo-kojima-mads-mikkelsen) <sup>(The Ringer)</sup>
+* [‘Death Stranding’ imagines the eco-horror of our future dystopia](https://theoutline.com/post/8300/death-stranding-review-eco-horror-annihilation-stalker) <sup>(The Outline)</sup>
 
 ---
 
