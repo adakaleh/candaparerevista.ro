@@ -116,6 +116,8 @@ Ediţia normală şi ediţia pentru abonaţi:
 	"images/wireframe-20.jpg|https://magazines-static.raspberrypi.org/issues/cover_images/000/000/096/original/WF_20_Cover-FLAT.png|"
 >}}
 
+(Varianta digitală e gratuită, aveți link de download pe pagina fiecărei ediții)
+
 ## Canard PC (Franța)
 ### [Septembrie 2019](https://www.canardpc.com/numero/398) (#398)
 {{< figure-multi-ext

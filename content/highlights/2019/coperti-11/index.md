@@ -136,6 +136,8 @@ Ediție specială cu [12 coperți diferite](https://www.gamesradar.com/uk/edge-m
 	"images/wireframe-26.jpg|https://magazines-static.raspberrypi.org/issues/cover_images/000/000/262/original/WF_26_Cover-FLAT.png|"
 >}}
 
+(Varianta digitală e gratuită, aveți link de download pe pagina fiecărei ediții)
+
 ## Canard PC (Franța)
 ### [#400](https://www.canardpc.com/numero/400)
 {{< figure-multi-ext

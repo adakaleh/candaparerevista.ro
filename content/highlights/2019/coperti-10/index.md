@@ -130,6 +130,8 @@ Ediţia normală şi ediţia pentru abonaţi:
 	"images/wireframe-22.jpg|https://magazines-static.raspberrypi.org/issues/cover_images/000/000/132/original/WF_22_Cover_FLAT.png|"
 >}}
 
+(Varianta digitală e gratuită, aveți link de download pe pagina fiecărei ediții)
+
 ## Canard PC (Franța)
 ### [#399](https://www.canardpc.com/numero/399)
 {{< figure-multi-ext
