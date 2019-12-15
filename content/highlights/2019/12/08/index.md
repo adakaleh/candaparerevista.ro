@@ -89,6 +89,7 @@ Linkuri rapide:
 * [Did &quot;Fewer, Bigger, Better&quot; actually work?](https://www.gamesindustry.biz/articles/2019-12-01-did-fewer-bigger-better-actually-work) <sup>(GamesIndustry.biz)</sup>
 * [Eric the Unready](https://www.filfre.net/2019/12/eric-the-unready/) <sup>(The Digital Antiquarian)</sup>
 * [Leaving Albion - the epic making of Fable](https://wireframe.raspberrypi.org/articles/leaving-albion-the-epic-making-of-fable) <sup>(Wireframe magazine)</sup>
+* [As Donkey Kong 64 turns 20, the devs reflect on its design, the infamous DK Rap, and how a shocked Shigeru Miyamoto created the Coconut Shooter](https://www.gamesradar.com/uk/making-of-donkey-kong-64/) <sup>(GamesRadar+)</sup>
 
 #### Retrospectiva 2019
 * [The State Of PC Gaming In 2019](https://kotaku.com/the-state-of-pc-gaming-in-2019-1840241716) <sup>(Kotaku)</sup>
@@ -170,6 +171,7 @@ Iar [The Verge](https://www.theverge.com/2019/12/3/20970458/playstation-annivers
 * 3 decembrie: **Heroland** <sup>([Steam](https://store.steampowered.com/app/1066030/Heroland/), [gog.com](https://www.gog.com/game/heroland))</sup>
 * 3 decembrie: **Phoenix Point** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/phoenix-point/))</sup>
 * 3 decembrie: **Farming Simulator 20** <sup>([Site oficial Farming Simulator](https://www.farming-simulator.com/about.php?lang=en&country=us&platform=pc))</sup>
+* 3 decembrie: **Tools Up!** <sup>([Steam](https://store.steampowered.com/app/1004490/Tools_Up/))</sup>
 * 4 decembrie: **Arise: A Simple Story** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/arise-a-simple-story/))</sup>
 * 4 decembrie: **Everreach: Project Eden** <sup>([Steam](https://store.steampowered.com/app/915670/Everreach_Project_Eden/))</sup>
 * 5 decembrie: **Paranoia: Happiness is Mandatory** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/paranoia/))</sup>
