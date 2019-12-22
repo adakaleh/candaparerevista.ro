@@ -107,6 +107,7 @@ A avut loc evenimentul sfârșitului de an, în care au fost anunțate mai multe
 #### Retrospectiva anului 2019
 * [The 50 best games of 2019](https://www.polygon.com/best-games/2019/12/13/21002670/best-games-2019-ps4-pc-xbox-one-nintendo-switch-ios) <sup>(Polygon)</sup>
 * [The year of PR disasters](https://www.gamesindustry.biz/articles/2019-12-09-the-year-of-pr-disasters) <sup>(GamesIndustry.biz)</sup>
+* [Best of 2019 video games: How diverse storylines and streaming platforms shaped culture](https://www.latimes.com/entertainment-arts/story/2019-12-09/2019-year-in-review-video-games-shaped-pop-culture) <sup>(L.A. Times)</sup>
 
 #### Retrospectiva deceniului
 * [Turn-based tactics won the decade](https://www.pcgamer.com/turn-based-tactics-won-the-decade/) <sup>(PC Gamer)</sup>
@@ -115,7 +116,6 @@ A avut loc evenimentul sfârșitului de an, în care au fost anunțate mai multe
 * [What PC gaming was like in 2009](https://www.pcgamer.com/what-it-was-like-to-be-a-pc-gamer-in-2009/) <sup>(PC Gamer)</sup>
 * [The Most Underrated Games Of The Decade](https://kotaku.com/the-most-underrated-games-of-the-decade-1840365171) <sup>(Kotaku)</sup>
 * [The Decade In Five Games](https://kotaku.com/the-decade-in-five-games-1840394803) <sup>(Kotaku)</sup>
-
 ---
 
 ### Dev, making of, mecanici
