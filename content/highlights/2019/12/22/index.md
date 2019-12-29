@@ -53,6 +53,8 @@ Linkuri rapide:
 * [How Video Game Cookbooks Are Helping Us Taste Digital Worlds](https://www.usgamer.net/articles/how-video-game-cookbooks-are-helping-us-taste-digital-worlds) <sup>(USgamer)</sup>
 * [Where Are We? adds a modern UI to &#8217;90s RPGs like Might and Magic](https://www.pcgamesn.com/where-are-we) <sup>(PCGamesN)</sup>
 * [The 15-year-old British gamer who won almost £1 million at the Fortnite World Cup](https://theface.com/life/jaden-ashman-fortnite-championship-winner-volume-4-issue-002) <sup>(The Face)</sup>
+* [&#39;Civilization&#39; and Strategy Games&#39; Progress Delusion](https://www.vice.com/en_us/article/4aggzm/civilization-and-strategy-games-progress-delusion) <sup>(Vice)</sup>
+* [On Farming YouTube, Emu Eggs and Hay Bales Find Loyal Fans](https://www.wired.com/story/farming-youtube-emu-eggs-hay-bales-find-fans/) <sup>(Wired)</sup>
 
 ---
 
@@ -62,6 +64,7 @@ Linkuri rapide:
 * [A Closer Look At Dark Souls&#x27; Most Difficult Player-Created Challenges](https://kotaku.com/a-closer-look-at-dark-souls-most-difficult-player-creat-1840512938) <sup>(Kotaku)</sup>
 * [The Audaciously Simple &#39;Desert Golfing&#39; Taught Me to Cope With Grief](https://www.vice.com/en_us/article/n7jw3m/the-audaciously-simple-desert-golfing-taught-me-to-cope-with-grief) <sup>(Vice)</sup>
 * [Dealing with my own grief in Disco Elysium](https://intothespine.com/2019/12/18/dealing-with-grief-disco-elysium/) <sup>(Into The Spine)</sup>
+* [How Star Wars: Knights of the Old Republic II Made The Force Interesting](https://www.fanbyte.com/features/kotor-2-force/) <sup>(Fanbyte)</sup>
 
 ---
 
