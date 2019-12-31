@@ -54,13 +54,13 @@ resources:
 * (Video) [Video: How  West of Loathing  became a game made out of jokes](https://www.gamasutra.com/view/news/320910/Video_How_West_of_Loathing_became_a_game_made_out_of_jokes.php) (Gamasutra)
 * (Podcast) [Designer Notes 40: Brian Reynolds - Part 3](https://www.idlethumbs.net/designernotes/episodes/brian-reynolds-part-3) (plus linkuri către [Part 2](https://www.idlethumbs.net/designernotes/episodes/brian-reynolds-part-2/), [Part 1](https://www.idlethumbs.net/designernotes/episodes/brian-reynolds-part-1/)) (Idle Thumbs)
 
-#### Istorie
+### Istorie
 * [How a Diablo expansion led to behind the scenes trouble](https://www.polygon.com/features/2018/6/29/17517376/diablo-hellfire-expansion-behind-the-scenes-trouble) (Polygon)
 * [How Condemned Paved the Way for the Resurgence of Horror Games](http://www.kotaku.co.uk/2018/06/29/how-condemned-paved-the-way-for-the-resurgence-of-horror-games) (Kotaku)
 * [Buy Low, Sell High: Vivendi's History in Video Games](http://www.kotaku.co.uk/2018/06/26/buy-low-sell-high-vivendis-history-in-video-games) (Kotaku)
 * (Video) [The Entire History of &#x27;World of Warcraft&#x27; in One (Long) Video](https://www.wired.com/story/world-of-warcraft-history/) (Wired)
 
-#### Design, world-building
+### Design, world-building
 * [Combining pinball with platforming to build the levels of  Yoku's Island Express ](http://www.gamasutra.com/view/news/319656/Combining_pinball_with_platforming_to_build_the_levels_of_Yokus_Island_Express.php) (Gamasutra)
 * [The making of Bioshock's twisted green belt, Arcadia](https://www.pcgamer.com/the-making-of-bioshocks-twisted-green-belt-arcadia/) (PC Gamer)
 * (Poze frumoase) [The Art Of God Of War](https://kotaku.com/the-art-of-god-of-war-1827091501) (Kotaku)
@@ -70,11 +70,11 @@ resources:
 * Eric Koch de la **thatgamecompany** (**Flow**, **Flower**, **Journey**) vine în România pe 4 iulie pentru o întâlnire cu comunitatea. Vă puteţi înscrie pe [pagina evenimentului organizat de Amber şi TechHub](https://www.techhub.com/event/amber-session-game-production-journey-w-eric-koch/).
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * [9 Monkeys of Shaolin](http://9monkeysofshaolin.com/), un beat’em up clasic cu tematică Kung-Fu ([IndieGames](http://indiegames.com/2018/06/kung-fu_receives_the_stylish_b.html))
 * **Blacksad: Under the Skin**, un adventure bazat pe celebra serie de benzi desenate [Blacksad](https://www.herocollector.com/en-gb/Article/blacksad-why-you-should-be-reading-it). Jocul va fi dezvoltat de Pendulo Studios, cei responsabili şi de seria Runaway (VGChartz)
 
-#### Lansate
+### Lansate
 * 25 iunie: **The Awesome Adventures of Captain Spirit**, jocul gratuit plasat în acelaşi univers din **Life is Strange** ([Steam](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/))
 * 29 iunie: [The Crew 2](https://thecrew-game.ubisoft.com/the-crew-2/en-us/home/) ([Steam](https://store.steampowered.com/app/646910/The_Crew_2/), [Ubi Store](https://store.ubi.com/eu/the-crew--2--motor-edition/598d7de688a7e3b7368b457c.html))
 * 29 iunie: **Myst III: Exile** şi **Myst IV: Revelation** [(re)lansate pe gog.com](https://www.gog.com/news/release_myst_iii_exile_myst_iv_revelation)

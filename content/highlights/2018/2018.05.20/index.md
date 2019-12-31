@@ -26,14 +26,14 @@ Inaugurăm cu acest articol o rubrică nouă, cu apariție duminicală, pe care 
 
 Forma articolului s-ar putea să mai sufere modificări, așa că să nu fiți surprinși dacă data viitoare vor fi, să zicem, două articole în loc de unul, sau schimbăm secțiunile.
 
-### Ştiri
+## Ştiri
 * A [murit](https://zonait.tv/criticul-de-jocuri-john-bain-a-decedat/) John Bain aka 'TotalBiscuit'; avea doar 33 ani. 
 * _Visual novels_ și alte jocuri cu conținut explicit sunt în pericol de a fi [excluse de pe steam](http://gamasutra.com/view/news/318380/Valve_threatens_to_pull_games_now_deemed_sexually_explicit_from_Steam.php).
 * Apple a respins accesul [aplicației Steam Link](https://arstechnica.com/gaming/2018/05/valve-apple-wont-let-the-steam-link-app-on-the-ios/) pe App Store. Știrea e amuzantă dintr-un anumit punct de vedere.
 * Lansarea lui **The Wolf Among Us 2** [se amână pe 2019](https://telltale.com/news/2018/05/the-wolf-among-us-2-coming-in-2019/). Telltale zic că motivul întârzierii este dorința de a experimenta mai mult cu modul în care își prezintă jocul povestea. Rămâne de văzut dacă asta se va traduce într-o schimbare radicală a rețetei cu care ne-au obișnuit.
 * Următorul joc **Halo** e un [_arcade cabinet_ 4K](https://www.halowaypoint.com/en-us/news/first-look-halo-fireteam-raven-arcade-experience) pentru patru jucători. normal. What?!
 
-### Articole (critică, dev, design)
+## Articole (critică, dev, design)
 * [The Myth of the Monomyth](http://www.gamasutra.com/blogs/WolfgangWalk/20180514/318014/The_Myth_of_the_Monomyth.php) (Gamasutra)
 * (Q&A) [How the BattleTech devs built an engrossing tactics game on a budget](http://gamasutra.com/view/news/318335/How_the_BattleTech_devs_built_an_engrossing_tactics_game_on_a_budget.php) (Gamasutra)
 * [Sonic & All-Stars Racing Transformed turned the mascot racer into serious competition](https://www.rockpapershotgun.com/2018/05/24/sonic-all-stars-racing-transformed-turned-the-mascot-racer-into-serious-competition/) (RPS)
@@ -50,38 +50,38 @@ Forma articolului s-ar putea să mai sufere modificări, așa că să nu fiți s
 * [FTL and Into the Breach: Two-of-an-unkind](https://www.gamesindustry.biz/articles/2018-05-23-ftl-and-into-the-breach-two-of-an-unkind) (gamesindustry.biz)
 * [Does 'Role-Playing Game' Mean What it Did a Decade Ago?](http://www.kotaku.co.uk/2018/05/30/does-role-playing-game-mean-what-it-did-a-decade-ago) (Kotaku)
 
-### Made în România
+## Made în România
 * 20 mai: s-a închis forumul computergames.ro. Anunţul fusese făcut cu o lună în urmă, pe 20 aprilie, odată cu [închiderea site-ului](https://www.paginademedia.ro/2018/04/site-ul-computergamesro-s-a-inchis-dupa-20-de-ani-de-ce). O parte dintre useri încearcă să reconstruiască forumul [aici](https://forum.computergamers.ro/). Arhive ale forumului pot fi găsite [aici](https://revistevechi.awiki.org/computer_games).
 * 20 mai: s-a [încheiat ediţia 2018](https://zonait.tv/est-european-comic-con-2018-inca-o-editie-fara-cusur/) a East European Comic Con.
 * 25 mai: Jocul [Yaga](http://yaga-game.com/), al studioului românesc [Breadcrumbs Interactive](https://breadcrumbsinteractive.com/), [a câștigat concursul Nordic Discovery Contest](https://discovery-contest.nordicgame.com/ngdc-season-ii-grand-finals-awards/) desfășurat în cadrul ediției 2018 (23-25 mai) a Nordic Game Conference ce se ține anual în Suedia, la Malmö. Pentru context, concursul Discovery Contest se desfășoară pe parcursul mai multor runde timp de un an, la această ediție participând peste 400 de jocuri, iar finaliștii se întrec în cadrul conferinței anuale. Totodată, acest concurs este separat de competiția Nordic Game Awards, care se desfășoară în cadrul aceleiași conferințe și care a fost câștigat de action-ul Echo. (De menționat că pe lista scurtă a finaliștilor Discovery Contest s-a aflat încă un joc românesc, **Second Hand: Frankie’s Revenge**, al studioului [Rikodu](http://www.rikodu.com/)).
 
-### Anunţuri şi lansări de jocuri
-#### Anunţate
+## Anunţuri şi lansări de jocuri
+### Anunţate
 * 23 mai: [Battlefield V](https://www.rockpapershotgun.com/2018/05/23/battlefield-v-is-about-making-friends-building-forts-and-daily-chores/)
 * 23 mai: [Leisure Suit Larry: Wet Dreams Don’t Dry](https://www.hardcoregamer.com/2018/05/23/leisure-suit-larry-wet-dreams-dont-dry-officially-announced-for-2018/300093/)
 * **Stoneshard**, un roguelike open-world cu estetică pixel art, are acum o [campanie pe kickstarter](https://www.kickstarter.com/projects/1926605606/stoneshard-open-world-roguelike-rpg-with-tactical). Jocul va fi lansat în early access în decembrie 2018
 
-#### Lansate
+### Lansate
 * 21 mai: [The Elder Scrolls Online: Summerset](https://www.elderscrollsonline.com/en-us/updates/chapter/summerset), un nou expansion pentru ESO.
 * 22 mai: [Ancestors Legacy](https://destructivecreations.pl/ancestors-legacy/) ([Steam](https://store.steampowered.com/app/620590/Ancestors_Legacy/), [Humble](https://www.humblebundle.com/store/ancestors-legacy)).
 * 24 mai: [Unforeseen Incidents](http://www.unforeseen-incidents.com/), adventure point'n click ([Steam](https://store.steampowered.com/app/501790/Unforeseen_Incidents/), [gog.com](https://www.gog.com/game/unforeseen_incidents), [Humble](https://www.humblebundle.com/store/unforeseen-incidents)).
 * 24 mai: [Dark Souls Remastered](https://www.bandainamcoent.com/games/ds-remastered) ([Steam](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/)). Este singura versiune în care se mai poate achiziționa pe PC această veritabilă legendă action-RPG. Varianta lansată inițial în 2012 a fost retrasă - cei care o dețin o pot însă accesa în continuare și beneficiază de reducere cu 50% la versiunea Remastered.
 * 24 mai: [Bloodstained: Curse of the Moon](http://curseofthemoon.com/en/), un metroidvania retro-pixelat ca multe altele, doar că ăsta e și bun ([Steam](https://store.steampowered.com/app/838310/Bloodstained_Curse_of_the_Moon/)).
 
-### Oferte jocuri
-#### Humble Bundle
+## Oferte jocuri
+### Humble Bundle
 * La [bundle-ul lunii iunie](https://www.humblebundle.com/monthly), care debutase cu [Destiny 2](https://www.humblebundle.com/store/destiny-2), au fost adăugate ca _early unlocks_ și jocurile [Pillars of the Earth](https://www.humblebundle.com/store/ken-folletts-the-pillars-of-the-earth) și [Cook, Serve, Delicious 2](https://www.humblebundle.com/store/cook-serve-delicious-2). Bundle-ul costă 12$ și poate fi achiziționat până pe 1 iunie, când vor fi disponibile și restul jocurilor din pachet.
 * Până pe 29 mai este încă disponibil [bundle-ul cu jocuri multiplayer](https://www.humblebundle.com/games/hooked-on-multiplayer-2018-bundle) care se remarcă în special prin două dintre titlurile preferate ale forumului: **Duck Game** (la nivelul de mijloc, aprox. 4,6€) și **Rocket League** (la nivelul superior, 12€).
 * Sunt ultimele zile și pentru [Spring Sale](https://www.humblebundle.com/store), cu o mulțime de jocuri reduse. Nimic nemaivăzut, procentele obișnuite pentru acest gen de promoții pe Humble, dar asta nu înseamnă că nu găsiți un preț bun dacă căutați. Câteva recomandări: [Darkest Dungeon](https://www.humblebundle.com/store/darkest-dungeon) (€8,79), [Prison Architect](https://www.humblebundle.com/store/prison-architect) (€6,49), [Bayonetta](https://www.humblebundle.com/store/bayonetta) (€9,99), [Slay the Spire](https://www.humblebundle.com/store/slay-the-spire) (€12,79). Și dacă aveți un abonament activ la Humble Monthly, aveți o reducere suplimentară de 10% la prețurile din store.
 
-#### Steam
+### Steam
 Aici e în desfășurare [Spring Cleaning Event](https://store.steampowered.com/springcleaning). O mulțime de jocuri sunt free to play până pe data de 28 mai și pot fi achiziționate la reducere. Câteva recomandări: [Tyranny](https://store.steampowered.com/app/362960/Tyranny/) (14,27€), [Borderlands 2](https://store.steampowered.com/app/49520/Borderlands_2/) (7,49€), [Shadow of Mordor](https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/) (8€), [Don’t Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/) (8,99€), [Cities Skylines](https://store.steampowered.com/app/255710/Cities_Skylines/) (6,99€) și [Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) (9,99€), [Grim Fandango Remastered](https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/) (2,99€), [Pathologic Classic HD](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/) (1,94€), [Gorky 17](https://store.steampowered.com/app/253920/Gorky_17/) (0,99€).
 
-#### gog.com
+### gog.com
 * [Promoția de weekend](https://www.gog.com/promo/20180525_weekend_thq): **Delta Force 1** și **2** (1,49$), **Imperium Galactica II** (3,29$), **AquaNox 1** și **2** (1,49$), **Summoner** (1,49$), **Codename Panzers: Phase One** & **Two** (3,74$ fiecare), **Nexus: The Jupiter Incident** (2,49$), **Silver** (2,99$) și altele
 * [Promoția săptămânală](https://www.gog.com/promo/20180521_weekly_sale): **Ground Control 1** & **2**, **Aliens vs Predator Classic**, **Empire Earth**, **Lords of Magic**, **Moonbase Commander** (2$ fiecare), **The 7th Guest** (1,19$)
 
-#### Fanatical
+### Fanatical
 Aici, pentru bani mai puțini, puteți găsi de obicei jocuri multe și cel puțin decente. Săptămâna asta recomandarea ar fi [All Stars X Bundle](https://www.fanatical.com/en/bundle/all-stars-x-bundle): pentru doar 2,09€ vă alegeți cu 10 jocuri, printre care **Chroma Squad**, **Skullgirls**, **Deadlight**, **The Way**, **12 is Better Than 6** și altele. Chiar dacă aveți deja unele dintre ele, e o ofertă foarte bună.
 
 

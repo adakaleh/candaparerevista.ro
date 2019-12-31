@@ -72,18 +72,15 @@ resources:
 * [Genetic Algorithms in Games (Part 1)](http://www.gamasutra.com/blogs/PatrickKelly/20180904/325789/Genetic_Algorithms_in_Games_Part_1.php) (Gamasutra)
 * [Where's my money, dude: what Steam is silent about](https://medium.com/@nikolaybondarenko_41585/dude-wheres-my-money-bundles-funds-and-crowdfunding-part-3-53e9cdd16f23), partea a 3-a (Medium)
 
-
 ### Design, world-building
 * [The Surprising Inspiration Behind Monument Valley’s Most Beautiful Levels | The Work Behind The Work](https://www.milanote.com/the-work/the-surprising-inspiration-behind-monument-valleys-most-beautiful-levels) (Milanote)
 * [Take a closer look at one of the best video game cities, Grim Fandango’s Rubacava](https://www.polygon.com/features/2018/9/3/17775744/grim-fandango-rubacava-virtual-cities-book) (Polygon)
-
-
 
 ## Made în România
 S-a lansat **Planet Alpha** ([Steam](https://store.steampowered.com/app/485030/PLANET_ALPHA/)), iar părerile sunt în general pozitive, în special pentru partea artistică. Avem un [thread deschis şi pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=85&t=1866&p=84788) pentru discuţii.
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **Outer Wilds**, un joc de explorare spaţială la scara unui sistem solar. ([Destructoid](https://www.destructoid.com/outer-wilds-is-a-world-i-m-dying-to-explore-521119.phtml))
 * **The Good, The Bad & The Augmented**, un nou expansion pentru The Surge. ([Hardcore Gamer](https://www.hardcoregamer.com/2018/09/06/the-surge-goes-wild-west-in-latest-expansion/311348/))
 * **Enderal**, popularul mod de Skyrim, devine stand alone și are pagina lui pe Steam. Urmează și DLC. ([Steam Community](https://steamcommunity.com/games/933480/announcements/detail/1690428258371863553), [Eurogamer](https://www.eurogamer.net/articles/2018-09-06-award-winning-skyrim-mod-enderal-coming-to-steam))
@@ -107,7 +104,6 @@ S-a lansat **Planet Alpha** ([Steam](https://store.steampowered.com/app/485030/P
 * 6 septembrie: **Another Sight** ([Steam](https://store.steampowered.com/app/888630/Another_Sight/))
 * 6 septembrie: **Paratopic** ([Steam](https://store.steampowered.com/app/897030/Paratopic/))
 * 7 septembrie: **Immortal: Unchained** ([Steam](https://store.steampowered.com/app/369440/Immortal_Unchained/))
-
 
 ## Oferte jocuri
 

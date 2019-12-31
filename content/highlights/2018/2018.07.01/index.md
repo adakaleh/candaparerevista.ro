@@ -36,19 +36,19 @@ resources:
 * [The European TV channel making documentaries with video games](https://www.gamesindustry.biz/articles/2018-07-06-the-european-tv-channel-making-documentaries-with-video-games) (GamesIndustry.biz)
 * [Making the most of voice talent](https://www.gamesindustry.biz/articles/2018-07-02-making-the-most-of-voice-talent) (GamesIndustry.biz)
 
-#### _Not-a-review_
+### _Not-a-review_
 * [I&#39;m Glad I Started Playing The Witcher 1 Last](https://kotaku.com/im-glad-i-started-playing-the-witcher-1-last-1827318490) (Kotaku)
 * [Where are the Radical Politics of Cyberpunk?](https://waypoint.vice.com/en_us/article/ne5jg7/radical-politics-cyberpunk-2077) (Waypoint)
 * [&#39;Vampyr&#39; is a Deeply Flawed Game, But That&#39;s Exactly Why It&#39;s So Memorable](https://waypoint.vice.com/en_us/article/ywea3x/vampyr-is-a-deeply-flawed-game-but-thats-exactly-why-its-so-memorable) (Waypoint)
 * [The Ticking Clock in Cultist Simulator](https://unwinnable.com/2018/07/02/the-ticking-clock-in-cultist-simulator/) (Unwinnable)
 
-#### Istorie
+### Istorie
 * [How StarCraft and Shower Epiphanies Influenced Diablo 2's Design](https://www.gamasutra.com/blogs/DavidCraddock/20180706/321425/How_StarCraft_and_Shower_Epiphanies_Influenced_Diablo_2s_Design.php) (Gamasutra)
 * [12 years ago Rockstar served up the antithesis of GTA, and it was amazing](https://www.eurogamer.net/articles/2018-07-01-12-years-ago-rockstar-served-up-the-antithesis-of-gta-and-it-was-amazing) (Eurogamer)
 * [The Future of Halo: From Monkey Nuts to Infinity](https://www.gamasutra.com/blogs/RomanTolstykh/20180702/321114/The_Future_of_Halo_From_Monkey_Nuts_to_Infinity.php) (Gamasutra)
 * [How Harlan Ellison’s Most Famous Short Story Became An Amazing Video Game](https://kotaku.com/how-harlan-ellison-s-most-famous-short-story-became-an-1827327887) (Kotaku)
 
-#### Design, world-building
+### Design, world-building
 * [Telling a great road trip tale without words in  Far: Lone Sails ](https://www.gamasutra.com/view/news/320532/Telling_a_great_road_trip_tale_without_words_in_Far_Lone_Sails.php) (Gamasutra)
 * [How one person created the lushly organic world of Ghost Of A Tale](https://www.rockpapershotgun.com/2018/07/04/how-one-person-created-the-lushly-organic-world-of-ghost-of-a-tale/) (RPS)
 * [What Works And Why: Juicy maths in Slay The Spire](https://www.rockpapershotgun.com/2018/07/05/what-works-and-why-juicy-maths-in-slay-the-spire/) (RPS)
@@ -60,13 +60,13 @@ resources:
 * Dacă sunteți curioși cum arată piața de indie gaming în România și ce rol poate avea un _incubator_, aruncați un ochi pe AMA-ul susținut de Catalin Butnariu, unul dintre fondatorii Carbon Incubator (Gray Dawn a fost lansat cu ajutorul lor), pe Discord ([Discord](http://gamedevs.ro/AMA/carbon.html ))
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **Dakar18** va fi lansat pe 11 septembrie 2018 ([trailer](https://www.youtube.com/watch?v=O2IzZoqQtGE))
 * **Devotion**, un joc horror first person de la dezvoltatorii taiwanezi ai lui Detention ([trailer](https://www.youtube.com/watch?v=pEfRkPRxMgc))
 * **AI: The Somnium Files**, un nou adventure de la creatorul seriei Zero Escape ([Destructoid](https://www.destructoid.com/zero-escape-series-creator-announces-ai-the-somnium-files-at-anime-expo-2018-511409.phtml), [Eurogamer](https://www.eurogamer.net/articles/2018-07-06-zero-escape-director-reveals-new-murder-mystery-adventure-ai-the-somnium-files))
 * **This is the Police 2** se lansează pe 2 august ([Destructoid](https://www.destructoid.com/prepare-to-be-told-you-re-a-loose-cannon-in-this-is-the-police-2-510983.phtml))
 
-#### Lansate
+### Lansate
 * 3 iulie: **Red Faction Guerrilla Re-Mars-tered** ([Steam](https://store.steampowered.com/app/667720/Red_Faction_Guerrilla_ReMarstered/))
 * 5 iulie: **From the Ashes**, un DLC pentru **Kingdom Come: Deliverance** ([Steam](https://store.steampowered.com/app/883150/Kingdom_Come_Deliverance__From_the_Ashes/))
 * 6 iulie: **Dungeon Warfare II** ([Steam](https://store.steampowered.com/app/698540/Dungeon_Warfare_2/))

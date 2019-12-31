@@ -39,6 +39,7 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
   * [More than 1,000 jobs lost to studio closures over the past year](https://www.gamesindustry.biz/articles/2018-09-27-more-than-1-000-jobs-lost-to-studio-closures-over-the-past-year) (GamesIndustry.biz)
   * [2018 will go down as the Year of the Bad Employer](https://www.gamesindustry.biz/articles/2018-09-27-2018-will-go-down-as-the-year-of-the-bad-employer) (GamesIndustry.biz)
   * [Telltale Employees Left Stunned By Company Closure, No Severance](http://www.kotaku.co.uk/2018/09/24/telltale-employees-left-stunned-by-company-closure-no-severance) (Kotaku)
+
 * Alte reacții despre închiderea companiei:
 
   * [Former Telltale folks share goofs, gags, and grief after studio collapses](https://www.rockpapershotgun.com/2018/09/24/telltale-easter-eggs-and-jokes/) (RPS) și [Ex-Telltale Developers Share Alternate Walking Dead Endings And Other Gags](https://kotaku.com/ex-telltale-developers-share-alternate-walking-dead-end-1829310770) (Kotaku)
@@ -82,7 +83,6 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
 * (Two Point Hospital) [Two Point Hospital, As Reviewed By An Actual Hospital Administrator](http://www.kotaku.co.uk/2018/09/25/two-point-hospital-as-reviewed-by-an-actual-hospital-administrator) (Kotaku)
 * [Journey](https://medium.com/mammon-machine-zeal/journey-23507bda5880) (Medium – ZEAL) (atenție, spoilers)
 
-
 ### Vocea industriei
 * Piotr Karwowski, gog.com: [The future of GOG: mod support, Steam rivalry and problematic tweets](https://www.eurogamer.net/articles/2018-09-27-the-future-of-gog-mod-support-steam-rivalry-and-problematic-tweets) (Eurogamer)
 * Richard Khoo: [Understanding AAA, Startups, and Mobile](https://www.gamedevunchained.com/blog-1/2018/9/11/episode157) (Game Dev Unchained)
@@ -105,13 +105,11 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
 * (Poze frumoase) [Once Upon A Time...](https://kotaku.com/once-upon-a-time-1829262106) (Kotaku)
 
 
-
 ## Made în România
 
 * Asociația Dezvoltatorilor de Jocuri din România (RGDA) au publicat un nou infografic care sumarizează industria dezvoltatorilor de jocuri din România. ([StartupCafe.ro](https://www.startupcafe.ro/afaceri/top-dezvoltatori-jocuri-video-gaming-romania.htm))
 * Goethe-Institut București și CINETic organizează un _game jam_ cu tema „Games and Politics”. ([Goethe Institut](https://www.goethe.de/ins/ro/ro/m/kul/sup/gap.html), [Facebook](https://m.facebook.com/events/185068478967134)). Cătălin Butnariu de la RGDA [vorbește despre acest eveniment la Europa FM]( https://www.europafm.ro/cum-influenteaza-politica-jocurile-catalin-butnariu-presedintele-rgda-explica-ce-se-va-intampla-la-game-jam-gamespolitics-video/).
 * S-a lansat **Blink:Rogues** [în Early Access pe Steam](https://store.steampowered.com/app/739100/Blink_Rogues/) al studioului Fox Dive Studio.
-
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate
@@ -135,9 +133,7 @@ Anunțul de [săptămâna trecută]({{<relref "highlights/2018/2018.09.16/index.
 * 28 septembrie: **FIFA 19** ([EA Sports](https://www.easports.com/fifa/buy/), [Origin](https://www.origin.com/irl/en-us/store/fifa/fifa-19))
 * 28 septembrie: **Blink:Rogues** (Early Access) ([Steam](https://store.steampowered.com/app/739100/Blink_Rogues/))
 
-
 ## Oferte jocuri
-
 ### Humble Bundle
 * Promoție la jocurile [publicate de Humble](https://www.humblebundle.com/store/promo/humble-publisher-weekend). Aruncați un ochi pe [Regions Of Ruin](https://www.humblebundle.com/store/regions-of-ruin), [Seven: The Days Long Gone](https://www.humblebundle.com/store/seven-the-days-long-gone), [MOTHERGUNSHIP](https://www.humblebundle.com/store/mothergunship), [Cultist Simulator](https://www.humblebundle.com/store/cultist-simulator)
 * Alte reduceri: [Sonic Generations](https://www.humblebundle.com/store/sonic-generations) (4,99€), [Lords of the Fallen GOTY](https://www.humblebundle.com/store/lords-of-the-fallen-game-of-the-year-edition) (4,79€), [Alien Rage - Unlimited](https://www.humblebundle.com/store/alien-rage-unlimited) (1,59€), [We Are The Dwarves](https://www.humblebundle.com/store/we-are-the-dwarves) (1,75€) și [Brawlout](https://www.humblebundle.com/store/brawlout) care e #madeinromania (4,99€)

@@ -80,7 +80,7 @@ resources:
 
 ## Anunţuri şi lansări de jocuri
 
-#### Anunţate
+### Anunţate
 * **Onimusha**, un remaster al jocului din 2001 ([Destructoid](https://www.destructoid.com/the-fantastic-original-onimusha-is-coming-to-pc-ps4-xbox-one-and-switch-520270.phtml), [Eurogamer](https://www.eurogamer.net/articles/2018-08-28-capcoms-bringing-onimusha-back-from-the-dead))
 * **Streets of Rage 4** ([Destructoid](https://www.destructoid.com/streets-of-rage-4-with-hand-drawn-visuals-announced-520137.phtml), [Eurogamer](https://www.eurogamer.net/articles/2018-08-28-24-years-later-streets-of-rage-is-coming-back))
 * **Subnautica: Below Zero**, primul expansion pentru Subnautica ([US Gamer](https://www.usgamer.net/articles/subnautica-below-zero-is-a-new-standalone-expansion-set-in-the-alien-arctic), [PC Gamer](https://www.pcgamer.com/subnautica-below-zero-returns-to-the-sea-for-a-brand-new-mystery/))

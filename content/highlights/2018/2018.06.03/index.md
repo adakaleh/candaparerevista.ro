@@ -22,7 +22,7 @@ resources:
 > _Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. ^[Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită inclusă în retrospectiva săptămânii, te așteptăm cu recomandarea ta pe forum, pe unul din topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622), [Oferte jocuri](https://forum.candaparerevista.ro/viewtopic.php?f=62&t=25)] )
 
 
-### Ştiri
+## Ştiri
 * Blizzard lucrează la [un nou Diablo](https://www.pcgamer.com/blizzard-is-working-on-a-new-unannounced-diablo-project/) (PCGamer)
 * Paradox cumpără Harebrained Schemes, studioul din spatele seriei Shadowrun Returns ([RPS](https://www.rockpapershotgun.com/2018/06/05/paradox-buying-harebrained-schemes-studio/), [Comunicat Paradox](https://www.paradoxinteractive.com/en/paradox-interactive-to-acquire-seattle-based-harebrained-schemes/)) (thx @joonior_bmf)
 * CEO-ul Ubisoft nu vede un viitor prea lung consolelor, zice CEO-ul Ubisoft într-un interviu pentru [Variety](https://variety.com/2018/gaming/features/death-of-the-console-1202833926/) (tl;dr pe [Ars Technica](https://arstechnica.com/gaming/2018/06/ubisoft-ceo-cloud-gaming-will-replace-consoles-after-the-next-generation/) sau [Game Informer](https://www.gameinformer.com/2018/06/06/ubisoft-expects-only-one-more-console-generation))
@@ -42,7 +42,7 @@ resources:
   * Plus interesant: [One Year Later: What Has Released Since E3 And What Hasn't](https://www.gameinformer.com/e3-2018/2018/06/06/one-year-later-what-has-released-since-e3-and-what-hasnt) (Game Informer), [The 7 best E3 moments ever](https://www.vg247.com/2018/06/06/e3-best-moments-reveals-ever/) (VG247)
   * [Thread discuţii pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1828)
 
-### Articole (critică, dev, design)
+## Articole (critică, dev, design)
 * [Indie hard mode: The couples making games together](https://www.pcgamer.com/indie-hard-mode-the-couples-making-games-together/) (PC Gamer)
 * [Student expectations, course marketing, and the invisible labour of game development](https://brkeogh.com/2018/05/07/student-expectations-course-marketing-and-the-invisible-labour-of-game-development/) (Kotaku)
 * [In Cultist Simulator, Death Is Only The Beginning](https://kotaku.com/in-cultist-simulator-death-is-only-the-beginning-1826452720) (Kotaku)
@@ -58,13 +58,13 @@ resources:
 * (Video) [Bethesda Game Studios Veterans Explain Their Design Processes](https://www.gameinformer.com/gamer-culture/2018/06/05/bethesda-game-studios-veterans-explain-their-design-processes) (Game Informer)
 * (Video) [Ebb and Flow - Conversations on the recent momentum of Japanese games](https://www.youtube.com/watch?v=_j6ZHkg5BtE) (YouTube, thx @cg1700)
 
-### Made în România
+## Made în România
 * 5 iunie: [Detroit: Become Human - interviu exclusiv cu regizorul adjunct Gregorie Diaconu](http://jocuri.go4it.ro/detroit-become-human-interviu-gregorie-diaconu) (go4games.ro)
 * 7 iunie: se lansează jocul [Gray Dawn](http://gray-dawn.com/) al moldovenilor de la [Interactive Stone](http://interactivestone.com/) ([Steam](https://store.steampowered.com/app/747360/Gray_Dawn/))
 * 7 iunie: Amber lansează o reţea de studiouri de gaming ([StartupCafe](https://www.startupcafe.ro/afaceri/amber-retea-studiouri-jocuri-gaming-angajari-it.htm), [ZonaIT](https://zonait.tv/amber-cel-mai-important-nume-al-gaming-ului-independent-romanesc-se-dezvolta-intr-o-retea-de-studiouri-de-jocuri/), [Go4Games](http://jocuri.go4it.ro/stiri-si-articole/diverse/romanii-de-la-amber-se-dezvolta-intr-o-retea-de-studiouri-producatoare-de-jocuri-17247796) - alegeţi un link, e acelaşi comunicat de presă pe toate)
 
-### Anunţuri şi lansări de jocuri
-#### Anunţate
+## Anunţuri şi lansări de jocuri
+### Anunţate
 * 4 iunie: **Europa**, o frumuseţe de joc de la unul dintre artiştii Blizzard ([Kotaku](http://www.kotaku.co.uk/2018/06/04/europa-looks-absolutely-beautiful), [Destructoid](https://www.destructoid.com/i-can-t-wait-to-lose-myself-in-europa-506162.phtml), [PC Gamer](https://www.pcgamer.com/watch-the-gorgeous-teaser-for-europa-the-tale-of-the-last-sentient-android/))
 * 5 iunie: **Signalis**, “a Lovecraft-inspired sci-fi story” ([RPS](https://www.rockpapershotgun.com/2018/06/05/signalis-sci-fi-horror-teaser-trailer/), [IndieGames](http://indiegames.com/2018/06/signalis_blends_lovecraftian_s.html))
 * 6 iunie: Sezonul 3 din **The Walking Dead** şi-a stabilit data de lansare pe 14 august a.c. ([RPS](https://www.rockpapershotgun.com/2018/06/06/the-walking-dead-the-final-season-episode-1-release-date/))
@@ -75,34 +75,33 @@ resources:
 * 8 iunie: **Dead or Alive 6**, un nou titlu din bătrâna serie de fighting games ([Eurogamer](https://www.eurogamer.net/articles/2018-06-08-team-ninja-unveils-dead-or-alive-6-with-a-flashy-new-trailer))
 * 8 iunie: **Just Cause 4** ~~anunţat~~ leakuit ([Eurogamer](https://www.eurogamer.net/articles/2018-06-08-just-cause-4-leaked-by-steam-advert), [RPS](https://www.rockpapershotgun.com/2018/06/08/just-cause-4-confirmed-steam-leak/))
 
-#### Lansate
+### Lansate
 * 5 iunie: **Vampyr** ([Steam](https://store.steampowered.com/app/427290/Vampyr/))
 * 5 iunie: **Warhammer 40k: Inquisitor – Martyr** ([Steam](https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/)) a ieșit din early access.
 * 5 iunie: [Realm Royale](https://store.steampowered.com/app/813820/Realm_Royale/) de la Hi-Rez, practic versiunea _battle royale_ a lui **Paladins**
 * 8 iunie: [Totally Accurate Battlegrounds](http://landfall.se/) (un spin-off al mai vechiului **Totally Accurate Battle Simulator**) ce a apărut ca o parodie a genului _battle royale_, dar care a cunoscut un neaşteptat succes ([Steam](https://store.steampowered.com/app/823130/Totally_Accurate_Battlegrounds/))
 
-### Oferte jocuri
-#### Humble Bundle
+## Oferte jocuri
+### Humble Bundle
 * [Daedalic 2018 Bundle](https://www.humblebundle.com/games/daedalic-2018-bundle) - un bundle în care veți găsi câteva dintre point & click-urile Daedalic (**Memoria**, **Deponia - The Complete Journey**, **Deponia Doomsday**), câteva jocuri mai noi (**Witch It!**, **The Long Journey Home**) dar mai ales **Shadow Tactics: Blades of the Shogun**, un joc de _stealth & tactics_ foarte apreciat de membrii forumului, pe care îl și alegem cu această ocazie pentru Recomandarea Săptămânii.
 * Alte [promoţii în store](https://www.humblebundle.com/store/search?sort=discount&filter=onsale), cum ar fi [Stories Untold](https://www.humblebundle.com/store/stories-untold) (€2,49), [Hotline Miami 2] (https://www.humblebundle.com/store/hotline-miami-2-wrong-number) (€3,74), [On Rusty Trails](https://www.humblebundle.com/store/on-rusty-trails) (€3,24), [We Are The Dwarves](https://www.humblebundle.com/store/we-are-the-dwarves) (€1,97) şi altele
 
-#### Steam
+### Steam
 * Pentru restul weekendului aveți posibilitatea să jucați gratuit [Tooth and Tail](https://store.steampowered.com/app/286000/Tooth_and_Tail/). Dacă vă place îl puteți lua cu 9 euro (-55% reducere).
 * Seria Tomb Raider este la reducere până luni. Dintre cele mai recente, [Rise of the Tomb Raider](https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/) costă acum 14,99 euro, iar [reboot-ul din 2013](https://store.steampowered.com/app/203160/Tomb_Raider/) este disponibil pentru 2,99 euro. Titlurile clasice (I-VI) costă 1 euro fiecare).
 * Până la sfârșitul zilei, [Pathologic HD](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/) costă 1,94 euro (redus de la 12,99 euro)
 * Alte promoţii: [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/) (8,39€ - dar e puţin mai ieftin pe gog.com, DRM-free), [Hard West](https://store.steampowered.com/app/307670/Hard_West/) (3,99€), [Hard Reset Redux](https://store.steampowered.com/app/407810/Hard_Reset_Redux/) (2,99€), [Breach & Clear](https://store.steampowered.com/app/266130/Breach__Clear/) (1,49€), [Odallus: The Dark Call](https://store.steampowered.com/app/319480/Odallus_The_Dark_Call/) (1,99€), [Don't open the doors!](https://store.steampowered.com/app/533950/Dont_open_the_doors/) (5,49€)
 
-#### gog.com
+### gog.com
 * A început [Summer Sale](https://www.gog.com/). Până pe 18 iunie peste 1000 de jocuri vor fi disponibile la reduceri de până la 90%. La 4,09 euro cheltuiți veți primi gratuit [Sunless Sea](https://www.gog.com/game/sunless_sea), iar la 16,09 euro veți primi [RiME](https://www.gog.com/game/rime).
 
-#### Fanatical
+### Fanatical
 * Un bundle [pick and mix](https://www.fanatical.com/en/pick-and-mix/curve-pick-mix-bundle) cu jocuri la alegere pentru 1 euro fiecare (sau chiar și mai puțin, dacă alegeți mai mult de 5 titluri). Câteva titluri care s-ar putea să vă atragă atenția: **Serial Cleaner**, **Manual Samuel**, **The Little Acre** (un adventure simplu și scurt, dar altfel foarte simpatic), **Hue**, **10 Second Ninja X**
 * Alte promoții: seria remastered a [Monkey Island](https://www.fanatical.com/en/game/monkey-island-special-edition-bundle) (adică **The Secret of...** și **LeChuck’s Revenge**) (€3.59), [ELEX](https://www.fanatical.com/en/game/elex) (€24.99), [Grand Theft Auto V](https://www.fanatical.com/en/game/grand-theft-auto-v) (€18.59), [Dead Island Definitive Edition](https://www.fanatical.com/en/game/dead-island-definitive-edition) (€4.99), [Bayonetta + Vanquish](https://www.fanatical.com/en/bundle/bayonetta-plus-vanquish-pack) (€13.99) și [multe altele](https://www.fanatical.com/en/latest-deals).
 
-#### Altele
+### Altele
 * Pe GreenManGaming e o promoție [Grand Theft Auto](https://www.greenmangaming.com/titles/rockstar-gta-promo), unde puteți cumpăra GTA V cu £11.88 (aprox. 14 euro), precum și alte DLC-uri și alte titluri din serie
 * E în desfășurare şi [Paradox Summer Sale](https://www.paradoxplaza.com/on-sale/), cu reduceri de 50-80% la majoritatea titlurilor și DLC-urilor Paradox
-
 
 
 ## Recomandarea săptămânii: _Shadow Tactics_

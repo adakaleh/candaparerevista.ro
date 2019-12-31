@@ -41,7 +41,7 @@ resources:
 * [Who will will the race to be the dominant streaming service for games?](https://www.gamasutra.com/blogs/MorganJaffit/20180717/322226/Who_will_will_the_race_to_be_the_dominant_streaming_service_for_games.php) (Gamasutra)
 
 
-#### _Not-a-review_
+### _Not-a-review_
 * (Wolfenstein II) [How Wolfenstein II Lost Its Head Over Toxic Masculinity](https://unwinnable.com/2018/07/17/how-wolfenstein-ii-lost-its-head-over-toxic-masculinity/) (Unwinnable)
 * (World of Warcraft) [Breaking down Azeroth's gates](https://www.gamesindustry.biz/articles/2018-07-19-breaking-down-azeroths-gates) (GamesIndustry.biz)
 * (Sable) [Sable’s developers are trying to capture the spirit of discovery](https://www.rockpapershotgun.com/2018/07/19/sables-developers-are-trying-to-capture-the-spirit-of-discovery/) (RPS)
@@ -50,7 +50,7 @@ resources:
 * (Hearthstone) [How data analysis is helping Hearthstone players crush their opponents](https://www.pcgamer.com/how-data-analysis-is-helping-hearthstone-players-crush-their-opponents/) (PC Gamer)
 * (Cultist Simulator) [Cultist Simulator: the retrospective](https://www.gamasutra.com/blogs/LottieBevan/20180716/322016/Cultist_Simulator_the_retrospective.php) (Gamasutra)
 
-#### Vocea industriei
+### Vocea industriei
 * Sean Murray (Hello Games) a vorbit cu presa pentru prima dată după doi ani, într-o serie de interviuri despre **No Man’s Sky**:
   * [We Spent an Hour Talking to Hello Games About Everything ‘No Man’s Sky’](https://waypoint.vice.com/en_us/article/zmk4w8/we-spent-an-hour-talking-to-hello-games-about-everything-no-mans-sky) (Waypoint)
   * [No Man’s Sky developer Sean Murray: ‘It was as bad as things can get’](https://www.theguardian.com/games/2018/jul/20/no-mans-sky-next-hello-games-sean-murray-harassment-interview) (The Guardian)
@@ -67,30 +67,30 @@ resources:
 * Laurent Detoc (Ubisoft): [Why Ubisoft needs 12,000 game developers](https://venturebeat.com/2018/06/21/why-ubisoft-needs-12000-game-developers/) (VentureBeat)
 
 
-#### Istorie
+### Istorie
 * [30 years ago, Bionic Commando proved video game grappling hooks are awesome](https://games.avclub.com/30-years-ago-bionic-commando-proved-video-game-grappli-1827755958) (A.V. Club)
 * [The history of hit points](https://www.pcgamer.com/the-history-of-hit-points/) (PC Gamer)
 * [The Creativity Driving DOS Nostalgia](https://tedium.co/2018/07/17/dos-nostalgia-squirrel-monkey-interview/) (Tedium)
 * [Modern Mallard: Duck Hunt&#x27;s Missing Upgrade](https://tedium.co/2018/07/17/duck-hunt-modern-mallard/) (Tedium)
 
-#### Design, world-building
+### Design, world-building
 * [Nature&#039;s Grasp | Assassin&#039;s Creed: Origins](http://www.heterotopiaszine.com/2018/07/18/natures-grasp-assassins-creed-origins/) (Heterotopias)
 * [The Anatomy of a Stealth Encounter](http://www.gamasutra.com/blogs/TravisHoffstetter/20180719/322423/The_Anatomy_of_a_Stealth_Encounter.php) (Gamasutra)
 * [Level design: Tricks of the trade](https://www.gamasutra.com/blogs/JonathonWilson/20180720/322564/Level_design_Tricks_of_the_trade.php) (Gamasutra)
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **The Light Keeps Us Safe**, un nou joc cu roboți și furișare de la Big Robot, care au mai făcut un joc cu roboți și furișare (**Sir, You Are Being Hunted**) ([RPS](https://www.rockpapershotgun.com/2018/07/20/big-robot-announce-the-light-keeps-us-safe), [Eurogamer](https://www.eurogamer.net/articles/2018-07-20-the-light-keeps-us-safe-announced-as-big-robots-latest-game))
 * **King Tide**, battle royale sub apă ([RPS](https://www.rockpapershotgun.com/2018/07/20/king-tide-is-underwater-battle-royale-with-sharks/))
 * **Total War: Rome 2 Rise Of The Republic**, cu dată de lansare pe 9 august ([Gamereactor](https://www.gamereactor.eu/news/681053), [RPS](https://www.rockpapershotgun.com/2018/07/19/total-war-2-rise-of-the-republic-dlc/))
 * **Exapunks**, un joc de “cyberpunk hacking” de la Zachtronics ([RPS](https://www.rockpapershotgun.com/2018/07/18/exapunks-zachlike-date-announcement/), [PC Gamer](https://www.pcgamer.com/opus-magnum-studio-zachtronics-unveils-its-new-hacking-game-exapunks/))
 * **The Cycle**, un shooter multiplayer SF (nu e deathmatch sau battle royale, ci “competitive quester”) de la Yager (**Spec Ops: The Line**) ([Games Informer](https://www.gameinformer.com/preview/2018/07/20/spec-ops-the-line-developer-sets-its-sights-on-multiplayer), [PC Gamer](https://www.pcgamer.com/the-cycle-is-a-competitive-quester-coming-from-spec-ops-studio-yager/))
 
-#### Acum cu dată de lansare
+### Acum cu dată de lansare
 * **State of Mind**: 15 august ([Hardcore Gamer](https://www.hardcoregamer.com/2018/07/12/transhumanist-thriller-state-of-mind-confirmed-for-august-release/305958/))
 * **Pathfinder: Kingmaker**: 25 septembrie ([RPS](https://www.rockpapershotgun.com/2018/07/20/pathfinder-kingmaker-date-trailer/))
 
-#### Lansate
+### Lansate
 * 16 iulie: **Thief of Thieves: Season One** ([Steam](https://store.steampowered.com/app/635390/Thief_of_Thieves_Season_One/))
 * 17 iulie: **Adventure Time: Pirates Of The Enchiridion** ([Steam](https://store.steampowered.com/app/728240/Adventure_Time_Pirates_of_the_Enchiridion/))
 * 17 iulie: **MOTHERGUNSHIP** ([Steam](https://store.steampowered.com/app/574090/MOTHERGUNSHIP/), [Humble Store](https://www.humblebundle.com/store/mothergunship))

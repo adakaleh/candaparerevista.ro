@@ -24,15 +24,15 @@ resources:
 > _Retrospectiva săptămânii_ este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai bune de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. ^[Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită inclusă în retrospectiva săptămânii, te așteptăm cu recomandarea ta pe forum, pe unul din topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622), [Oferte jocuri](https://forum.candaparerevista.ro/viewtopic.php?f=62&t=25)] )
 
 
-### Ştiri
-#### E3
+## Ştiri
+### E3
 Săptămâna aceasta a fost, după cum ştiţi, dominată de desfăşurarea expoziţiei E3 în perioada 12-14 iunie, perioadă care a fost precedată însă de diverse conferinţe pre-expoziţionale. Aveţi mai jos o scurtă trecere în revistă a evenimentelor:
 
-__**Jocuri anunţate**__
+#### Jocuri anunţate
 
 **The Elder Scrolls VI** (Bethesda), **Babylon’s Fall** (Platinum), **Metro Exodus** (4A Games), **Overcooked 2** (Ghost Town Games), **Sable** (Shedworks), **Control** (Remedy), **Maneater** (Blindside), **Just Cause 4** (Avalanche Studios), **Assassin's Creed Odyssey** (Ubisoft), **Command & Conquer Rivals** pentru mobile (EA), **My Friend Pedro** (Devolver), **Starfield** (Bethesda), **Doom Eternal** (Bethesda), **Wolfenstein Youngblood** (Machine Games), **Dying Light 2** (Techland), **Gears of War 5** (Microsoft), **Devil May Cry 5** (Capcom), **Forza Horizon 4** (Microsoft), **Sekiro: Shadows Die Twice** (From Software), **Halo Infinite** (343 Industries), **Unravel 2** (EA), **Sea of Solitude** (EA), **Jedi: Fallen Order** (Respawn), **Satisfactory** (Coffee Stain), **Battletoads** (DLaLa Studios), **Captain Spirit** (Dontnod), **Beyond Blue** (BBC Studios/E-Line Media)
 
-__**Sumarul conferinţelor de presă**__
+#### Sumarul conferinţelor de presă
 
 * **EA**: [Polygon trailers](https://www.polygon.com/e3/2018/6/9/17444812/ea-play-e3-2018-trailers-anthem-battlefield-5-fifa-nba-madden), [Polygon ştiri](https://www.polygon.com/e3/2018/6/9/17444646/ea-e3-2018-trailers-news), [Ars Technica](https://arstechnica.com/gaming/2018/06/ea-at-e3-bioware-confirms-anthem-in-feb-2019-madden-returns-to-pc/), [Game Informer](https://www.gameinformer.com/e3-2018/2018/06/09/e3-2018-ea-press-conference-highlights)
 * **Microsoft**: [RPS](https://www.rockpapershotgun.com/2018/06/11/every-pc-game-at-microsofts-e3-2018-conference/), [Polygon trailers](https://www.polygon.com/e3/2018/6/10/17446560/microsoft-xbox-trailers-e3-2018-halo-infinite-devil-may-cry-5), [Polygon ştiri](https://www.polygon.com/e3/2018/6/10/17446760/microsoft-xbox-e3-2018-trailers-news), [Ars Technica](https://arstechnica.com/gaming/2018/06/microsoft-pushes-exclusives-premieres-at-pre-e3-press-conference/), [Game Informer](https://www.gameinformer.com/e3-2018/2018/06/10/e3-2018-microsoft-press-conference-highlights)
@@ -48,7 +48,7 @@ __**Sumarul conferinţelor de presă**__
   * Game Informer: [marţi](https://www.gameinformer.com/e3-2018/2018/06/12/e3-2018-tuesday-recap), [miercuri](https://www.gameinformer.com/e3-2018/2018/06/13/e3-2018-wednesday-recap), [joi](https://www.gameinformer.com/e3-2018/2018/06/14/e3-2018-thursday-recap)
 
 
-__**Alte articole despre E3**__
+#### Alte articole despre E3
 
 * GamesIndustry.biz au publicat o [o revistă gratuită de 80 de pagini](https://www.gamesindustry.biz/articles/2018-06-08-read-the-gamesindustry-biz-e3-special-magazine-right-here) cu rol de __avanpremieră__ a E3
 * [E3 2018: The best game trailers](https://www.polygon.com/e3/2018/6/11/17446390/e3-2018-games-trailers-playstation-xbox-nintendo-ea-bethesda) (Polygon)
@@ -64,7 +64,7 @@ __**Alte articole despre E3**__
 * [The GamesIndustry.biz E3 Award Winners](https://www.gamesindustry.biz/articles/2018-06-15-the-gamesindustry-biz-e3-2018-award-winners) (GamesIndustry.biz)
 * Anunţul Ubisoft că lucrează cu platforma de crowdsourcing HitRecord pentru [crearea de assets](https://www.gamasutra.com/view/news/319791/Ubisoft_works_with_HitRECord_to_crowdsource_assets_for_Beyond_Good__Evil_2.php) pentru Beyond Good & Evil 2 stârneşte controverse privind drepturile şi plata artiştilor (exemple: [Gamasutra](https://www.gamasutra.com/view/news/320110/Editor_Roundtable_How_does_Ubisofts_HitRecord_partnership_impact_devs.php), [RPS](https://www.rockpapershotgun.com/2018/06/15/hitrecord-claim-no-spec-work-on-bge2/), [Polygon](https://www.polygon.com/e3/2018/6/16/17464332/hitrecord-beyond-good-and-evil-2-nospec)). Fondatorul HitRecord, actorul Joseph Gordon-Levitt, [încearcă să explice situaţia](https://medium.com/@hitRECordJoe/community-collaboration-vs-spec-work-8592692a875e).
 
-**Cyberpunk 2077**
+#### Cyberpunk 2077
 
 A fost probabil cel mai popular joc de la E3 (cel mai vizionat trailer sigur a fost, după cum [zice PC Gamer](https://www.pcgamer.com/e3-2018-best-trailers-pc/)). În afară de trailer, CD Projekt Red au mai prezentat şi un demo, dar numai jurnaliştilor. Iată câteva preview-uri şi interviuri:
 
@@ -84,7 +84,7 @@ A fost probabil cel mai popular joc de la E3 (cel mai vizionat trailer sigur a f
 * Avem şi nişte [concept art](https://www.pcgamer.com/cyberpunk-2077-concept-art-illustrates-the-trailers-beginnings/) (PC Gamer)
 * De urmărit şi [discuţiile de pe forumul nostru](https://forum.candaparerevista.ro/viewtopic.php?f=5&t=1069)
 
-#### Alte știri
+### Alte știri
 * Telltale sunt chemaţi în judecată de fostul CEO ([Gamasutra](https://www.gamasutra.com/view/news/320086/Former_Telltale_CEO_and_cofounder_Kevin_Bruner_is_suing_the_studio.php), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2018-06-15-former-telltale-ceo-sues-developer-for-alleged-breach-of-contract) )
 * Telltale lucrează cu Netflix la două noi proiecte legate de Stranger Things şi Minecraft ([RPS](https://www.rockpapershotgun.com/2018/06/13/netflix-telltale-license-swap-deal/), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2018-06-14-netflix-and-telltale-partner-on-minecraft-tv-show-stranger-things-game))
 * Steam anunţă [schimbări la componentele sociale ale platformei](https://steamcommunity.com/updates/chatupdate) ([Gamasutra](https://www.gamasutra.com/view/news/319901/Valve_unveils_new_Discordlike_chat_features_for_Steam.php), [Eurogamer](https://www.eurogamer.net/articles/2018-06-13-valve-launches-all-new-steam-chat-and-friends-beta-and-its-basically-discord), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2018-06-13-valve-to-challenge-discord-with-overhauled-steam-chat))
@@ -96,9 +96,7 @@ A fost probabil cel mai popular joc de la E3 (cel mai vizionat trailer sigur a f
 * Pe 11 iunie a intrat în vigoare în SUA abrogarea reglementărilor federale privind neutralitatea internetului. Deşi marii furnizori de internet [anunţă că nu au de gând să profite](https://arstechnica.com/tech-policy/2018/06/comcast-att-verizon-say-they-have-no-paid-prioritization-plans/) de pe urma eliminării restricţiilor, unele state au luat măsuri şi [au început să implementeze propriile legi](https://arstechnica.com/tech-policy/2018/06/first-state-net-neutrality-law-took-effect-today-countering-fcc-repeal/) pentru a reglementa serviciile de internet (Ars Technica)
 
 
-
-
-### Articole (critică, dev, design)
+## Articole (critică, dev, design)
 * [How Prey succeeds in giving players space to tell their own stories](https://www.gamasutra.com/blogs/AlexWawro/20170606/299405/How_Prey_succeeds_in_giving_players_space_to_tell_their_own_stories.php) (Gamasutra)
 * [After the Dawn: a mini-retrospective on Cultist Simulator](https://www.gamasutra.com/blogs/ALEXISKENNEDY/20180611/319686/After_the_Dawn_a_miniretrospective_on_Cultist_Simulator.php) (Gamasutra)
 * [The sales & design thinking that gave SpyParty a strong launch](https://www.gamasutra.com/view/news/319318/The_sales__design_thinking_that_gave_SpyParty_a_strong_launch.php)  (Gamasutra)
@@ -108,15 +106,15 @@ A fost probabil cel mai popular joc de la E3 (cel mai vizionat trailer sigur a f
 * [How a tweet brought cult classic Metal Wolf Chaos back to life 15 years later](https://www.theverge.com/2018/6/14/17464474/metal-wolf-chaos-xd-from-software-re-release-masanori-takeuchi-interview-e3-2018) (The Verge)
 
 
-### Made în România
+## Made în România
 * Benoît Sokal, artistul belgian din spatele jocurilor Amerzone și seriei Syberia, s-a aflat pentru scurtă vreme în România. El a participat ca invitat la [Festivalul Internațional de Benzi Desenate](https://revistanautilus.ro/news/evenimente/tematica-sff-la-festivalul-international-de-benzi-desenate-in-acest-weekend-la-sibiu/) de la Sibiu, iar apoi, pe 11 iunie, a susținut [o conferinţă la ARCUB](https://arcub.ro/despre-benzi-desenate-si-jocuri-video-benoit-sokal/), în București, despre benzi desenate şi jocuri. Totodată, a fost și invitatul Mihaelei Dedeoglu în emisiunea Zebra de la Radio RFI România, a cărei înregistrare o găsiți [integral pe Facebook](https://m.facebook.com/story.php?story_fbid=10155330665236640&id=187935071639) (atenție, e în limba franceză).
 
-### Anunţuri şi lansări de jocuri
-#### Anunţate
+## Anunţuri şi lansări de jocuri
+### Anunţate
 * inXile vor lansa [o versiune remasterizată pentru Wasteland 1](http://www.rpgcodex.net/forums/index.php?threads/inxile-to-release-wasteland-1-remaster-in-early-2019-part-of-new-30th-anniversary-bundle.122433/) în 2019 (RPG Codex)
 * [Dată de lansare](http://www.rpgcodex.net/forums/index.php?threads/divinity-original-sin-2-definitive-edition-releasing-on-august-31st.122430/) pentru Divinity: Original Sin 2 Definitive Edition: 31 august (RPG Codex)
 
-#### Lansate
+### Lansate
 * 9 iunie: **Unravel 2** ([Origin](https://www.origin.com/irl/en-us/store/unravel/unravel-two))
 * 11 iunie: **Mooncrash**, DLC pentru Prey ([Steam](https://store.steampowered.com/app/865670/Prey__Mooncrash/))
 * 12 iunie: [Jurassic World Evolution](https://www.jurassicworldevolution.com/en-GB) ([Steam](https://store.steampowered.com/app/648350/Jurassic_World_Evolution/)) un dinopark-management sim de la producătorii lui Planet Coaster
@@ -124,19 +122,18 @@ A fost probabil cel mai popular joc de la E3 (cel mai vizionat trailer sigur a f
 * 14 iunie: **Sky Noon**, un shooter multiplayer cu un concept interesant ([Steam](https://store.steampowered.com/app/569530/Sky_Noon/))
 * 15 iunie: **LEGO The Incredibles** ([Steam](https://store.steampowered.com/app/818320/LEGO_The_Incredibles/))
 
-
-### Oferte jocuri
-#### Humble Bundle
+## Oferte jocuri
+### Humble Bundle
 * [Build your own 2K bundle](https://www.humblebundle.com/store/promo/2k-byob/)
 
-#### Steam
+### Steam
 * [CroTeam 25th Anniversary Sale](https://store.steampowered.com/sale/croteam) - până la finalul weekendului sunt la reducere jocurile din seria Serious Sam și Talos Principle.
 * [Klei Weekend Sale](https://store.steampowered.com/sale/klei/) - până pe 21 iunie sunt la reducere câteva jocuri indie din portofoliul celor de la Klei: [Don’t Starve](https://store.steampowered.com/bundle/312/Dont_Starve_MEGA_PACK/) (3,74 euro jocul de bază, 11,22 euro pentru mega pack), [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/) (2,99 euro), [Invisible Inc.](https://store.steampowered.com/app/243970/Invisible_Inc/) (4,99 euro), [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/) (13,79 euro) și altele.
 * Alte promoții: [Rocketbirds: Hardboiled Chicken](https://store.steampowered.com/app/215510/Rocketbirds_Hardboiled_Chicken/) (0,99€), [Mountain](https://store.steampowered.com/app/313340/Mountain/) (redus de la 0,99€ la 0,49€), [Everything](https://store.steampowered.com/app/582270/Everything/) (5,09€), [TOXIKK](https://store.steampowered.com/app/324810/TOXIKK/) (8,99€), [Conarium](https://store.steampowered.com/app/313780/Conarium/) (7,99€), [Kelvin and the Infamous Machine](https://store.steampowered.com/app/376520/Kelvin_and_the_Infamous_Machine/) (3,74€), [Teleglitch: Die More Edition](https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/) (3,24€)
 * [Quake Champions](https://store.steampowered.com/app/611500/Quake_Champions/) e gratis până pe 18 iunie. Ca să-l păstraţi, trebuie să-l instalaţi şi să jucaţi cel puţin un meci.
 
 
-#### gog.com
+### gog.com
 Pe 18 se termină sale-ul de vară, grăbiți-vă dacă vreți să cumpărați ceva. Iată doar câteva recomandări:
 
 * Jocurile din seria Shadowrun: [Shadowrun Returns](https://www.gog.com/game/shadowrun_returns) (2,49 euro), [Shadowrun: Dragonfall](https://www.gog.com/game/shadowrun_dragonfall_directors_cut) (2,49 euro), [Shadowrun Hong Kong](https://www.gog.com/game/shadowrun_hong_kong_extended_edition) (4,09 euro).
@@ -145,7 +142,7 @@ Pe 18 se termină sale-ul de vară, grăbiți-vă dacă vreți să cumpărați c
 
 De asemenea, **XCOM** cel nou (primul) e acum și pe gog.com, în formulă completă cu toate DLC-urile (da, inclusiv Enemy Within) și e și la reducere pentru o perioadă scurtă: 5.99 euro.
 
-#### Fanatical
+### Fanatical
 * Dacă vi-l doreați și nu l-ați prins la una din celelalte 999 de promoții care apar aproape zilnic, aveți acum ocazia să cumpărați [Lords of the Fallen Game of the Year Edition](https://www.fanatical.com/en/game/lords-of-the-fallen-game-of-the-year-edition) cu doar 4,49€
 * Un [bundle ieftin](https://www.fanatical.com/en/bundle/fully-loaded-4-bundle) cu de toate la doar 2€, în care sigur veți găsi cel puțin câteva jocuri interesante. Aveți, printre altele, un JRPG (**Ara Fell**), un simulator de mașini (**GT Legends**), o strategie istorică (**Grand Ages: Rome**), un _”walking simulator”_ (**CAT Interstellar**) și **Memoranda**, un adventure clasic point-and-click, care susține că e _”inspired by author Haruki Murakami’s surreal short stories”_ (și nici nu arată rău).
 

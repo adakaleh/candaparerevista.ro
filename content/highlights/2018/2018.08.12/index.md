@@ -33,7 +33,6 @@ resources:
 * IGN retrage de pe site toate articolele redactorului Filip Miucin, după un scandal de plagiat în care s-a descoperit că s-a inspirat mai mult decât era cazul din review-ul unui youtuber ([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2018-08-15-ign-pulls-all-of-writers-work-after-plagiarism-scandal), [Kotaku](https://kotaku.com/ign-pulls-ex-editors-posts-after-dozens-more-plagiarism-1828357792))
 * PUBG atinge pragul de 100 de milioane de descărcări pentru varianta de mobile ([Engadget](https://www.engadget.com/2018/08/16/pubg-mobile-100-million-downloads/))
 
-
 ## Articole (critică, dev, design)
 * [Dying Light 2's choices will power &#147;the ultimate vision for the open world&#148;](https://www.gamesindustry.biz/articles/2018-08-14-dying-light-2s-choices-will-power-the-ultimate-vision-for-the-open-world) (GamesIndustry.biz)
 * [Dungeons &amp; Dragons Is a Double-edged Sword | Unwinnable](https://unwinnable.com/2018/08/15/dungeons-dragons-is-a-double-edged-sword/) (Unwinnable)
@@ -46,32 +45,30 @@ resources:
 * [Grinding as repetition as savefiles as insistence](https://www.blog.radiator.debacle.us/2018/08/grinding-as-repetition-as-savefiles-as.html) (Radiator Blog)
 * [Nintendo&#39;s Offensive, Tragic, and Totally Legal Erasure of ROM Sites](https://motherboard.vice.com/en_us/article/bjbped/nintendos-offensive-tragic-and-totally-legal-erasure-of-rom-sites) (Motherboard), plus [In Defence of ROMs, A Solution To Dying Games And Broken Copyright Laws](http://www.kotaku.co.uk/2018/08/15/in-defense-of-roms-a-solution-to-dying-games-and-broken-copyright-laws) (Kotaku)
 
-#### _Not-a-review_
+### _Not-a-review_
 * (GTA V) [How Grand Theft Auto created a virtual underground clubbing scene](https://www.theguardian.com/games/2018/aug/16/how-grand-theft-auto-created-a-virtual-underground-clubbing-scene) (The Guardian)
 * (PES) [The battle with FIFA was lost long ago, but PES soldiers on](https://www.eurogamer.net/articles/2018-08-15-pes-soldiers-on-but-the-battle-with-fifa-was-lost-long-ago) (Eurogamer)
 * (Gone Home) [How  Gone Home 's design constraints lead to a powerful story](http://gamasutra.com/view/news/198340/How_Gone_Homes_design_constraints_lead_to_a_powerful_story.php) (Gamasutra)
 * (World Of Warcraft) [A Look Inside How Blizzard Maintains World Of Warcraft&#039;s Lore](https://www.gameinformer.com/2018/08/14/a-look-inside-how-blizzard-maintains-world-of-warcrafts-lore) (Games Informer)
 * (World Of Warcraft) [After 14 years, the biggest obstacle for World of Warcraft is time, not technology](https://www.gamesindustry.biz/articles/2018-08-13-after-fourteen-years-of-world-of-warcraft-infrastructure-isnt-a-limitation) (GamesIndustry.biz)
 
-#### Vocea industriei
+### Vocea industriei
 * Lukasz Kukawski (gog.com): [Streaming is another layer of DRM](https://www.gamesindustry.biz/articles/2018-08-13-gog-streaming-is-another-layer-of-drm) (GamesIndustry.biz)
 
-#### Istorie
+### Istorie
 * [The Game Archaeologist: City of Heroes&#8217; launch history and the Marvel lawsuit](https://massivelyop.com/2018/08/12/the-game-archaeologist-digging-into-the-history-of-city-of-heroes-part-two/) (Massively OP)
 * [Giant Bomb Still Changing Video Games Media 10 Years Later](https://variety.com/2018/gaming/features/giant-bomb-interview-10-years-1202895978/) (Variety)
 * [Game Classics: Sonic the Hedgehog (1991)](https://remptongames.com/2018/08/18/game-classics-sonic-the-hedgehog-1991/) (Rempton Games)
 
-
-#### Design, world-building
+### Design, world-building
 * (Video) [Sebastien Benard breaks down the fine details of Dead Cells' design](http://www.gamasutra.com/view/news/324804/Sebastien_Benard_breaks_down_the_fine_details_of_Dead_Cells_design.php) (Gamasutra)
-
 
 ## Made în România
 * Jocul **Interrogation** [participă](https://collective.square-enix.com/projects/490/interrogation/) în programul [Square Enix Collective](https://collective.square-enix.com/projects/). Dacă interesul publicului este suficient de mare (măsurat în voturi), Square Enix va susține financiar proiectul.
 * **Door Kickers: Action Squad** iese din Early Access pe 10 septembrie ([Steam](https://store.steampowered.com/app/686200/Door_Kickers_Action_Squad/)).
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **Domas** ([Gematsu](https://gematsu.com/2018/08/bandai-namco-summer-horror-project-teaser-website-launched))
 * **Boyfriend Dungeon** ([Kickstarter](https://www.kickstarter.com/projects/kitfoxgames/boyfriend-dungeon-date-your-weapons))
 * **Inmost** ([YouTube](https://www.youtube.com/watch?v=VhVEgxwmlXg))
@@ -85,7 +82,7 @@ resources:
 * **Mad Machines**, o clonă de Rocket League cu roboți gladiatori, care la lansare va fi disponibil în exclusivitate - pentru o perioadă limitată - doar pe Discord Store ([PC Gamer](https://www.pcgamer.com/mad-machines-looks-like-rocket-league-with-massive-armored-robots-instead-of-cars/))
 
 
-#### Acum cu dată de lansare
+### Acum cu dată de lansare
 * 21 august: **Burnout Paradise Remastered** vine și pe PC ([Destructoid](https://www.destructoid.com/burnout-paradise-remastered-hits-pc-next-week-with-a-discount-for-returning-players-518680.phtml), [Eurogamer](https://www.eurogamer.net/articles/2018-08-17-burnout-paradise-remastered-speeds-onto-pc-next-week))
 * 23 august: **7 Billion Humans**, continuarea lui **Human Resources Machine** ([PC Gamer](https://www.pcgamer.com/world-of-goo-devs-new-game-launches-next-week/))
 * 29 august: **SCUM** intră în Early Access ([Destructoid](https://www.destructoid.com/detailed-survival-game-scum-finally-coming-to-early-access-later-this-month-517184.phtml))
@@ -93,11 +90,11 @@ resources:
 * 9 octombrie: **My Memory of Us** ([PC Gamer](https://www.pcgamer.com/patrick-stewart-will-narrate-my-memory-of-us-a-game-about-children-in-the-holocaust/))
 * 19 octombrie: **Dark Souls Remastered** se lansează pe Nintendo Switch ([Bandai Namco Twitter](https://twitter.com/BandaiNamcoUS/status/1029367163562405888))
 
-#### Amânate
+### Amânate
 * 13 noiembrie: **Spyro Reignited Trilogy** ([Activision Blog](https://blog.activision.com/t5/More-Games/A-Message-from-Toys-for-Bob/ba-p/10807365))
 * 2019: **Tropico 6** ([RPS](https://www.rockpapershotgun.com/2018/08/17/tropico-6-release-date-details/))
 
-#### Lansate
+### Lansate
 * 13 august: **World of Warcraft: Battle for Azeroth** ([World of Warcraft](https://worldofwarcraft.com/en-us/battle-for-azeroth))
 * 13 august: **Sword Legacy Omen** ([Steam](https://store.steampowered.com/app/690140/Sword_Legacy_Omen/))
 * 14 august: **Phantom Doctrine** ([Steam](https://store.steampowered.com/app/559100/Phantom_Doctrine/), [gog.com](https://www.gog.com/game/phantom_doctrine_pack))
@@ -111,7 +108,6 @@ resources:
 
 
 ## Oferte jocuri
-
 #### Humble Bundle
 * [Jackbox Party Bundle](https://www.humblebundle.com/games/jackbox-party-bundle)
 * [VR Sale](https://www.humblebundle.com/store/promo/vr-sale/)

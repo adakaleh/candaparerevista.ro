@@ -97,7 +97,6 @@ resources:
 
 
 ## Made în România
-
 * Jocul **Blink:Rogues**, un _schmup arena fighting game_ produs Fox Dive Studio are acum [pagină de Steam](https://store.steampowered.com/app/739100/BlinkRogues/) şi se pregăteşte de lansarea în Early Access pe 28 septembrie. Mai multe detalii pe [website-ul studioului](https://foxdivestudio.com/) sau pe [pagina de Facebook](https://www.facebook.com/foxdivedevs).
 * **Move or Die** al celor de la Those Awesome Guys participă la Tokyo Game Show 2018. ([Facebook](https://www.facebook.com/moveordiegame/photos/a.713876118677814/1990037104395036/?type=3&__xts__%5B0%5D=68.ARB2SN0gI66qZffDHk3Ise5dcTvN0kagtLIFRXj_e52v2JO0SnNgjdpe7O3zocg-biO4t69oJqGdhoKwX5EmgDeQw-eCQy6vsJgOiNmGa876quFuZ-GPwmpaKJ6bEok6aixY89E6qQjiBkqmWwryqFhovh_IkefVcAEdegVEMs8Yj3nW221SqA&__tn__=-R))
 
@@ -121,7 +120,6 @@ resources:
 * **Achtung! Cthulhu Tactics**: 4 octombrie ([RPS](https://www.rockpapershotgun.com/2018/09/20/achtung-cthulhu-tactics-october-4th/))
 * **Sunless Skies**: 31 ianuarie 2019 ([Eurogamer](https://www.eurogamer.net/articles/2018-09-22-sunless-skies-has-a-release-date-and-a-pen-and-paper-rpg))
 
-
 ### Lansate
 * 18 septembrie: **60 Parsecs!** ([Steam](https://store.steampowered.com/app/646270/60_Parsecs/))
 * 20 septembrie: **The Gardens Between** ([Steam](https://store.steampowered.com/app/600990/The_Gardens_Between/), [Humble](https://www.humblebundle.com/store/the-gardens-between))
@@ -129,10 +127,7 @@ resources:
 * 20 septembrie: **Hyperspace Delivery Service** (Early Access) ([RPS](https://www.rockpapershotgun.com/2018/09/21/hyperspace-delivery-service-launch/), [Steam](https://store.steampowered.com/app/876320/Hyperspace_Delivery_Service/))
 * 21 septembrie: **My Brother Rabbit** ([gog.com](https://www.gog.com/game/my_brother_rabbit))
 
-
-
 ## Oferte jocuri
-
 ### Humble Bundle
 * [Humble One Special Day Bundle](https://www.humblebundle.com/games/one-special-day-bundle):
   * Minim 1$: **Streets of Rage**, **Crazy Taxi**, **Binary Domain**, **OlliOlli2: Welcome to Olliwood**
@@ -150,7 +145,6 @@ resources:
 * [Reduceri săptămânale](https://www.gog.com/promo/20180917_weekly_sale) - multe adventure-uri, majoritatea de la Wadjet Eye, dar nu numai: seria **Blackwell**, **Gemini Rue**, **Primordia**, **Shardlight**, **Technobabylon**, **The Last Door**, etc.
 * Jocurile din seria Divinity (cu excepţia ultimului Original Sin) [sunt la promoţie](https://www.gog.com/promo/20180917_divinity_birthday) pentru bani puţini
 * O mega-promoţie cu [jocuri Electronic Arts](https://www.gog.com/promo/20180921_ea_weekend) - foarte multe jocuri clasice la preţuri de câte o bere: seriile **Magic Carpet**, **Populous**, **Lands of Lore**, **SimCity**, **Ultima**, **Kyrandia**, **Wing Commander**, **Syndicate**, sau jocuri precum **Spore**, **Nox**, **Jade Empire**, **The Saboteur** şi altele
-
 
 ### Fanatical
 * [Multe bundles](https://www.fanatical.com/en/bundle). Câteva recomandări: [Slayer Bundle](https://www.fanatical.com/en/bundle/slayer-bundle) (conţine câteva titluri decente împărţite pe 3 tiers; fanii jocurilor adventure vor găsi aici **The Lion’s Song**), [Infinity Bundle](https://www.fanatical.com/en/bundle/infinity-bundle) (fără tiers, costă 3,65€ pentru care primiţi Fran Bow, Dex, Deponia The Complete Journey şi Epistory, plus alte câteva), [The FaceRig Bundle](https://www.fanatical.com/en/bundle/the-facerig-bundle) (e făcut de nişte români, apropo), [Anomaly Complete Bundle](https://www.fanatical.com/en/bundle/dollar-anomaly-complete-bundle), [Anthology Awesome Bundle](https://www.fanatical.com/en/bundle/fanatical-anthology-awesome-bundle) (Skulls of the Shogun e un TBS excelent, iar bundle-ul mai conţine, printre altele, Crimsonland, One Finger Death Punch, War of the Human Tanks şi System Shock 2, pentru doar 3,09€)

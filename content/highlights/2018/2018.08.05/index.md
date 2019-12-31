@@ -29,7 +29,6 @@ resources:
 * **EmuParadise**, un site popular printre cei pasionați de emularea jocurilor vechi, a anunțat că va da jos toate ROM-urile găzduite până acum pe site. Anunțul vine după ce Nintendo a dat în judecată alte două site-uri de emulare. ([PC Gamer](https://www.pcgamer.com/fearing-legal-action-emulation-hub-emuparadise-is-removing-all-its-roms/))
 * **Quake Champions** este acum permanent free to play. ([RPS](https://www.rockpapershotgun.com/2018/08/10/quake-champions-free-to-play-launch/))
 
-
 ## Articole (critică, dev, design)
 * [Cyber Demons | The AI of DOOM (2016)](https://www.gamasutra.com/blogs/TommyThompson/20180806/323715/Cyber_Demons__The_AI_of_DOOM_2016.php) (Gamasutra)
 * [The daunting aftermath of releasing your dream game, as told by the devs of Stardew Valley, Owlboy, and more](https://www.pcgamer.com/the-daunting-aftermath-of-releasing-your-dream-game-as-told-by-the-devs-of-stardew-valley-owlboy-and-more/) (PC Gamer)
@@ -41,19 +40,17 @@ resources:
 * [The Ups and Downs of Homeworld](https://www.gamasutra.com/blogs/JustinReeve/20180810/323720/The_Ups_and_Downs_of_Homeworld.php) (Gamasutra)
 * [Story Analysis - Part 3 - Nier & Bonus](https://www.gamasutra.com/blogs/NathanSavant/20180807/323803/Story_Analysis__Part_3__Nier__Bonus.php)(Gamasutra) (primele două părţi în [Retrospectiva de săptămâna trecută]({{< ref "/highlights/2018/2018.07.29/index.md#articole-critică-dev-design" >}}))
 
-
 ## Made în România
 * **Gibbous: A Cthulhu Adventure** are acum [un trailer oficial](https://www.youtube.com/watch?v=JAMl8W2HeDE) și [o pagină de steam](https://store.steampowered.com/app/914020/Gibbous___A_Cthulhu_Adventure/), de unde puteți adăuga jocul în wishlist. Data apariției? Soon™.
 
-
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **The Missing**, ultimul joc al lui SWERY, se va lansa anul acesta pe PC, PS4, Xbox One și Switch ([site oficial](https://www.arcsystemworks.jp/missing/))
 * **Torchlight Frontiers** ([trailer](https://www.youtube.com/watch?v=5Xj6OGVIKTM))
 * **Delve League**, expansion pentru **Path of Exile** ([site oficial](https://www.pathofexile.com/delve))
 * **Doom Eternal**, acum cu gameplay video de la Quakecon 2018 ([video](https://www.youtube.com/watch?v=L_d0KO6QS5c))
 
-#### Lansate
+### Lansate
 * 7 august: **Dead Cells** a ieșit din early access ([Steam](https://store.steampowered.com/app/588650/Dead_Cells/), [GOG](https://www.gog.com/game/dead_cells))
 * 7 august: **Overcooked 2** ([Steam](https://store.steampowered.com/app/728880/Overcooked_2/))
 * 8 august: **Unavowed** ([Steam](https://store.steampowered.com/app/336140/Unavowed/), [GOG](https://www.gog.com/game/unavowed))

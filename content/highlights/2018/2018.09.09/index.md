@@ -33,7 +33,7 @@ resources:
 * **Alan Wake** devine serial TV. Va fi produs de companiile [Contradiction Films](https://en.wikipedia.org/wiki/Contradiction_Films) și Remedy, dar încă nu a fost aleasă o ofertă de la studiourile interesate. ([Variety](https://variety.com/2018/gaming/news/alan-wake-tv-show-1202938003/), [Engagdet](https://www.engadget.com/2018/09/13/an-alan-wake-tv-series-is-in-the-works/))
 * O companie canadiană a făcut un documentar despre regizorul Uwe Boll. ([YouTube](https://www.youtube.com/watch?v=6SIXHA7vQ4A), [Eurogamer](https://www.eurogamer.net/articles/2018-09-10-remember-uwe-boll-someones-made-a-documentary-about-him)) (thx @joonior_bmf)
 
-#### Nintendo Switch Direct
+### Nintendo Switch Direct
 Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulțime de jocuri care urmează să apară pe Switch, precum şi mai multe ştiri ce privesc direct platforma:
 
 * Nintendo va începe să perceapă bani pentru serviciul online pentru jocurile Switch, care până acum a fost gratuit. În preț sunt incluse și backupul salvărilor în cloud, însă nu toate jocurile vor benficia de această facilitate, iar în plus jucătorii își vor pierde salvările în momentul în care nu vor mai plăti pentru acces. ([Eurogamer](https://www.eurogamer.net/articles/2018-09-12-you-must-pay-to-play-nintendo-switch-online-from-next-week), [Ars Technica](https://arstechnica.com/gaming/2018/09/nintendos-first-ever-paid-online-service-launches-on-switch-sept-18/), [Ars Technica](https://arstechnica.com/gaming/2018/09/nintendo-switch-cloud-save-data-disappears-if-you-cancel-subscription/))
@@ -41,7 +41,7 @@ Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulți
 * [Everything Announced During Today&#39;s Nintendo Direct](https://kotaku.com/animal-crossing-switch-and-everything-else-from-todays-1829043157/) (Kotaku)
 * Jocuri anunţate: [Luigi’s Mansion 3](https://twitter.com/NintendoEurope/status/1040359876600504320), [Katamari Damacy Rerolled](https://kotaku.com/ah-hello-price-katamari-damacy-is-coming-to-the-swit-1829042996), [Animal Crossing](https://www.eurogamer.net/articles/2018-09-13-animal-crossing-headed-to-nintendo-switch), [Yoshi’s Crafted World](https://twitter.com/NintendoAmerica/status/1040366380376219648), remaster-uri pentru [Final Fantasy VII, IX, X/X-2, XII: The Zodiac Age](https://twitter.com/Nibellion/status/1040367957350727684), [Super Mario Bros. U Deluxe](https://twitter.com/NintendoAmerica/status/1040362721970053120).
 
-#### Nvidia
+### Nvidia
 Încep să apară mai multe detalii despre noua generație de plăci video de la Nvidia:
 
 * [What is ray tracing, and how does Nvidia's GeForce RTX handle the technology?](https://www.pcgamer.com/what-is-ray-tracing/) (PC Gamer)
@@ -102,12 +102,9 @@ Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulți
 * (Poze frumoase) [With each expansion the art of The Elder Scrolls: Legends has grown weirder and better](https://www.pcgamer.com/with-each-expansion-the-art-of-the-elder-scrolls-legends-has-grown-weirder-and-better/) (PC Gamer)
 * (Video) [UX expert helps explain why Fortnite is such a success](https://arstechnica.com/gaming/2018/09/video-ux-expert-helps-explain-why-fortnite-is-such-a-success/) (Ars Technica)
 
-
 ## Made în România
-
 * KillHouse Games au lansat **Door Kickers: Action Squad** pe 10 septembrie şi a fost foarte bine primit. ([site oficial](http://inthekillhouse.com/action-squad-out-in-full-force/). Cumpăraţi-l de pe [Steam](https://store.steampowered.com/app/686200/Door_Kickers_Action_Squad/) sau [Humble](https://www.humblebundle.com/store/door-kickers-action-squad) şi veniţi [pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=85&t=1900) să discutaţi despre el.
 * În perioada 4-5 octombrie va avea loc la Bucureşti conferinţa de jocuri Dev.Play 2018, organizată în colaborare cu RGDA, şi vă puteţi găsi de lucru la una dintre companiile româneşti de jocuri. ([ZonaIT](https://zonait.tv/dev-play-2018-studiourile-dezvoltatoare-de-jocuri-video-din-romania-angajeaza-la-cea-mai-mare-conferinta-de-game-development-din-europa-de-est/), [Overheat.ro](https://www.overheat.ro/2018/09/12/studiourile-romanesti-de-game-development-angajeaza-la-dev-play-2018/))
-
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate
@@ -142,7 +139,6 @@ Săptămâna asta a avut loc Nintendo Switch Direct, unde s-au anunțat o mulți
 * 14 septembrie: **The Culling: Origins** se relansează după fiasco-ul The Culling 2 şi devine free-to-play ([Steam](https://store.steampowered.com/app/437220/The_Culling/))
 
 ## Oferte jocuri
-
 ### Humble Bundle
 * [Summer Sale](https://www.humblebundle.com/store/) s-a prelungit până mâine. Dacă vă grăbiți, puteți beneficia de oferte de la o serie de publisheri precum [Square Enix](https://www.humblebundle.com/store/promo/square-enix-summer-sale-encore/), [Bethesda](https://www.humblebundle.com/store/promo/bethesda-summer-sale-encore/), [Activision](https://www.humblebundle.com/store/promo/activision-blizzard-summer-sale-encore/), [2K](https://www.humblebundle.com/store/promo/2k-summer-sale-encore/), [Ubisoft](https://www.humblebundle.com/store/promo/ubisoft-summer-sale-encore/), [Rockstar](https://www.humblebundle.com/store/promo/rockstar-summer-sale-encore/) și mulți alții.
 * Jocuri gratis DRM-free din colecţia Trove pe care Humble o pune în mod normal la dispoziţia abonaţilor la Humble Monthly, dar pe care le puteţi adăuga acum permanent în contul vostru: Alan Wake's American Nightmare, Limbo, Uurnog, Fortune 499, Tiny Echo, Cat Girl Without Salad: Amuse-Bouche, Arawkanoid, Thor.n, Crescent Bay.

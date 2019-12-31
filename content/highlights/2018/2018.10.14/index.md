@@ -50,7 +50,6 @@ resources:
 * [The anatomy of a game-key scam](https://venturebeat.com/2018/10/17/steam-key-scams/) (VentureBeat)
 * [Still waiting for a video game developer to win a Genius Grant](https://www.engadget.com/2018/10/20/video-games-genius-grant-macarthur-guggenheim-grants/) (Engadget)
 
-
 ### _Not-a-review_
 * (Katamari Damacy) [A Criticism of Adequacy](https://unwinnable.com/2018/10/18/a-criticism-of-adequacy/) (Unwinnable)
 * (Overcooked) [Gamer Mom: Overcooked! Is the Opposite of Team Building](http://sidequest.zone/2018/10/16/gamer-mom-overcooked-is-the-opposite-of-team-building/) (Sidequest)
@@ -59,7 +58,6 @@ resources:
 * (Shovel Knight) [How Yacht Club Games Created Shovel Knight's Baz, Mole Knight, and King Knight Bosses](http://gamasutra.com/blogs/DavidCraddock/20181016/328724/How_Yacht_Club_Games_Created_Shovel_Knights_Baz_Mole_Knight_and_King_Knight_Bosses.php) (Gamasutra)
 * (The Banner Saga) [The Joy Of meaningful death in The Banner Saga](https://www.rockpapershotgun.com/2018/10/16/the-joy-of-meaningful-death-in-the-banner-saga) (RPS)
 * (Elite Dangerous) [Elite: Dangerous exploration is now tactile, satisfying, and soundtracked by the whale song of planets](https://www.pcgamesn.com/elite-dangerous/elite-dangerous-exploration) (PCGamesN)
-
 
 ### Industrie
 * [Steam developers speak: Maximum profits for Valve, minimum responsibilities](https://www.polygon.com/2018/10/19/17959138/steam-valve-developer-support-pricing-reviews) (Polygon) - TL;DR pe [Gamasutra](http://www.gamasutra.com/view/news/329004/Devs_air_grievances_with_Steam_reviews_regional_pricing_and_dev_support.php)

@@ -50,7 +50,7 @@ resources:
 * [Greatest Video Game Composers: Norihiko Hibino](http://www.vgchartz.com/article/277243/greatest-video-game-composers-norihiko-hibino/) (VGChartz)
 * [It&#39;s Hard Work Turning A Skyrim Mod Into A Standalone Game](https://kotaku.com/its-hard-work-turning-a-skyrim-mod-into-a-standalone-ga-1827378941) (Kotaku)
 
-#### _Not-a-review_
+### _Not-a-review_
 * (Far Cry 5) [The futile search for a single message in Far Cry 5](https://www.pcgamer.com/the-futile-search-for-a-single-message-in-far-cry-5/ (atenție), spoiler despre sfârșit) (PC Gamer)
 * (LawBreakers) [LawBreakers didn&#8217;t deserve such an ignoble end](https://www.rockpapershotgun.com/2018/07/12/lawbreakers-didnt-deserve-such-an-ignoble-end/) (RPS)
 * (Warframe) [Warframe has quietly become the best free-to-play game on PC](https://www.pcgamer.com/warframe-has-quietly-become-the-best-free-to-play-game-on-pc/) (PC Gamer)
@@ -60,7 +60,7 @@ resources:
 * (Spec Ops: The Line) [Heart of Darkness | Behind the AI and Storytelling of Spec Ops: The Line](https://www.gamasutra.com/blogs/TommyThompson/20180709/321286/Heart_of_Darkness__Behind_the_AI_and_Storytelling_of_Spec_Ops_The_Line.php) (Gamasutra)
 * (Bioshock) [BioShock&#39;s Jewish Roots Run Deep](https://kotaku.com/bioshocks-jewish-roots-run-deep-1827482206) (Kotaku)
 
-#### Vocea industriei
+### Vocea industriei
 * Tim Willits (id Software): [Avoiding cannibalization in the post-apocalypse](https://www.gamesindustry.biz/articles/2018-07-09-avoiding-cannibalization-in-the-post-apocalypse) (GamesIndustry.biz)
 * Hidetaka Miyazaki (From Software): [Interview: Miyazaki on the Limbs and Lore of Sekiro: Shadows Die Twice](https://blog.us.playstation.com/2018/07/13/interview-miyazaki-on-the-limbs-and-lore-of-sekiro-shadows-die-twice/) (PlayStation.Blog)
 * Tomas Rawlings (Auroch Digital): [&#147;There is no magic formula&#148; for getting noticed on Steam](https://www.gamesindustry.biz/articles/2018-07-09-there-is-no-magic-formula-for-getting-noticed-on-steam) (GamesIndustry.biz)
@@ -69,12 +69,12 @@ resources:
 * Ben Wanat (Crystal Dynamics, ex-Visceral): [Visceral had some cool ideas for Dead Space 4](https://www.eurogamer.net/articles/2018-07-13-visceral-had-some-cool-ideas-for-dead-space-4) (Eurogamer)
 * Rami Ismail (Vlambeer): [“Indie is dead” but that’s a good thing, says Rami Ismail](https://www.pcgamesn.com/indie-is-dead) (PCGamesN)
 
-#### Istorie
+### Istorie
 * [Where Are Prince Of Persia: The Sands Of Time&#39;s Developers Now?](https://kotaku.com/where-are-prince-of-persia-the-sands-of-times-develope-1827556681) (Kotaku)
 * [&#8216;StarCraft II&#8217;: How Blizzard Brought the King of Esports Back From the Dead](https://variety.com/2018/gaming/features/starcraft-ii-esports-history-1202873246/) (Variety)
 * [The Game Archaeologist: A history of EverQuest&#8217;s expansions](https://massivelyop.com/2018/07/14/the-game-archaeologist-a-history-of-everquests-expansions/) (Massively OP)
 
-#### Design, world-building
+### Design, world-building
 * [How Journey only truly made sense when almost everything had been cut](https://www.eurogamer.net/articles/2018-07-08-how-journey-only-truly-made-sense-when-almost-everything-had-been-cut) (Eurogamer)
 * [Romanticism and the art of Dark Souls III](https://www.gamasutra.com/blogs/ReneHaase/20180711/321757/Romanticism_and_the_art_of_Dark_Souls_III.php) (Gamasutra)
 * [Photo Mode: A Tribute](https://www.polygon.com/videos/2018/7/9/17528640/photo-mode-god-of-war-doom-no-mans-sky-compilation) (Polygon)
@@ -85,14 +85,14 @@ resources:
 * [Care sunt jocurile preferate ale românilor și cât cheltuiesc pe an pe ele](https://playtech.ro/2018/jocuri-preferate-romani-2017/) (Playtech)
 
 ## Anunţuri şi lansări de jocuri
-#### Anunţate
+### Anunţate
 * **Little Misfortune**, un nou adventure de la Killmonday Games (creatorii lui **Fran Bow**) ([Gamereactor](https://www.gamereactor.eu/news/678863/))
 * **Modern Air Combat**, un flight sim de la creatorii **DCS** Warthog şi **Lock On** ([Polygon](https://www.polygon.com/2018/7/13/17570028/modern-air-combat-eagle-dynamics-announcement-price-release-date))
 * **Element: Space**, RPG squad-based cu acţiunea în viitor ([RPG Codex](http://www.rpgcodex.net/forums/index.php?threads/element-space-is-an-upcoming-sci-fi-turn-based-tactical-rpg-from-argentina.122872/))
 * **Remnant: From the Ashes**, un "third-person survival-action shooter" ce va avea "four-player co-op in _dynamically generated worlds_" , de la producătorii lui **Darksiders III** ([IGN](http://www.ign.com/articles/2018/07/12/darksiders-3-dev-announces-remnant-from-the-ashes))
 * **Override: Mech City Brawl**, nişte bătaie multiplayer cu mechs ([VGChartz](http://www.vgchartz.com/article/277221/override-mech-city-brawl-announced-for-ps4-xbox-one-pc/))
 
-#### Acum cu dată de lansare
+### Acum cu dată de lansare
 * **Advanced Gungeons & Draguns**, dlc gratuit pentru **Enter the Gungeon**: 19 iulie ([Twitter](https://twitter.com/DodgeRollGames/status/1017798842220150784))
 * **Chasm**: 31 iulie ([PC Gamer](https://www.pcgamer.com/chasm-the-procedurally-generated-metroidvania-will-arrive-at-the-end-of-july/))
 * **Pillars of Eternity 2: Beast of Winter**: 2 august ([Eurogamer](https://www.eurogamer.net/articles/2018-07-12-pillars-of-eternity-2s-first-big-expansion-beast-of-winter-gets-an-august-release-date))
@@ -103,7 +103,7 @@ resources:
 * **The Bard's Tale 4**: 18 septembrie ([VideoGamer](https://www.videogamer.com/news/the-bards-tale-4-launching-on-pc-in-september))
 * **Darksiders III**: 27 noiembrie ([Eurogamer](https://www.eurogamer.net/articles/2018-07-09-darksiders-3-gets-a-november-release-date))
 
-#### Lansate
+### Lansate
 * 9 iulie: **Hero-U: Rogue to Redemption** ([gog.com](https://www.gog.com/game/herou_rogue_to_redemption), [Steam](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/))
 * 10 iulie: **Ice Caves of Europa** ([Steam](https://store.steampowered.com/app/503780/Ice_Caves_of_Europa/))
 * 10 iulie: **The Culling 2** ([Steam](https://store.steampowered.com/app/752720/The_Culling_2/), dar lansarea s-a dovedit a fi un dezastru ([Eurogamer](https://www.eurogamer.net/articles/2018-07-13-the-culling-2-flop-forces-difficult-discussions-about-future-of-developer-xaviant), [PC Gamer](https://www.pcgamer.com/the-culling-2-gets-hit-with-very-negative-reviews-on-steam/))

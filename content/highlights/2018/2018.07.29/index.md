@@ -51,7 +51,7 @@ resources:
 * [Why did licensed games get better?](https://www.gamesindustry.biz/articles/2018-07-30-why-did-licensed-games-get-better) (GamesIndustry.biz)
 * [How a blind &#039;Call of Duty&#039; player is racking up thousands of kills](https://www.engadget.com/2018/08/02/blind-call-of-duty-player-thousands-of-kills/) (Engadget)
 
-#### _Not-a-review_
+### _Not-a-review_
 * (No Man’s Sky) [The Two No Man’s Skys](https://kotaku.com/the-two-no-man-s-skys-1828031695) (Kotaku)
 * (Dead Cells) [How player criticism helped make  Dead Cells  the game it is today](http://www.gamasutra.com/view/news/323234/How_player_criticism_helped_make_Dead_Cells_the_game_it_is_today.php) (Gamasutra)
 * (Hero-U) [How Hero-U avoided disaster to resurrect '90s adventure game nostalgia](https://www.pcgamer.com/how-hero-u-avoided-disaster-to-resurrect-90s-adventure-game-nostalgia/) (PC Gamer)
@@ -59,16 +59,16 @@ resources:
 * (Broken Sword 5) [Bringing a classic adventure series to Switch](https://venturebeat.com/2018/08/03/broken-sword-5-interview-bringing-a-classic-adventure-series-to-switch-on-september-21/) (VentureBeat)
 * (King of Dragon Pass, Six Ages) [How Six Ages and King of Dragon Pass explore the politics of myth](https://www.rockpapershotgun.com/2018/08/02/how-six-ages-and-king-of-dragon-pass-explore-the-politics-of-myth/) (RPS)
 
-#### Vocea industriei
+### Vocea industriei
 * Salem Al-Ghanim (Little Adventure on the Prairie): [Developer Releases Vita Game With Easy Trophies So ‘A Lot Of People Buy It’](https://kotaku.com/developer-releases-vita-game-with-easy-trophies-so-a-l-1827936257) (Kotaku)
 * Daniel Mullins (Pony Island): [From failed Kickstarter to career-defining success: The story of Pony Island](https://www.gamesindustry.biz/articles/2018-08-01-from-failed-a-kickstarter-to-career-defining-success) (GamesIndustry.biz)
 
-#### Istorie
+### Istorie
 * [Making the piracy problem worse](https://www.gamesindustry.biz/articles/2018-08-01-making-the-piracy-problem-worse) (GamesIndustry.biz)
 * [The Californian sent to save Stalker: Shadow of Chernobyl from development hell](https://www.eurogamer.net/articles/2018-07-28-dean-sharpe-sent-to-save-stalker) (Eurogamer)
 * [Braid 10th anniversary Critical Compilation](https://www.critical-distance.com/2018/07/24/braid-10th-anniversary-critical-compilation/) (Critical Distance)
 
-#### Design, world-building
+### Design, world-building
 * [Diegesis and designing for immersion](https://www.gamasutra.com/blogs/GabrielNaro/20180801/323232/Diegesis_and_designing_for_immersion.php) (Gamasutra)
 * [The mind-bending science behind the planets of Elite Dangerous](https://www.pcgamer.com/the-mind-bending-science-behind-the-planets-of-elite-dangerous/) (PC Gamer)
 * [Designing NieR:Automata’s Machine Lifeforms](https://www.platinumgames.com/official-blog/article/9863) (PlatinumGames Blog)
@@ -78,22 +78,19 @@ resources:
 * (Video) [Watch a city planner employ eminent domain in SimCity 2000](https://www.destructoid.com/watch-a-city-planner-employ-eminent-domain-in-simcity-2000-515624.phtml) (Destructoid)
 * (Poze frumoase) [The cyberpunk art of Benedykt Szneider gave Ruiner a brutal beauty](https://www.pcgamer.com/the-cyberpunk-art-of-benedykt-szneider-gave-ruiner-a-brutal-beauty/) (PC Gamer)
 
-
-
 ## Made în România
-
 * Trailer nou, dată de lansare și mențiuni pe diverse site-uri pentru **Planet Alpha**: [Games Informer](https://www.gameinformer.com/preview/2018/07/31/space-is-a-wild-place-even-in-2d), [Eurogamer](https://www.eurogamer.net/articles/2018-08-01-gorgeous-another-world-esque-sci-fi-side-scroller-planet-alpha-is-out-in-september), [PC Gamer](https://www.pcgamer.com/gorgeous-sci-fi-platformer-planet-alpha-release-date-set/), [Hardcore Gamer](https://www.hardcoregamer.com/2018/07/31/time-skipping-platformer-planet-alpha-touches-down-this-september/307410/), [Gamereactor](https://www.gamereactor.eu/news/683393)
 
 
-
-#### Anunţate
+## Anunțuri și lansări de jocuri
+### Anunţate
 * **Gloomhaven**, adaptarea digitală a unui mega-popular boardgame ([RPS](https://www.rockpapershotgun.com/2018/08/03/board-game-gloomhaven-digital-in-2019/), [Eurogamer](https://www.eurogamer.net/articles/2018-08-03-cult-board-game-dungeon-crawler-gloomhanven-is-getting-a-video-game-adaptation), [PC Gamer](https://www.pcgamer.com/board-game-juggernaut-gloomhaven-is-getting-a-videogame-adaptation/))
 * **Godhood**, un nou _god game_ de la creatorii lui Reus ([Eurogamer](https://www.eurogamer.net/articles/2018-07-31-you-can-define-your-own-weird-religion-in-reus-devs-new-god-game-godhood), [RPS](https://www.rockpapershotgun.com/2018/08/01/godhood-announced-from-reus-creators/))
 * **The Procession To Calvary**, o aventură comică cu personaje decupate din tablouri renascentiste ([RPS](https://www.rockpapershotgun.com/2018/07/30/the-procession-to-calvary-adventure-game-announced/))
 * **Shortest Trip to Earth**, un simulator de nave spațiale având similarități cu FTL ([Gamereactor](https://www.gamereactor.eu/news/683743))
 * **Edna & Harvey - The Breakout: 10th Anniversary** ([Gamereactor](https://www.gamereactor.eu/news/683943))
 
-#### Acum cu dată de lansare
+### Acum cu dată de lansare
 * **Death’s Gambit**: 14 august ([PC Gamer](https://www.pcgamer.com/deaths-gambit-is-a-lush-2d-fantasy-rpg-releasing-this-month/))
 * **Donut County** (sau “acel joc în care joci cu o gaură”): 28 august ([Games Informer](https://www.gameinformer.com/2018/07/31/donut-county-opens-up-on-august-28-for-ps4-pc-and-ios))
 * **Planet Alpha**: 4 septembrie ([Eurogamer](https://www.eurogamer.net/articles/2018-08-01-gorgeous-another-world-esque-sci-fi-side-scroller-planet-alpha-is-out-in-september))
@@ -101,7 +98,7 @@ resources:
 * **Artifact**: 28 noiembrie ([Eurogamer](https://www.eurogamer.net/articles/2018-08-02-valves-new-game-artifact-now-has-a-release-date))
 * **The Sinking City**: 21 martie 2019 ([Gamereactor](https://www.gamereactor.eu/news/683383))
 
-#### Lansate
+### Lansate
 * 30 iulie: **La Mulana 2** ([Steam](https://store.steampowered.com/app/835430/LaMulana_2/))
 * 31 iulie: **Chasm** ([Steam](https://store.steampowered.com/app/312200/Chasm/))
 * 31 iulie: **This Is The Police 2** ([Steam](https://store.steampowered.com/app/785740/This_Is_the_Police_2/))

@@ -57,8 +57,7 @@ resources:
 * [The Rebirth of Classic Tragedy Through Sublime Artistry of &#8216;Dark Souls&#8217;](https://variety.com/2018/gaming/opinion/dark-souls-analysis-1203028245/) (Variety)
 * [Assassin&#39;s Creed: Odyssey and Living in Myth](https://io9.gizmodo.com/assassins-creed-odyssey-and-living-in-myth-1830313252/) (Gizmodo)
 * [What makes Planet Coaster great? Its creators are engineering nerds](https://www.pcgamesn.com/planet-coaster/planet-coaster-design-tips) (PCGamesN)
-* [&quot;Streamer&quot; Modes Are Usually Gimmicky BS, But in &#39;Dead Cells,&#39; It&#39;s Magic
-](https://waypoint.vice.com/en_us/article/ev3nxk/streamer-modes-are-usually-gimmicky-bs-but-in-dead-cells-its-magic) (Waypoint)
+* [&quot;Streamer&quot; Modes Are Usually Gimmicky BS, But in &#39;Dead Cells,&#39; It&#39;s Magic](https://waypoint.vice.com/en_us/article/ev3nxk/streamer-modes-are-usually-gimmicky-bs-but-in-dead-cells-its-magic) (Waypoint)
 * [RimWorld and the Iffy Prospect of Early Access](https://unwinnable.com/2018/11/13/rimworld/) (Unwinnable)
 * (Spoilers pentru Red Dead Redemption 2!) [&quot;A Good Man,&quot; by Reid McCarter](http://www.bulletpointsmonthly.com/2018/11/12/a-good-man/) (Bullet Points Monthly)
 
@@ -117,7 +116,6 @@ resources:
 * **Beholder 2**: 4 decembrie ([PC Gamer](https://www.pcgamer.com/beholder-2-the-grim-game-of-state-surveillance-comes-out-on-december-4/))
 * **Battle Princess Madelyn**: 6 decembrie ([Games Informer](https://www.gameinformer.com/2018/11/13/ghouls-n-ghosts-inspired-platformer-battle-princess-madelyn-coming-next-month), [PC Gamer](https://www.pcgamer.com/battle-princess-madelyn-which-was-co-designed-by-a-7-year-old-will-be-out-soon/))
 * **Katamari Damacy Reroll**: 7 decembrie ([Games Informer](https://www.gameinformer.com/2018/11/10/katamari-damacy-reroll-coming-early-next-month-getting-demo-at-launch))
-
 * **Crackdown 3**: 15 februarie ([PCGamesN](https://www.pcgamesn.com/crackdown-3/crackdown-3-release-date-final))
 
 ### Amânate

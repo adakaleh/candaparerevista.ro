@@ -57,7 +57,6 @@ Evenimentul săptămânii a fost Gamescom, care a avut loc în Cologne, Germania
 * [Creation as Play: Terry Pratchett, Author and Modder](http://sidequest.zone/2018/08/21/creation-as-play-terry-pratchett-author-and-modder/) (Sidequest)
 * [ROM sites are falling, but a legal loophole could save game emulation](https://arstechnica.com/gaming/2018/08/can-a-digital-lending-library-solve-classic-gamings-piracy-problem/) (Ars Technica)
 
-
 ### Not-a-review
 * (Unavowed) [Dave Gilbert explains how BioWare RPGs inspired adventure game  Unavowed ](http://www.gamasutra.com/view/news/325248/Dave_Gilbert_explains_how_BioWare_RPGs_inspired_adventure_game_Unavowed.php) (Gamasutra)
 * (God of War) [The Blind God](https://unwinnable.com/2018/08/21/the-blind-god/) (Unwinnable)
@@ -74,7 +73,6 @@ Evenimentul săptămânii a fost Gamescom, care a avut loc în Cologne, Germania
 * Danny Bulla, Polyarc: [VR's slow growth ideal for indies - Moss dev](https://www.gamesindustry.biz/articles/2018-08-20-vrs-slow-growth-ideal-for-indies-moss-dev) (GamesIndustry.biz)
 * Hideaki Itsuno, Capcom: [Capcom On Ninja Theory: &#039;Those Guys Are Style Incarnate&#039;](https://www.gameinformer.com/gamescom-2018/2018/08/24/capcoms-hideaki-itsuno-on-ninja-theory-nico-and-the-difference-between) (Games Informer)
 
-
 ### Dev, making-of
 * [Where's my money, dude: what Steam is silent about](http://gamasutra.com/blogs/NikolayBondarenko/20180823/325099/Wheres_my_money_dude_what_Steam_is_silent_about.php), prima parte dintr-o serie de articole despre procesul de _publishing_ pentru jocurile de PC (Gamasutra)
 * Key scammers: [People Keep Trying To Scam Their Way Into Free Video Games](https://kotaku.com/people-keep-trying-to-scam-their-way-into-free-video-ga-1828488205) (Kotaku) , [Scammers are still trying to snag free games from indie devs ](http://www.gamasutra.com/view/news/325041/Scammers_are_still_trying_to_snag_free_games_from_indie_devs_.php#comments) (Gamasutra) , [Filtering Steam key scammers](https://www.gamasutra.com/blogs/EduardasKlenauskis/20180820/324813/Filtering_Steam_key_scammers.php) (Gamasutra)
@@ -90,12 +88,8 @@ Evenimentul săptămânii a fost Gamescom, care a avut loc în Cologne, Germania
 ### Design, world-building
 * [Illumination and Occlusion | Dark Souls Remastered](http://www.heterotopiaszine.com/2018/08/23/illumination-occlusion-dark-souls-remastered/) (Heterotopias)
 
-
 ## Made în România
-
-Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (Rikodu), **Fort Triumph** (CookieByte), **Interrogation** (Critique Gaming), **Door Kickers: Action Squad** (KillHouse Games), **Brawlout** (Angry Mob Games), **Move or Die** (Those Awesome Guys), **BOSSGARD** (Sand Sailor Studio) ([Facebook RGDA](https://www.facebook.com/groups/THERGDA/permalink/1212855528852987/?__xts__[0]=68.ARDE9ycN4F9v6L--a7pfZ1GLiDsiz1htvqa-Uaqz598wcuz-2QGOdTLwdzPsOblgYiIdsjBwwUm-J5hdQVNI9UQiw5T-bq-GpgnpgfaxlbRJPgrPxd9r3HObZBnqQjChi3swq0I&__tn__=-R), [Facebook RGDA](https://www.facebook.com/groups/THERGDA/permalink/1217507175054489/?__xts__[0]=68.ARDTfnKpe4LpnhgYfs0djV5-AXnZ5eqaeoPR6PttUcT_bLFDwRM5os1VyjHXzI3y7nc2q-SbhhzWJE0R97kLFtbweFgkcG6XF7g3u2abAZbnWLerzfFmmo0jJQxCvAebimztsY4&__tn__=-R))
-
-
+* Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (Rikodu), **Fort Triumph** (CookieByte), **Interrogation** (Critique Gaming), **Door Kickers: Action Squad** (KillHouse Games), **Brawlout** (Angry Mob Games), **Move or Die** (Those Awesome Guys), **BOSSGARD** (Sand Sailor Studio) ([Facebook RGDA](https://www.facebook.com/groups/THERGDA/permalink/1212855528852987/?__xts__[0]=68.ARDE9ycN4F9v6L--a7pfZ1GLiDsiz1htvqa-Uaqz598wcuz-2QGOdTLwdzPsOblgYiIdsjBwwUm-J5hdQVNI9UQiw5T-bq-GpgnpgfaxlbRJPgrPxd9r3HObZBnqQjChi3swq0I&__tn__=-R), [Facebook RGDA](https://www.facebook.com/groups/THERGDA/permalink/1217507175054489/?__xts__[0]=68.ARDTfnKpe4LpnhgYfs0djV5-AXnZ5eqaeoPR6PttUcT_bLFDwRM5os1VyjHXzI3y7nc2q-SbhhzWJE0R97kLFtbweFgkcG6XF7g3u2abAZbnWLerzfFmmo0jJQxCvAebimztsY4&__tn__=-R))
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate
@@ -111,7 +105,6 @@ Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (R
 * **The Waylanders**, un RPG medieval fantasy la care lucrează și Mike Laidlaw (fost scenarist la Bioware pentru Dragon Age) ([RPG Codex](http://www.rpgcodex.net/forums/index.php?threads/the-waylanders-is-a-historical-time-travel-rpg-inspired-by-dragon-age-origins.123489/), [Shacknews](https://www.shacknews.com/article/106857/gato-salvaje-studio-announces-new-medieval-fantasy-rpg-the-waylanders), [PC Gamer](https://www.pcgamer.com/first-look-at-the-waylanders-a-time-travel-rpg-inspired-by-the-likes-of-dragon-age-origins/), [VG247](https://www.vg247.com/2018/08/20/mike-laidlaw-working-waylanders-time-travel-rpg/))
 * **Anno 1800** ([Destructoid](https://www.destructoid.com/city-builder-anno-1800-looks-like-a-nice-change-of-pace-519167.phtml))
 
-
 ### Acum cu dată de lansare
 * 28 august: **Strange Brigade** ([Games Informer](https://www.gameinformer.com/preview/2018/08/23/go-exploring-with-friends))
 * 18 septembrie: **Transference** ([VG247](https://www.vg247.com/2018/08/20/ubisofts-upcoming-horror-game-transference-gets-september-release-date/))
@@ -122,11 +115,9 @@ Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (R
 * 22 martie 2019: **Sekiro: Shadows Die Twice** ([Twitter From Software](https://twitter.com/fromsoftware_pr/status/1031587175668899840), [Games Informer](https://www.gameinformer.com/preview/2018/08/20/sekiro-shadows-die-twice-releases-march-22-worldwide))
 * 27 august 2019: **Shenmue III** ([Games Informer](https://www.gameinformer.com/gamescom-2018/2018/08/21/shenmue-iii-gets-august-2019-release-date), [Eurogamer](https://www.eurogamer.net/articles/2018-08-21-shenmue-3-finally-gets-a-release-date))
 
-
 ### Amânate
 * **Bloodstained**: 2019 în loc de 2018 (iniţial 2017) ([Games Informer](https://www.gameinformer.com/2018/08/20/bloodstained-delayed-to-2019-vita-version-cancelled))
 * **Metal Wolf Chaos XD**: mijlocul lui 2019 în loc de 2018 ([Destructoid](https://www.destructoid.com/metal-wolf-chaos-xd-delayed-to-mid-2019-519149.phtml))
-
 
 ### Lansate
 * 21 august: **Shenmue I & II** ([Steam](https://store.steampowered.com/app/758330/Shenmue_I__II/))
@@ -136,8 +127,6 @@ Jocuri românești participă la Gamescom: **Second Hand: Frankie's Revenge** (R
 * 23 august: **7 Billion Humans** ([Steam](https://store.steampowered.com/app/792100/7_Billion_Humans/), [gog.com](https://www.gog.com/game/7_billion_humans_pack), [Humble Store](https://www.humblebundle.com/store/7-billion-humans))
 * 24 august: **F1 2018** ([Steam](https://store.steampowered.com/app/737800/F1_2018/))
 * 24 august: **Planet of the Apes: Last Frontier** ([Steam](https://store.steampowered.com/app/789910/Planet_of_the_Apes_Last_Frontier/), [Humble Store](https://www.humblebundle.com/store/planet-of-the-apes-last-frontier))
-
-
 
 ## Oferte
 

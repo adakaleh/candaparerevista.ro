@@ -1,5 +1,5 @@
 ---
-title: "Retrospectiva săptămânii 7-13 iulie 2019 (+ 14 iulie)"
+title: "Retrospectiva săptămânii 7 - 13 iulie (+ 14 iulie) 2019"
 type: post
 date: 2019-07-15T07:00:01
 categories:

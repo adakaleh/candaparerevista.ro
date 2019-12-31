@@ -39,7 +39,6 @@ resources:
 * Capcom anunță un film Mega Man. ([Site Capcom](http://www.capcom.co.jp/ir/english/news/html/e181004.html), [Eurogamer](https://www.eurogamer.net/articles/2018-10-04-mega-mans-getting-a-live-action-hollywood-adaptation-which-nobody-asked-for), [Games Informer](https://www.gameinformer.com/2018/10/04/mega-man-getting-his-own-live-action-film-directed-by-catfish-creators))
 * Primele secvențe din MMO-ul produs de Amazon, **New World**, s-au „scurs” pe internet. Interesant e că prima dată au apărut pe... PornHub. ([Eurogamer](https://www.eurogamer.net/articles/2018-10-06-big-gameplay-leak-of-amazons-new-mmo-pops-up-on-pornhub), [PC Gamer](https://www.pcgamer.com/footage-of-amazons-mmo-new-world-leaks-online/))
 
-
 ## Articole (critică, dev, design)
 * [On Ambition and Labour in Games](https://historianon.wordpress.com/2018/10/02/on-ambition-and-labour-in-games/) (Historian On)
 * [Video games and the change of autumn](https://www.eurogamer.net/articles/2018-10-05-video-games-and-the-change-of-autumn) (Eurogamer)
@@ -57,7 +56,6 @@ resources:
 * Siobhan Reddy, Media Molecule: [&quot;We aren't curing cancer. There's a human cost to making games&quot;](https://www.gamesindustry.biz/articles/2018-10-05-siobhan-reddy-we-arent-curing-cancer-we-need-to-understand-the-human-cost-of-making-games) (GamesIndustry.biz)
 * John Warner, Over the Moon Games (_The Fall_): [It's time we stopped encouraging indies](https://www.gamesindustry.biz/articles/2018-10-02-its-time-we-stopped-encouraging-indies) și răspunsurile pe care le primește [de la alți dezvoltatori indie](https://www.gamesindustry.biz/articles/2018-10-03-developers-weigh-in-on-indie-discouragement) (GamesIndustry.biz)
 
-
 ### Istorie
 * [Assassin’s Creed: An oral history](https://www.polygon.com/features/2018/10/3/17924770/assassins-creed-an-oral-history-patrice-desilets) (Polygon)
 * [Beneath a Starless Sky: Pillars of Eternity and the Infinity Engine Era of RPGs](https://www.shacknews.com/article/103473/beneath-a-starless-sky-pillars-of-eternity-and-the-infinity-engine-era-of-rpgs) (Shacknews)
@@ -68,7 +66,6 @@ resources:
 * (Video) Un documentar despre istoria Larian: [Divinity: Original Sin Documentary | Gameumentary](https://www.youtube.com/watch?v=YZF_cP_oLH4) (YouTube)
 * (Video) [War Stories: Serious Sam almost didn’t happen—until crates saved the day](https://arstechnica.com/gaming/2018/10/war-stories-serious-sam-almost-didnt-happen-until-crates-saved-the-day/) (Ars Technica)
 * (Video) [10 Years of GOG.com](https://www.gog.com/10years?pp=44a1b665cceda52001aa6fa3bb69d2cfefc0a91c)
-
 
 ### Dev, making of
 * [Die, die, die: Boss battle design in  Death's Gambit ](http://www.gamasutra.com/view/news/328036/Die_die_die_Boss_battle_design_in_Deaths_Gambit.php) (Gamasutra)
@@ -86,7 +83,6 @@ resources:
 * [Secțiunea Indie Expo](https://dev-play.ro/indie-expo/) a expus creațiile, în lucru sau deja lansate, ale producătorilor români, printre care și **Interrogation** (studioul Critique Gaming), care a câștigat [premiul pentru cel mai bun joc al expoziției](https://www.facebook.com/critiquegaming/posts/1131880863646329?__xts__[0]=68.ARBxHmeY6Ghv7_6V-oRcvWWAGg_cahEcuzVTY1ZzkdfH6NdBH-9PSTHD4M1seG0G7YpptruRjTiMPkOsBmkUtWw1hQvQ8y5xFjcXNWVU726MI6DC8x-Q0HTiKxm1WBi-CB3EnRDaj0lNg7Mu0HY82pKi7dxAabi5lMkVhB9wjaY4IANFr-iqMA&__tn__=-R) - aveți [aici lista jocurilor câștigătoare](https://www.facebook.com/dev.play.conference/posts/570682886700150?__xts__[0]=68.ARDoM_BdT3RQAveNrpWhUppHHwWBSAsgXtMnpD3y6k3IFeYXannbpjlDIiAtAeq6CDS1GrN1bJBTX9FWwb9fNNKRMACVa8iqIShF2fGjvgaGfkaZMNHlXI0D_4P_pAs-V5DfUDPa27IaAULAaMnmD6Oyi8RAIRA5LjgqReib4z85pj-pMVbQ&__tn__=-R) la diferitele categorii
 * S-a desfășurat o etapă din cadrul [Nordic Game Discovery Contest](https://dev-play.ro/ngdc/), care a fost câștigată de **Bossgard** (Sand Sailor Studios)
 * La conferință a fost prezent și Ministrul Comunicațiilor, care a anunțat un [program de finanțare](https://startupcafe.ro/finantari/firme-it-ajutor-stat-sua-credite.htm ) de 94 milioane de euro pentru IMM-uri din IT. GameIndustry.biz [discută](https://www.gamesindustry.biz/articles/2018-10-04-romanian-government-boosts-games-industry-with-94-million-tech-fund) cu Cătălin Butnariu, președintele RGDA, despre cum acest program va ajuta industria de gaming din România.
-
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate

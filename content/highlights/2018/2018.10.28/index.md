@@ -41,7 +41,6 @@ resources:
 * O serie de articole de la autori diverși despre viitorul jocurilor: [The future of gaming: How video game data, diversity, collaboration, and culture will evolve](https://qz.com/is/what-happens-next-2/1438720/future-of-gaming/) (Quartz)
 * * Capsule Crit, care publică periodic o colecţie de eseuri despre jocuri, au publicat [ediţia cu numărul 4](https://www.capsulecrit.com/intro04), în care puteţi citi materiale, printre altele, despre **Red Dead Redemption 2** sau **Stardew Valley**.
 
-
 ### _Not-a-review_
 * (Red Dead Redemption 2)
   * [Why is Red Dead Redemption 2 Still Using Rockstar&#039;s Ancient Control Scheme?](https://www.usgamer.net/articles/red-dead-redemption-2-controls-bad-good-horrible-or-immersive) (USgamer)
@@ -64,7 +63,6 @@ resources:
 * [&#147;Companies don't care about your games. People care about your games&#148;](https://www.gamesindustry.biz/articles/2018-11-02-companies-dont-care-about-your-games-people-care-about-your-games) (GamesIndustry.biz)
 * [THQ Nordic Bought My Teenage Years – So What Are They Going to Do With Them?](https://www.ign.com/articles/2018/10/29/thq-nordic-bought-my-teenage-years-a-so-what-are-they-going-to-do-with-them) (IGN)
 
-
 ### Istorie, retrospectivă
 * [The Story Behind Square Enix&#39;s Failed Latin America Video Game Division](https://kotaku.com/the-story-behind-square-enixs-failed-latin-america-vide-1830085992/) (Kotaku)
 * [The story of NEMO, Hasbro’s console that never was](https://www.polygon.com/features/2018/10/31/17997106/nemo-hasbro-vhs-console-mark-turmell) (Polygon)
@@ -85,10 +83,8 @@ resources:
 * [Game Box Art Critique November: Fallout 76, Hitman 2, Darksiders 3](https://www.videogamer.com/features/game-box-art-critique-november-fallout-76-hitman-2-darksiders-3) (VideoGamer)
 
 ## Made în România
-
 * Liviu Boar, unul dintre creatorii jocului **Gibbous - A Cthulhu adventure**, a fost invitatul săptămânii la [podcastul lui Ovidiu Eftimie și Dorin Lazăr](https://icrpodcast.podbean.com/e/icr-podcast-261-cu-liviu-boar-despre-cum-e-sa-fii-creator-de-jocuri-in-romania/), unde a discutat despre, evident, **Gibbous**, dar și despre e să fii dezvoltator de jocuri indie în România. Tot cam pe același subiect puteți urmări și [prezentarea](http://gibbousgame.com/blog/liviu-on-why-he-chose-to-make-an-adventure-game-dev-play-2018-talk/) pe care a făcut-o Liviu la Dev.Play 2018.
 * Constantin Băcioiu, de la Bearded Giant Games (**Ebony Spire**), a dat un [interviu pentru Games Freezer](http://www.gamesfreezer.co.uk/2018/10/interview-bearded-giant-games-dark-blue.html).
-
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate
@@ -98,14 +94,12 @@ resources:
 * **Omno**, un puzzle platformer 3D care caută finanțare prin Kickstarter ([Hardcore Gamer](https://www.hardcoregamer.com/2018/11/01/adventure-puzzle-game-omno-announced-for-kickstarter-gets-debut-trailer/316421/), [RPS](https://www.rockpapershotgun.com/2018/11/01/omno-platform-adventure-kickstarter/))
 * **Warcraft III Reforged**, o versiune remasterizată a vechiului RTS al Blizzard ([VG247](https://www.vg247.com/2018/11/02/warcraft-3-reforged-out-2019/))
 
-
 ### Acum cu dată de lansare
 * **God Eater 3**: februarie 2019 ([PC Gamer](https://www.pcgamer.com/god-eater-3-release-date-announced/))
 * **One Finger Death Punch 2**: aprilie 2019  ([PC Gamer](https://www.pcgamer.com/one-finger-death-punch-2-due-april-will-contain-secret-cancelled-project/))
 * **Dusk**: 10 decembrie ([Games Informer](https://www.gameinformer.com/2018/10/31/gore-filled-retro-shooter-dusk-receives-a-release-date))
 * **Little Dragons Cafe**: 15 noiembrie ([Destructoid](https://www.destructoid.com/little-dragons-cafe-is-winging-onto-pc-later-this-month-529397.phtml))
 * **Just Cause 4**: 4 decembrie ([PCGamesN](https://www.pcgamesn.com/just-cause-4/just-cause-4-release-date-multiplayer-cheats-setting-gameplay))
-
 
 ### Lansate
 * 29 octombrie: **Corpse Party: Book of Shadows** ([Steam](https://store.steampowered.com/app/778390/Corpse_Party_Book_of_Shadows/), [gog.com](https://www.gog.com/game/corpse_party_book_of_shadows))
@@ -116,7 +110,6 @@ resources:
 * 1 noiembrie: **Football Manager 2019** ([Steam](https://store.steampowered.com/app/872790/Football_Manager_2019/))
 * 1 noiembrie: **The Quiet Man** ([Steam](https://store.steampowered.com/app/790540/THE_QUIET_MAN/))
 * **Jill of the Jungle: The Complete Trilogy** a fost relansată în format digital (și gratuit) pe GOG ([gog.com](https://www.gog.com/game/jill_of_the_jungle_the_complete_trilogy))
-
 
 ## Prăvălii de jocuri
 

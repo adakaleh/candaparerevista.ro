@@ -43,7 +43,7 @@ resources:
 * [Why competitive gaming is starting to look a lot like professional sports](https://www.theverge.com/2018/7/27/17616532/overwatch-league-of-legends-nba-nfl-esports) (The Verge)
 * [Game Companies Can Serve Communities or Customers, But Rarely Both] (https://waypoint.vice.com/en_us/article/43pndd/game-companies-can-serve-communities-or-customers-but-rarely-both) (Waypoint)
 
-#### _Not-a-review_
+### _Not-a-review_
 * (Darkest Dungeon) [Two years later, Darkest Dungeon is completely different for the better](https://arstechnica.com/gaming/2018/07/two-years-later-darkest-dungeon-is-completely-different-for-the-better/) (Ars Technica)
 * (Hollow Knight) [Hollow Knight beats Metroid, Dark Souls at their own brutal game](https://arstechnica.com/gaming/2018/07/hollow-knight-beats-metroid-dark-souls-at-their-own-brutal-game/) (Ars Technica)
 * (Hollow Knight) [A Fun Example of Video Game Logic](http://www.kotaku.co.uk/2018/07/26/a-fun-example-of-video-game-logic) (Kotaku)
@@ -53,17 +53,17 @@ resources:
 * (Singularity) [Remembering Singularity, Raven Software's forgotten shooter](https://www.eurogamer.net/articles/2018-07-22-remembering-singularity-raven-softwares-forgotten-shooter) (Eurogamer)
 * (Dragon Age) [An English Major and Her Xbox: Dragon Age and the Bible](http://sidequest.zone/2018/07/26/an-english-major-and-her-xbox-dragon-age-and-the-bible/) (Sidequest)
 
-#### Vocea industriei
+### Vocea industriei
 * Brendan Greene (PUBG Corporation): [Video chat with PUBG creator: “We could put battle royale in everything”](https://arstechnica.com/gaming/2018/07/video-chat-with-pubg-creator-we-could-put-battle-royale-in-everything/) (Ars Technica)
 * Fredrik Wester (Paradox): [&quot;We've released crappy games in the past... I don't want to do that anymore&quot;](https://www.gamesindustry.biz/articles/2018-07-27-paradox-weve-released-crappy-games-in-the-past-i-dont-want-to-do-that-anymore) (GamesIndustry.biz)
 * Chet Faliszek (Bossa Studios, ex-Valve): [Old Man Faliszek](http://www.kotaku.co.uk/2018/07/27/old-man-faliszek) (Kotaku)
 
-#### Istorie
+### Istorie
 * Un documentar despre istoria gog.com realizat de cei de la Noclip: [How piracy led to GOG encouraging DRM-free releases](http://www.gamasutra.com/view/news/322696/How_piracy_led_to_GOG_encouraging_DRMfree_releases_.php) (Gamasutra) , [Noclip&#8217;s latest documentary charts the rise of GOG](https://www.rockpapershotgun.com/2018/07/23/noclip-gog-documentary-video/) (RPS) sau video direct: [GOG: Preserving Gaming&#39;s Past &amp; Future](https://www.youtube.com/watch?v=ffngZOB1U2A)) (YouTube)
 * [The Game Archaeologist: Digging up the history of City of Heroes](https://massivelyop.com/2018/07/28/the-game-archaeologist-digging-up-the-history-of-city-of-heroes/) (Massively OP)
 * [Geneza lui Counter-Strike](https://zonait.tv/geneza-lui-counter-strike/) (zonait.tv )
 
-#### Design, world-building
+### Design, world-building
 * [The Mechanics of Worldbuilding](https://www.gamasutra.com/blogs/JustinReeve/20180725/322643/The_Mechanics_of_Worldbuilding.php) (Gamasutra)
 * [Technological Oppression | Remember Me](http://www.heterotopiaszine.com/2018/07/26/technological-oppression-remember/) (Heterotopias)
 * [Building Worlds](https://www.slowrun.me/2018/07/building-worlds.html) (SlowRun)
@@ -75,8 +75,8 @@ resources:
 
 * (Video) Interviu cu membrii studioului Critique Gaming (**Interrogation**) ([Cavaleria.ro](https://cavaleria.ro/gaming/jocurile-video-romania-2/))
 
-
-#### Anunţate
+## Anunțuri și lansări de jocuri
+### Anunţate
 * **Forsaken Remastered** (da, _clona-de-Descent-din-anii-90-Forsaken_) apare pe 31 iulie ([PC Gamer](https://www.pcgamer.com/90s-sci-fi-shooter-forsaken-is-coming-back-next-week/), [Polygon](https://www.polygon.com/2018/7/24/17607706/forsaken-remastered-release-date-windows-pc-xbox-one))
 * **Salt & Sanctuary** vine și pe Switch pe 2 august ([YouTube](https://www.youtube.com/watch?v=flMpzI1_WH0))
 * **Irony Curtain: From Matryoshka with Love** (thx @cg1700) ([Gematsu](https://gematsu.com/2018/07/point-and-click-adventure-game-irony-curtain-from-matryoshka-with-love-announced-for-ps4-xbox-one-switch-and-pc), [VG247](https://www.vg247.com/2018/07/25/irony-curtain-satirical-adventure-game-surviving-cartoon-totalitarianism/))
@@ -88,14 +88,14 @@ resources:
 * **Rising Lords**, un TBS medieval ce aduce mai mult cu un board-game, și cu ture simultane ([Gamereactor](https://www.gamereactor.eu/news/682043))
 
 
-#### Acum cu dată de lansare
+### Acum cu dată de lansare
 * **Anamorphine**: 31 iulie ([PC Gamer](https://www.pcgamer.com/anamorphine-an-adventure-about-coping-with-mental-illness-comes-out-on-july-31/))
 * **Fractured Lands**: 31 iulie ([PC Gamer](https://www.pcgamer.com/fractured-lands-the-mad-max-battle-royale-game-races-into-early-access-next-week/))
 * **Guacamelee! 2**: 21 august ([RPS](https://www.rockpapershotgun.com/2018/07/24/guacamelee-2-release-date-august-21st/))
 * **The Occupation**: 9 octombrie ([PC Gamer](https://www.pcgamer.com/the-occupation-an-investigative-race-against-the-clock-will-launch-in-october/))
 
 
-#### Lansate
+### Lansate
 * 22 iulie: prima parte din **Return of the Tentacle**, un fan-fiction sequel pentru **Day of the Tentacle** ([PC Gamer](https://www.pcgamer.com/part-one-of-fan-made-day-of-the-tentacle-sequel-available-to-download/), [itch.io](https://catmic.itch.io/return-of-the-tentacle))
 * 24 iulie: episodul 3 din **The Council** ([Steam](https://store.steampowered.com/app/287630/The_Council/))
 * 24 iulie: **Semblance** ([Steam](https://store.steampowered.com/app/700160/Semblance/), [gog.com](https://www.gog.com/game/semblance))

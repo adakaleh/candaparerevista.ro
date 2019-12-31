@@ -29,7 +29,6 @@ resources:
 * Denuvo 5.2, cea mai recentă versiune a sistemului de protecție anti-piratare, [a fost „spart” în doar 4 zile](https://www.pcgamesn.com/denuvo-52) (PCGamesN). Asta în timp ce compania care deține Denuvo este de părere că un astfel de sistem de protecție merită folosit chiar dacă va fi spart, dând exemplul unui „joc de sport AAA” care ar fi pierdut mai bine de 20 milioane de dolari în primele zile de la lansare pentru că nu a folosit Denuvo. ([PCGamesN](https://www.pcgamesn.com/denuvo-anti-piracy-statement-21-million), [GameReactor](https://www.gamereactor.eu/news/710023))
 * Un cercetător ucrainean a descoperit o vulnerabilitate în sistemul de generare a CD-key-urilor pentru Steam care ar fi permis generarea nelimitată de key-uri valide. După ce a raportat eroarea, a fost recompensat de Valve cu 20.000 de dolari. ([TechRaptor](https://techraptor.net/content/20000-bounty-steam-cd-key-bug))
 
-
 ## Articole (critică, dev, design)
 
 * [Meet the devs building the great detective games of tomorrow](https://www.pcgamer.com/meet-the-devs-building-the-great-detective-games-of-tomorrow/) (PC Gamer)
@@ -55,7 +54,6 @@ resources:
 * [Social Commentaries in Forgotton Anne](http://www.nymgamer.com/?p=17860) (NYMG)
 * [We need to talk about Kassandra's biceps](https://www.eurogamer.net/articles/2018-11-09-we-need-to-talk-about-kassandra-s-biceps) (Eurogamer)
 
-
 ### Industrie
 * [We Asked Eight Studios From Across The World How They Deal with Crunch](https://waypoint.vice.com/en_us/article/nepw5d/game-development-crunch-japan-europe) (Waypoint)
 * [How to design for coziness... and kindness](https://www.gamesindustry.biz/articles/2018-11-05-how-to-design-for-coziness-and-kindness) (GamesIndustry.biz)
@@ -67,7 +65,6 @@ resources:
 * [The full Chris Avellone interview: Baldur&#8217;s Gate 3, Fallout: Van Buren, and the failings of Pillars of Eternity](https://www.pcgamesn.com/chris-avellone-interview) (PCGamesN)
 * [Our Full BlizzCon Interview With Blizzard Co-Founder Allen Adham](https://www.gameinformer.com/blizzcon2018/2018/11/08/our-full-blizzcon-interview-with-blizzard-co-founder-allen-adham) (Games Informer)
 
-
 ### Istorie, retrospectivă
 * [Ron Gilbert's forgotten edutainment games](https://www.eurogamer.net/articles/2018-11-09-ron-gilberts-forgotten-edutainment-games) (Eurogamer)
 * [A handful of fans have kept Aliens Versus Predator 2 multiplayer alive for a decade](https://www.rockpapershotgun.com/2018/11/09/you-can-still-play-alien-versus-predator-2-multiplayer/) (RPS)
@@ -77,7 +74,6 @@ resources:
 * [The not-quite-making of Baldur&#8217;s Gate 3](https://www.pcgamesn.com/baldurs-gate-3/baldurs-gate-3-development) (PCGamesN)
 * [10 years on, here&#8217;s how Dead Space went from horror to action horror in three games](https://www.rockpapershotgun.com/2018/11/07/10-years-on-heres-how-dead-space-went-from-horror-to-action-horror-in-three-games/) (RPS)
 * [The Game Archeologist: Halo Universe](https://massivelyop.com/2018/11/10/the-game-archeologist-halo-universe/) (Massively OP)
-
 
 ### Dev, making of
 * [How a book binds the Return of the Obra Dinn](https://www.rockpapershotgun.com/2018/11/07/how-a-book-binds-the-return-of-the-obra-dinn/) (RPS)
@@ -91,7 +87,6 @@ resources:
 * [The Art Behind League Of Legends&#39; K-Pop Video ](https://kotaku.com/the-art-behind-league-of-legends-k-pop-video-1830269318) (Kotaku)
 * (Poze frumoase) [Tense Times](https://kotaku.com/tense-times-1830215041) (Kotaku)
 * (Poze frumoase) [All Hail The King Of Space](https://kotaku.com/all-hail-the-king-of-space-1830302303) (Kotaku)
-
 
 ## Made în România
 * Dev.Play au publicat prezentarea susținută de Liviu Berbece, de la studioul Those Awesome Guys, la Dev.Play 2018, despre jocul lor **Move or Die** ([YouTube Dev.Play](https://www.youtube.com/watch?v=T6eZbp093vY))
@@ -111,7 +106,6 @@ resources:
 
 ### Amânate
 * Episodul 3 din **The Long Dark** nu mai apare în decembrie 2018 ([Eurogamer](https://www.eurogamer.net/articles/2018-11-08-the-long-darks-third-story-episode-has-been-delayed-until-next-year))
-
 
 ### Lansate
 * 5 noiembrie: **Cheap Golf** ([Steam](https://store.steampowered.com/app/616520/Cheap_Golf/))
