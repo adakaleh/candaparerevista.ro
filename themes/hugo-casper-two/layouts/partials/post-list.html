@@ -15,6 +15,7 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
 {{ range $cardIndex, $cardPage := $paginator.Pages }}
 
   {{ $isNotBlogCard := ne .Type "blog" }}
+  {{ $mustHaveImage := cond (ne .Params.hideImage true) true false }}
 
   <!-- Verificam daca iterarea este la primul card de pe prima pagina ca sa-i putem defini o clasa css proprie -->
   {{ $isFirstCardFirstPage := and (eq $pageNumber 1) (eq $cardIndex 0) }}
@@ -25,9 +26,12 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
 
   {{ $cardThumbSize := cond $isFirstCardFirstPage .Site.Params.firstCardThumbSize .Site.Params.cardThumbSize }}
 
-  <article class="post-card {{.Type}} {{ $firstCardCssClass }}">
+  {{ $noImageCssClass := cond (eq .Params.hideImage true) "no-image" "" }}
 
-      {{ if ($isNotBlogCard) }}
+  {{ $customCardColor := cond (isset .Params "cardcolor") .Params.cardColor "" }}
+
+  <article class="post-card {{.Type}} {{ $firstCardCssClass }} {{ $noImageCssClass }}" style="background: {{ $customCardColor | safeCSS }}">
+      {{ if and $isNotBlogCard (ne .Params.hideImage true) }}
           <!-- ----- Imagine card ----- -->
           <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
           {{if .Params.image}}
@@ -71,12 +75,14 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
               <!-- pentru cardurile de blog vrem sa vedem mai mult text, pentru ca n-au imagine, asa ca facem clamp dublu,
               cu exceptia primului card de pe prima pagina, unde nu facem clamp deloc si va ramane limita din config -->
               {{ $clampCssClass := cond (and $isNotBlogCard $isNotFirstCardHomePage) "js-text-clamp" (cond $isNotFirstCardHomePage "js-text-clamp-double" "") }}
-              <p class="{{ $clampCssClass }}">
+              {{ if ne .Params.hideDescription true }}
+                <p class="{{ $clampCssClass }}">
                 {{ if .Description }}
                   {{ .Description | markdownify }}
                 {{ else}}
                       {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
                 {{ end}}
+              {{ end}}
               </p>
             </section>
         </a>

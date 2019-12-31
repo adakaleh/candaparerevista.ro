@@ -6,10 +6,6 @@ title: Titlul Noului Articol
 # (OBLIGATORIU)
 type: post
 
-# (optional) daca este prezent, cu valoarea `true`, postul nu va fi
-# inclus in lista de articole de pe home page
-hideOnHome:
-
 # (optional) Subtitlul Articolului
 subtitle: 
 
@@ -41,6 +37,24 @@ categories:
 # `  - tag1`
 # `  - tag2`
 tags: 
+
+# (optional) daca este prezent, cu valoarea `true`, postul nu va fi
+# inclus in lista de articole de pe home page
+hideOnHome:
+
+# (optional) daca este prezent, cu valoarea `true`, postul nu va
+# avea descriere (excerpt) pe card, chiar daca e completat
+# atributul 'description' de mai jos
+hideDescription:
+
+# (optional) daca este prezent, cu valoarea `true`, postul nu va
+# avea imagine pe card, nici macar pe cea default care este aleasa
+# in cazul in care nu e definita o imagine proprie
+hideImage:
+
+# (optional) o valoare css pentru culoarea de fundal; poate fi un string
+# de tip `rgba(223, 205, 106, 0.15)` sau culoarea in hex '#dfcd6a' 
+cardColor: 
 
 # (optional) textul care va apărea pe card; dacă lipsește, va fi 
 # înlocuit cu primele cuvinte din articol
