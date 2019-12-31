@@ -104,7 +104,7 @@ SITEURI_CUNOSCUTE = {
     'bloomberg': 'Bloomberg',           'medium.com':'Medium',              'filfre.net': 'The Digital Antiquarian',
     'usgamer': 'USgamer',               'rempton': 'Rempton Games',         'motherboard.vice': 'Motherboard',
     'slowrun': 'SlowRun',               'gamedaily': 'GameDaily.biz',       'haywiremag': 'Haywire Magazine',
-    'forbes': 'Forbes',                 'dsogaming': 'DSOGaming ',          'store.playstation': 'PlayStation Store',
+    'forbes': 'Forbes',                 'dsogaming': 'DSOGaming',           'store.playstation': 'PlayStation Store',
     'pastemagazine': 'Paste',           'gematsu': 'Gematsu',               'thehistoryofhowweplay': 'The History of How We Play',
     'pcinvasion': 'PC Invasion',        'theringer.com': 'The Ringer',      'firstpersonscholar': 'First Person Scholar',
     'microsoft.com': 'Microsoft Store', 'gamepressure': 'Gamepressure.com', 'nintendo.com/games/': 'Nintendo Store',
@@ -112,7 +112,10 @@ SITEURI_CUNOSCUTE = {
     'wccftech': 'Wccf tech',            'ea.com/games':'EA Store',          'psychologyofgames': 'The Psychology of Video Games',
     'fanbyte':'Fanbyte',                'epicgames.com/store': 'Epic Store','landofobscusion': 'The Land of Obscusion',
     'gizmodo':'Gizmodo',                'timber-owls.com': 'Timber Owls',   'bulletpointsmonthly': 'Bullet Points Monthly',
-    'resetera.com':'ResetEra',          'videogameschronicle':'VideoGamesChronicle',  'historianon.wordpress':'Historian On Games'
+    'resetera.com':'ResetEra',          'vice.com':'Vice',                  'videogameschronicle':'VideoGamesChronicle',
+    'egmnow.com': 'EGM',                'gamespot.com': 'Gamespot',         'ineeddiversegames.org':'I Need Diverse Games',
+    'qz.com': 'Quartz',                 'rogame.dev':'Romanian Game Developers', 'jeff-vogel.blogspot.com': 'The Bottom Feeder',
+    'escapistmagazine.com':'Escapist',  'historianon.wordpress':'Historian On Games',
 }
 
 MAGAZINE = {
@@ -130,9 +133,12 @@ TERMINATII_DE_CURATAT = {
     '- VG247',
     '- DEEP HELL',
     '- Finger Guns',
+    '— Wireframe Magazine',
+    '- Escapist Magazine',
     '| Opinion',
     '| Sidequest',
     '| DSOGaming | The Dark Side Of Gaming',
+    '&quot; - DSOGaming',
     '| Unwinnable',
     '| PC Invasion',
     '| The Obscuritory',
@@ -141,7 +147,10 @@ TERMINATII_DE_CURATAT = {
     'The Digital Antiquarian',
     '| VGC',
     '| Into The Spine',
-    '&#8211; First Person Scholar'
+    '&#8211; First Person Scholar',
+    '&ndash; Spiel Times',
+    '| EGM',
+    '&ndash; A Critical Hit!',
 }
 
 # TODO: de folosit
