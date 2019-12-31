@@ -43,7 +43,9 @@ Pentru a omite unele articole din lista de posturi afișate pe home page, se poa
 
 Când acest parametru e setat, articolul nu va fi inclus în lista de articole de pe home (indiferent de numărul de pagini), dar va apărea în celelalte secțiuni alte site-ului, cum ar fi pagina de articole sau pagina autorului.
 
-Acest parametru e util atunci când publicăm un articol în categoria "Recomandare" în același timp cu publicarea Retrospectivei Săptămânii în care includem articolul respectiv (folosind parțialul `include-post` de mai sus) la "Recomandarea Săptămânii". În felul ăsta, evităm să avem două articole consecutive cu același conținut (și poate și aceeași imagine pe card).
+Acest parametru e util, de exemplu, atunci când publicăm un articol în categoria "Recomandare" în același timp cu publicarea Retrospectivei Săptămânii în care includem articolul respectiv (folosind parțialul `include-post` de mai sus) la "Recomandarea Săptămânii". În felul ăsta, evităm să avem două articole consecutive cu același conținut (și poate și aceeași imagine pe card).
+
+Alt exemplu îl constituie articolele Retrospectiva Retrospectivelor, care sunt actualizate periodic (inclusiv cu data) și nu ar trebui să apară pe prima pagină.
 
 ## Info-box
 Pentru a introduce în articol o casetă cu informații despre joc, sunt 2 posibilități:
@@ -187,6 +189,8 @@ Imaginea principală (cover), care va apărea pe card şi la începutul articolu
       name: "cover-image"
 ~~~
 Dacă lipsește, pe carduri va fi afișată o imagine aleasă la întâmplare din setul de imagini default, iar în articol nu va fi afișat nimic.
+
+Opțional, se poate seta parametrul `hideImage: true` în front matter pentru a ascunde imaginea complet, inclusiv pe cea default.
 
 ### Feature image
 Pentru articolele pe care vrem să le scoatem în evidență mai mult, putem specifica o imagine mai mare, astfel:
