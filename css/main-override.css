@@ -130,7 +130,7 @@ a {
     }
 
     /* main card content */
-    .home-template .post-feed .first-card:not(.blog) .post-card-content {
+    .home-template .post-feed .first-card:not(.blog):not(.no-image) .post-card-content {
         /*flex: 0 1 357px;*/
         flex: 0 1 38%;
     }
@@ -237,6 +237,13 @@ a {
     font-size: 1.05rem;
 }
 
+/* titlu si subtitlu */
+
+.post-card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
 .post-card-subtitle {
     display: block;
     margin-bottom: 0.5em;
@@ -248,18 +255,26 @@ a {
     text-transform: uppercase
 }
 
-/* text card */
-.post-card-title {
-    font-size: 1.8rem;
-    font-weight: bold;
-}
-
 .post-card-excerpt p {
     font-family: 'Merriweather Sans', sans-serif;
     margin-bottom: 1em;
     line-height: 1.4em;
     font-size: 1.4rem;
     font-weight: 300;
+}
+
+/* diferente titlu, subtitlu si excerpt pentru cardurile fara imagine */
+.no-image .post-card-title {
+    font-size: 2.1rem;
+    font-weight: bold;
+}
+
+.no-image .post-card-subtitle {
+    font-size: 1.8rem;
+}
+
+.no-image .post-card-excerpt {
+    margin-top: 1em;
 }
 
 /* normal cards footer (autor, data) */
@@ -355,7 +370,8 @@ a {
   justify-content: center;
 }
 
-.blog .post-card-content-link {
+.blog .post-card-content-link,
+.no-image .post-card-content-link {
   display: flex;
   flex-grow: 1;
   flex-direction: column;
@@ -366,7 +382,8 @@ a {
   padding: 1.5em;
 }
 
-.blog .post-card-content-link .post-card-header {
+.blog .post-card-content-link .post-card-header,
+.no-image .post-card-content-link .post-card-header {
     text-align: center;
 }
 

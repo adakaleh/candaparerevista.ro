@@ -504,7 +504,7 @@ content-ul va ocupa 100% din latime */
     font-size: 1.6rem;
 }
 
-.highlights h2 {
+.highlights h2:not(.post-full-subtitle) {
     /* acelasi stil ca la caseta-tehnica-title */
     font-family: 'Merriweather Sans', sans-serif;
     text-align: center;
