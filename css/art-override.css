@@ -432,7 +432,7 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     height: 100%;
 }
 
-.read-next-feed .post-card-content {
+.read-next-feed .post-card:not(.no-image) .post-card-content {
     /*flex: 0 1 357px;*/
     flex: 0 1 66%;
 }
