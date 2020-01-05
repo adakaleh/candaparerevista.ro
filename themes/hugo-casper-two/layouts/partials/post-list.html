@@ -71,20 +71,20 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
                 <h2 class="post-card-title">{{.Title}}</h2>
                 {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
             </header>
+            {{ if ne .Params.hideDescription true }}
             <section class="post-card-excerpt">
               <!-- pentru cardurile de blog vrem sa vedem mai mult text, pentru ca n-au imagine, asa ca facem clamp dublu,
               cu exceptia primului card de pe prima pagina, unde nu facem clamp deloc si va ramane limita din config -->
               {{ $clampCssClass := cond (and $isNotBlogCard $isNotFirstCardHomePage) "js-text-clamp" (cond $isNotFirstCardHomePage "js-text-clamp-double" "") }}
-              {{ if ne .Params.hideDescription true }}
                 <p class="{{ $clampCssClass }}">
                 {{ if .Description }}
                   {{ .Description | markdownify }}
                 {{ else}}
                       {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
                 {{ end}}
-              {{ end}}
               </p>
             </section>
+            {{ end}}
         </a>
 
           <footer class="post-card-meta">
