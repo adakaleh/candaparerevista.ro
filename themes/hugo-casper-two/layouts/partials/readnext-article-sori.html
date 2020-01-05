@@ -1,8 +1,13 @@
-{{ $isBlogCard := eq .Type "blog" }}
-{{ $blogCssClass := cond $isBlogCard "blog" "" }}
-<article class="post-card {{$blogCssClass}}">
+{{ $isNotBlogCard := ne .Type "blog" }}
+{{ $blogCssClass := cond $isNotBlogCard "" "blog" }}
 
-  {{ if (ne $blogCssClass true) }}
+{{ $noImageCssClass := cond (eq .Params.hideImage true) "no-image" "" }}
+
+{{ $customCardColor := cond (isset .Params "cardcolor") .Params.cardColor "" }}
+
+<article class="post-card {{$blogCssClass}} {{ $noImageCssClass }} " style="background: {{ $customCardColor | safeCSS }}">
+
+  {{ if and $isNotBlogCard (ne .Params.hideImage true) }}
     <!-- ----- Imagine card ----- -->
     <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
     {{if .Params.image}}
@@ -41,15 +46,17 @@
             {{ end */}}
             {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
         </header>
-        <section class="post-card-excerpt">
-          <p class="js-text-clamp">
-            {{ if .Description }}
-              {{ .Description | markdownify }}
-            {{else}}
-              {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
-            {{end}}
-          </p>
-        </section>
+        {{ if ne .Params.hideDescription true }}
+          <section class="post-card-excerpt">
+            <p class="js-text-clamp">
+              {{ if .Description }}
+                {{ .Description | markdownify }}
+              {{else}}
+                {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
+              {{end}}
+            </p>
+          </section>
+        {{end}}
     </a>
 
     <footer class="post-card-meta">
