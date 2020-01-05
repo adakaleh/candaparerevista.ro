@@ -26,6 +26,7 @@ Linkuri rapide:
 * [Știri](#știri)
 * [Articole (critică, dev, design)](#articole-critică-dev-design)
 * [Anunţuri şi lansări de jocuri](#anunțuri-şi-lansări-de-jocuri)
+* [Made în România](#made-în-românia)
 * [Prăvălii de jocuri](#prăvălii-de-jocuri)
 
 ![](images/coperta-retrospectiva-2020-01-05.jpg)
@@ -77,6 +78,7 @@ Linkuri rapide:
 * [The history of cyberpunk on PC](https://www.pcgamer.com/the-history-of-cyberpunk-on-pc/) <sup>(PC Gamer)</sup>
 * [RollerCoaster Tycoon: the best-optimised game of all time?](https://www.pcgamesn.com/rollercoaster-tycoon/code-chris-sawyer) <sup>(PCGamesN)</sup>
 * [Buzz Aldrin&#8217;s Race into Space (and Space-Program Games in General)](https://www.filfre.net/2020/01/buzz-aldrins-race-into-space-and-space-program-games-in-general/) <sup>(The Digital Antiquarian)</sup>
+* ["Oh my god, what have I got myself into?" The inside story of the golden age of video game magazines](https://www.gamesradar.com/oh-my-god-what-have-i-got-myself-into-the-amazing-rollercoaster-story-of-the-golden-age-of-video-game-magazines/) <sup>(GamesRadar+)</sup>
 
 ---
 
@@ -123,6 +125,9 @@ Linkuri rapide:
 * [The real-world history that breathes life into The Witcher](https://www.polygon.com/2020/1/4/21043407/the-witcher-explained-history-poland-holocaust-soviet-comparisons) <sup>(Polygon)</sup>
 * [Tracing the Interconnectedness of Art and Video Games](https://hyperallergic.com/530076/tracing-the-interconnectedness-of-art-and-video-games/) <sup>(Hyperallergic )</sup>
 * [Syd Mead Has Died](https://kotaku.com/syd-mead-has-died-1840730705) <sup>(Kotaku)</sup>
+
+## Made în România
+* [Jocurile românești lansate în 2019](https://rogame.dev/jocuri/?fwp_game_launch=2019). <sup>(Romanian Game Developers)</sup>
 
 ## Anunțuri şi lansări de jocuri
 ### Anunţate
