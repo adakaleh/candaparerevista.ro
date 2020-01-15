@@ -48,7 +48,7 @@ Linkuri rapide:
 >}}
 
 ## PC Gamer (UK)
-### [Ianuarie 2020](https://www.pcgamer.com/uk/pc-gamer-uk-january-issue-crusader-kings-3/) (#338)
+### [Ediția Crăciun 2019](https://www.pcgamer.com/uk/pc-gamer-uk-january-issue-crusader-kings-3/) (#338)
 Ediţia normală şi ediţia pentru abonaţi:
 {{< figure-multi-ext
 	"images/pcgamer-338.jpg|https://content.myfavouritemagazines.co.uk/out/pictures//master/product/1/pcg_p1(42).jpg|"
@@ -94,7 +94,7 @@ Ediţia normală şi ediţia pentru abonaţi:
 [Site Pelit](https://www.pelit.fi/ )
 
 ## Pelaaja (Finlanda)
-### [Decembrie 2019](https://pelaaja.fi/lehdet/joulukuun-pelaaja-nyt-kaupoissa)
+### [Decembrie 2019](https://pelaaja.fi/lehdet/joulukuun-pelaaja-nyt-kaupoissa) (#206)
 {{< figure-multi-ext
 	"images/pelaaja-12.jpg|https://scontent.fotp3-1.fna.fbcdn.net/v/t1.0-9/s960x960/78682110_10157696906092510_953560319706267648_o.jpg?_nc_cat=110&_nc_ohc=0r1v8up5oE8AQlHMV6e8drkqFoyMol-UQigK0g2ynap-LlTRV1kV8w-WA&_nc_ht=scontent.fotp3-1.fna&oh=f11f9acce5f9efa89a68d466b2209e5e&oe=5E89EC19|"
 >}}
