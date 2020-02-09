@@ -46,7 +46,6 @@ Linkuri rapide:
 
 ## Articole (critică, dev, design)
 
-* [Between censorship and Steam, Chinese indie developers are hanging by a thread](https://www.pcgamer.com/between-censorship-and-steam-chinese-indie-developers-are-hanging-by-a-thread/) <sup>(PC Gamer)</sup>
 * [Games Are Discovering an Expressive New Tool: Internet Grammar](https://egmnow.com/games-are-discovering-an-expressive-new-tool-internet-grammar/) <sup>(EGM)</sup>
 * [The Future Departed: How Indie Games Grapple with Real-World Grief](https://egmnow.com/the-future-departed-how-indie-games-grapple-with-real-world-grief/) <sup>(EGM)</sup>
 * [Disentangling Science and Technology](http://www.playthepast.org/?p=6719) <sup>(Play The Past)</sup>
