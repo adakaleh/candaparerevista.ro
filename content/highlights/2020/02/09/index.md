@@ -69,7 +69,7 @@ Linkuri rapide:
 
 ### _Not-a-review_
 * [Socialism in our Solar System](https://unwinnable.com/2020/02/03/socialism-in-one-solar-system/) <sup>(Unwinnable)</sup>
-* [Paste Magazine - The Best Music, Movies and More](https://www.pastemagazine.com/articles/2020/02/death-stranding-and-america.html) <sup>(Paste)</sup>
+* [Why the Unexplained Unreality of Death Stranding’s America Is So Frustrating](https://www.pastemagazine.com/articles/2020/02/death-stranding-and-america.html) <sup>(Paste)</sup>
 * [Jesse Faden from Control](https://unwinnable.com/2020/02/07/jesse-faden-from-control/) <sup>(Unwinnable)</sup>
 
 ---
