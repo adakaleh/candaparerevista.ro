@@ -1,5 +1,5 @@
 ---
-title: "Retrospectiva săptămânii 2 februarie - 8 februarie 2020"
+title: "Retrospectiva săptămânii 2 - 8 februarie 2020"
 type: post
 date: 2020-02-09
 categories:
@@ -113,7 +113,7 @@ Linkuri rapide:
 * Potrivit [trailerului](https://www.youtube.com/watch?v=6GE9gx5NqzU) ieșit săptămâna asta, **Door Kickers 2** se va lansa anul acesta în early access. Jocul se poate adăuga încă de pe acum la wishlist pe [pagina sa de Steam](https://store.steampowered.com/app/1239080/Door_Kickers_2_Task_Force_North/).<sup>([PC Gamer](https://www.pcgamer.com/doorkickers-2-re-announced-taking-the-turn-based-tactics-to-the-middle-east/), [Polygon](https://www.polygon.com/2020/2/4/21122926/door-kickers-2-task-force-north-trailer))</sup>
 * **Gibbous - A Cthulhu Adventure** a câștigat la [Aggie Awards 2019](https://adventuregamers.com/articles/view/39494) premiul pentru cea mai bună animație și a fost alegerea publicului la nu mai puțin de șase categorii (printre care premiul pentru cel mai bun adventure de comedie, cel mai bun personaj și cel mai bun design).
 
-
+## Anunțuri şi lansări de jocuri
 ### Anunţate
 * **The Wonderful 101: Remastered** vine pe Switch, PS4 și PC <sup>([Gematsu](https://www.gematsu.com/2020/02/the-wonderful-101-remastered-announced-for-switch-ps4-and-pc-with-kickstarter-campaign))</sup>
 * **Pathfinder: Wrath of the Righteous** are acum în desfășurare o campanie de kickstarter <sup>([Kickstarter](https://www.kickstarter.com/projects/owlcatgames/pathfinder-wrath-of-the-righteous))</sup>
