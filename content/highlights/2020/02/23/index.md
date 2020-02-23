@@ -19,7 +19,7 @@ resources:
     name: "cover-image"
 ---
 
-Mult așteptatul Mount & Blade 2 se lansează peste o lună (dar doar în early access), filmul Borderlands îl are ca regizor pe Eli Roth, THQ Nordic au dat undă verde remake-ului Gothic, Bethesda și-au retras ei jocurile de pe Geforce Now, iar Baldur's Gate 3 va avea la rândul său parte de tratamentul early access în cursul acestui an.
+Mult așteptatul Mount & Blade 2 se lansează peste o lună (dar doar în early access), filmul Borderlands îl are ca regizor pe Eli Roth, THQ Nordic au dat undă verde remake-ului Gothic, Bethesda și-au retras jocurile de pe Geforce Now, iar Baldur's Gate 3 va avea la rândul său parte de tratamentul early access în cursul acestui an.
 
 Linkuri rapide:
 
