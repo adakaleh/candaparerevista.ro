@@ -7,7 +7,7 @@ categories:
 
 tags: [Death Stranding, The Last of Us, Uncharted, GeForce Now, Coffee Talk, Journey to the Savage Planet, Dreams, Red Dead Redemption 2, Dying Light, Apple Arcade, PlayStation, Myst, BattleTech, Battlefield Bad Company 2, Generation Zero, Fallen London, ]
 
-description: "Epidemia de coronavirus afectează în continuare evenimentele majore de gaming, ne sunt oferite detalii și imagini noi din Baldur's Gate III, CD Projekt devine a doua cea mai mare companie de jocuri din Europa, Kojima o să primească un premiu BAFTA pentru întreaga activitate, se lucrează la un nou joc Samurai Jack, iar Dota Underlords iese din beta."
+description: "HBO produce un serial The Last of Us, Death Stranding și Control bat recorduri la nominalizări BAFTA, Nvidia GeForce Now încă produce reacții negative în rândul publisherilor și dezvoltatorilor, filmul Uncharted are un regizor nou și l-a angajat și pe Antonio Banderas, iar Black Mesa a fost lansat în sfârșit în varianta integrală, după 15 ani."
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
@@ -19,7 +19,7 @@ resources:
     name: "cover-image"
 ---
 
-Epidemia de coronavirus afectează în continuare evenimentele majore de gaming, ne sunt oferite detalii și imagini noi din Baldur's Gate III, CD Projekt devine a doua cea mai mare companie de jocuri din Europa, Kojima o să primească un premiu BAFTA pentru întreaga activitate, se lucrează la un nou joc Samurai Jack, iar Dota Underlords iese din beta.
+HBO produce un serial The Last of Us, **Death Stranding** și **Control** bat recorduri la nominalizări BAFTA, Nvidia GeForce Now încă produce reacții negative în rândul publisherilor și dezvoltatorilor, filmul Uncharted are un regizor nou și l-a angajat și pe Antonio Banderas, iar Black Mesa a fost lansat în sfârșit în varianta integrală, după 15 ani.
 
 Linkuri rapide:
 
@@ -34,7 +34,7 @@ Linkuri rapide:
 * Încă un joc care este adaptat într-un serial TV. E vorba de **The Last of Us** care va fi produs de HBO și va fi bazat pe evenimentele din primul joc. La scrierea scenariului participă și Craig Mazin, creatorul mini-seriei Chernobyl. <sup>([Polygon](https://www.polygon.com/2020/3/5/21166479/the-last-of-us-hbo-tv-series), [Ars Technica](https://arstechnica.com/gaming/2020/03/hbo-playstation-announce-last-of-us-tv-series-the-first-of-many-shows/), [Eurogamer](https://www.eurogamer.net/articles/2020-03-05-chernobyl-creator-craig-mazin-is-working-on-a-the-last-of-us-tv-adaptation-for-hbo), [The Guardian](https://www.theguardian.com/games/2020/mar/06/hbo-tv-series-apocalyptic-video-game-the-last-of-us))</sup>
 * Jocul **Foldit**, creat în 2008 de Universitatea Washington pentru a împărți munca de cercetare în domeniul medicinei cu jucători din toată lumea, a primit un update care adaugă o provocare nouă: găsirea unei proteine care să ajute la contracararea coronavirusului. <sup>([PC Gamer](https://www.pcgamer.com/this-game-might-help-create-a-vaccine-for-coronavirus/), [Eurogamer](https://www.eurogamer.net/articles/2020-03-03-a-video-game-is-being-used-to-crowdsource-coronavirus-treatment))</sup>
 * Prototipul „Nintendo PlayStation”, singurul din cele 200 fabricate despre care se știe că încă mai există, a fost vândut la licitație pentru suma de 360.000 de dolari unui cumpărător anonim. <sup>([Kotaku](https://kotaku.com/nintendo-play-station-sells-at-auction-for-360-000-1842154345), [Eurogamer](https://www.eurogamer.net/articles/2020-03-06-ultra-rare-nintendo-playstation-prototype-sells-at-auction-for-gbp230-000), [Shacknews](https://www.shacknews.com/article/116767/snes-playstation-cd-rom-prototype-sells-for-360000-at-auction), [Vice](https://www.vice.com/en_us/article/7kzdwa/rare-nintendo-playstation-prototype-sold-for-360000-snes))</sup>
-* Antonio Banderas a primit un rol în filmul Uncharted. <sup>([Destructoid](https://www.destructoid.com/antonio-banderas-signs-up-for-sony-s-uncharted-movie-582261.phtml))</sup>
+* Filmul Uncharted încă are viață: și-a găsit un regizor nou (al șaptelea) în persoana lui Ruben Fleischer (Venom), iar Antonio Banderas a primit un rol deocamdata necunoscut. <sup>([Destructoid](https://www.destructoid.com/antonio-banderas-signs-up-for-sony-s-uncharted-movie-582261.phtml))</sup>
 
 
 ## Articole (critică, dev, design)
