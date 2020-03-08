@@ -140,7 +140,7 @@ Linkuri rapide:
 * **The Pedestrian**: 29 ianuarie <sup>([PC Gamer](https://www.pcgamer.com/roadsign-side-scroller-the-pedestrian-is-out-later-this-month/))</sup>
 
 ### Lansate
-* 1 ianuarie: **miniLAW: Ministry of Law**
+* 1 ianuarie: **miniLAW: Ministry of Law** <sup>([Steam](https://store.steampowered.com/app/503180/miniLAW_Ministry_of_Law/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri

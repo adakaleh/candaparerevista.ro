@@ -5,7 +5,7 @@ date: 2020-03-01
 categories:
     - Highlights
 
-tags: [GDC 2020, Plague Inc., Dreams, Two Point Hospotal, Red Dead Redemption 2, Control, "The Witcher Tales: Thronebreaker", Tabula Rasa, Baldur's Gate 3, This War of Mine, Astrologaster, What The Golf, Untitled Goose Game, Beautiful Desolation, Dota Underlords, Wasteland Remastered, Broken Lines, Warlander, Overpass, Bloodroots, Black Mesa, The Wonderful 101, Maquette, Project G.G., "Samurai Jack: Battle Through Time", CD Projekt, Kojima Productions]
+tags: [GDC 2020, Plague Inc, Dreams, Two Point Hospotal, Red Dead Redemption 2, Control, "The Witcher Tales: Thronebreaker", Tabula Rasa, Baldur's Gate 3, This War of Mine, Astrologaster, What The Golf, Untitled Goose Game, Beautiful Desolation, Dota Underlords, Wasteland Remastered, Broken Lines, Warlander, Overpass, Bloodroots, Black Mesa, The Wonderful 101, Maquette, Project GG, "Samurai Jack: Battle Through Time", CD Projekt, Kojima Productions, Outer Wilds]
 
 description: "Epidemia de coronavirus afectează în continuare evenimentele majore de gaming, ne sunt oferite detalii și imagini noi din Baldur's Gate III, CD Projekt devine a doua cea mai mare companie de jocuri din Europa, Kojima o să primească un premiu BAFTA pentru întreaga activitate, se lucrează la un nou joc Samurai Jack, iar Dota Underlords iese din beta."
 
@@ -64,6 +64,8 @@ Linkuri rapide:
 * [Look for Me Under Your Bootsoles](https://unwinnable.com/2020/02/26/look-for-me-under-your-bootsoles/) <sup>(Unwinnable)</sup>
 * [Visitors from the Red Zone](http://www.haywiremag.com/features/visitors-from-the-red-zone/) <sup>(Haywire Magazine)</sup>
 * [When it Comes to the “Lesser Evil”, Thronebreaker Falters](https://uppercutcrit.com/when-it-comes-to-the-lesser-evil-thronebreaker-falters/) <sup>(Uppercut)</sup>
+* [Outer Wilds and Telling Lies Made Me Feel Like a Genuine Detective](https://www.escapistmagazine.com/v2/outer-wilds-and-telling-lies-made-me-feel-like-a-genuine-detective/) <sup>(Escapist)</sup>
+* [‘Outer Wilds’ Is a Story About Hope Wrapped in an Existential Crisis](https://www.vice.com/en_us/article/qjdwmw/outer-wilds-is-a-story-about-hope-wrapped-in-an-existential-crisis) <sup>(Vice)</sup>
 
 ---
 
@@ -77,6 +79,7 @@ Linkuri rapide:
 * [Casual game-making through the years: an evolving, instructive joy](https://www.eurogamer.net/articles/2020-02-29-the-evolving-instructive-joy-of-casual-game-making) <sup>(Eurogamer)</sup>
 * [The Game Archaeologist: Tabula Rasa](https://massivelyop.com/2020/02/29/the-game-archaeologist-tabula-rasa/) <sup>(Massively OP)</sup>
 * [Obscuritory: Capitalism](https://obscuritory.com/sim/capitalism/) <sup>(Obscuritory)</sup>
+* [The history of Baldur's Gate](https://www.pcgamer.com/the-history-of-baldurs-gate/) <sup>(PC Gamer)</sup>
 
 ---
 
@@ -85,6 +88,7 @@ Linkuri rapide:
 * [How a Metroid Fan Turned a Threatening Legal Letter into a Job Making Games](https://www.vice.com/en_us/article/3a85yw/how-a-metroid-fan-turned-a-threatening-legal-letter-into-a-job-making-games) <sup>(Vice)</sup>
 * [The Constructed Murk of War: 1917, Battlefield 1, and This War of Mine](https://egmnow.com/the-constructed-murk-of-war-1917-battlefield-1-and-this-war-of-mine/) <sup>(EGM)</sup>
 * [How to Make Games Funny: Three Designers Discuss Comedy Games](https://www.pastemagazine.com/articles/2020/02/how-to-make-games-funny-three-designers-discuss-co.html) <sup>(Paste)</sup>
+* [Outer Wilds critical analysis](https://www.gamasutra.com/blogs/AndrewHaining/20200225/358650/Outer_Wilds_critical_analysis.php) <sup>(Gamasutra)</sup>
 
 ---
 
@@ -116,6 +120,7 @@ Linkuri rapide:
 * 25 februarie: **Dota Underlords** a ieșit din early access <sup>([Steam](https://store.steampowered.com/app/1046930/Dota_Underlords/))</sup>
 * 25 februarie: **Wasteland Remastered** <sup>([Steam](https://store.steampowered.com/app/875800/Wasteland_Remastered/), [gog.com](https://www.gog.com/game/wasteland_remastered))</sup>
 * 25 februarie: **Broken Lines** <sup>([Steam](https://store.steampowered.com/app/926580/Broken_Lines/), [gog.com](https://www.gog.com/game/broken_lines))</sup>
+* 25 februarie: **Mainframe Defenders** <sup>([Steam](https://store.steampowered.com/app/1184810/Mainframe_Defenders/))</sup>
 * 26 februarie: **Beautiful Desolation** <sup>([Steam](https://store.steampowered.com/app/912570/BEAUTIFUL_DESOLATION/), [gog.com](https://www.gog.com/game/beautiful_desolation))</sup>
 * 26 februarie: **Warlander** <sup>([Steam](https://store.steampowered.com/app/1054040/Warlander/))</sup>
 * 27 februarie: **Overpass** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/overpass/home))</sup>

@@ -73,17 +73,21 @@ Linkuri rapide:
 * [Daikatana is a game that lives down to its reputation](https://www.rockpapershotgun.com/2020/02/17/daikatana-is-a-game-that-lives-down-to-its-reputation/) <sup>(RPS)</sup>
 * [Why Development Stopped On DOOM 4](https://www.ign.com/articles/why-development-stopped-on-doom-4-ign-unfiltered) <sup>(IGN)</sup>
 * [On Kirby 64 and Impressionism](https://www.gamesindustry.biz/articles/2020-02-20-on-kirby-64-and-impressionism) <sup>(GamesIndustry.biz)</sup>
+* [Rebuilding a classic in  Age of Empires II: Definitive Edition](https://www.gamasutra.com/view/news/358215/Rebuilding_a_classic_in_Age_of_Empires_II_Definitive_Edition.php) <sup>(Gamasutra)</sup>
 
 ---
 
 ### Dev, making of, mecanici
 * [What Motion Twin learnt from making Dead Cells](https://www.pcgamesinsider.biz/industry-icon/69669/what-motion-twin-learnt-from-making-dead-cells/) <sup>(PCGamesInsider.biz)</sup>
+* [In Other Waters, or How Not to Get Lost in the Ocean of (Mostly) Solo Development](https://www.escapistmagazine.com/v2/in-other-waters-or-how-not-to-get-lost-in-the-ocean-of-mostly-solo-development) <sup>(Escapist)</sup>
 
 ---
 
 ### Design, world-building, artă
 * [Five of the Best: Beaches](https://www.eurogamer.net/articles/2020-02-21-five-of-the-best-beaches) <sup>(Eurogamer)</sup>
 * [The 12 most extravagant lines of dialogue in games](https://www.rockpapershotgun.com/2020/02/21/the-12-most-extravagant-lines-of-dialogue-in-games/) <sup>(RPS)</sup>
+* [The Art Of Star Wars Jedi: Fallen Order](https://kotaku.com/the-art-of-star-wars-jedi-fallen-order-1841800360) <sup>(Kotaku)</sup>
+* [Isometric Cities Are The Best Cities](https://kotaku.com/isometric-cities-are-the-best-cities-1841777876) <sup>(Kotaku)</sup>
 
 ## Anunțuri şi lansări de jocuri
 
@@ -91,7 +95,7 @@ Linkuri rapide:
 * **The Jackbox Party Pack 7** <sup>([EGM](https://egmnow.com/the-jackbox-party-pack-7-announced/))</sup>
 * **Rogue Lords** <sup>([Gematsu](https://www.gematsu.com/2020/02/roguelike-game-rogue-lords-announced-for-ps4-xbox-one-switch-and-pc))</sup>
 * **Othercide** <sup>([RPS](https://www.rockpapershotgun.com/2020/02/21/horror-tactical-rpg-othercide-is-coming-this-summer/), [Eurogamer](https://www.eurogamer.net/articles/2020-02-21-stylish-turn-based-tactical-horror-rpg-othercide-shows-off-its-monsters-in-new-trailer))</sup>
-
+* **Hardspace: Shipbreaker** <sup>([PC Gamer](https://www.pcgamer.com/cut-derelict-spaceships-into-spare-parts-in-hardspace-shipbreaker/))</sup>
 
 ### Acum cu dată de lansare
 * **Mount & Blade II: Bannerlord** iese în early access pe 31 martie <sup>([RPS](https://www.rockpapershotgun.com/2020/02/20/mount-blade-2-rides-into-early-access-on-march-31/), [Eurogamer](https://www.eurogamer.net/articles/2020-02-20-mount-and-blade-2-musters-early-access-release-date))</sup>
