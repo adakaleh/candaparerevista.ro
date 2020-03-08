@@ -24,13 +24,13 @@ si alte sectiuni (sau subsectiuni, ex: Lansari jocuri).
 
 import os
 import sys
-import codecs
+import io
 import time
 import re
 import yaml
 
 
-OUTPUT_FILE = "rezultat_agregare_retrospective.txt"
+OUTPUT_FILE = "rezultat_agregare_retrospective"
 
 DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEM</span>"
 
@@ -61,7 +61,7 @@ def read_retro_dirs(sectiune_cautata, sub_sectiune_cautata=None):
     # for year_dir in os.listdir(highlights_base_path):
 
     print("---------------------------------")
-    print ("## ", current_year)
+    print ("## ", current_year, sectiune_cautata, sub_sectiune_cautata)
     print("---------------------------------")
     year_dir_path = os.path.join(HIGHLIGHTS_DIR_PATH, current_year)
 
@@ -170,12 +170,15 @@ def citeste_fisier(root_dir, retro_year, sectiune_cautata, sub_sectiune_cautata=
     else:
         pass
 
-def scrie_fisier(lista_bucati_saptamanale):
+def scrie_fisier(lista_bucati_saptamanale, nume_sectiune):
     """
     Scrie un fisier cu toate liniile din sectiunea cautata, pornind de la
     un dict de sectiuni (sau subsectiuni) de forma {titlu_saptamana: [linii_sectiune]}
     """
-    markdown_file = codecs.open(OUTPUT_FILE, 'w', "utf-8")
+    filename = "{base_filename}_{sectiune}.txt".format(
+        base_filename=OUTPUT_FILE,
+        sectiune=nume_sectiune)
+    markdown_file = io.open(filename, mode='w', encoding='utf-8')
 
     # scrie cuprins
     cuprins_cu_links = genereaza_cuprins(lista_bucati_saptamanale.keys())
@@ -228,12 +231,14 @@ if __name__ == "__main__":
     start_time = float(time.time())
 
     # read highlights years
-    lista_finala_bucati = read_retro_dirs(SECTIUNE_DEFAULT)
     # TODO fix - include sectiune si subsectiune din argumente
+    sectiune_cautata = SECTIUNE_DEFAULT
+    # sectiune_cautata = "anun"
+    lista_finala_bucati = read_retro_dirs(sectiune_cautata)
     # lista_finala_bucati = read_retro_dirs("anun", "lansate")
 
     # scrie_fisier("\n".join(lista_finala_bucati))
-    scrie_fisier(lista_finala_bucati)
+    scrie_fisier(lista_finala_bucati, clean_diacritice(sectiune_cautata))
 
     end_time = float(time.time())
     print("TERMINAT de scris in %s sec." % round(end_time - start_time, 2))

@@ -40,6 +40,13 @@ Scriptul trateaza sectiunile in mod diferit, astfel incat rezultatul difera:
 - articolele despre lansari/anunturi sunt tratate precum stirile
 - la articolele cu linkuri catre magazine de jocuri, linkurile vor fi inlocuite inline cu link markdown catre pagina respectiva,
   iar pentru jocuri va fi trecut si pretul in euro in paranteza
+- se poate face override la comportamentul de sus punand un (A) la inceputul liniei dintr-o sectiune de Stiri pentru a
+  formata textul ca articol, respectiv un (S) la inceputul unei linii dintr-o sectiune de Articol pentru a o formata
+  ca stire. Exemplu:
+  "
+  ## Știri
+  * (A) https://www.pcgamer.com/game-remakes-shouldnt-be-afraid-to-change-the-classics/
+  "
 
 -------------------
 TODO
@@ -74,7 +81,7 @@ Alte observatii:
 import sys
 import requests
 import re
-import codecs
+import io
 import time
 
 ### --------- CLASE SI CONSTANTE --------- ###
@@ -115,7 +122,7 @@ SITEURI_CUNOSCUTE = {
     'resetera.com':'ResetEra',          'vice.com':'Vice',                  'videogameschronicle':'VideoGamesChronicle',
     'egmnow.com': 'EGM',                'gamespot.com': 'Gamespot',         'ineeddiversegames.org':'I Need Diverse Games',
     'qz.com': 'Quartz',                 'rogame.dev':'Romanian Game Developers', 'jeff-vogel.blogspot.com': 'The Bottom Feeder',
-    'escapistmagazine.com':'Escapist',  'historianon.wordpress':'Historian On Games',
+    'escapistmagazine.com':'Escapist',  'historianon.wordpress':'Historian On Games', '': 'New York Times'
 }
 
 MAGAZINE = {
@@ -135,8 +142,10 @@ TERMINATII_DE_CURATAT = {
     '- Finger Guns',
     '— Wireframe Magazine',
     '- Escapist Magazine',
+    '- PC Invasion',
     '| Opinion',
     '| Sidequest',
+    '- DSOGaming',
     '| DSOGaming | The Dark Side Of Gaming',
     '&quot; - DSOGaming',
     '| Unwinnable',
@@ -201,6 +210,48 @@ class Sectiune(RawLine):
     def make_markdown_link(self, link):
         pass
 
+    def has_section_override(self):
+        return False
+
+    def has_force_format_article(self, linie):
+        force_prefix = "* (A) "
+        if (linie.text.startswith(force_prefix)):
+            linie.text = linie.text.replace(force_prefix, "* ", 1)
+            return True
+
+    def has_force_format_news(self, linie):
+        force_prefix = "* (S) "
+        if (linie.text.startswith(force_prefix)):
+            linie.text = linie.text.replace(force_prefix, "* ", 1)
+            return True
+
+    def format_line_for_news(self, linie):
+        url_incepe = linie.get_links()[0].start
+        lista_sites = ", ".join([self.make_markdown_link_news(link) for link in linie.get_links()])
+        return linie.text[:url_incepe] + "<sup>(" + lista_sites + ")</sup>"
+
+    def format_line_for_article(self, linie):
+        url_incepe     = linie.get_links()[0].start
+        lista_articole = ", ".join([self.make_markdown_link_article(link) for link in linie.get_links()])
+        return linie.text[:url_incepe] + lista_articole
+
+    def make_markdown_link_news(self, link):
+        return "[%s](%s)" % (link.nume_site, link.url)
+
+    def make_markdown_link_article(self, link):
+        return "[%s](%s) <sup>(%s)</sup>" % (self.curata_nume_if_necessary(link.text), link.url, link.nume_site)
+
+    def curata_nume_if_necessary(self, text_link):
+        # TODO de implementat si prefixele de curatat
+        for bad_suffix in TERMINATII_DE_CURATAT:
+            if text_link.endswith(bad_suffix):
+                cleaned_text = text_link[:-len(bad_suffix)]
+                if is_debug:
+                    print("Curatare '%s' <<>> '%s'" % (text_link, cleaned_text), end='\r')
+                return cleaned_text.strip()
+
+        return text_link.strip()
+
     def __str__(self):
         return ("type(%s) \n\tvalues(%d elements: %s)" % (type(self), len(self.linii), self.linii))
 
@@ -216,16 +267,14 @@ class SectiuneStire(Sectiune):
 
         for linie in self.linii:
             if (linie.are_linkuri()):
-                url_incepe     = linie.get_links()[0].start
-                lista_sites = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
-                text_rescris = linie.text[:url_incepe] + "<sup>(" + lista_sites + ")</sup>"
+                if (self.has_force_format_article(linie)):
+                    text_rescris = self.format_line_for_article(linie)
+                else:
+                    text_rescris = self.format_line_for_news(linie)
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
-
-    def make_markdown_link(self, link):
-        return "[%s](%s)" % (link.nume_site, link.url)
 
 
 class SectiuneArticole(Sectiune):
@@ -242,27 +291,14 @@ class SectiuneArticole(Sectiune):
 
         for linie in self.linii:
             if (linie.are_linkuri()):
-                url_incepe     = linie.get_links()[0].start
-                lista_articole = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
-                text_rescris = linie.text[:url_incepe] + lista_articole
+                if (self.has_force_format_news(linie)):
+                    text_rescris = self.format_line_for_news(linie)
+                else:
+                    text_rescris = self.format_line_for_article(linie)
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
-
-    def curata_nume_if_necessary(self, text_link):
-        # TODO de implementat si prefixele de curatat
-        for bad_suffix in TERMINATII_DE_CURATAT:
-            if text_link.endswith(bad_suffix):
-                cleaned_text = text_link[:-len(bad_suffix)]
-                if is_debug:
-                    print("Curatare '%s' <<>> '%s'" % (text_link, cleaned_text), end='\r')
-                return cleaned_text.strip()
-
-        return text_link.strip()
-
-    def make_markdown_link(self, link):
-        return "[%s](%s) <sup>(%s)</sup>" % (self.curata_nume_if_necessary(link.text), link.url, link.nume_site)
 
 
 class SectiuneRomania(Sectiune):
@@ -416,7 +452,7 @@ def execute(linii_fisier):
 def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
 
     # verifica daca avem Sectiune (heading 2)
-    if linie_bruta[0:3] == "## ":
+    if linie_bruta.startswith("## "):
         sect = get_sectiune(linie_bruta)
         return sect
 
@@ -456,11 +492,7 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
 
         # completeaza text link
         # TODO de tratat properly aici
-        if isinstance(sectiune_curenta, SectiuneArticole):
-            titlu_articol = parseaza_titlu_articol(url, http_result.text)
-            link.text = titlu_articol
-
-        elif isinstance(sectiune_curenta, SectiuneOferte):
+        if isinstance(sectiune_curenta, SectiuneOferte):
             link.is_promo_page = check_if_promo_page(url)
 
             if (link.is_promo_page):
@@ -468,6 +500,9 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
             else:
                 link.text = parseaza_nume_joc(url, http_result.text)
                 link.pret_joc = parseaza_pret_joc(url, http_result.text)
+        else:
+            titlu_articol = parseaza_titlu_articol(url, http_result.text)
+            link.text = titlu_articol
 
         if is_debug:
             print("link parsat = %s" % link)
@@ -768,8 +803,7 @@ def is_status_ok(response):
 
 
 def citeste_fisier(fisier_linkuri):
-    # lista_linkuri = open(fisier_linkuri, "r")
-    lista_linkuri = codecs.open(fisier_linkuri, 'r', "utf-8")
+    lista_linkuri = io.open(fisier_linkuri, encoding='utf8')
     return lista_linkuri.readlines()
 
 
@@ -792,7 +826,7 @@ def afiseaza_fisier(document_parsat):
 
 
 def scrie_fisier(document_parsat):
-    links_file = codecs.open(OUTPUT_FILE, 'w', "utf-8")
+    links_file = io.open(OUTPUT_FILE, mode='w', encoding='utf-8')
     for sect in document_parsat:
         # scriem sectiunea, respectiv eventuala linie care nu apartine unei sectiuni
         links_file.write("%s\n" % sect.get_text())
