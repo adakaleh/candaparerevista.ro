@@ -18,8 +18,14 @@
     <header class="post-full-header {{$featuredCssClass}}">
         {{with .Params.categories }}
             <div class="post-full-categories">
-                {{ range $index, $categ := . }}
-                {{if $index}}/{{end}}<span class = "{{ lower $categ }}"><a href="/categories/{{$categ | urlize}}/">{{$categ}}</a></span>{{end}}
+                {{ range $index, $articleCateg := . }}
+                <!-- afisam lista cu categoriile articolului - pentru fiecare, daca are definitie in Site Data,
+                ii citim numele definit acolo, altfel ramane numele categoriei definit in articol -->
+                {{if $index}}/{{end}}
+                {{ $categorieSiteData := index $.Site.Data.categorii (lower $articleCateg) }}
+                {{ $categorie := $categorieSiteData.nume | default $articleCateg }}
+                <span class = "{{ lower $categorie }}"><a href="/categories/{{$articleCateg | urlize}}/">{{$categorie}}</a></span>
+                {{end}}
             </div>
         {{end}}
         <h1 class="post-full-title">{{.Title}}</h1>

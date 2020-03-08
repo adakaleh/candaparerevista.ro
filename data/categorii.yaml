@@ -1,0 +1,8 @@
+review:
+  nume: "Review"
+  descriere: "aceasta e descrierea pentru review-uri"
+  culoare_bordura: "rgba(139,0,0,0.5)"
+retrospectivă:
+  nume: "Retrospectivă"
+  descriere: "aceasta e descrierea pentru articolele de tip retrospectivă"
+  culoare_bordura: "rgba(143,188,143,0.5)"

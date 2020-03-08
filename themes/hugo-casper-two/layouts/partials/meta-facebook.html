@@ -1,5 +1,8 @@
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} {{ end }} {{with .Params.categories }} &middot; {{ range first 1 . }} {{ upper . }} {{end}}{{end}}" />
+    <!-- e ditamai linia, dar pe scurt afiseaza titlul si, daca exista, prima categorie
+    definita in articol - daca are definitie in Site Data, ii citim numele definit acolo,
+    altfel ramane numele categoriei definit in articol -->
+    <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} {{ end }}{{with .Params.categories }} &middot; {{ range first 1 . }}{{ $cat := index $.Site.Data.categorii (lower . )  }}{{ $primaCategorie := $cat.nume | default . }}{{ upper $primaCategorie }} {{end}}{{end}}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     {{if .Site.Params.fbName}}<meta property="article:publisher" content="https://www.facebook.com/{{.Site.Params.fbName}}" />{{end}}
 

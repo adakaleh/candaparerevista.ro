@@ -65,9 +65,25 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
       <div class="post-card-content">
         <a class="post-card-content-link" href="{{ .Permalink }}">
             <header class="post-card-header">
-                {{if .Params.categories }}<div class="post-card-categories">{{ range $index, $categ := .Params.categories }}
-                {{/*nice trick: https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template*/}}
-                {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}</div>{{end}}
+                {{with .Params.categories }}
+                    <!-- luam prima categorie din articol si, daca are definitie in Site Data,
+                    ii citim culoarea si o punem la bordura de pe card -->
+                    {{ $primaCategorieDinArticol := lower (index . 0) }}
+                    {{ $cat := index $.Site.Data.categorii $primaCategorieDinArticol }}
+                    {{ $culoare := $cat.culoare_bordura | default "" }}
+
+                    <div class="post-card-categories" style="border-color: {{ $culoare | safeCSS }}">
+                        {{ range $index, $articleCateg := . }}
+                            <!-- afisam lista cu categoriile articolului - pentru fiecare, daca are definitie in Site Data,
+                            ii citim numele definit acolo, altfel ramane numele categoriei definit in articol -->
+                            {{/*nice trick pentru join lista: https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template*/}}
+                            {{if $index}}/{{end}}
+                            {{ $categorieSiteData := index $.Site.Data.categorii (lower $articleCateg) }}
+                            {{ $categorie := $categorieSiteData.nume | default $articleCateg }}
+                            <span class = "{{ lower $categorie }}">{{$categorie}}</span>
+                        {{end}}
+                    </div>
+                {{end}}
                 <h2 class="post-card-title">{{.Title}}</h2>
                 {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
             </header>
