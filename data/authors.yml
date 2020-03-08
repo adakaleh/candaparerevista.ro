@@ -1,3 +1,8 @@
+azad:
+  name: "Azad"
+  thumbnail: "azad.jpg"
+  description: "Membru al comunităţii din 2009."
+  website: "/"
 car-lvl:
   name: "candaparerevista"
   thumbnail: "car-lvl.png"
@@ -8,6 +13,16 @@ ciolan:
   thumbnail: "ciolan.jpg"
   description: "These orange instruments of doom are the Muton of TFTD. Big and tough, but not really the sharpest knife in the alien drawer. Despite this they are very flexible opponents as they can fight with standard weapons or their built-in claw attacks, which can give even the most well protected aquanaut a major pounding. "
   website: "/"
+cristan:
+  name: "Cristan"
+  thumbnail: "cristan.jpg"
+  description: "Membru al comunităţii din 2002. Contribuitor al site-ului."
+  website: "/"
+darth_zombie:
+  name: "Darth Zombie"
+  thumbnail: "darth_zombie.jpg"
+  description: "Membru al comunităţii din 2005."
+  website: "/"
 fular:
   name: "Fular"
   thumbnail: "fular.jpg"
@@ -16,6 +31,11 @@ fular:
   Nu voi uita niciodată cum am terminat prima dată Quake „la 4 mâini” cu unul din vecinii de la țară pe un calculator ce abia rula Carmaggedon 2, că am vărsat o mulțime de ore la sală în The Edge-ul Quake-ului secund „cu gravitație și arme infinite” alături de tovarășii pe care i-am pierdut ușor-ușor o dată cu avansul nesfârșit al vremurilor, „capacele” ce ni le aplicam dacă zăboveam prea tare sau dacă luam decizii proaste într-un hotseat de Disciples 2, dar nici pornoșagurile pe care le primeam bonus pe CD-urile făcute de prieteni cu un joc sau altul nu se pot uita. <br><br>
 
   Lejer din fire, aprig doar când sunt nedreptățit de bizareriile de game design care mă-ntorc la ecranul de load, am lăsat jocurile într-un plan terț pentru cea mai bună parte a decadei, preferând să-mi ocup timpul cu alte activități triviale, cum ar fi finalizarea studiilor în răstimpul lui Mihnea Băiatu. Deținătorul unei colecții destul de vaste pe GoG, am tendința de a o ignora pentru a prioritiza jocurile ce nu sunt disponibile pe nici una din platformele online de jocuri provocându-mă adeseori, dintr-un masochism latent, să le duc la capăt în condițiile cele mai nefaste pentru mine ca jucător."
+  website: "/"
+juve3332:
+  name: "juve3332"
+  thumbnail: "juve3332.jpg"
+  description: "Membru al comunităţii din 2002."
   website: "/"
 mahdi:
   name: "Mahdi"
@@ -27,9 +47,20 @@ mahri726:
   thumbnail: "mahri726.jpg"
   description: "Sunt un student pasionat de songwriting, producție muzicală, desen și gamedev. Îmi place să fiu creativ. În prezent lucrez la Yandere Mages, un action-RPG bazat pe Yandere Simulator, cu acțiunea plasată într-un univers fantasy."
   website: "/"
+marius_ghinea:
+  name: "Marius Ghinea"
+  thumbnail: "MG.jpg"
+  description: "Gazelar de Iskandar."
+  website: "/"
+marvas:
+  name: "marvas"
+  thumbnail: "marvas.png"
+  description: "Membru al comunităţii din 2004. Sunt o fire romantică, ador să savurez o ceaşcă de cacao cu lapte sub clar de lună şi să mă tăvălesc în frunzele aurii ale toamnei."
+  website: "/"
 michilangelo:
   name: "Michilangelo"
   thumbnail: "michilangelo.jpg"
+  membership: "2010"
   description: "Have not played a video game in over a year*. Halal gamer! Șansele să joc ceva și apoi să mai și scriu despre experiență sunt mici. You never know tho, vine vara, termin școala... Pe forum you may know me from such activities as the Drafts and the Movie Clubs. Lurker cu experiență în rest.<br><br>
 
   *Dacă nu pui la socoteală PokerStars."
@@ -39,20 +70,41 @@ nervozix:
   thumbnail: "nervozix.png"
   description: "Membru al comunităţii din 2015."
   website: "/"
+patrunjelu:
+  name: "Pătrunjelu'"
+  thumbnail: "patrunjelu.jpg"
+  description: "Membru al comunităţii din 1970."
+  website: "/"
+red_dot:
+  name: "Red Dot"
+  thumbnail: "red_dot.jpg"
+  description: "Membru al comunităţii din 2018."
+  website: "/"
 taikokaira:
   name: "TaikoKaira"
-  thumbnail: "taikokaira.png"
-  description: "Membru al comunităţii din 2017"
+  thumbnail: "taikokaira.jpg"
+  description: "Pasionată în principal de metodele prin care arta poate fi regăsită în jocuri, dar şi de metode aşa-zis raţionale: programare, design şi matematică în general. Cred, de asemenea, că onestitatea este o virtute esenţială a umanităţii. Şi îmi plac căţeii. <br><br>
+  Membru al comunităţii din februarie 2017."
   website: "/"
 tg:
   name: "TG"
   thumbnail: "tg.jpg"
   description: "Membru al comunităţii din 2006. Îi plac poneii şi lucrurile roz."
   website: "/"
+triggerix:
+  name: "Triggerix"
+  thumbnail: "triggerix.jpg"
+  description: "Membru al comunităţii din 2018."
+  website: "/"
 waaagh:
   name: "Waaagh!"
   thumbnail: "waaagh.jpg"
   description: "Membru al comunităţii din 106 e.n."
+  website: "/"
+woozie:
+  name: "Woozie"
+  thumbnail: "no-avatar.png"
+  description: "Membru al comunităţii din 2017."
   website: "/"
 zulu:
   name: "Zulu"
