@@ -18,6 +18,7 @@ Folosire
 # TODO de adaugat
 # generare linkuri rapide / cuprins
 # afisare site oficial doar daca linkul editiei e catre alt site sau nu exista
+## mentiune editii normale+abonati
 
 # TODO corecturi manuale
 ## fix level cehia + level turcia
@@ -138,7 +139,7 @@ def citeste_fisier(fisier_csv):
     print("reading %s" % fisier_csv)
 
     fisier = open(fisier_csv, "r")
-    csv_reader = csv.DictReader(fisier, delimiter=',')
+    csv_reader = csv.DictReader(fisier, delimiter='\t')
     lista_reviste = {}
     for row in csv_reader:
         # print("============")
@@ -162,10 +163,14 @@ def make_articol(lista_reviste):
     si genereaza stringul final markdown pentru includere in articol
     '''
     lista_reviste_markdown = []
-
+    print(lista_reviste)
     # itereaza reviste
     for revista in lista_reviste.values():
-        revista_curenta_markdown = proceseaza_revista(revista)
+        print("iterating revista: {}".format(revista.nume))
+        try:
+            revista_curenta_markdown = proceseaza_revista(revista)
+        except Exception as e:
+            print("problema la revista {}: {}".format(str(revista), e))
         lista_reviste_markdown.append(revista_curenta_markdown)
 
     # scrie fisier
