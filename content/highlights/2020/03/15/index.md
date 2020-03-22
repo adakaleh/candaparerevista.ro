@@ -5,7 +5,7 @@ date: 2020-03-15
 categories:
     - Highlights
 
-tags: [EGX Rezzed • E3 • GDC • BAFTA • Switch • "The Haunted Island, a Frog Detective Game" • A Short Hike • Disco Elysium • Life is Strange • Eve Online • The Last of Us • Chrono Trigger • Legend of Grimrock • John Wick Hex • The Witcher 3 • Rev • Karambola • ]
+tags: [EGX Rezzed, E3, GDC, BAFTA, Switch, "The Haunted Island, a Frog Detective Game", A Short Hike, Disco Elysium, Life is Strange, Eve Online, The Last of Us, Chrono Trigger, Legend of Grimrock, John Wick Hex, The Witcher 3, Rev, Karambola]
 
 description: "E3 se anulează, Rezzed se amână și alte probleme cauzate de coronavirus, cam acestea sunt știrile din această săptămână. Dar avem și alte noutăți interesante, precum anunțul unor noi jocuri Witcher și Worms, Horizon Zero Dawn vine și pe PC, avem dată de lansare pentru colecția remasterizată Command & Conquer și... Epic Store are de acum wishlists."
 
