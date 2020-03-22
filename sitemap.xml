@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2020/03/22/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/03/15/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -1173,12 +1178,6 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/a-frog-detective-game--a-short-hike--disco-elysium--life-is-strange--eve-online--the-last-of-us--chrono-trigger--legend-of-grimrock--john-wick-hex--the-witcher-3--rev--karambola-/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://candaparerevista.ro/tags/a-plague-tale/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1198,7 +1197,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/a-short-hike/</loc>
-    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1623,7 +1622,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/bafta/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2202,6 +2201,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/chrono-trigger/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/chuchel/</loc>
     <lastmod>2018-12-23T08:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -2737,7 +2742,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/disco-elysium/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2766,6 +2771,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/divinity-original-sin/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/divinity-original-sin-2/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2780,6 +2791,18 @@
   <url>
     <loc>https://candaparerevista.ro/tags/doom/</loc>
     <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/doom-64/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/doom-eternal/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2935,7 +2958,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/e3/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2994,7 +3017,7 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/egx-rezzed--e3--gdc--bafta--switch--the-haunted-island/</loc>
+    <loc>https://candaparerevista.ro/tags/egx-rezzed/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3151,7 +3174,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/eve-online/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3535,7 +3558,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/gdc/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3809,7 +3832,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/half-life-alyx/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3941,13 +3964,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4050,6 +4073,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/igdf/</loc>
     <lastmod>2019-01-06T08:00:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/igf/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4235,7 +4264,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/john-wick-hex/</loc>
-    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4294,6 +4323,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/karambola/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/kartridge/</loc>
     <lastmod>2019-03-10T08:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -4313,7 +4348,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/kentucky-route-zero/</loc>
-    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4392,6 +4427,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/kings-bounty-2/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/kings-quest-vi/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4486,6 +4527,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/legend-of-grimrock/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/legend-of-zelda/</loc>
     <lastmod>2018-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4504,14 +4551,20 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/lemmings-2-the-tribes/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/level/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4536,7 +4589,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/life-is-strange/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5357,6 +5410,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/ori-and-the-will-of-the-wisps/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/origin/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -5634,7 +5693,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/playstation-5/</loc>
-    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5712,7 +5771,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/prince-of-persia/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6025,6 +6084,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/return-to-zork/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/rev/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6396,7 +6461,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6846,7 +6911,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/switch/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7085,6 +7150,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/the-haunted-island-a-frog-detective-game/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/the-hunter-call-of-the-wild/</loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -7104,7 +7175,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/the-last-of-us/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7168,7 +7239,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/the-outer-worlds/</loc>
-    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7234,7 +7305,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/the-witcher/</loc>
-    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/the-witcher-3/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7635,6 +7712,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/vanquish/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/vecter/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -7954,7 +8037,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/xbox-series-x/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
