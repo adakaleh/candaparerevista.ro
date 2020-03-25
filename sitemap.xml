@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/03/recomandare-children-morta/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/03/22/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url>
@@ -2167,6 +2172,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/child-of-light/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/children-of-morta/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4557,14 +4568,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4727,7 +4738,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/mahdi/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5741,7 +5752,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5957,7 +5968,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/recomandare/</loc>
-    <lastmod>2019-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6461,7 +6472,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
