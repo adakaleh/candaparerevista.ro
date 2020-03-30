@@ -45,7 +45,8 @@ După acest experiment semi-eșuat, nuveleta lui Lovecraft a ajuns la sertar, un
 
 Alte două decenii mai tîrziu, inspirați probabil de succesul cult al peliculei *The Call of Cthulhu*, niște nemți cu un buget de aprozar au produs *Die Farbe*. A fost și prima adaptare care ne-a făcut să ridicăm din sprîncene. Scenele în alb-negru urmează îndeaproape firul nuveletei, singura diferență fiind locul și timpul acțiunii, de această dată Germania provincială, la sfîrșitul celui de-al doilea război mondial. Astfel, filmul reprezintă prima ecranizare propriu-zisă după *The Colour Out Of Space*, și nu o adaptare hibridă, calchiată după rețetele horror în vogă la momentul producției. E de asemenea prima dată cînd e pomenită și reprezentată Culoarea. Deși filmul e alb-negru, Culoarea apare aici în nuanțe roz-violet, o soluție elegantă pentru evocarea naturii ei imposibil de descris, lucru la care vom reveni puțin mai tîrziu. Oroarea existențială e și ea prezentă în *Die Farbe*, filmul punctînd cu acuratețe pesimismul și cenușiul lovecraftian. Din păcate însă, pe măsură ce se apropie de sfîrșit, limitele mediului și în special limitele de buget își spun cuvîntul. Crescendoul neliniștii se fîsîie într-o explozie de CGI neconvingător și rămînem cu un pregnant sentiment de neîmplinire. Or, îndrăznim să spunem că tocmai asta ar fi calitatea principală ce trebuie redată într-o interpretare fidelă lui Lovecraft, anume efectul cathartic al expunerii la imperiul necunoscutului și nevăzutului.
 
-{{< figure-multi
+{{< figure-single-caption
+    "Die Farbe (2010)"
     "images/df1.jpg|"
     "images/df2.jpg|"
 >}}
