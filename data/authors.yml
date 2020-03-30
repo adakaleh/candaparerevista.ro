@@ -111,3 +111,8 @@ zulu:
   thumbnail: "zulu.jpg"
   description: "Membru al comunităţii din 2014."
   website: "/"
+bboyz:
+  name: "The Bookhouse Boyz"
+  thumbnail: "bboyz.jpg"
+  description: "Iä! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah-nagl fhtagn!"
+  website: "/"
