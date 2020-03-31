@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/03/review-color-out-space/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/03/29/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -1727,6 +1732,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/authors/bboyz/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/bearded-giant/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3363,6 +3374,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/categories/filme/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/final-fantasy-14/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3841,6 +3858,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/h.p.-lovecraft/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/hades/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4041,6 +4064,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/horace/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/horror/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4591,14 +4620,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5775,7 +5804,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6495,7 +6524,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
