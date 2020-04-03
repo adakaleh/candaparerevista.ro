@@ -64,7 +64,7 @@ Cu greutate, am făcut o „poză” capului Elementalului din **Elemental Demo*
     "gallery_materiale/EHMif6M.jpg|| "
 >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dD9CPqSKjTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dD9CPqSKjTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (Apropo, puteți folosi în jocurile voastre orice se află în secțiunile **Learn** și **Marketplace**, cu condiția să nu le exportați către alte motoare grafice.)
 
