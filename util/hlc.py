@@ -121,8 +121,10 @@ SITEURI_CUNOSCUTE = {
     'gizmodo':'Gizmodo',                'timber-owls.com': 'Timber Owls',   'bulletpointsmonthly': 'Bullet Points Monthly',
     'resetera.com':'ResetEra',          'vice.com':'Vice',                  'videogameschronicle':'VideoGamesChronicle',
     'egmnow.com': 'EGM',                'gamespot.com': 'Gamespot',         'ineeddiversegames.org':'I Need Diverse Games',
-    'qz.com': 'Quartz',                 'rogame.dev':'Romanian Game Developers', 'jeff-vogel.blogspot.com': 'The Bottom Feeder',
-    'escapistmagazine.com':'Escapist',  'historianon.wordpress':'Historian On Games', '': 'New York Times'
+    'qz.com': 'Quartz',                 'nytimes.com': 'New York Times',    'jeff-vogel.blogspot.com': 'The Bottom Feeder',
+    'escapistmagazine.com':'Escapist',  'hyperallergic.com':'Hyperallergic', 'historianon.wordpress':'Historian On Games',
+    'theface.com': 'The Face',          'acriticalhit.com': 'A Critical Hit','rogame.dev':'Romanian Game Developers',
+    'businessinsider.com': 'Business Insider',
 }
 
 MAGAZINE = {
