@@ -22,19 +22,19 @@ resources:
     name: "cover-image" 
 ---
 
-## [30 decembrie 2018 - 5 ianuarie]({{<relref "\highlights\2019\01\06">}})
+## [30 decembrie 2018 - 5 ianuarie]({{<relref "/highlights/2019/01/06">}})
 * 3 ianuarie: **Braveland Heroes** (early access) <sup>([Steam](https://store.steampowered.com/app/931650/Braveland_Heroes/))</sup>
 * 3 ianuarie: **Medieval Kingdom Wars** <sup>([Steam](https://store.steampowered.com/app/499660/Medieval_Kingdom_Wars/))</sup>
 * 5 ianuarie: The Eternal Castle [REMASTERED] <sup>([Steam](https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/))</sup>
 
-## [6-12 ianuarie]({{<relref "\highlights\2019\01\13">}})
+## [6-12 ianuarie]({{<relref "/highlights/2019/01/13">}})
 * 10 ianuarie: **Bury Me, My Love**  <sup>([Polygon](https://www.polygon.com/reviews/2019/1/9/18174460/bury-me-my-love-review-nintendo-switch-pc), [Steam](https://store.steampowered.com/app/808090/Bury_Me_My_Love/))</sup>
 * 10 ianuarie: **Catherine Classic** <sup>([Steam](https://store.steampowered.com/app/893180/Catherine_Classic/))</sup>
 * 11 ianuarie: **New Super Mario Bros. U Deluxe** (Nintendo Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch))</sup>
 * 11 ianuarie: **Tales of Vesperia Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/738540/Tales_of_Vesperia_Definitive_Edition/))</sup>
 * 12 ianuarie: **Bright Memory - Episode 1** (early access) <sup>([Steam](https://store.steampowered.com/app/955050/Bright_Memory__Episode_1/))</sup>
 
-## [13-19 ianuarie]({{<relref "\highlights\2019\01\20">}})
+## [13-19 ianuarie]({{<relref "/highlights/2019/01/20">}})
 * 15 ianuarie: episodul 3 din **The Walking Dead: The Final Season** <sup>([Steam](https://store.steampowered.com/app/866800/The_Walking_Dead_The_Final_Season/))</sup>
 * 15 ianuarie: **Vane** <sup>([PlayStation Store](https://store.playstation.com/en-ro/product/EP1590-CUSA13379_00-00FFABVANEEFIGSJ))</sup>
 * 15 ianuarie: **My Time At Portia** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/666140/My_Time_At_Portia/), [gog.com](https://www.gog.com/game/my_time_at_portia))</sup>
@@ -47,7 +47,7 @@ resources:
 * 18 ianuarie: **Travis Strikes Again: No More Heroes** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/travis-strikes-again-no-more-heroes-switch))</sup>
 
 
-## [20-26 ianuarie]({{<relref "\highlights\2019\01\27">}})
+## [20-26 ianuarie]({{<relref "/highlights/2019/01/27">}})
 * 22 ianuarie: **AT SUNDOWN: Shots in the Dark** <sup>([Steam](https://store.steampowered.com/app/419700/AT_SUNDOWN_Shots_in_the_Dark/))</sup>
 * 23 ianuarie: **CHAOS;CHILD** <sup>([Steam](https://store.steampowered.com/app/970570/CHAOSCHILD/))</sup>
 * 23 ianuarie: **Slay the Spire** a ieșit din early access <sup>([Steam](https://store.steampowered.com/app/646570/Slay_the_Spire/))</sup>
@@ -57,7 +57,7 @@ resources:
 * 25 ianuarie: **Resident Evil 2 / Biohazard RE:2** <sup>([Steam](https://store.steampowered.com/app/883710/RESIDENT_EVIL_2__BIOHAZARD_RE2/))</sup>
 
 
-## [27 ianuarie - 2 februarie]({{<relref "\highlights\2019\02\03">}})
+## [27 ianuarie - 2 februarie]({{<relref "/highlights/2019/02/03">}})
 * 29 ianuarie: **Kingdom Hearts III** <sup>([PlayStation Store](https://store.playstation.com/en-us/product/UP0082-CUSA12031_00-KH3DAYONEBUNDLE0), [Xbox Store](https://www.xbox.com/en-US/games/kingdom-hearts-iii))</sup>
 * 29 ianuarie: **PC Building Simulator** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/621060/PC_Building_Simulator/))</sup>
 * 29 ianuarie: **Volcanoids** <sup>([Steam](https://store.steampowered.com/app/951440/Volcanoids/))</sup>
@@ -75,7 +75,7 @@ resources:
 * 1 februarie: **Rainswept** <sup>([gog.com](https://www.gog.com/game/rainswept))</sup>
 * 1 februarie: **Wargroove** <sup>([Steam](https://store.steampowered.com/app/607050/Wargroove/))</sup>
 
-## [3-9 februarie]({{<relref "\highlights\2019\02\10">}})
+## [3-9 februarie]({{<relref "/highlights/2019/02/10">}})
 * 4 februarie: **Apex Legends** <sup>([Origin](https://www.origin.com/irl/en-us/store/apex/apex))</sup>
 * 6 februarie: **Fear The Wolves** <sup>([Steam](https://store.steampowered.com/app/819500/Fear_The_Wolves/))</sup>
 * 6 februarie: **ASTRONEER** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/361420/ASTRONEER/))</sup>
@@ -85,7 +85,7 @@ resources:
 * 8 februarie: **AWAY: Journey to the Unexpected** <sup>([gog.com](https://www.gog.com/game//away_journey_to_the_unexpected), [Steam](https://store.steampowered.com/app/573110/AWAY_Journey_to_the_Unexpected/))</sup>
 * 8 februarie: **West of Loathing DLC: Reckonin' at Gun Manor** <sup>([Steam](https://store.steampowered.com/app/954060/West_of_Loathing_Reckonin_at_Gun_Manor/))</sup>
 
-## [10-16 februarie]({{<relref "\highlights\2019\02\17">}})
+## [10-16 februarie]({{<relref "/highlights/2019/02/17">}})
 * 12 februarie: **Globesweeper** <sup>([Steam](https://store.steampowered.com/app/982220/Globesweeper/))</sup>
 * 12 februarie: **Evolution : The Video Game** <sup>([Steam](https://store.steampowered.com/app/469800/Evolution__The_Video_Game/))</sup>
 * 12 februarie: **RIOT: Civil Unrest** <sup>([Steam](https://store.steampowered.com/app/342310/RIOT_Civil_Unrest/), [gog.com](https://www.gog.com/game/riot_civil_unrest))</sup>
@@ -103,7 +103,7 @@ resources:
 * 15 februarie: **Metro Exodus** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/metro-exodus/home))</sup>
 
 
-## [17-23 februarie]({{<relref "\highlights\2019\02\24">}})
+## [17-23 februarie]({{<relref "/highlights/2019/02/24">}})
 * 19 februarie: **Yakuza Kiwami** <sup>([Steam](https://store.steampowered.com/app/834530/Yakuza_Kiwami/))</sup>
 * 19 februarie: **Devotion** <sup>([Steam](https://store.steampowered.com/app/1006510/Devotion/))</sup>
 * 19 februarie: **STEINS;GATE ELITE** <sup>([Steam](https://store.steampowered.com/app/819030/STEINSGATE_ELITE/))</sup>
@@ -113,7 +113,7 @@ resources:
 * 22 februarie: **Koi** <sup>([Steam](https://store.steampowered.com/app/1001070/Koi/))</sup>
 
 
-## [24 februarie - 2 martie]({{<relref "\highlights\2019\03\03">}})
+## [24 februarie - 2 martie]({{<relref "/highlights/2019/03/03">}})
 * 25 februarie: **Swarm Simulator: Evolution** <sup>([Steam](https://store.steampowered.com/app/914320/Swarm_Simulator_Evolution/))</sup>
 * 26 februarie: **Trials Rising** <sup>([Steam](https://store.steampowered.com/app/641080/Trials_Rising/))</sup>
 * 26 februarie: **DiRT Rally 2.0** <sup>([Steam](https://store.steampowered.com/app/690790/DiRT_Rally_20/))</sup>
@@ -127,7 +127,7 @@ resources:
 * 1 martie: **Dawn of Man** <sup>([Steam](https://store.steampowered.com/app/858810/Dawn_of_Man/), [gog.com](https://www.gog.com/game/dawn_of_man))</sup>
 * 2 martie: **Intruder** (early access) <sup>([Steam](https://store.steampowered.com/app/518150/Intruder/))</sup>
 
-## [3 - 9 martie]({{<relref "\highlights\2019\03\10">}})
+## [3 - 9 martie]({{<relref "/highlights/2019/03/10">}})
 * 5 martie: **Left alive** <sup>([Steam](https://store.steampowered.com/app/714370/LEFT_ALIVE/))</sup>
 * 5 martie: **7th Sector** <sup>([Steam](https://store.steampowered.com/app/749250/7th_Sector/))</sup>
 * 5 martie: **The Occupation** <sup>([Steam](https://store.steampowered.com/app/765880/The_Occupation/), [gog.com](https://www.gog.com/game/the_occupation))</sup>
@@ -136,7 +136,7 @@ resources:
 * 8 martie: **Devil May Cry 5** <sup>([Steam](https://store.steampowered.com/app/601150/Devil_May_Cry_5/))</sup>
 * 8 martie: **Diablo 1** a fost relansat de Blizzard pe GOG <sup>([gog.com](https://www.gog.com/game/diablo), [Eurogamer](https://www.eurogamer.net/articles/2019-03-07-gog-and-blizzard-bring-diablo-1-back-from-the-dead))</sup>
 
-## [10-16 martie]({{<relref "\highlights\2019\03\17">}})
+## [10-16 martie]({{<relref "/highlights/2019/03/17">}})
 * 11 martie: **Don't Escape: 4 Days in a Wasteland** <sup>([Steam](https://store.steampowered.com/app/611760/Dont_Escape_4_Days_in_a_Wasteland/), [gog.com](https://www.gog.com/game/dont_escape_4_days_in_a_wasteland))</sup>
 * 12 martie: **Hypnospace Outlaw** <sup>([Steam](https://store.steampowered.com/app/844590/Hypnospace_Outlaw/), [gog.com](https://www.gog.com/game/hypnospace_outlaw))</sup>
 * 12 martie: **Factory Town** (early access) <sup>([Steam](https://store.steampowered.com/app/860890/Factory_Town/))</sup>
@@ -150,14 +150,14 @@ resources:
 * 15 martie: **Mars Underground** <sup>([Steam](https://store.steampowered.com/app/578420/Mars_Underground/))</sup>
 * 15 martie: **Tom Clancy's The Division 2** <sup>([Ubi Store](https://store.ubi.com/us/tom-clancys-the-division-2/5b06a3994e0165fa45ffdcdf.html), [Epic Store](https://www.epicgames.com/store/en-US/product/the-division-2/))</sup>
 
-## [17-23 martie]({{<relref "\highlights\2019\03\24">}})
+## [17-23 martie]({{<relref "/highlights/2019/03/24">}})
 * 18 martie: **Satisfactory** (early access) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/satisfactory))</sup>
 * 21 martie: **We. The Revolution** <sup>([Steam](https://store.steampowered.com/app/736850/We_The_Revolution/), [gog.com](https://www.gog.com/game/we_the_revolution))</sup>
 * 22 martie: **Sekiro: Shadows Die Twice** <sup>([Steam](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice/))</sup>
 
 
 
-## [24-30 martie]({{<relref "\highlights\2019\03\31">}})
+## [24-30 martie]({{<relref "/highlights/2019/03/31">}})
 * 26 martie: **Generation Zero** <sup>([Steam](https://store.steampowered.com/app/704270/Generation_Zero/))</sup>
 * 26 martie: **Xenon Racer** <sup>([Steam](https://store.steampowered.com/app/899390/Xenon_Racer/))</sup>
 * 26 martie: **Outward** <sup>([Steam](https://store.steampowered.com/app/794260/Outward/))</sup>
@@ -174,7 +174,7 @@ resources:
 * 29 martie: **Unheard** <sup>([Steam](https://store.steampowered.com/app/942970/Unheard/))</sup>
 * 30 martie: **Rend** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/547860/Rend/))</sup>
 
-## [31 martie - 6 aprilie]({{<relref "\highlights\2019\04\07">}})
+## [31 martie - 6 aprilie]({{<relref "/highlights/2019/04/07">}})
 * 31 martie: **Annwn: The Otherworld** <sup>([Steam](https://store.steampowered.com/app/770860/Annwn_the_Otherworld/))</sup>
 * 1 aprilie: **Totally Accurate Battle Simulator** (early access) <sup>([Steam](https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/))</sup>
 * 2 aprilie: **The 7th Guest: 25th Anniversary Edition** <sup>([Steam](https://store.steampowered.com/app/1044340/The_7th_Guest_25th_Anniversary_Edition/), [gog.com](https://www.gog.com/game/the_7th_guest_25th_anniversary_edition))</sup>
@@ -188,7 +188,7 @@ resources:
 * 5 aprilie: **notmycar** (early access) <sup>([Steam](https://store.steampowered.com/app/694720/notmycar/))</sup>
 * 5 aprilie: **Feather** <sup>([Steam](https://store.steampowered.com/app/545040/Feather/))</sup>
 
-## [7 - 13 aprilie]({{<relref "\highlights\2019\04\14">}})
+## [7 - 13 aprilie]({{<relref "/highlights/2019/04/14">}})
 * 9 aprilie: **Dangerous Driving** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/dangerous-driving/))</sup>
 * 9 aprilie: **Phoenix Wright: Ace Attorney Trilogy** <sup>([Steam](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy__123/))</sup>
 * 11 aprilie: **Pathway** <sup>([Steam](https://store.steampowered.com/app/546430/Pathway/), [gog.com](https://www.gog.com/game/pathway))</sup>
@@ -199,7 +199,7 @@ resources:
 * 11 aprilie: **Staxel** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/405710/Staxel/), [gog.com](https://www.gog.com/game/staxel))</sup>
 * 12 aprilie: **KARDS** (early access) <sup>([Steam](https://store.steampowered.com/app/544810/KARDS/))</sup>
 
-## [14-20 aprilie]({{<relref "\highlights\2019\04\21">}})
+## [14-20 aprilie]({{<relref "/highlights/2019/04/21">}})
 * 15 aprilie: **One Finger Death Punch 2**: <sup>([Steam](https://store.steampowered.com/app/980300/One_Finger_Death_Punch_2/))</sup>
 * 16 aprilie: **Heaven's Vault** <sup>([Steam](https://store.steampowered.com/app/774201/Heavens_Vault/))</sup>
 * 16 aprilie: **Bomb Chicken** <sup>([Steam](https://store.steampowered.com/app/658780/Bomb_Chicken/))</sup>
@@ -217,7 +217,7 @@ resources:
 * 18 aprilie: **Anniversary Collection Arcade Classics** (Konami) <sup>([Steam](https://store.steampowered.com/app/1018000/Anniversary_Collection_Arcade_Classics/))</sup>
 * 19 aprilie: **Ritual of the Moon** <sup>([Steam](https://store.steampowered.com/app/993500/Ritual_of_the_Moon/))</sup>
 
-## [21-27 aprilie]({{<relref "\highlights\2019\04\28">}})
+## [21-27 aprilie]({{<relref "/highlights/2019/04/28">}})
 * 22 aprilie: **Faerie Solitaire Harvest** <sup>([Steam](https://store.steampowered.com/app/348910/Faerie_Solitaire_Harvest/))</sup>
 * 23 aprilie: **Mortal Kombat 11** <sup>([Steam](https://store.steampowered.com/app/976310/Mortal_Kombat11/))</sup>
 * 25 aprilie: **Yuppie Psycho** <sup>([Steam](https://store.steampowered.com/app/597760/Yuppie_Psycho/))</sup>
@@ -228,7 +228,7 @@ resources:
 * 26 aprilie: **Days Gone** (PlayStation 4) <sup>([PlayStation Store](https://store.playstation.com/en-us/product/UP9000-CUSA08966_00-DAYSGONECOMPLETE))</sup>
 * 26 aprilie: **Himno** <sup>([Steam](https://store.steampowered.com/app/931690/Himno/))</sup>
 
-## [28 aprilie - 4 mai]({{<relref "\highlights\2019\05\05">}})
+## [28 aprilie - 4 mai]({{<relref "/highlights/2019/05/05">}})
 * 29 aprilie: **Mordhau** <sup>([Steam](https://store.steampowered.com/app/629760/MORDHAU/))</sup>
 * 30 aprilie: **Fade To Silence** (early access) <sup>([Steam](https://store.steampowered.com/app/706020/Fade_to_Silence/), [gog.com](http://www.gog.com/news/release_fade_to_silence))</sup>
 * 30 aprilie: **Fell Seal: Arbiter's Mark** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/), [gog.com](http://www.gog.com/news/release_fell_seal_arbiters_mark))</sup>
@@ -242,7 +242,7 @@ resources:
 * 3 mai: **Planet Nomads** <sup>([Steam](http://store.steampowered.com/app/504050/), [gog.com](https://www.gog.com/game/planet_nomads))</sup>
 * Plus: World of Goo primește o remasterizare <sup>([Destructoid](https://www.destructoid.com/icky-puzzle-game-world-of-goo-gets-a-free-remaster-on-pc-551947.phtml))</sup>
 
-## [5 - 11 mai]({{<relref "\highlights\2019\05\12">}})
+## [5 - 11 mai]({{<relref "/highlights/2019/05/12">}})
 * 7 mai: **Descenders** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/681280/Descenders/))</sup>
 * 7 mai: **Brief Battles** <sup>([Steam](https://store.steampowered.com/app/819980/Brief_Battles/))</sup>
 * 7 mai: **Shakedown: Hawaii** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/shakedown-hawaii/))</sup>
@@ -260,7 +260,7 @@ resources:
 * 10 mai: **TwinCop** <sup>([Steam](https://store.steampowered.com/app/676930/TwinCop/))</sup>
 * 10 mai: **Snakeybus** <sup>([Steam](https://store.steampowered.com/app/1012560/Snakeybus/))</sup>
 
-## [12 - 18 mai]({{<relref "\highlights\2019\05\19">}})
+## [12 - 18 mai]({{<relref "/highlights/2019/05/19">}})
 * 13 mai: **Thea 2: The Shattering** <sup>([Steam](https://store.steampowered.com/app/606230/Thea_2_The_Shattering/), [gog.com](https://www.gog.com/game/thea_2_the_shattering))</sup>
 * 14 mai: **A Plague Tale: Innocence** <sup>([Steam](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/))</sup>
 * 14 mai: **RAGE 2** <sup>([Steam](https://store.steampowered.com/app/548570/RAGE_2/))</sup>
@@ -280,7 +280,7 @@ resources:
 * 16 mai: **Alt Frequencies** <sup>([Steam](https://store.steampowered.com/app/1035050/AltFrequencies/))</sup>
 * 17 mai: **Eden Rising** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/345330/Eden_Rising/))</sup>
 
-## [19 - 25 mai]({{<relref "\highlights\2019\05\26">}})
+## [19 - 25 mai]({{<relref "/highlights/2019/05/26">}})
 * 20 mai: **Hell is Other Demons** <sup>([Steam](https://store.steampowered.com/app/595790/Hell_is_Other_Demons/))</sup>
 * 20 mai **The Elder Scrolls Online: Elsweyr** <sup>([Steam](https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/))</sup>
 * 21 mai: **Team Sonic Racing** <sup>([Steam](https://store.steampowered.com/app/785260/Team_Sonic_Racing/))</sup>
@@ -299,7 +299,7 @@ resources:
 * 24 mai: **Steambirds Alliance Beta** <sup>([Steam](https://store.steampowered.com/app/1047410/Steambirds_Alliance_Beta/))</sup>
 * 24 mai: **Splitgate: Arena Warfare** <sup>([Steam](https://store.steampowered.com/app/677620/Splitgate_Arena_Warfare/))</sup>
 
-## [26 mai - 1 iunie]({{<relref "\highlights\2019\06\02">}})
+## [26 mai - 1 iunie]({{<relref "/highlights/2019/06/02">}})
 * 27 mai: **Constructor Plus** <sup>([Steam](https://store.steampowered.com/app/898800/Constructor_Plus/))</sup>
 * 27 mai: **Railroad Corporation** (early access) <sup>([Steam](https://store.steampowered.com/app/797400/Railroad_Corporation/))</sup>
 * 27 mai: **Deep Diving Simulator** <sup>([Steam](https://store.steampowered.com/app/990030/Deep_Diving_Simulator/), [gog.com](https://www.gog.com/game/deep_diving_simulator))</sup>
@@ -323,7 +323,7 @@ resources:
 * 31 mai: **Second Hand: Frankie's Revenge** (early access) <sup>([Steam](https://store.steampowered.com/app/727930/Second_Hand_Frankies_Revenge/))</sup>
 * 1 iunie: **Mowin’ & Throwin’** <sup>([Steam](https://store.steampowered.com/app/762030/Mowin__Throwin/))</sup>
 
-## [2 - 8 iunie]({{<relref "\highlights\2019\06\09">}})
+## [2 - 8 iunie]({{<relref "/highlights/2019/06/09">}})
 * 4 iunie: **Reventure** <sup>([Steam](https://store.steampowered.com/app/900270/Reventure/))</sup>
 * 5 iunie: **Barotrauma** (early access) <sup>([Steam](https://store.steampowered.com/app/602960/Barotrauma/))</sup>
 * 5 iunie: **Hyperspace Delivery Service** <sup>([Steam](https://store.steampowered.com/app/876320/Hyperspace_Delivery_Service/))</sup>
@@ -334,7 +334,7 @@ resources:
 * 7 iunie: **Journey** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/journey))</sup>
 * 7 iunie: **Octopath Traveler** <sup>([Steam](https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/))</sup>
 
-## [9 - 15 iunie]({{<relref "\highlights\2019\06\16">}})
+## [9 - 15 iunie]({{<relref "/highlights/2019/06/16">}})
 * 10 iunie: **Devolver Bootleg** <sup>([Steam](https://store.steampowered.com/app/1066260/Devolver_Bootleg/))</sup>
 * 10 iunie: **Koikatsu Party** <sup>([Steam](https://store.steampowered.com/app/1073440/__Koikatsu_Party/))</sup>
 * 11 iunie: **Looking for Heals** (early access) <sup>([Steam](https://store.steampowered.com/app/1037750/Looking_for_Heals/))</sup>
@@ -345,7 +345,7 @@ resources:
 * 14 iunie: **Chippy** <sup>([Steam](https://store.steampowered.com/app/602700/Chippy/))</sup>
 * 14 iunie: **Blaster Master Zero** <sup>([Steam](https://store.steampowered.com/app/1034900/Blaster_Master_Zero/))</sup>
 
-## [16 - 22 iunie]({{<relref "\highlights\2019\06\23">}})
+## [16 - 22 iunie]({{<relref "/highlights/2019/06/23">}})
 * 17 iunie: **Duck Season PC** <sup>([Steam](https://store.steampowered.com/app/746510/Duck_Season_PC/))</sup>
 * 17 iunie: **Chook & Sosig: Walk the Plank** <sup>([Steam](https://store.steampowered.com/app/899470/Chook__Sosig_Walk_the_Plank/), [GOG](https://www.gog.com/game/chook_sosig_walk_the_plank))</sup>
 * 18 iunie: **Bloodstained: Ritual of the Night** <sup>([Steam](https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/), [GOG](https://www.gog.com/game/bloodstained_ritual_of_the_night))</sup>
@@ -360,7 +360,7 @@ resources:
 * 20 iunie: **Dota Underlords** <sup>([Steam](https://store.steampowered.com/app/1046930/Dota_Underlords/))</sup>
 * 21 iunie: **The Sims 4: Island Living** <sup>([Origin](https://www.origin.com/irl/en-us/store/the-sims/the-sims-4/expansion/the-sims-4-island-living))</sup>
 
-## [23 - 29 iunie]({{<relref "\highlights\2019\06\30">}})
+## [23 - 29 iunie]({{<relref "/highlights/2019/06/30">}})
 * 24 iunie: **Ring of Elysium** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/755790/Ring_of_Elysium/))</sup>
 * 24 iunie: **And All Would Cry Beware** <sup>([Steam](https://store.steampowered.com/app/1071510/And_All_Would_Cry_Beware/))</sup>
 * 25 iunie: **Monster Jam Steel Titans** <sup>([Steam](https://store.steampowered.com/app/824280/Monster_Jam_Steel_Titans/))</sup>
@@ -372,14 +372,14 @@ resources:
 * 27 iunie: **F1 2019 Anniversary Edition** <sup>([Steam](https://store.steampowered.com/app/928600/F1_2019_Anniversary_Edition/))</sup>
 * 28 iunie: **Super Mario Maker 2** (Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/))</sup>
 
-## [30 iunie - 6 iulie]({{<relref "\highlights\2019\07\07">}})
+## [30 iunie - 6 iulie]({{<relref "/highlights/2019/07/07">}})
 * 1 iulie: **Fairytale Solitaire: Red Riding Hood** <sup>([Steam](https://store.steampowered.com/app/1095840/Fairytale_Solitaire_Red_Riding_Hood/))</sup>
 * 3 iulie: **Kubifaktorium** <sup>([Steam](https://store.steampowered.com/app/898720/Kubifaktorium/))</sup>
 * 5 iulie: **Sea of Solitude** <sup>([Origin](https://www.origin.com/irl/en-us/store/sea-of-solitude/sea-of-solitude/))</sup>
 * 4 iulie: **Stranger Things 3: The Game** <sup>([Steam](https://store.steampowered.com/app/1097800/Stranger_Things_3_The_Game/))</sup>
 * 5 iulie: **Attack on Titan 2: Final Battle** <sup>([Steam](https://store.steampowered.com/app/601050/Attack_on_Titan_2__AOT2/))</sup>
 
-## [7 - 13 iulie (+ 14 iulie)]({{<relref "\highlights\2019\07\15">}})
+## [7 - 13 iulie (+ 14 iulie)]({{<relref "/highlights/2019/07/15">}})
 * 10 iulie: **SolSeraph** <sup>([Steam](https://store.steampowered.com/app/834800/SolSeraph/))</sup>
 * 10 iulie: **Godhood** (early access) <sup>([Steam](https://store.steampowered.com/app/917150/Godhood/))</sup>
 * 10 iulie: **Goat of Duty** <sup>([Steam](https://store.steampowered.com/app/555000/Goat_of_Duty/))</sup>
@@ -390,7 +390,7 @@ resources:
 * 11 iulie: **Tiny Metal: Full Metal Rumble** <sup>([Steam](https://store.steampowered.com/app/1102100/TINY_METAL_FULL_METAL_RUMBLE/))</sup>
 * 11 iulie: **Griftlands** (early access) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/griftlands))</sup>
 
-## [15 - 20 iulie]({{<relref "\highlights\2019\07\21">}})
+## [15 - 20 iulie]({{<relref "/highlights/2019/07/21">}})
 * 16 iulie: **Killsquad** (early access) <sup>([Steam](https://store.steampowered.com/app/910490/Killsquad/))</sup>
 * 16 iulie: **Summer Catchers** <sup>([Steam](https://store.steampowered.com/app/908050/Summer_Catchers/))</sup>
 * 16 iulie: **Lost Orbit: Terminal Velocity** <sup>([Steam](https://store.steampowered.com/app/372320/LOST_ORBIT_Terminal_Velocity/))</sup>
@@ -405,7 +405,7 @@ resources:
 * 19 iulie: **Nowhere Prophet** <sup>([Steam](https://store.steampowered.com/app/681730/Nowhere_Prophet/), [gog.com](https://www.gog.com/game/nowhere_prophet))</sup>
 * 19 iulie: **Marvel Ultimate Alliance 3** (Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/marvel-ultimate-alliance-3-the-black-order-switch/))</sup>
 
-## [21 - 27 iulie]({{<relref "\highlights\2019\07\28">}})
+## [21 - 27 iulie]({{<relref "/highlights/2019/07/28">}})
 * 22 iulie: **Beyond: Two Souls** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/beyond-two-souls/))</sup>
 * 22 iulie: **UnderRail: Expedition** <sup>([Steam](https://store.steampowered.com/app/694330/Underrail_Expedition/), [gog.com](https://www.gog.com/game/underrail_expedition))</sup>
 * 22 iulie: **Swords & Souls: Neverseen** <sup>([Steam](https://store.steampowered.com/app/679900/Swords__Souls_Neverseen/), [gog.com](https://www.gog.com/game/swords_souls_neverseen))</sup>
@@ -422,7 +422,7 @@ resources:
 * 26 iulie: **Fire Emblem: Three Houses** (Switch) <sup>([Nintendo Store](https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch/))</sup>
 * 26 iulie: **KILL la KILL -IF** <sup>([Steam](https://store.steampowered.com/app/922500/KILL_la_KILL_IF/))</sup>
 
-## [28 iulie - 3 august]({{<relref "\highlights\2019\08\04">}})
+## [28 iulie - 3 august]({{<relref "/highlights/2019/08/04">}})
 * 30 iulie: **A Short Hike** <sup>([Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/))</sup>
 * 30 iulie: **Mutant Year Zero: Seed of Evil** <sup>([Steam](https://store.steampowered.com/app/1088000/Mutant_Year_Zero_Seed_of_Evil/))</sup>
 * 30 iulie: **The Blackout Club** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/599080/The_Blackout_Club/))</sup>
@@ -439,7 +439,7 @@ resources:
 * 2 august: **Wreckin’ Ball Adventure** <sup>([Steam](https://store.steampowered.com/app/746030/Wreckin_Ball_Adventure/))</sup>
 * 2 august: **Space Mercs** <sup>([Steam](https://store.steampowered.com/app/1088600/Space_Mercs/))</sup>
 
-## [4 - 10 august]({{<relref "\highlights\2019\08\11">}})
+## [4 - 10 august]({{<relref "/highlights/2019/08/11">}})
 * 6 august: **Age of Wonders: Planetfall** <sup>([Steam](https://store.steampowered.com/app/718850/Age_of_Wonders_Planetfall/
 ), [GOG](https://www.gog.com/game/age_of_wonders_planetfall))</sup>
 * 6 august: **Metal Wolf Chaos XD** <sup>([Steam](https://store.steampowered.com/app/820630/Metal_Wolf_Chaos_XD/
@@ -457,7 +457,7 @@ resources:
 * 9 august: **Electronic Super Joy 2** <sup>([Steam](https://store.steampowered.com/app/1113940/Electronic_Super_Joy_2/))</sup>
 
 
-## [11 - 17 august]({{<relref "\highlights\2019\08\18">}})
+## [11 - 17 august]({{<relref "/highlights/2019/08/18">}})
 * 12 august: **Anodyne 2: Return to Dust** <sup>([Steam](https://store.steampowered.com/app/877810/Anodyne_2_Return_to_Dust/))</sup>
 * 12 august: **Eliza** <sup>([Steam](https://store.steampowered.com/app/716500/Eliza/), [gog.com](https://www.gog.com/game/eliza))</sup>
 * 13 august: **Exception** <sup>([Steam](https://store.steampowered.com/app/456390/Exception/))</sup>
@@ -472,7 +472,7 @@ resources:
 * 15 august: **Hot Shot Burn** (early access) <sup>([Steam](https://store.steampowered.com/app/801750/Hot_Shot_Burn/))</sup>
 * 15 august: **FlowScape**, un tool pentru crearea de scene 3D animate <sup>([Steam](https://store.steampowered.com/app/1043390/FlowScape/))</sup>
 
-## [18 - 24 august]({{<relref "\highlights\2019\08\25">}})
+## [18 - 24 august]({{<relref "/highlights/2019/08/25">}})
 * 19 august: **The Cycle** (early access) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/thecycle))</sup>
 * 19 august: **Age of Empires: Definitive Edition** ajunge pe Steam <sup>([Steam](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/))</sup>
 * 20 august: **Remnant: From the Ashes** <sup>([Steam](https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/))</sup>
@@ -483,7 +483,7 @@ resources:
 * 23 august: **Plunge** <sup>([Steam](https://store.steampowered.com/app/1128690/Plunge/))</sup>
 * 23 august: **Death Crown** <sup>([Steam](https://store.steampowered.com/app/814530/Death_Crown/))</sup>
 
-## [25 - 31 august]({{<relref "\highlights\2019\09\01">}})
+## [25 - 31 august]({{<relref "/highlights/2019/09/01">}})
 * 27 august: **Control** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/control/))</sup>
 * 27 august: **Ancestors: The Humankind Odyssey** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/ancestors/))</sup>
 * 27 august: **World of Warcraft: Classic** <sup>([World of Warcraft](https://worldofwarcraft.com/en-us/wowclassic))</sup>
@@ -502,7 +502,7 @@ resources:
 * 30 august: **Decay of Logos** <sup>([Steam](https://store.steampowered.com/app/759570/Decay_of_Logos/), [gog.com](https://www.gog.com/game/decay_of_logos))</sup>
 * 30 august: **Serious Sam Classics: Revolution** <sup>([Steam](https://store.steampowered.com/app/227780/Serious_Sam_Classics_Revolution/))</sup>
 
-## [1 - 7 septembrie]({{<relref "\highlights\2019\09\08">}})
+## [1 - 7 septembrie]({{<relref "/highlights/2019/09/08">}})
 * 3 septembrie: **Children of Morta** <sup>([Steam](https://store.steampowered.com/app/330020/Children_of_Morta/), [gog.com](https://www.gog.com/game/children_of_morta))</sup>
 * 3 septembrie: **Final Fantasy VIII Remastered** <sup>([Steam](https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/))</sup>
 * 3 septembrie: **Spyro: Reignited Trilogy** <sup>([Steam](https://store.steampowered.com/app/996580/Spyro_Reignited_Trilogy/))</sup>
@@ -519,7 +519,7 @@ resources:
 * 6 septembrie: **Creature in the Well** <sup>([Steam](https://store.steampowered.com/app/852300/Creature_in_the_Well/), [gog.com](https://www.gog.com/game/creature_in_the_well))</sup>
 * 9 septembrie: **Gears 5** <sup>([Steam](https://store.steampowered.com/app/1097840/Gears_5/), [Microsoft Store](https://www.microsoft.com/ro-ro/p/gears-5-ultimate-edition-pre-order/9P29X4PJG09X))</sup>
 
-## [8 - 14 septembrie]({{<relref "\highlights\2019\09\15">}})
+## [8 - 14 septembrie]({{<relref "/highlights/2019/09/15">}})
 * 10 septembrie: **Blasphemous** <sup>([Steam](https://store.steampowered.com/app/774361/Blasphemous/), [gog.com](https://www.gog.com/game/blasphemous))</sup>
 * 10 septembrie: **WRC 8 FIA World Rally Championship** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/wrc-8/home
 ))</sup>
@@ -541,7 +541,7 @@ resources:
 ))</sup>
 * 13 septembrie: **Breathedge** <sup>([Steam](https://store.steampowered.com/app/738520/Breathedge/))</sup>
 
-## [15 - 21 septembrie]({{<relref "\highlights\2019\09\22">}})
+## [15 - 21 septembrie]({{<relref "/highlights/2019/09/22">}})
 * 16 septembrie: **Nauticrawl** <sup>([Steam](https://store.steampowered.com/app/922100/Nauticrawl/))</sup>
 * 17 septembrie: **Rebel Cops** <sup>([Steam](https://store.steampowered.com/app/970960/Rebel_Cops/), [gog.com](https://www.gog.com/game/rebel_cops))</sup>
 * 17 septembrie: **Showdown Bandit** <sup>([Steam](https://store.steampowered.com/app/1076280/Showdown_Bandit/))</sup>
@@ -563,7 +563,7 @@ resources:
 * 20 septembrie: **Untitled Goose Game** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/untitled-goose-game))</sup>
 * 20 septembrie: **Sojourn** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/the-sojourn/))</sup>
 
-## [22 - 28 septembrie]({{<relref "\highlights\2019\09\29">}})
+## [22 - 28 septembrie]({{<relref "/highlights/2019/09/29">}})
 * 24 septembrie: **Contra Rogue Corps** <sup>([Steam](https://store.steampowered.com/app/1020540/CONTRA_ROGUE_CORPS/))</sup>
 * 24 septembrie: **FIFA 20** <sup>([EA Store](https://www.ea.com/en-gb/games/fifa/fifa-20))</sup>
 * 24 septembrie: **The Surge 2** <sup>([Steam](https://store.steampowered.com/app/644830/The_Surge_2/))</sup>
@@ -582,7 +582,7 @@ resources:
 * 27 septembrie: **Infinity: Battlescape** <sup>([Steam](https://store.steampowered.com/app/1079620/Infinity_Battlescape/))</sup>
 
 
-## [29 septembrie - 5 octombrie]({{<relref "\highlights\2019\10\06">}})
+## [29 septembrie - 5 octombrie]({{<relref "/highlights/2019/10/06">}})
 * 1 octombrie: **What the Golf?** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/what-the-golf/home))</sup>
 * 1 octombrie: **Destiny 2** vine pe Steam <sup>([Steam](https://store.steampowered.com/app/1085660/Destiny_2/))</sup>
 * 1 octombrie: **Destiny 2: Shadowkeep** <sup>([Steam](https://store.steampowered.com/app/1090200/Destiny_2_Shadowkeep/))</sup>
@@ -594,7 +594,7 @@ resources:
 * 4 octombrie: **Ghostbusters Remastered** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/ghostbusters-the-video-game-remastered/home))</sup>
 * 4 octombrie: **Ghost Recon Breakpoint** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/ghost-recon-breakpoint/home))</sup>
 
-## [6 - 12 octombrie]({{<relref "\highlights\2019\10\13">}})
+## [6 - 12 octombrie]({{<relref "/highlights/2019/10/13">}})
 * 7 octombrie: **Pilgrims** <sup>([Steam](https://store.steampowered.com/app/1049280/Pilgrims/), [gog.com](https://www.gog.com/game/pilgrims))</sup>
 * 8 octombrie: **John Wick Hex** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/johnwickhex/))</sup>
 * 8 octombrie: **Trine 4: The Nightmare Prince** <sup>([Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/), [gog.com](https://www.gog.com/game/trine_4_the_nightmare_prince))</sup>
@@ -611,7 +611,7 @@ resources:
 * 11 octombrie: **Doraemon Story of Seasons** <sup>([Steam](https://store.steampowered.com/app/965230/DORAEMON__STORY_OF_SEASONS/))</sup>
 * 11 octombrie: **Killer Queen Black** <sup>([Steam](https://store.steampowered.com/app/663670/Killer_Queen_Black/))</sup>
 
-## [13 - 19 octombrie]({{<relref "\highlights\2019\10\20">}})
+## [13 - 19 octombrie]({{<relref "/highlights/2019/10/20">}})
 * 14 octombrie: **Postal 4: No Regerts** anunț și lansare surpriză în early access <sup>([Steam](https://store.steampowered.com/app/707030/POSTAL_4_No_Regerts/))</sup>
 * 15 octombrie: **Disco Elysium** <sup>([Steam](https://store.steampowered.com/app/632470/Disco_Elysium/), [gog.com](https://www.gog.com/game/disco_elysium))</sup>
 * 15 octombrie: **Outbuddies** <sup>([Steam](https://store.steampowered.com/app/1083310/OUTBUDDIES/), [gog.com](https://www.gog.com/game/outbuddies))</sup>
@@ -632,7 +632,7 @@ resources:
 * 18 octombrie: **Manifold Garden** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/manifold-garden/))</sup>
 * 19 octombrie: **Surviving the Aftermath** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/surviving-the-aftermath/))</sup>
 
-## [20 - 26 octombrie]({{<relref "\highlights\2019\10\27">}})
+## [20 - 26 octombrie]({{<relref "/highlights/2019/10/27">}})
 * 22 octombrie: **The Long Dark Episode 3: Crossroads Elegy** <sup>([Steam](https://store.steampowered.com/app/305620/The_Long_Dark/))</sup>
 * 22 octombrie: **AI War 2** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/573410/AI_War_2/), [gog.com](https://www.gog.com/game/ai_war_2))</sup>
 * 22 octombrie: **Tangle Tower** <sup>([Steam](https://store.steampowered.com/app/359510/Tangle_Tower/))</sup>
@@ -644,7 +644,7 @@ resources:
 * 25 octombrie: **Call of Duty: Modern Warfare** <sup>([Site Call of Duty](https://www.callofduty.com/modernwarfare/buy))</sup>
 * 25 octombrie: **MO: Astray** <sup>([Steam](https://store.steampowered.com/app/1104660/MO_Astray/))</sup>
 
-## [27 octombrie - 2 noiembrie]({{<relref "\highlights\2019\11\03">}})
+## [27 octombrie - 2 noiembrie]({{<relref "/highlights/2019/11/03">}})
 * 29 octombrie: **Afterparty** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/afterparty/))</sup>
 * 29 octombrie: **Disney Classic Games: Aladdin and the Lion King** <sup>([Steam](https://store.steampowered.com/app/1126190/Disney_Classic_Games_Aladdin_and_The_Lion_King/), [gog.com](https://www.gog.com/game/disney_classic_games_aladdin_and_the_lion_king))</sup>
 * 29 octombrie: **Atelier Ryza: Ever Darkness & the Secret Hideout** <sup>([Steam](https://store.steampowered.com/app/1121560/Atelier_Ryza_Ever_Darkness__the_Secret_Hideout/))</sup>
@@ -653,7 +653,7 @@ resources:
 * 31 octombrie: **Song of Horror** <sup>([Steam](https://store.steampowered.com/app/1096570/SONG_OF_HORROR/))</sup>
 * 31 octombrie: **Cathedral** <sup>([Steam](https://store.steampowered.com/app/1056180/Cathedral/), [gog.com](https://www.gog.com/game/cathedral))</sup>
 
-## [3 - 9 noiembrie]({{<relref "\highlights\2019\11\10">}})
+## [3 - 9 noiembrie]({{<relref "/highlights/2019/11/10">}})
 * 1 noiembrie: **Mario & Sonic at the Olympic Games Tokyo 2020** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/mario-and-sonic-at-the-olympic-games-tokyo-2020-switch/))</sup>
 * 4 noiembrie: **Vecter** (early access) <sup>([Steam](https://store.steampowered.com/app/1175140/Vecter/))</sup>
 * 5 noiembrie: **Red Dead Redemption 2** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/red-dead-redemption-2), [Rockstar Social Club](https://socialclub.rockstargames.com/store/rdr2))</sup>
@@ -669,7 +669,7 @@ resources:
 * 8 noiembrie: **Need For Speed Heat** <sup>([EA Store](https://www.ea.com/games/need-for-speed/need-for-speed-heat/buy))</sup>
 * 8 noiembrie: **Death Stranding** <sup>([PS Store](https://www.playstation.com/en-us/games/death-stranding-ps4/))</sup>
 
-## [10 - 16 noiembrie]({{<relref "\highlights\2019\11\17">}})
+## [10 - 16 noiembrie]({{<relref "/highlights/2019/11/17">}})
 * 12 noiembrie: **Unity of Command II** <sup>([Steam](https://store.steampowered.com/app/809230/Unity_of_Command_II/))</sup>
 * 12 noiembrie: **The Legend Of Bum-Bo** <sup>([Steam](https://store.steampowered.com/app/1148650/The_Legend_of_BumBo/))</sup>
 * 12 noiembrie: **Superliminal** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/superliminal/))</sup>
@@ -683,7 +683,7 @@ resources:
 * 14 noiembrie: **Age of Empires II: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/))</sup>
 * 15 noiembrie: **Star Wars Jedi: Fallen Order** <sup>([EA Store](https://www.ea.com/games/starwars/jedi-fallen-order/buy))</sup>
 
-## [17 - 23 noiembrie]({{<relref "\highlights\2019\11\24">}})
+## [17 - 23 noiembrie]({{<relref "/highlights/2019/11/24">}})
 * 19 noiembrie: **Gylt** <sup>([Site oficial Gylt](http://www.gyltthegame.com/))</sup>
 * 19 noiembrie: **Narcos Rise Of The Cartels** <sup>([Steam](https://store.steampowered.com/app/914110/Narcos_Rise_of_the_Cartels/))</sup>
 * 19 noiembrie: **Shenmue III** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/shenmue-3))</sup>
@@ -698,13 +698,13 @@ resources:
 * 22 noiembrie: **Lost Ember** <sup>([Steam](https://store.steampowered.com/app/563840/LOST_EMBER/), [gog.com](https://www.gog.com/game/lost_ember))</sup>
 * 22 noiembrie: **Sniper Ghost Warrior Contracts** <sup>([Steam](https://store.steampowered.com/app/973580/Sniper_Ghost_Warrior_Contracts/), [gog.com](https://www.gog.com/game/sniper_ghost_warrior_contracts))</sup>
 
-## [24 - 30 noiembrie]({{<relref "\highlights\2019\12\01">}})
+## [24 - 30 noiembrie]({{<relref "/highlights/2019/12/01">}})
 * 26 noiembrie: **Generation Zero - Alpine Unrest** <sup>([Steam](https://store.steampowered.com/app/1157550/Generation_Zero__Alpine_Unrest/))</sup>
 * 26 noiembrie: **Beast Agenda 2030** <sup>([Steam](https://store.steampowered.com/app/903780/Beast_Agenda_2030/))</sup>
 * 29 noiembrie: **Dandy Dungeon - Legend of Brave Yamada** <sup>([Steam](https://store.steampowered.com/app/1138970/Dandy_Dungeon__Legend_of_Brave_Yamada/))</sup>
 
 
-## [1 - 7 decembrie]({{<relref "\highlights\2019\12\08">}})
+## [1 - 7 decembrie]({{<relref "/highlights/2019/12/08">}})
 * 2 decembrie: **XO** (early access) <sup>([Steam](https://store.steampowered.com/app/399720/XO/))</sup>
 * 3 decembrie: **Halo: Reach** <sup>([Steam](https://store.steampowered.com/app/1064220/Halo_Reach/))</sup>
 * 3 decembrie: **Heroland** <sup>([Steam](https://store.steampowered.com/app/1066030/Heroland/), [gog.com](https://www.gog.com/game/heroland))</sup>
@@ -722,7 +722,7 @@ resources:
 * 5 decembrie: **Strategic Command: World War I** <sup>([Steam](https://store.steampowered.com/app/1096930/Strategic_Command_World_War_I/), [gog.com](https://www.gog.com/game/strategic_command_world_war_i))</sup>
 * 5 decembrie: **Interrogation: You will be deceived** <sup>([Steam](https://store.steampowered.com/app/1016770/Interrogation_You_will_be_deceived/), [gog.com](https://www.gog.com/game/interrogation_you_will_be_deceived))</sup>
 
-## [8 - 14 decembrie]({{<relref "\highlights\2019\12\15">}})
+## [8 - 14 decembrie]({{<relref "/highlights/2019/12/15">}})
 * 9 decembrie: **Frog Detective 2: The Case of the Invisible Wizard** <sup>([Steam](https://store.steampowered.com/app/1047220/Frog_Detective_2_The_Case_of_the_Invisible_Wizard/))</sup>
 * 9 decembrie: **Ashen** (relansare după un an de exclusivitate Epic Store) <sup>([Steam](https://store.steampowered.com/app/649950/Ashen/), [gog.com](https://www.gog.com/game/ashen))</sup>
 * 9 decembrie: **SuperMash** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/supermash/))</sup>
@@ -739,14 +739,14 @@ resources:
 * 12 decembrie: **Detroit: Become Human** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/detroit-become-human/))</sup>
 * 13 decembrie: **DEMON'S TILT** <sup>([Steam](https://store.steampowered.com/app/422510/DEMONS_TILT/))</sup>
 
-## [15 - 21 decembrie]({{<relref "\highlights\2019\12\22">}})
+## [15 - 21 decembrie]({{<relref "/highlights/2019/12/22">}})
 * 17 decembrie: **Wattam** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/wattam/))</sup>
 * 17 decembrie: **Blade Runner** relansat în format digital după 22 de ani <sup>([gog.com](https://www.gog.com/game/blade_runner))</sup>
 * 17 decembrie: **Blink: Rogues** <sup>([Steam](https://store.steampowered.com/app/739100/Blink_Rogues/))</sup>
 * 18 decembrie: **Ironsight** <sup>([Steam](https://store.steampowered.com/app/715220/Ironsight/))</sup>
 
 
-## [22 - 28 decembrie]({{<relref "\highlights\2019\12\29">}})
+## [22 - 28 decembrie]({{<relref "/highlights/2019/12/29">}})
 * 23 decembrie: **Cthulhu Saves Christmas** <sup>([Steam](https://store.steampowered.com/app/1057540/Cthulhu_Saves_Christmas/))</sup>
 * 27 decembrie: **Vestaria Saga I: War of the Scions** <sup>([Steam](https://store.steampowered.com/app/694770/Vestaria_Saga_I_War_of_the_Scions/))</sup>
 
