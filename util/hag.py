@@ -112,7 +112,9 @@ def citeste_fisier(root_dir, retro_year, sectiune_cautata, sub_sectiune_cautata=
 
     def get_link_relref():
         f_root = os.path.join("..", "content")
-        url = root_dir.replace(f_root, "", 1)
+        # ștergem root-ul fișierului ca să păstrăm calea relativă și trebuie înlocuite și
+        # separatoarele de path să fie întotdeauna '/' pentru compatibilitate cu Unix
+        url = root_dir.replace(f_root, "", 1).replace("\\", "/")
         return "{{<relref \"%s\">}}" % url
 
     # citim toate liniile din fisier; cand gasim sectiunea cautata, punem liniile in lista de returnat
