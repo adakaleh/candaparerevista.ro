@@ -2,8 +2,7 @@ Descriere: ...
 
 Tags: ...
 
-## Ştiri
-## Stiri
+## Știri
 *
 
 ## Articole (critică, dev, design)
