@@ -93,6 +93,9 @@ OUTPUT_FILE = "rezultat_final_markdown.txt" if not is_debug else "test_rezultat_
 
 DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEM</span>"
 
+FORCE_STIRE_PREFIX = "(S)"
+FORCE_ARTICOL_PREFIX = "(A)"
+
 SITEURI_CUNOSCUTE = {
     'idlethumbs': 'Idle Thumbs',        'pcgamer': 'PC Gamer',              'rockpapershotgun': 'RPS',
     'gamasutra': 'Gamasutra',           'unwinnable': 'Unwinnable',         'eurogamer': 'Eurogamer',
@@ -212,27 +215,29 @@ class Sectiune(RawLine):
     def make_markdown_link(self, link):
         pass
 
-    def has_section_override(self):
-        return False
-
     def has_force_format_article(self, linie):
-        force_prefix = "* (A) "
-        if (linie.text.startswith(force_prefix)):
-            linie.text = linie.text.replace(force_prefix, "* ", 1)
-            return True
+        return linie.text.startswith(FORCE_ARTICOL_PREFIX)
 
     def has_force_format_news(self, linie):
-        force_prefix = "* (S) "
-        if (linie.text.startswith(force_prefix)):
-            linie.text = linie.text.replace(force_prefix, "* ", 1)
-            return True
+        return linie.text.startswith(FORCE_STIRE_PREFIX)
+
+    def remove_override_prefix(self, linie, force_prefix):
+        if linie.text.startswith(force_prefix):
+            linie.text = linie.text.replace(force_prefix, "", 1).lstrip()
+            linie.get_links()[0].start = linie.get_links()[0].start - 4
 
     def format_line_for_news(self, linie):
+        if self.has_force_format_news(linie):
+            self.remove_override_prefix(linie, FORCE_STIRE_PREFIX)
+
         url_incepe = linie.get_links()[0].start
         lista_sites = ", ".join([self.make_markdown_link_news(link) for link in linie.get_links()])
         return linie.text[:url_incepe] + "<sup>(" + lista_sites + ")</sup>"
 
     def format_line_for_article(self, linie):
+        if self.has_force_format_article(linie):
+            self.remove_override_prefix(linie, FORCE_ARTICOL_PREFIX)
+
         url_incepe     = linie.get_links()[0].start
         lista_articole = ", ".join([self.make_markdown_link_article(link) for link in linie.get_links()])
         return linie.text[:url_incepe] + lista_articole
@@ -556,6 +561,8 @@ def completeaza_urls(text, lista_linkuri):
             lista_linkuri.append(LinkInLinie(url=url, start=start, end=end))
 
         # cauta recursiv in restul textului
+        # TODO trebuie pasata si lungimea textului gasit, astfel ca in LinkInLinie
+        # 'start' si 'end' sa reprezinte coordonatele linkului in textul original
         return completeaza_urls(text[end:], lista_linkuri)
 
     return
