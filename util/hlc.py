@@ -24,7 +24,7 @@ va fi generata linia:
 -------------------
 Folosire
 -------------------
-In mod implicit, scriptul cauta linkuri intr-un fisier 'input_links.txt'. Alternativ, i se poate da un alt fisier ca argument:
+In mod implicit, scriptul cauta linkuri intr-un fisier 'input_links_hlc.txt'. Alternativ, i se poate da un alt fisier ca argument:
 
 python hlc.py [cale-fisier-linkuri.txt]
 
@@ -45,7 +45,7 @@ Scriptul trateaza sectiunile in mod diferit, astfel incat rezultatul difera:
   ca stire. Exemplu:
   "
   ## Știri
-  * (A) https://www.pcgamer.com/game-remakes-shouldnt-be-afraid-to-change-the-classics/
+  (A) *  https://www.pcgamer.com/game-remakes-shouldnt-be-afraid-to-change-the-classics/
   "
 
 -------------------
@@ -66,10 +66,7 @@ Features:
 - de mutat majoritatea metodelor de tipul "parseaza_nume" in Sectiuni, unde le e locul
 
 Bugs/issues:
-- la unele site-uri sunt probleme cu identficarea numelui pe Open Graph (ex: pcgamer) - detecteaza
-  prea mult / nu detecteaza sfarsitul (edit: s-ar putea sa fi rezolvat, mai trebuie teste)
-- nu detecteaza categoria Stiri cand e scrisa cu diacritice (dar la Romania merge ok)
-- titlul sectiunii "Anunţuri şi lansări de jocuri" este sters la parsare
+-
 
 Alte observatii:
 - cautarea de text in paginile html nu e foarte robusta si o sa mai dea rateuri - se face cu cautari pe string cu regex;
@@ -88,7 +85,7 @@ import time
 
 is_debug = False
 
-INPUT_FILE_DEFAULT = "input_links.txt" if not is_debug else "test_input_links.txt"
+INPUT_FILE_DEFAULT = "input_links_hlc.txt" if not is_debug else "test_input_links.txt"
 OUTPUT_FILE = "rezultat_final_markdown.txt" if not is_debug else "test_rezultat_final_markdown.txt"
 
 DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEM</span>"
@@ -153,6 +150,7 @@ TERMINATII_DE_CURATAT = {
     '- DSOGaming',
     '| DSOGaming | The Dark Side Of Gaming',
     '&quot; - DSOGaming',
+    '- The Face',
     '| Unwinnable',
     '| PC Invasion',
     '| The Obscuritory',
@@ -195,10 +193,12 @@ class Sectiune(RawLine):
     O linie despre care stim ca contine numele unei sectiuni un header de nivel 2 ("## ')
     """
 
-    def __init__(self, text):
+    def __init__(self, text, nume):
         RawLine.__init__(self, text)
         # lista liniilor care apartin acestei sectiuni
         self.linii = []
+        # numele sectiunii
+        self.nume = nume
 
     def is_different_type_than(self, other_section):
         return type(self) != type(other_section)
@@ -423,6 +423,12 @@ def execute(linii_fisier):
 
     sectiune_curenta = None
 
+    def is_new_section(sectiune_noua):
+        if sectiune_noua and not sectiune_curenta:
+            return True
+        elif sectiune_curenta:
+            return sectiune_noua.nume != sectiune_curenta.nume
+
     # iteram si tratam fiecare linie in parte, apoi le adaugam in lista de mai sus
     for index, linie_curenta in enumerate(linii_fisier):
         # try:
@@ -430,14 +436,17 @@ def execute(linii_fisier):
 
             # track progress
             nume_sectiune = type(sectiune_curenta).__name__[len("Sectiune"):]
-            print("%d/%d (%s)" % (index + 1, len(linii_fisier), nume_sectiune), end='\r')
+            print("%d/%d linii (%s)" % (index + 1, len(linii_fisier), nume_sectiune), end='\r')
 
             # daca am parsat o sectiune, verificam daca e diferita de sectiunea curenta, caz in care
             # o setam pe aceasta ca noua sectiune curenta si o adaugam la lista
             if isinstance(rezultat_parsare, Sectiune):
-                if (rezultat_parsare.is_different_type_than(sectiune_curenta)):
+                if is_new_section(rezultat_parsare):
                     sectiune_curenta = rezultat_parsare
                     document_parsat.append(rezultat_parsare)
+                else:
+                    # e aceeași secțiune, nu facem nimic
+                    pass
 
             # am primit inapoi o linie ce nu tine de nicio sectiune
             else:
@@ -578,25 +587,25 @@ def get_sectiune(linie):
         return False
 
     if (titlu_contine('stiri', 'știri')):
-        return SectiuneStire(linie)
+        return SectiuneStire(linie, titlu_sectiune)
     elif (titlu_contine('articole')):
-        return SectiuneArticole(linie)
+        return SectiuneArticole(linie, titlu_sectiune)
     elif (titlu_contine('romania', 'românia')):
         # return SectiuneRomania(linie)
         # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
-        return SectiuneStire(linie)
-    elif (titlu_contine('anunturi', 'anunţuri')):
+        return SectiuneStire(linie, titlu_sectiune)
+    elif (titlu_contine('anunturi', 'anunţuri', 'anunțuri')):
         # return SectiuneAnunturiLansari(linie)
         # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
-        return SectiuneStire(linie)
+        return SectiuneStire(linie, titlu_sectiune)
     elif (titlu_contine('oferte', 'prăvălii')):
-        return SectiuneArticole(linie)
+        return SectiuneArticole(linie, titlu_sectiune)
     elif (titlu_contine('recomandare')):
-        return SectiuneRecomandare(linie)
+        return SectiuneRecomandare(linie, titlu_sectiune)
 
     # n-ar trebui sa ajungem aici
     else:
-        return Sectiune(linie)
+        return Sectiune(linie, titlu_sectiune)
 
 
 def parseaza_titlu_articol(url, text):
