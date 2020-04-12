@@ -124,9 +124,9 @@ Linkuri rapide:
 * 31 martie: **Operencia: The Stolen Sun** <sup>([Steam](https://store.steampowered.com/app/985950/Operencia_The_Stolen_Sun/), [gog.com](https://www.gog.com/game/operencia_the_stolen_sun))</sup>
 * 31 martie: **Over the Alps** <sup>([Steam](https://store.steampowered.com/app/1227400/Over_the_Alps/))</sup>
 * 2 aprilie: **Endzone - A World Apart** (early access) <sup>([Steam](https://store.steampowered.com/app/933820/Endzone__A_World_Apart/), [gog.com](https://www.gog.com/game/endzone_a_world_apart))</sup>
+* 2 aprilie: **Sometimes Always Monsters**  <sup>([Steam](https://store.steampowered.com/app/441440/Sometimes_Always_Monsters/))</sup>
 * 3 aprilie: **In Other Waters** <sup>([Steam](https://store.steampowered.com/app/890720/In_Other_Waters/), [gog.com](https://www.gog.com/game/in_other_waters))</sup>
 * 3 aprilie: **Resident Evil 3** <sup>([Steam](https://store.steampowered.com/app/952060/RESIDENT_EVIL_3/))</sup>
-
 
 ## Prăvălii de jocuri
 
