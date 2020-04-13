@@ -67,7 +67,7 @@ Ediţia normală şi ediţia pentru abonaţi:
 >}}
 
 ## EDGE (UK)
-### [Februarie 2020](https://www.myfavouritemagazines.co.uk/gaming/edge-magazine-back-issues/edge-march-2020-issue-342/) (#342) | [Martie 2020](https://www.myfavouritemagazines.co.uk/gaming/edge-magazine-back-issues/edge-april-2020-issue-343/) (#343)
+### [Martie 2020](https://www.myfavouritemagazines.co.uk/gaming/edge-magazine-back-issues/edge-march-2020-issue-342/) (#342) | [Aprilie 2020](https://www.myfavouritemagazines.co.uk/gaming/edge-magazine-back-issues/edge-april-2020-issue-343/) (#343)
 {{< figure-multi-ext
 	"images/edge-342.jpg|https://pbs.twimg.com/media/EPmn19nX4AETQG8?format=jpg|"
 	"images/edge-343.jpg|https://pbs.twimg.com/media/ERx5eprWAAAX8Y8?format=jpg|"
