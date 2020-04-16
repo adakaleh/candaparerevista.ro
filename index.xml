@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stygian: Reign of the Old Ones</title>
+      <link>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</guid>
+      <description>În această săptămână avem o recomandare mai de nișă. Stygian: Reign of the Old Ones e un joc imperfect, dar interesant, care a avut parte de o lansare trecută cu vederea în 2019, fiind eclipsat de indie-uri mult mai proeminente. Și dacă despre Outer Wilds sau Disco Elysium ați mai auzit din alte părți cât de mișto sunt (chiar dacă pe site nu avem articole despre ele încă), o să vă vorbesc puțin despre acest joc.
+Mythosul lui Lovecraft a inspirat numeroase jocuri, dar am impresia că Stygian e primul RPG plasat în acest univers (asta dacă facem abstracție de parodicul Cthulhu Saves The World).</description>
+    </item>
     
     <item>
       <title>Revistele lunii aprilie 2020</title>
@@ -158,15 +168,6 @@ Linkuri rapide:
       <description>Mult așteptatul Mount &amp;amp; Blade 2 se lansează peste o lună (dar doar în early access), filmul Borderlands îl are ca regizor pe Eli Roth, THQ Nordic au dat undă verde remake-ului Gothic, Bethesda și-au retras jocurile de pe Geforce Now, iar Baldur&amp;rsquo;s Gate 3 va avea la rândul său parte de tratamentul early access în cursul acestui an.
 Linkuri rapide:
  Știri Articole (critică, dev, design) Anunţuri şi lansări de jocuri Prăvălii de jocuri    Știri  Bethesda e a doua companie care-și retrage jocurile din catalogul Geforce Now, după Blizzard.</description>
-    </item>
-    
-    <item>
-      <title>Total War: Warhammer (I)</title>
-      <link>https://candaparerevista.ro/posts/2020/02/review-total-war-warhammer-1/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/02/review-total-war-warhammer-1/</guid>
-      <description>Ca să nu mai așteptați pînă la Sfîrșitul Vremurilor pentru reviewurile mele, o să încerc să vă scriu din mers despre peripețiile prin Total War: Warhammer. Varianta tl;dr ar fi următoarea: e un joc pentru care s-a depus un efort considerabil pe partea de prezentare (cu cîteva fisuri jenante și acolo, între noi fie vorba), dar din păcate este umbrit de mecanici cel puțin discutabile, ca să nu spun de-a dreptul tîmpite. Prețul pentru patricieni e complet nejustificat, iar dacă nu avea atîtea mărci grele in spate probabil că ar fi primit scoruri mult mai proaste prin diverse analize.</description>
     </item>
     
   </channel>

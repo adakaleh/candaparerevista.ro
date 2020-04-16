@@ -6,10 +6,20 @@
     <description>Recent content in Recomandare on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/recomandare/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stygian: Reign of the Old Ones</title>
+      <link>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</guid>
+      <description>În această săptămână avem o recomandare mai de nișă. Stygian: Reign of the Old Ones e un joc imperfect, dar interesant, care a avut parte de o lansare trecută cu vederea în 2019, fiind eclipsat de indie-uri mult mai proeminente. Și dacă despre Outer Wilds sau Disco Elysium ați mai auzit din alte părți cât de mișto sunt (chiar dacă pe site nu avem articole despre ele încă), o să vă vorbesc puțin despre acest joc.
+Mythosul lui Lovecraft a inspirat numeroase jocuri, dar am impresia că Stygian e primul RPG plasat în acest univers (asta dacă facem abstracție de parodicul Cthulhu Saves The World).</description>
+    </item>
     
     <item>
       <title>Children of Morta</title>
@@ -147,16 +157,6 @@ Acțiunea sa se petrece într-o versiune (very) dark fantasy a Japoniei feudale,
       <guid>https://candaparerevista.ro/posts/2018/09/recomandare-saboteur-tg/</guid>
       <description>În 2009, colecția jocurilor de acțiune derivate din seria Grand Theft Auto a căpătat un reprezentant de seamă, ce avea să sfârșească tragic de sub-apreciat de către mulți jucători.
 Poate cel mai acaparant sandbox de acțiune, în The Saboteur duci pe drumul răzbunării un mecanic irlandez, pe vremea Parisului ocupat de naziști. Pandemic Studios (îngropați între timp de prietenii noștri de la EA) au reușit să inoveze formula specifică genului cu un stil vizual ce se împletește organic cu gameplay-ul și o serie de misiuni distractive, mai ales prin prisma vehiculelor de epocă pe care le poți controla.</description>
-    </item>
-    
-    <item>
-      <title>Lamplight City</title>
-      <link>https://candaparerevista.ro/posts/2018/09/recomandare-lamplight-city-azad/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/09/recomandare-lamplight-city-azad/</guid>
-      <description>Fanii jocurilor Gabriel Knight vor descoperi în Lamplight City, de la Grundislav Games, un joc demn să poarte titlul de succesor spiritual. Acțiunea se petrece în orașul New Bretagne, într-o Europă afundată în tehnologie steampunk, unde unii localnici încă păstrează rămășițe ale religiei voodoo.
-Este anul 1844 și suntem puși în pielea lui Miles Fordham, un detectiv particular, al cărui partener este ucis, la începutul jocului, în timpul unui caz aparent banal. Trei luni mai târziu dăm de un Miles neîngrijit și dependent de droguri, cu o căsnicie peste care atârnă proverbiala sabie a lui Damocle.</description>
     </item>
     
   </channel>
