@@ -6,10 +6,21 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 12 - 18 aprilie 2020</title>
+      <link>https://candaparerevista.ro/highlights/2020/04/19/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2020/04/19/</guid>
+      <description>Crysis revine la viață cu o versiune remasterizată, a murit John H. Conway, creatorul jocului Game of Life, se anulează Gamescom, iar comunitatea de creatori de jocuri din România organizează un game jam pentru a strânge fonduri pentru lupta împotriva coronavirusului. Și în plus, aveți, printre altele, material pentru o întoarcere în timp la shooterele anilor &amp;lsquo;90, WarCraft II, Gothic II și începuturile epocii „shareware”.
+Linkuri rapide:
+ Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  Clasificările date de ESRB jocurilor din SUA vor conține de acum înainte avertismente privind conținutul randomizat (ex: loot boxes).</description>
+    </item>
     
     <item>
       <title>Stygian: Reign of the Old Ones</title>
@@ -157,17 +168,6 @@ Linkuri rapide:
       <description>Epidemia de coronavirus afectează în continuare evenimentele majore de gaming, ne sunt oferite detalii și imagini noi din Baldur&amp;rsquo;s Gate III, CD Projekt devine a doua cea mai mare companie de jocuri din Europa, Kojima o să primească un premiu BAFTA pentru întreaga activitate, se lucrează la un nou joc Samurai Jack, iar Dota Underlords iese din beta.
 Linkuri rapide:
  Știri Articole (critică, dev, design) Anunţuri şi lansări de jocuri Prăvălii de jocuri    Știri  Pe fondul agravării epidemiei de coronavirus, evenimentele de gaming suferă noi amânări sau anulări:  Game Developers Conference, care trebuia să aibă loc la mijlocul lui martie, a fost amânat până la vară.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 16 - 22 februarie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/02/23/</link>
-      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/02/23/</guid>
-      <description>Mult așteptatul Mount &amp;amp; Blade 2 se lansează peste o lună (dar doar în early access), filmul Borderlands îl are ca regizor pe Eli Roth, THQ Nordic au dat undă verde remake-ului Gothic, Bethesda și-au retras jocurile de pe Geforce Now, iar Baldur&amp;rsquo;s Gate 3 va avea la rândul său parte de tratamentul early access în cursul acestui an.
-Linkuri rapide:
- Știri Articole (critică, dev, design) Anunţuri şi lansări de jocuri Prăvălii de jocuri    Știri  Bethesda e a doua companie care-și retrage jocurile din catalogul Geforce Now, după Blizzard.</description>
     </item>
     
   </channel>

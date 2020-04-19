@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2020/04/19/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -1490,7 +1495,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/ape-out/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1657,7 +1662,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/baba-is-you/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2855,7 +2860,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/doom-eternal/</loc>
-    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3599,7 +3604,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/gamescom/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3796,6 +3801,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/gothic/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/gothic-ii/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4059,13 +4070,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4676,14 +4687,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5050,7 +5061,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/minecraft/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6316,7 +6327,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/rockstar/</loc>
-    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6489,6 +6500,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/seers-isle/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/sega/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -6616,7 +6633,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6869,6 +6886,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/starcraft/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/starcraft-2/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7519,6 +7542,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/there-is-no-game/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/thief/</loc>
     <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -7977,6 +8006,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/warcraft/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/warcraft-ii/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
