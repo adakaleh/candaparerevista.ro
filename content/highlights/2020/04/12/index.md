@@ -124,6 +124,7 @@ Linkuri rapide:
 * 9 aprilie: **Gunbrick: Reloaded** <sup>([Steam](https://store.steampowered.com/app/1222270/Gunbrick_Reloaded/))</sup>
 * 9 aprilie: **Ancient Enemy** <sup>([Steam](https://store.steampowered.com/app/993790/Ancient_Enemy/))</sup>
 * 9 aprilie: **The Procession to Calvary** <sup>([Steam](https://store.steampowered.com/app/1071130/The_Procession_to_Calvary/))</sup>
+* 9 aprilie: **Plebby Quest: The Crusades** <sup>([Steam](https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/))</sup>
 * 10 aprilie: **Alder's Blood** <sup>([Steam](https://store.steampowered.com/app/820020/Alders_Blood/), [gog.com](https://www.gog.com/game/alders_blood))</sup>
 * 10 aprilie: **Final Fantasy VII Remake** <sup>([PlayStation Store](https://www.playstation.com/en-us/games/final-fantasy-vii-remake-ps4/))</sup>
 

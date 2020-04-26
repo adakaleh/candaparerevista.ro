@@ -48,6 +48,8 @@ Linkuri rapide:
 * [Without Tours to Go On, Some Musicians Are Taking to Minecraft](https://www.usgamer.net/articles/without-tours-to-go-on-some-musicians-are-taking-to-minecraft) <sup>(USgamer)</sup>
 * [In Doom Eternal, you must go with the flow](https://www.polygon.com/2020/4/17/21225011/doom-eternal-flow-state-fun-zone-hugo-martin-jenova-chen) <sup>(Polygon)</sup>
 * [Meet the people who love playing the healer in video games](https://theface.com/culture/gamers-who-play-healers-video-games-technology-covid-19) <sup>(The Face)</sup>
+* [How gaming became a form of meditation](http://www.bbc.com/culture/story/20200409-how-gaming-became-a-form-of-meditation) <sup>(BBC)</sup>
+* [Silicon Valley is racing to build the next version of the Internet. Fortnite might get there first.](https://www.washingtonpost.com/video-games/2020/04/17/fortnite-metaverse-new-internet/) <sup>(Washington Post)</sup>
 
 ---
 
