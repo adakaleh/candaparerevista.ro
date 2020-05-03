@@ -19,8 +19,10 @@
       {{ end }}
     </div>
 
-    {{ partial "navigation" . }}
+    {{/* partial "navigation" . */}}
+    {{ template "_internal/pagination.html" . }}
 
+  </div>
   </div>
 </main>
 

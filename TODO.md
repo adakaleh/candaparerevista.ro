@@ -27,7 +27,7 @@
 * [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 * [ ] De folosit page resources pentru download
 * [ ] Optimizare fonturi (de scos fonturi nefolosite, unicode ranges) - ?
-* [ ] De corectat paginație (navigation.html) - lista de page numbers nu ține cont de numărul total de pagini, trebuie clamp
+* [x] De corectat paginație (navigation.html) - lista de page numbers nu ține cont de numărul total de pagini, trebuie clamp
 
 ### Documentatie
 * [ ] Info contribuitori git / site map
