@@ -22,7 +22,8 @@
       {{ partial "post-list" . }}
     </div>
 
-    {{ partial "navigation" . }}
+    {{/* partial "navigation" . */}}
+    {{ template "_internal/pagination.html" . }}
 
   </div>
 </main>

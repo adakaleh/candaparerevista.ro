@@ -15,7 +15,8 @@
         {{ partial "post-list" . }}
       </div>
 
-      {{ partial "navigation" . }}
+      {{/* partial "navigation" . */}}
+      {{ template "_internal/pagination.html" . }}
 
     {{else}}
       <div class="post-feed">
@@ -38,7 +39,8 @@
 
     <!-- Pentru pagina autorilor, unde sunt carduri separate/autor, avem nevoie si de paginatie -->
     {{ if eq .Section "authors" }}
-      {{ partial "navigation" . }}
+      {{/* partial "navigation" . */}}
+      {{ template "_internal/pagination.html" . }}
     {{end}}
   </div>
 </main>
