@@ -146,6 +146,11 @@ text articol aici
 text articol aici
 ~~~
 
+## Video
+Pentru video, Hugo are suport built-in pentru clipuri YouTube, dar care dintr-un motiv necunoscut nu merge la noi. Soluția a fost un shortcode custom, care face același lucru.
+
+Exemplu utilizare: ```{{< youtube B7hZmL3wkEU >}}```
+
 ## Aside
 Pentru a introduce o casetă de text separată de corpul articolului, trebuie folosit parţialul `aside`, astfel:
 * ` {{< aside >}} text aici {{< /aside >}} `
