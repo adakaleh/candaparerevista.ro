@@ -42,7 +42,7 @@ Ai încercat vreodată să mergi cu ochii închişi? E terifiant! Încerci să t
 
 Jocul este, în esență, un walking simulator, ce atrage mai ales prin originala grafică în acuarelă, şi care te ţine conectat la poveste făcându-te să trăieşti bucuriile, temerile, reuşitele sau dezamăgirile fetiţei oarbe pe care trebuie să o ghidezi. Este adevărat că există momente când te gândeşti că povestea ar fi putut fi mai ramificată sau cu mai multe provocări, dar, cum jocul este scurt, iar finalul emoţionant şi satisfăcător, ajungi să apreciezi simplitatea şi sensibilitatea abordării. Cumva, mesajul său a fost mai bine transmis prin intermediul acestei formule liniare şi minimaliste. Chiar și ritmul lent (uneori chiar frustrant de lent) contribuie la experiență - totuşi, cât de repede se poate deplasa un orb, care se teme de orice pas făcut în afara zonei de confort?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xTVXH3VTV5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube xTVXH3VTV5w >}}
 
 Personajul rămas fără vedere, în urma unui accident, este micuţa Rae. După o perioadă tristă, de acomodare cu noua ei situaţie, fetiţa găsește în pisica Nani, care hoinărește ocazional în jurul casei ei, o alinare pentru zilele terne pe care a ajuns să le petreacă doar în spaţiul cunoscut şi sigur şi care o face să uite de handicapul său, ajutând-o să se folosească cât mai mult de celelalte simţuri atunci când cercetează grădina în căutarea ei.
 

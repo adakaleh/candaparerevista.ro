@@ -43,7 +43,7 @@ Am o prietenă care îmi tot zice că sunt hater, că nimic nu-mi place. Eu îi 
 
 În cazul de față, aceste standarde înalte se traduc prin faptul că dacă nu vorbeam cu Cristan că o să scriu despre joc, nu aș fi dus niciodată Bounty Train până la capăt, darămite să mă mai chinui și cu un DLC. Nu mă înțelegeți greșit, jocul nu e rău. Acum vreo 10 ani ar fi fost considerat probabil chiar bun. Însă pentru un titlu lansat în 2017, ce a primit conținut suplimentar acum vreo 2 luni, oferta e parcă prea săracă. Nici măcar raportul cantitate/preț nu e bun la cei 25 de euro (+5 pe DLC) ceruți.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pMA2xcteQGY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube pMA2xcteQGY >}}
 
 Dar să încetinesc puțin, căci se pare că am sărit la concluzii din primul paragraf, fără să povestesc vreun pic despre jocul în sine. Povestea te aruncă în bocancii unui oarecare Walter Reed, fiu risipitor, întors în America pentru a scoate un ban de pe urma morții lu' ăl bătrân. Vedeți voi, taica Reed era un partener important într-o mare firmă de transport feroviar, aflată în fruntea valului de antreprenori ce dezvoltau rețeaua de trenuri de pe continent. Walter al nostru nu prea se încurcă cu așa ceva, vrea doar să vândă ce i-a lăsat taică-său și să-și vadă de treburile lui.
 

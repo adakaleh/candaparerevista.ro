@@ -65,7 +65,7 @@ casetaTehnica:
 
 Jocul cu gâsca! Pacostea virală! Junghiul internetului! Jocul memă! L-am jucat și noi, ca să fim în rând cu lumea, astfel că acum puteți să aflați și voi cum este și de ce vorbește lumea despre el. Iar dacă încă nu aveți habar la ce mă refer, priviți trailerul de mai jos - veți înțelege imediat. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5OrLdnOUEkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube 5OrLdnOUEkY >}}
 
 Și… nu e rău deloc. Nu e un indie revoluționar, dar e original, amuzant și foarte accesibil, astfel încât e atractiv pentru mai multe categorii de jucători, inclusiv dintre cei care în mod normal nu s-ar prezenta drept „gameri”.
 
