@@ -471,7 +471,7 @@ a {
     text-align: right;
 }
 
-/* override navigatie jos */
+/* --- navigatie custom --- */
 .first-posts, .newer-posts {
     position: relative;
     float: left;
@@ -495,4 +495,60 @@ a {
     border-radius: 4px;
     padding: 0.3em;
     background-color: #fff;
+}
+
+/* --- navigatie default Hugo --- */
+ul.pagination li {
+    display: inline;
+    margin: 0 0.2em;
+}
+
+/* pagina curenta */
+ul.pagination li.active {
+    border: #ddd 1px solid;
+    border-radius: 4px;
+    padding: 0.3em;
+    background-color: #fff;
+}
+
+/* first and prev */
+ul.pagination > li:first-child > a:first-child,
+ul.pagination > li:nth-child(2) > a:first-child {
+    visibility: hidden;
+}
+
+ul.pagination > li:first-child > a:first-child:after {
+    visibility: visible;
+    content: "«";
+}
+
+ul.pagination > li:nth-child(2) > a:first-child:before {
+    visibility: visible;
+    content:'Previous';
+}
+
+/*ul.pagination > li:nth-child(2):after {
+    visibility: visible;
+    content:'|';
+}*/
+
+/* next and last */
+ul.pagination > li:nth-last-child(2) > a:first-child,
+ul.pagination > li:last-child > a:first-child {
+    visibility: hidden;
+}
+
+/*ul.pagination > li:nth-last-child(2):before {
+    visibility: visible;
+    content:'|';
+}*/
+
+ul.pagination > li:nth-last-child(2) > a:first-child:after {
+    visibility: visible;
+    content:'Next';
+}
+
+ul.pagination > li:last-child > a:first-child:before {
+    visibility: visible;
+    content: "»";
 }
