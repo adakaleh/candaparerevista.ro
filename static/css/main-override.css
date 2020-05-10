@@ -348,8 +348,8 @@ a {
     text-align: center;
 }
 
-/* caseta descriere autor din pagina /authors/<author-name> */
-.author-description {
+/* caseta descriere categorie sau autor */
+.category-description {
     /* suprascriere proprietati de la .post-full-content */
     margin: 0;
     margin: -2em auto 2em!important;
@@ -359,7 +359,7 @@ a {
     max-width: 1240px!important;
 }
 
-.author-description:after, .author-description:before {
+.category-description:after, .category-description:before {
     height: 3vw!important;
 }
 

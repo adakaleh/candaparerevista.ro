@@ -98,6 +98,19 @@ disableGallery:
 # afisata in modul vechi (doar thumbs, fara fotorama)
 classicGallery:
 
+# (optional, true sau false) folosit pentru override la afișarea
+# descrierii categoriei din /data/categorii. In mod implicit, 
+# descrierea categoriei nu e afișată la începutul articolului, dar
+# acest lucru se poate schimba în două feluri: prin setarea opțiunii
+# `descriere_enabled: true` la orice categorie din /data/categorii,
+# (caz în care toate articolele din categorie vor afișa descrierea)
+# sau prin setarea acestui flag din articol pe true, caz în care doar
+# acest articol va afișa descrierea. În schimb, pentru articolele din
+# categorii cu `descriere_enabled: true` în /data/categorii, putem 
+# pune acest flag pe `showCategoryDescription:false` pentru a ascunde
+# descrierea categoriei doar pentru acest articol
+showCategoryDescription:
+
 # (optional) informatii tehnice minime despre joc sau carte
 # dintre parametrii care pot fi dati, doar `data` este obligatoriu
 # vezi exemplu in [postarea exemplu](/content/posts/2018/05/hello-markdown/index.md).

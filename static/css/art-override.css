@@ -139,6 +139,20 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     display: none;
 }
 
+/* caseta descriere categorie */
+
+.post-full-content .category-description {
+    margin: 0em auto 2em!important;
+    font-style:italic;
+    background-image: url('../img/blackpaper_w_yellowish.jpg');
+    width: 100%;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1.6rem;
+    line-height:1.3em;
+    box-shadow: 2px 2px 10px rgba(39, 44, 49, .1), 1px 3px 8px rgba(39, 44, 49, .1);
+    opacity: 0.85;
+}
+
 /* container text articol - primul paragraf */
 .post-template .kg-card-markdown:not(.blog)>p:first-child {
     font-size:1.9rem;
