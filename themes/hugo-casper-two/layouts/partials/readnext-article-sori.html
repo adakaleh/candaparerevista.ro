@@ -1,70 +1,93 @@
-{{ if eq .Section "blog" }}
+{{ $isNotBlogCard := ne .Type "blog" }}
+{{ $blogCssClass := cond $isNotBlogCard "" "blog" }}
 
-  {{ partial "blog-post" . }}
+{{ $noImageCssClass := cond (or (eq .Type "blog") (eq .Params.hideImage true)) "no-image" "" }}
 
-{{ else }}
+{{ $customCardColor := cond (isset .Params "cardcolor") .Params.cardColor "" }}
 
-  <article class="post-card post">
-      {{if .Params.image}}
-        <a class="post-card-image-link" href="{{ .Permalink }}">
-          <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
-        </a>
+<article class="post-card {{$blogCssClass}} {{ $noImageCssClass }} " style="background: {{ $customCardColor | safeCSS }}">
 
-      {{else if .Resources.GetMatch "card-cover-image"}}
-        {{ $coverImage := .Resources.GetMatch "card-cover-image" }}
-        {{ $resizedCover := $coverImage.Resize .Site.Params.cardThumbSize }}
-        <a class="post-card-image-link" href="{{ .Permalink }}">
-          <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
-        </a>
+  {{ if and $isNotBlogCard (ne .Params.hideImage true) }}
+    <!-- ----- Imagine card ----- -->
+    <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
+    {{if .Params.image}}
+      <a class="post-card-image-link" href="{{ .Permalink }}">
+        <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
+      </a>
 
-      {{else if .Resources.GetMatch "cover-image"}}
-        {{ $coverImage := .Resources.GetMatch "cover-image" }}
-        {{ $resizedCover := $coverImage.Resize .Site.Params.cardThumbSize }}
-        <a class="post-card-image-link" href="{{ .Permalink }}">
-          <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
-        </a>
-      {{else}}
-        <a class="post-card-image-link" href="{{ .Permalink }}">
-          <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
-        </a>
-      {{end}}
+    {{else if .Resources.GetMatch "card-cover-image"}}
+      {{ $coverImage := .Resources.GetMatch "card-cover-image" }}
+      {{ $resizedCover := $coverImage.Resize .Site.Params.cardThumbSize }}
+      <a class="post-card-image-link" href="{{ .Permalink }}">
+        <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
+      </a>
 
-      <div class="post-card-content">
-        <a class="post-card-content-link" href="{{ .Permalink }}">
-            <header class="post-card-header">
-                {{if .Params.categories }}<div class="post-card-categories">{{ range $index, $categ := .Params.categories }}
-                {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}</div>{{end}}
-                <h2 class="post-card-title">{{.Title}}</h2>
-                {{/*if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
-                #{{$tag}} {{end}} </span>
-                {{ end */}}
-                {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
-            </header>
-            <section class="post-card-excerpt">
-              <p class="js-text-clamp">
-                {{ if .Description }}
-                  {{ .Description | markdownify }}
-                {{else}}
-                  {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
-                {{end}}
-              </p>
-            </section>
-        </a>
+    {{else if .Resources.GetMatch "cover-image"}}
+      {{ $coverImage := .Resources.GetMatch "cover-image" }}
+      {{ $resizedCover := $coverImage.Resize .Site.Params.cardThumbSize }}
+      <a class="post-card-image-link" href="{{ .Permalink }}">
+        <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
+      </a>
+    {{else}}
+      <a class="post-card-image-link" href="{{ .Permalink }}">
+        <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
+      </a>
+    {{end}}
+  {{end}}
 
-        <footer class="post-card-meta">
-            {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
-            {{$authorName := $author.name  }}
-            {{$authorThumbnail := $author.thumbnail }}
-            {{$authorLink := .Params.authors }}
+  <div class="post-card-content">
+    <a class="post-card-content-link" href="{{ .Permalink }}">
+        <header class="post-card-header">
+            {{with .Params.categories }}
+                <!-- luam prima categorie din articol si, daca are definitie in Site Data,
+                   ii citim culoarea si o punem la bordura de pe card -->
+                {{ $primaCategorieDinArticol := lower (index . 0) }}
+                {{ $cat := index $.Site.Data.categorii $primaCategorieDinArticol }}
+                {{ $culoare := $cat.culoare_bordura | default "" }}
 
-            {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
-            <img class="author-profile-image" src="{{ $authorThumbnailFile }}" alt="{{ $authorName }}" />
-            <div>
-              <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
-              <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
-            </div>
-        </footer>
-      </div>
-  </article>
+                <div class="post-card-categories" style="border-color: {{ $culoare | safeCSS }}">
+                    {{ range $index, $articleCateg := . }}
+                        <!-- afisam lista cu categoriile articolului - pentru fiecare, daca are definitie in Site Data,
+                         ii citim numele definit acolo, altfel ramane numele categoriei definit in articol -->
+                        {{if $index}}/{{end}}
+                        {{ $categorieSiteData := index $.Site.Data.categorii (lower $articleCateg) }}
+                        {{ $categorie := $categorieSiteData.nume | default $articleCateg }}
+                        <span class = "{{ lower $categorie }}">{{$categorie}}</span>
+                    {{end}}
+                </div>
+            {{end}}
+            <h2 class="post-card-title">{{.Title}}</h2>
+            {{/*if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
+            #{{$tag}} {{end}} </span>
+            {{ end */}}
+            {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
+        </header>
+        {{ if ne .Params.hideDescription true }}
+          <section class="post-card-excerpt">
+            <p class="js-text-clamp">
+              {{ if .Description }}
+                {{ .Description | markdownify }}
+              {{else}}
+                {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
+              {{end}}
+            </p>
+          </section>
+        {{end}}
+    </a>
 
-{{ end }}
+    <footer class="post-card-meta">
+        {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
+        {{$authorName := $author.name  }}
+        {{$authorThumbnail := $author.thumbnail }}
+        {{$authorLink := .Params.authors }}
+
+        {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
+        <img class="author-profile-image" src="{{ $authorThumbnailFile }}" alt="{{ $authorName }}" />
+        <div>
+          <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
+          <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
+        </div>
+        <div class="post-card-reading-time">{{.ReadingTime}}</div>
+    </footer>
+  </div>
+</article>

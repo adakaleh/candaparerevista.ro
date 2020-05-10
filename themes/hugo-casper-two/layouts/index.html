@@ -1,25 +1,23 @@
+<!-- Setam un parametru suplimentar aici pentru a-l citi in partiale
+in caz ca sunt necesare procesari diferite pentru home page -->
+{{ .Scratch.Set "parentPage" "home" }}
 {{ partial "head" . }}
 
 <body class="home-template"><div class="site-wrapper">
 
+<!-- aici e folosit flagul "home" pentru a ascunde logo-ul -->
 {{ partial "header" . }}
 
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     <div class="post-feed">
+      <!-- aici e folosit flagul "home" pentru filtrari suplimentare -->
       {{ partial "post-list" . }}
     </div>
 
+    {{/* partial "navigation" . */}}
+    {{ template "_internal/pagination.html" . }}
 
-    <nav class="pagination" role="navigation">
-      {{if .Paginator.HasPrev}}
-          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-      {{end}}
-      <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-      {{if .Paginator.HasNext}}
-          <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-      {{end}}
-    </nav>
   </div>
 </main>
 

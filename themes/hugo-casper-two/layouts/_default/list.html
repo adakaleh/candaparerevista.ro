@@ -1,30 +1,28 @@
 {{ partial "head" . }}
 
-<body class="home-template"><div class="site-wrapper">
 
-{{ partial "header" . }}
+{{if (eq .Section "blog")}}
+  <body class="tag-template"><div class="site-wrapper">
+  {{ partial "header-sori-term" . }}
+{{else}}
+  <body class="home-template"><div class="site-wrapper">
+  {{ partial "header" . }}
+{{end}}
 
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">
     <div class="post-feed">
-      {{ if eq .Section "blog" }}
-        {{ partial "blog-list" . }}
-      {{ else if eq .Section "licenses" }}
+      {{ if eq .Section "licenses" }}
         {{ partial "license-list" . }}
       {{ else }}
         {{ partial "post-list" . }}
       {{ end }}
     </div>
 
-    <nav class="pagination" role="navigation">
-      {{if .Paginator.HasPrev}}
-          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-      {{end}}
-      <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-      {{if .Paginator.HasNext}}
-          <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-      {{end}}
-    </nav>
+    {{/* partial "navigation" . */}}
+    {{ template "_internal/pagination.html" . }}
+
+  </div>
   </div>
 </main>
 

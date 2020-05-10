@@ -24,7 +24,7 @@ va fi generata linia:
 -------------------
 Folosire
 -------------------
-In mod implicit, scriptul cauta linkuri intr-un fisier 'input_links.txt'. Alternativ, i se poate da un alt fisier ca argument:
+In mod implicit, scriptul cauta linkuri intr-un fisier 'input_links_hlc.txt'. Alternativ, i se poate da un alt fisier ca argument:
 
 python hlc.py [cale-fisier-linkuri.txt]
 
@@ -40,6 +40,13 @@ Scriptul trateaza sectiunile in mod diferit, astfel incat rezultatul difera:
 - articolele despre lansari/anunturi sunt tratate precum stirile
 - la articolele cu linkuri catre magazine de jocuri, linkurile vor fi inlocuite inline cu link markdown catre pagina respectiva,
   iar pentru jocuri va fi trecut si pretul in euro in paranteza
+- se poate face override la comportamentul de sus punand un (A) la inceputul liniei dintr-o sectiune de Stiri pentru a
+  formata textul ca articol, respectiv un (S) la inceputul unei linii dintr-o sectiune de Articol pentru a o formata
+  ca stire. Exemplu:
+  "
+  ## Știri
+  (A) *  https://www.pcgamer.com/game-remakes-shouldnt-be-afraid-to-change-the-classics/
+  "
 
 -------------------
 TODO
@@ -59,10 +66,7 @@ Features:
 - de mutat majoritatea metodelor de tipul "parseaza_nume" in Sectiuni, unde le e locul
 
 Bugs/issues:
-- la unele site-uri sunt probleme cu identficarea numelui pe Open Graph (ex: pcgamer) - detecteaza
-  prea mult / nu detecteaza sfarsitul (edit: s-ar putea sa fi rezolvat, mai trebuie teste)
-- nu detecteaza categoria Stiri cand e scrisa cu diacritice (dar la Romania merge ok)
-- titlul sectiunii "Anunţuri şi lansări de jocuri" este sters la parsare
+-
 
 Alte observatii:
 - cautarea de text in paginile html nu e foarte robusta si o sa mai dea rateuri - se face cu cautari pe string cu regex;
@@ -74,36 +78,53 @@ Alte observatii:
 import sys
 import requests
 import re
-import codecs
+import io
 import time
 
 ### --------- CLASE SI CONSTANTE --------- ###
 
 is_debug = False
 
-INPUT_FILE_DEFAULT = "input_links.txt" if not is_debug else "test_input_links.txt"
+INPUT_FILE_DEFAULT = "input_links_hlc.txt" if not is_debug else "test_input_links.txt"
 OUTPUT_FILE = "rezultat_final_markdown.txt" if not is_debug else "test_rezultat_final_markdown.txt"
 
 DEFAULT_UNKNOWN_TEXT = "<span style='background-color:red'>PROBLEM</span>"
 
+FORCE_STIRE_PREFIX = "(S)"
+FORCE_ARTICOL_PREFIX = "(A)"
+
 SITEURI_CUNOSCUTE = {
-    'idlethumbs': 'Idle Thumbs',    'pcgamer': 'PC Gamer',          'rockpapershotgun': 'RPS',
-    'gamasutra': 'Gamasutra',       'unwinnable': 'Unwinnable',     'eurogamer': 'Eurogamer',
-    'wired': 'Wired',               'kotaku': 'Kotaku',             'destructoid': 'Destructoid',
-    'vg247': 'VG247',               'waypoint.vice': 'Waypoint',    'gameinformer': 'Games Informer',
-    'arstechnica': 'Ars Technica',  'gamereactor': 'Gamereactor',   'gamesindustry': 'GamesIndustry.biz',
-    'vgchartz': 'VGChartz',         'theverge': 'The Verge',        'pcgamesn': 'PCGamesN',
-    'techpowerup': 'TechPowerUp',   'variety': 'Variety',           'massivelyop': 'Massively OP',
-    'rpgcodex': 'RPG Codex',        'videogamer': 'VideoGamer',     'steamcommunity': 'Steam Community',
-    'gog.com': 'gog.com',           'steampowered.com': 'Steam',    'humblebundle.com/store': 'Humble Store',
-    'gamesradar': 'GamesRadar+',    'venturebeat': 'VentureBeat',   'humblebundle': 'Humble Bundle',
-    'avclub': 'A.V. Club',          'tedium': 'Tedium',             'hardcoregamer': 'Hardcore Gamer',
-    'polygon': 'Polygon',           'guardian': 'The Guardian',     'engadget': 'Engadget',
-    'shacknews': 'Shacknews',       'dotesports': 'Dot Esports',    'pcgamesinsider': 'PCGamesInsider.biz',
-    'techraptor': 'TechRaptor',     'phoronix': 'Phoronix',         'wccftech': 'Wccf tech',
-    'bloomberg': 'Bloomberg',       'medium.com':'Medium',          'filfre.net': 'The Digital Antiquarian',
-    'usgamer': 'USgamer',           'gematsu': 'Gematsu',           'rempton': 'Rempton Games',
-    'slowrun': 'SlowRun',
+    'idlethumbs': 'Idle Thumbs',        'pcgamer': 'PC Gamer',              'rockpapershotgun': 'RPS',
+    'gamasutra': 'Gamasutra',           'unwinnable': 'Unwinnable',         'eurogamer': 'Eurogamer',
+    'wired': 'Wired',                   'kotaku': 'Kotaku',                 'destructoid': 'Destructoid',
+    'vg247': 'VG247',                   'waypoint.vice': 'Waypoint',        'gameinformer': 'Games Informer',
+    'arstechnica': 'Ars Technica',      'gamereactor': 'Gamereactor',       'gamesindustry': 'GamesIndustry.biz',
+    'vgchartz': 'VGChartz',             'theverge': 'The Verge',            'pcgamesn': 'PCGamesN',
+    'techpowerup': 'TechPowerUp',       'variety': 'Variety',               'massivelyop': 'Massively OP',
+    'rpgcodex': 'RPG Codex',            'videogamer': 'VideoGamer',         'steamcommunity': 'Steam Community',
+    'gog.com': 'gog.com',               'steampowered.com': 'Steam',        'humblebundle.com/store': 'Humble Store',
+    'gamesradar': 'GamesRadar+',        'venturebeat': 'VentureBeat',       'humblebundle': 'Humble Bundle',
+    'avclub': 'A.V. Club',              'tedium': 'Tedium',                 'hardcoregamer': 'Hardcore Gamer',
+    'polygon': 'Polygon',               'guardian': 'The Guardian',         'engadget': 'Engadget',
+    'shacknews': 'Shacknews',           'dotesports': 'Dot Esports',        'pcgamesinsider': 'PCGamesInsider.biz',
+    'techraptor': 'TechRaptor',         'phoronix': 'Phoronix',             'critical-distance': 'Critical Distance',
+    'bloomberg': 'Bloomberg',           'medium.com':'Medium',              'filfre.net': 'The Digital Antiquarian',
+    'usgamer': 'USgamer',               'rempton': 'Rempton Games',         'motherboard.vice': 'Motherboard',
+    'slowrun': 'SlowRun',               'gamedaily': 'GameDaily.biz',       'haywiremag': 'Haywire Magazine',
+    'forbes': 'Forbes',                 'dsogaming': 'DSOGaming',           'store.playstation': 'PlayStation Store',
+    'pastemagazine': 'Paste',           'gematsu': 'Gematsu',               'thehistoryofhowweplay': 'The History of How We Play',
+    'pcinvasion': 'PC Invasion',        'theringer.com': 'The Ringer',      'firstpersonscholar': 'First Person Scholar',
+    'microsoft.com': 'Microsoft Store', 'gamepressure': 'Gamepressure.com', 'nintendo.com/games/': 'Nintendo Store',
+    'store.ubi.com': 'Ubi Store',       'gamespace.com': 'GameSpace',       'problemmachine': 'The Problem Machine',
+    'wccftech': 'Wccf tech',            'ea.com/games':'EA Store',          'psychologyofgames': 'The Psychology of Video Games',
+    'fanbyte':'Fanbyte',                'epicgames.com/store': 'Epic Store','landofobscusion': 'The Land of Obscusion',
+    'gizmodo':'Gizmodo',                'timber-owls.com': 'Timber Owls',   'bulletpointsmonthly': 'Bullet Points Monthly',
+    'resetera.com':'ResetEra',          'vice.com':'Vice',                  'videogameschronicle':'VideoGamesChronicle',
+    'egmnow.com': 'EGM',                'gamespot.com': 'Gamespot',         'ineeddiversegames.org':'I Need Diverse Games',
+    'qz.com': 'Quartz',                 'nytimes.com': 'New York Times',    'jeff-vogel.blogspot.com': 'The Bottom Feeder',
+    'escapistmagazine.com':'Escapist',  'hyperallergic.com':'Hyperallergic', 'historianon.wordpress':'Historian On Games',
+    'theface.com': 'The Face',          'acriticalhit.com': 'A Critical Hit','rogame.dev':'Romanian Game Developers',
+    'businessinsider.com': 'Business Insider',
 }
 
 MAGAZINE = {
@@ -112,7 +133,42 @@ MAGAZINE = {
     "humble"    : "humblebundle.com", # aici pretul e generat cu js, nu poate fi citit din html
     "fanatical" : "fanatical.com",  # fanatical au tot site-ul generat cu js, nu putem citi mai nimic
     "gmg"       : "greenmangaming",
-    "origin"    : "origin.com"
+    "origin"    : "origin.com",
+}
+
+TERMINATII_DE_CURATAT = {
+    '- VideoGamer.com',
+    '- Hardcore Gamer',
+    '- VG247',
+    '- DEEP HELL',
+    '- Finger Guns',
+    '— Wireframe Magazine',
+    '- Escapist Magazine',
+    '- PC Invasion',
+    '| Opinion',
+    '| Sidequest',
+    '- DSOGaming',
+    '| DSOGaming | The Dark Side Of Gaming',
+    '&quot; - DSOGaming',
+    '- The Face',
+    '| Unwinnable',
+    '| PC Invasion',
+    '| The Obscuritory',
+    '| Massively Overpowered',
+    '&#8211; Haywire Magazine',
+    'The Digital Antiquarian',
+    '| VGC',
+    '| Into The Spine',
+    '&#8211; First Person Scholar',
+    '&ndash; Spiel Times',
+    '| EGM',
+    '&ndash; A Critical Hit!',
+}
+
+# TODO: de folosit
+PREFIXE_DE_CURATAT = {
+    'Opinion |',
+    '&raquo; ',
 }
 
 EXCH_GBP_EUR = 1.1
@@ -137,10 +193,12 @@ class Sectiune(RawLine):
     O linie despre care stim ca contine numele unei sectiuni un header de nivel 2 ("## ')
     """
 
-    def __init__(self, text):
+    def __init__(self, text, nume):
         RawLine.__init__(self, text)
         # lista liniilor care apartin acestei sectiuni
         self.linii = []
+        # numele sectiunii
+        self.nume = nume
 
     def is_different_type_than(self, other_section):
         return type(self) != type(other_section)
@@ -157,6 +215,50 @@ class Sectiune(RawLine):
     def make_markdown_link(self, link):
         pass
 
+    def has_force_format_article(self, linie):
+        return linie.text.startswith(FORCE_ARTICOL_PREFIX)
+
+    def has_force_format_news(self, linie):
+        return linie.text.startswith(FORCE_STIRE_PREFIX)
+
+    def remove_override_prefix(self, linie, force_prefix):
+        if linie.text.startswith(force_prefix):
+            linie.text = linie.text.replace(force_prefix, "", 1).lstrip()
+            linie.get_links()[0].start = linie.get_links()[0].start - 4
+
+    def format_line_for_news(self, linie):
+        if self.has_force_format_news(linie):
+            self.remove_override_prefix(linie, FORCE_STIRE_PREFIX)
+
+        url_incepe = linie.get_links()[0].start
+        lista_sites = ", ".join([self.make_markdown_link_news(link) for link in linie.get_links()])
+        return linie.text[:url_incepe] + "<sup>(" + lista_sites + ")</sup>"
+
+    def format_line_for_article(self, linie):
+        if self.has_force_format_article(linie):
+            self.remove_override_prefix(linie, FORCE_ARTICOL_PREFIX)
+
+        url_incepe     = linie.get_links()[0].start
+        lista_articole = ", ".join([self.make_markdown_link_article(link) for link in linie.get_links()])
+        return linie.text[:url_incepe] + lista_articole
+
+    def make_markdown_link_news(self, link):
+        return "[%s](%s)" % (link.nume_site, link.url)
+
+    def make_markdown_link_article(self, link):
+        return "[%s](%s) <sup>(%s)</sup>" % (self.curata_nume_if_necessary(link.text), link.url, link.nume_site)
+
+    def curata_nume_if_necessary(self, text_link):
+        # TODO de implementat si prefixele de curatat
+        for bad_suffix in TERMINATII_DE_CURATAT:
+            if text_link.endswith(bad_suffix):
+                cleaned_text = text_link[:-len(bad_suffix)]
+                if is_debug:
+                    print("Curatare '%s' <<>> '%s'" % (text_link, cleaned_text), end='\r')
+                return cleaned_text.strip()
+
+        return text_link.strip()
+
     def __str__(self):
         return ("type(%s) \n\tvalues(%d elements: %s)" % (type(self), len(self.linii), self.linii))
 
@@ -172,16 +274,14 @@ class SectiuneStire(Sectiune):
 
         for linie in self.linii:
             if (linie.are_linkuri()):
-                url_incepe     = linie.get_links()[0].start
-                lista_sites = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
-                text_rescris = linie.text[:url_incepe] + "(" + lista_sites + ")"
+                if (self.has_force_format_article(linie)):
+                    text_rescris = self.format_line_for_article(linie)
+                else:
+                    text_rescris = self.format_line_for_news(linie)
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
-
-    def make_markdown_link(self, link):
-        return "[%s](%s)" % (link.nume_site, link.url)
 
 
 class SectiuneArticole(Sectiune):
@@ -198,16 +298,14 @@ class SectiuneArticole(Sectiune):
 
         for linie in self.linii:
             if (linie.are_linkuri()):
-                url_incepe     = linie.get_links()[0].start
-                lista_articole = ", ".join([self.make_markdown_link(link) for link in linie.get_links()])
-                text_rescris = linie.text[:url_incepe] + lista_articole
+                if (self.has_force_format_news(linie)):
+                    text_rescris = self.format_line_for_news(linie)
+                else:
+                    text_rescris = self.format_line_for_article(linie)
                 lista_formatata.append(text_rescris)
             else:
                 lista_formatata.append(linie.get_text().rstrip())
         return lista_formatata
-
-    def make_markdown_link(self, link):
-        return "[%s](%s) (%s) " % (link.text, link.url, link.nume_site)
 
 
 class SectiuneRomania(Sectiune):
@@ -325,6 +423,12 @@ def execute(linii_fisier):
 
     sectiune_curenta = None
 
+    def is_new_section(sectiune_noua):
+        if sectiune_noua and not sectiune_curenta:
+            return True
+        elif sectiune_curenta:
+            return sectiune_noua.nume != sectiune_curenta.nume
+
     # iteram si tratam fiecare linie in parte, apoi le adaugam in lista de mai sus
     for index, linie_curenta in enumerate(linii_fisier):
         # try:
@@ -332,14 +436,17 @@ def execute(linii_fisier):
 
             # track progress
             nume_sectiune = type(sectiune_curenta).__name__[len("Sectiune"):]
-            print("%d/%d (%s)" % (index + 1, len(linii_fisier), nume_sectiune), end='\r')
+            print("%d/%d linii (%s)" % (index + 1, len(linii_fisier), nume_sectiune), end='\r')
 
             # daca am parsat o sectiune, verificam daca e diferita de sectiunea curenta, caz in care
             # o setam pe aceasta ca noua sectiune curenta si o adaugam la lista
             if isinstance(rezultat_parsare, Sectiune):
-                if (rezultat_parsare.is_different_type_than(sectiune_curenta)):
+                if is_new_section(rezultat_parsare):
                     sectiune_curenta = rezultat_parsare
                     document_parsat.append(rezultat_parsare)
+                else:
+                    # e aceeași secțiune, nu facem nimic
+                    pass
 
             # am primit inapoi o linie ce nu tine de nicio sectiune
             else:
@@ -361,7 +468,7 @@ def execute(linii_fisier):
 def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
 
     # verifica daca avem Sectiune (heading 2)
-    if linie_bruta[0:3] == "## ":
+    if linie_bruta.startswith("## "):
         sect = get_sectiune(linie_bruta)
         return sect
 
@@ -401,11 +508,7 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
 
         # completeaza text link
         # TODO de tratat properly aici
-        if isinstance(sectiune_curenta, SectiuneArticole):
-            titlu_articol = parseaza_titlu_articol(url, http_result.text)
-            link.text = titlu_articol
-
-        elif isinstance(sectiune_curenta, SectiuneOferte):
+        if isinstance(sectiune_curenta, SectiuneOferte):
             link.is_promo_page = check_if_promo_page(url)
 
             if (link.is_promo_page):
@@ -413,6 +516,9 @@ def parseaza_linie(linie_bruta, sectiune_curenta, index = -1):
             else:
                 link.text = parseaza_nume_joc(url, http_result.text)
                 link.pret_joc = parseaza_pret_joc(url, http_result.text)
+        else:
+            titlu_articol = parseaza_titlu_articol(url, http_result.text)
+            link.text = titlu_articol
 
         if is_debug:
             print("link parsat = %s" % link)
@@ -464,6 +570,8 @@ def completeaza_urls(text, lista_linkuri):
             lista_linkuri.append(LinkInLinie(url=url, start=start, end=end))
 
         # cauta recursiv in restul textului
+        # TODO trebuie pasata si lungimea textului gasit, astfel ca in LinkInLinie
+        # 'start' si 'end' sa reprezinte coordonatele linkului in textul original
         return completeaza_urls(text[end:], lista_linkuri)
 
     return
@@ -479,25 +587,25 @@ def get_sectiune(linie):
         return False
 
     if (titlu_contine('stiri', 'știri')):
-        return SectiuneStire(linie)
+        return SectiuneStire(linie, titlu_sectiune)
     elif (titlu_contine('articole')):
-        return SectiuneArticole(linie)
+        return SectiuneArticole(linie, titlu_sectiune)
     elif (titlu_contine('romania', 'românia')):
         # return SectiuneRomania(linie)
         # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
-        return SectiuneStire(linie)
-    elif (titlu_contine('anunturi', 'anunţuri')):
+        return SectiuneStire(linie, titlu_sectiune)
+    elif (titlu_contine('anunturi', 'anunţuri', 'anunțuri')):
         # return SectiuneAnunturiLansari(linie)
         # formatul e acelasi deocamdata, nu e nevoie sa folosim o clasa diferita
-        return SectiuneStire(linie)
-    elif (titlu_contine('oferte')):
-        return SectiuneOferte(linie)
+        return SectiuneStire(linie, titlu_sectiune)
+    elif (titlu_contine('oferte', 'prăvălii')):
+        return SectiuneArticole(linie, titlu_sectiune)
     elif (titlu_contine('recomandare')):
-        return SectiuneRecomandare(linie)
+        return SectiuneRecomandare(linie, titlu_sectiune)
 
     # n-ar trebui sa ajungem aici
     else:
-        return Sectiune(linie)
+        return Sectiune(linie, titlu_sectiune)
 
 
 def parseaza_titlu_articol(url, text):
@@ -713,8 +821,7 @@ def is_status_ok(response):
 
 
 def citeste_fisier(fisier_linkuri):
-    # lista_linkuri = open(fisier_linkuri, "r")
-    lista_linkuri = codecs.open(fisier_linkuri, 'r', "utf-8")
+    lista_linkuri = io.open(fisier_linkuri, encoding='utf8')
     return lista_linkuri.readlines()
 
 
@@ -737,7 +844,7 @@ def afiseaza_fisier(document_parsat):
 
 
 def scrie_fisier(document_parsat):
-    links_file = codecs.open(OUTPUT_FILE, 'w', "utf-8")
+    links_file = io.open(OUTPUT_FILE, mode='w', encoding='utf-8')
     for sect in document_parsat:
         # scriem sectiunea, respectiv eventuala linie care nu apartine unei sectiuni
         links_file.write("%s\n" % sect.get_text())

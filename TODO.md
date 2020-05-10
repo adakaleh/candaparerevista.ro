@@ -2,7 +2,8 @@
 ### General
 * [ ] De stabilit categorii fixe
 * [ ] Logo - improve
-* [ ] Buton Forum mai proeminent (?)
+* [x] Buton Forum mai proeminent
+* [ ] Pagină credits, cu link în footer - Hugo, Casper, font, imagine fundal etc.
 
 ### Prima pagină
 * [ ] De testat și modificat pentru cazurile cu autor/avatar lipsă sau default
@@ -13,11 +14,10 @@
 * [ ] Aside cu float left/width 50%
 
 ### Blog comunitate
-* [ ] Îmbunătăţiri layout
-* [ ] Link pe card
+* [x] Modificare post list să nu apară niciodată primul (cardul mare)
 
 ### Mobile
-* [ ] Fix layout carduri prev/next
+* [x] Fix layout carduri prev/next
 * [ ] Test
 
 ### Cod
@@ -27,6 +27,7 @@
 * [ ] De îmbunătățit citirea avatarului pentru autori, să găsească automat fișierul de tip imagine cu același nume ca al fișierului autorului, astfel încât să nu mai fie nevoie de scrierea explicită a avatarului ca variabilă în fișierul yml
 * [ ] De folosit page resources pentru download
 * [ ] Optimizare fonturi (de scos fonturi nefolosite, unicode ranges) - ?
+* [x] De corectat paginație (navigation.html) - lista de page numbers nu ține cont de numărul total de pagini, trebuie clamp
 
 ### Documentatie
 * [ ] Info contribuitori git / site map
@@ -34,7 +35,7 @@
 
 ### Functionalitati suplimentare
 * [x] Header pagina autor (vezi https://github.com/eueung/hugo-casper-two/issues/3)
-* [ ] Galerie de imagini
+* [x] Galerie de imagini
 * [x] RSS limită
 * [ ] RSS improv: adăugare categorie la titlu sau RSS-uri separate
 * [ ] Search

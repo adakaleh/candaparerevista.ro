@@ -13,24 +13,28 @@
   inainte de cardurile cu articolele sale -->
   {{ if eq .Section "authors" }}
     {{ $author := index .Site.Data.authors .Data.Term }}
-    <section class="post-full-content author-description">
+    <section class="post-full-content category-description">
       {{ $author.description | safeHTML }}
     </section>
+  {{ else}}
+    <!-- iar daca ne aflam intr-o categorie cu descriere, afisam
+    o caseta cu descrierea categoriei -->
+    {{ $categorie := .Name | lower }}
+    {{ $definedCat := index $.Site.Data.categorii $categorie }}
+    {{ with $definedCat.descriere }}
+        <section class="post-full-content category-description">
+          {{ .  | markdownify }}
+        </section>
+    {{ end }}
   {{ end }}
   <div class="inner">
     <div class="post-feed">
       {{ partial "post-list" . }}
     </div>
 
-    <nav class="pagination" role="navigation">
-      {{if .Paginator.HasPrev}}
-          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-      {{end}}
-      <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-      {{if .Paginator.HasNext}}
-          <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-      {{end}}
-    </nav>
+    {{/* partial "navigation" . */}}
+    {{ template "_internal/pagination.html" . }}
+
   </div>
 </main>
 

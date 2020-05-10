@@ -1,6 +1,12 @@
 {{$isBlogPage := eq .Section "blog"}}
 {{$blogPostCssClass := cond $isBlogPage "blog" "" }}
 
+
+{{/* TODO improve this */}}
+{{$featureImage := .Resources.GetMatch "feature-image"}}
+{{$isFeatured := (and (eq .Params.featured true) $featureImage) }}
+{{$featuredCssClass := cond (not (eq $isFeatured false)) "featured" "" }}
+
 <article class="post-full {{ .Section }} post">
     {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
     {{$authorName := $author.name  }}
@@ -8,12 +14,19 @@
     {{$authorDescription := $author.description }}
     {{$authorWebsite := $author.website }}
 
-    {{/* ----- Imagine principală articol ----- */}}
-    <header class="post-full-header">
+    {{/* ----- Header articol (titlu, subtitlu, dată și autor) ----- */}}
+    <header class="post-full-header {{$featuredCssClass}}">
         {{with .Params.categories }}
             <div class="post-full-categories">
-                {{ range $index, $categ := . }}
-                {{if $index}}/{{end}}<span class = "{{ lower $categ }}"><a href="/categories/{{$categ | urlize}}/">{{$categ}}</a></span>{{end}}
+                {{ range $index, $articleCateg := . }}
+                <!-- afisam lista cu categoriile articolului - pentru fiecare, daca are definitie in Site Data,
+                ii citim numele definit acolo, altfel ramane numele categoriei definit in articol -->
+                {{if $index}}/{{end}}
+                {{ $categorieSiteData := index $.Site.Data.categorii (lower $articleCateg) }}
+                {{ $categorie := $categorieSiteData.nume | default $articleCateg }}
+                {{ $categorieDesc := $categorieSiteData.descriere | default $categorie }}
+                <span class = "{{ lower $categorie }}"><a href="/categories/{{$articleCateg | urlize}}/" title="{{$categorieDesc | markdownify}}">{{$categorie}}</a></span>
+                {{end}}
             </div>
         {{end}}
         <h1 class="post-full-title">{{.Title}}</h1>
@@ -34,7 +47,11 @@
     </header>
 
     {{/* ----- Imagine principală articol ----- */}}
-    {{if .Params.image}}
+    {{ if $isFeatured }}
+
+        <figure class="post-full-image {{$featuredCssClass}}" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url({{ $featureImage.Permalink }})"></figure>
+
+    {{else if .Params.image}}
         <figure class="post-full-image" style="background-image: url({{.Params.image | absURL }})"></figure>
 
     {{else}}
@@ -49,7 +66,30 @@
     {{/* ----- Corpul articolului ----- */}}
     <section class="post-full-content {{ $noImageCssClass }}">
         <div class="kg-card-markdown {{ $blogPostCssClass }}">
-        {{ .Content }}
+
+            {{/* ----- Show/hide descriere categorie ----- */}}
+            {{with .Params.categories }}
+                {{ $firstCatArt := index . 0 }}
+                {{ $categorieSiteData := index $.Site.Data.categorii ($firstCatArt | lower) }}
+                {{ with $categorieSiteData.descriere }}
+                    <!-- afisam descrierea categoriei in 2 situatii:
+                       (1) Site.Data description enabled for all si showCategoryDescription in articol nu e false
+                       (2) sau showCategoryDescription in articol e true -->
+                    {{ $enabledInSiteData := (and ($categorieSiteData.descriere_enabled) (ne $.Params.showCategoryDescription false)) }}
+                    {{ $enabledInArticle := eq $.Params.showCategoryDescription true }}
+                    {{ if or $enabledInSiteData $enabledInArticle }}
+                        <section class="category-description">
+                            {{ $categorieSiteData.descriere | markdownify }}
+                        </section>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+
+            {{ .Content }}
+
+            {{ with .Params.infoBox }}
+                {{ partial "info-box" . }}
+            {{ end }}
 
             {{ with .Params.casetaTehnica }}
                 {{ partial "caseta-tehnica" . }}
@@ -58,20 +98,30 @@
         </div>
 
         {{/* ----- Galeria de la sfârşit (imaginile din /gallery ) ----- */}}
-        {{ partial "gallery-all" . }}
+        {{ if not .Params.disableGallery }}
+            {{ partial "gallery-all" . }}
+        {{ end }}
 
         {{/* ----- Caseta informaţii suplimentare articol ----- */}}
-        {{ if or .Params.sursa .Params.tags .Params.linkuriExterne .Params.linkForum (eq .Section "posts") }}
+        {{ if or .Params.sursa .Params.disclaimerReviewCopy .Params.tags .Params.linkuriExterne .Params.linkForum (eq .Section "posts") }}
         <section class="post-full-article-metadata">
             <hr>
             <!--h2>Despre</h2-->
+            {{/* TODO cam shitty if-ul asta repetat, nu se poate altfel? */}}
+            {{ if or .Params.sursa .Params.disclaimerReviewCopy .Params.tags .Params.linkuriExterne (eq .Section "posts") }}
             <div class = "post-full-article-extra">
 
 
                 {{/* afisam info licenta doar pentru articolele din categoria 'posts', pentru celelalte se presupune ca e cea default */}}
+                {{/* la fel si pentru disclaimerul despre copiile de review - doar posturile pot avea un astfel de text */}}
                 {{ if eq .Section "posts" }}
                     {{ $licentaFile := printf "LICENSE-%s.md" (or .Params.licenta "default") }}
                     {{ $licentaArticol := .Site.GetPage "page" "licenses" $licentaFile }}
+
+                    {{ with .Params.disclaimerReviewCopy }}
+                        {{ $disclaimerText := cond (eq . "default") $.Site.Params.disclaimerReviewKey . }}
+                        <p><span class="post-full-article-extra-categ">Disclaimer</span>: <em>{{ $disclaimerText }}</em></p>
+                    {{ end }}
 
                     {{ with $licentaArticol }}
                         <p><span class="post-full-article-extra-categ">Licență articol</span>: <a href="{{ .Permalink }}">{{ .Title }}</a>&nbsp;&nbsp;</p>
@@ -120,7 +170,7 @@
                         </ul>
                 {{end}}
             </div>
-
+            {{ end }}
             {{ with .Params.linkForum }}
                 <p class = "post-forum-link">
                 <span class ="post-forum-link-icon"><svg width="1.5em" height="1.5em"  viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/></svg></span>

@@ -15,15 +15,9 @@
         {{ partial "post-list" . }}
       </div>
 
-      <nav class="pagination" role="navigation">
-        {{if .Paginator.HasPrev}}
-            <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-        {{end}}
-        <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-        {{if .Paginator.HasNext}}
-            <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-        {{end}}
-      </nav>
+      {{/* partial "navigation" . */}}
+      {{ template "_internal/pagination.html" . }}
+
     {{else}}
       <div class="post-feed">
 
@@ -45,15 +39,8 @@
 
     <!-- Pentru pagina autorilor, unde sunt carduri separate/autor, avem nevoie si de paginatie -->
     {{ if eq .Section "authors" }}
-      <nav class="pagination" role="navigation">
-        {{if .Paginator.HasPrev}}
-        <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
-        {{end}}
-        <span class="page-number"><span class="hide">Page {{ .Paginator.PageNumber }} of {{.Paginator.TotalPages}}</span>&nbsp;</span>
-        {{if .Paginator.HasNext}}
-        <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
-        {{end}}
-      </nav>
+      {{/* partial "navigation" . */}}
+      {{ template "_internal/pagination.html" . }}
     {{end}}
   </div>
 </main>

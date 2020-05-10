@@ -1,85 +1,122 @@
-{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") }}
+<!-- Intai trebuie sa stim daca lista de posturi e construita pentru home page sau pentru o categorie.
+In functie de asta, putem aplica filtre aditionale, respectiv sa ascundem anumite posturi din lista
+de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categorie  -->
+{{ $isHomePage := eq ($.Scratch.Get "parentPage") "home" }}
+
+{{ $toatePosturile := (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) }}
+<!-- Aceasta filtrare exclude posturile care au setat parametrul `hideOnHome: true`
+ (atentie: denumirea parametrului trebuie sa fie lowercase in conditia de la "where") -->
+{{ $toatePosturileFaraHide := (where (where .Data.Pages.ByDate.Reverse "Type" "in" .Site.Params.mainSections) ".Params.hideonhome" "!=" "true") }}
+{{ $posturiAfisabile := cond ($isHomePage) $toatePosturileFaraHide $toatePosturile }}
+
+{{ $paginator := .Paginate $posturiAfisabile }}
+
 {{ $pageNumber := .Paginator.PageNumber}}
 {{ range $cardIndex, $cardPage := $paginator.Pages }}
 
-{{ $isFirstCard := and (eq $pageNumber 1) (eq $cardIndex 0) }}
-{{ $firstCardCssClass := cond $isFirstCard "first-card" "" }}
-{{ $cardThumbSize := cond $isFirstCard .Site.Params.firstCardThumbSize .Site.Params.cardThumbSize }}
+  {{ $isNotBlogCard := ne .Type "blog" }}
+  {{ $mustHaveImage := cond (ne .Params.hideImage true) true false }}
 
-<article class="post-card post {{ $firstCardCssClass }}">
+  <!-- Verificam daca iterarea este la primul card de pe prima pagina ca sa-i putem defini o clasa css proprie -->
+  {{ $isFirstCardFirstPage := and (eq $pageNumber 1) (eq $cardIndex 0) }}
+  {{ $isFirstCardsOtherPages := and (gt $pageNumber 1) (in (slice 0 1 2) $cardIndex ) }}
+  {{ $firstCardCssClass := cond ($isFirstCardFirstPage) "first-card" (cond (and $isFirstCardsOtherPages $isNotBlogCard) "other-pages-first-cards" "")  }}
 
-    {{/* ----- Imagine card ----- */}}
-    {{if .Params.image}}
-      <a class="post-card-image-link" href="{{ .Permalink }}">
-        <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
-      </a>
+  {{ $isNotFirstCardHomePage:= ne (and $isHomePage $isFirstCardFirstPage) true }}
 
-    {{else if .Resources.GetMatch "card-cover-image"}}
-      {{ $coverImage := .Resources.GetMatch "card-cover-image" }}
-      {{ $resizedCover := $coverImage.Resize $cardThumbSize }}
-      <a class="post-card-image-link" href="{{ .Permalink }}">
-        <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
-      </a>
+  {{ $cardThumbSize := cond $isFirstCardFirstPage .Site.Params.firstCardThumbSize .Site.Params.cardThumbSize }}
 
-    {{else if .Resources.GetMatch "cover-image"}}
-      {{ $coverImage := .Resources.GetMatch "cover-image" }}
-      {{ $resizedCover := $coverImage.Resize $cardThumbSize }}
-      <a class="post-card-image-link" href="{{ .Permalink }}">
-        <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
-      </a>
+  {{ $noImageCssClass := cond (eq .Params.hideImage true) "no-image" "" }}
 
-    {{else}}
-      <a class="post-card-image-link" href="{{ .Permalink }}">
-        <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
-      </a>
-    {{end}}
+  {{ $customCardColor := cond (isset .Params "cardcolor") .Params.cardColor "" }}
 
-  {{/* ----- Conţinut card ----- */}}
-    <div class="post-card-content">
-      <a class="post-card-content-link" href="{{ .Permalink }}">
-          <header class="post-card-header">
-              {{if .Params.categories }}<div class="post-card-categories">{{ range $index, $categ := .Params.categories }}
-              {{/*nice trick: https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template*/}}
-              {{if $index}}/{{end}}<span class = "{{ lower $categ }}">{{$categ}}</span>{{end}}</div>{{end}}
-              <h2 class="post-card-title">{{.Title}}</h2>
-              {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
-          </header>
-          <section class="post-card-excerpt">
-            <p class="js-text-clamp">
-              {{ if .Description }}
-                {{ .Description | markdownify }}
-              {{ else}}
-                    {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
-              {{ end}}
-            </p>
-          </section>
-      </a>
+  <article class="post-card {{.Type}} {{ $firstCardCssClass }} {{ $noImageCssClass }}" style="background: {{ $customCardColor | safeCSS }}">
+      {{ if and $isNotBlogCard (ne .Params.hideImage true) }}
+          <!-- ----- Imagine card ----- -->
+          <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
+          {{if .Params.image}}
+            <a class="post-card-image-link" href="{{ .Permalink }}">
+              <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
+            </a>
 
-        <footer class="post-card-meta">
-            {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
-            {{$authorName := $author.name  }}
-            {{$authorThumbnail := $author.thumbnail }}
-            {{$authorLink := .Params.authors }}
+          {{else if .Resources.GetMatch "card-cover-image"}}
+            {{ $coverImage := .Resources.GetMatch "card-cover-image" }}
+            {{ $resizedCover := $coverImage.Resize $cardThumbSize }}
+            <a class="post-card-image-link" href="{{ .Permalink }}">
+              <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
+            </a>
 
-            {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
-            <img class="author-profile-image" src="{{ $authorThumbnailFile }}" alt="{{ $authorName }}" />
-            <div>
-              <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
-              <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
-            </div>
-        </footer>
-    </div>
-</article>
+          {{else if .Resources.GetMatch "cover-image"}}
+            {{ $coverImage := .Resources.GetMatch "cover-image" }}
+            {{ $resizedCover := $coverImage.Resize $cardThumbSize }}
+            <a class="post-card-image-link" href="{{ .Permalink }}">
+              <div class="post-card-image" style="background-image: url({{ $resizedCover.Permalink }})"></div>
+            </a>
 
-    {{/* ----- Card Blogul Comunităţii - doar pe prima pagină, după cardul principal ----- */}}
-    {{ if $isFirstCard }}
-      {{ with (where $.Data.Pages.ByDate.Reverse "Type" "blog") }}
-        <article class="post-card blog-card">
-          <a href="/blog"><div class="blog-card-label">{{ $.Site.Params.labelSectiuneBlog }}</div></a>
-            {{ range first 2 . }}
-              {{ partial "blog-post" . }}
-            {{ end }}
-        </article>
+          {{else}}
+            <a class="post-card-image-link" href="{{ .Permalink }}">
+              <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
+            </a>
+          {{end}}
+
       {{ end }}
-    {{ end }}
+
+      <!-- ----- Conţinut card ----- -->
+      <div class="post-card-content">
+        <a class="post-card-content-link" href="{{ .Permalink }}">
+            <header class="post-card-header">
+                {{with .Params.categories }}
+                    <!-- luam prima categorie din articol si, daca are definitie in Site Data,
+                    ii citim culoarea si o punem la bordura de pe card -->
+                    {{ $primaCategorieDinArticol := lower (index . 0) }}
+                    {{ $cat := index $.Site.Data.categorii $primaCategorieDinArticol }}
+                    {{ $culoare := $cat.culoare_bordura | default "" }}
+
+                    <div class="post-card-categories" style="border-color: {{ $culoare | safeCSS }}">
+                        {{ range $index, $articleCateg := . }}
+                            <!-- afisam lista cu categoriile articolului - pentru fiecare, daca are definitie in Site Data,
+                            ii citim numele definit acolo, altfel ramane numele categoriei definit in articol -->
+                            {{/*nice trick pentru join lista: https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template*/}}
+                            {{if $index}}/{{end}}
+                            {{ $categorieSiteData := index $.Site.Data.categorii (lower $articleCateg) }}
+                            {{ $categorie := $categorieSiteData.nume | default $articleCateg }}
+                            <span class = "{{ lower $categorie }}">{{$categorie}}</span>
+                        {{end}}
+                    </div>
+                {{end}}
+                <h2 class="post-card-title">{{.Title}}</h2>
+                {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
+            </header>
+            {{ if ne .Params.hideDescription true }}
+            <section class="post-card-excerpt">
+              <!-- pentru cardurile de blog vrem sa vedem mai mult text, pentru ca n-au imagine, asa ca facem clamp dublu,
+              cu exceptia primului card de pe prima pagina, unde nu facem clamp deloc si va ramane limita din config -->
+              {{ $clampCssClass := cond (and $isNotBlogCard $isNotFirstCardHomePage) "js-text-clamp" (cond $isNotFirstCardHomePage "js-text-clamp-double" "") }}
+                <p class="{{ $clampCssClass }}">
+                {{ if .Description }}
+                  {{ .Description | markdownify }}
+                {{ else}}
+                      {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
+                {{ end}}
+              </p>
+            </section>
+            {{ end}}
+        </a>
+
+          <footer class="post-card-meta">
+              {{$author := index .Site.Data.authors (or .Params.authors .Site.Params.author)}}
+              {{$authorName := $author.name  }}
+              {{$authorThumbnail := $author.thumbnail }}
+              {{$authorLink := .Params.authors }}
+
+              {{ $authorThumbnailFile := printf "/img/author-avatars/%s" (or $authorThumbnail .Site.Params.authorAvatar) }}
+              <img class="author-profile-image" src="{{ $authorThumbnailFile }}" alt="{{ $authorName }}" />
+              <div>
+                <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
+                <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
+              </div>
+              <div class="post-card-reading-time">{{.ReadingTime}}</div>
+          </footer>
+      </div>
+  </article>
 {{ end }}
