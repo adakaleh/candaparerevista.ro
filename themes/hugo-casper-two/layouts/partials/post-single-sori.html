@@ -24,7 +24,8 @@
                 {{if $index}}/{{end}}
                 {{ $categorieSiteData := index $.Site.Data.categorii (lower $articleCateg) }}
                 {{ $categorie := $categorieSiteData.nume | default $articleCateg }}
-                <span class = "{{ lower $categorie }}"><a href="/categories/{{$articleCateg | urlize}}/">{{$categorie}}</a></span>
+                {{ $categorieDesc := $categorieSiteData.descriere | default $categorie }}
+                <span class = "{{ lower $categorie }}"><a href="/categories/{{$articleCateg | urlize}}/" title="{{$categorieDesc | markdownify}}">{{$categorie}}</a></span>
                 {{end}}
             </div>
         {{end}}
@@ -65,7 +66,26 @@
     {{/* ----- Corpul articolului ----- */}}
     <section class="post-full-content {{ $noImageCssClass }}">
         <div class="kg-card-markdown {{ $blogPostCssClass }}">
-        {{ .Content }}
+
+            {{/* ----- Show/hide descriere categorie ----- */}}
+            {{with .Params.categories }}
+                {{ $firstCatArt := index . 0 }}
+                {{ $categorieSiteData := index $.Site.Data.categorii ($firstCatArt | lower) }}
+                {{ with $categorieSiteData.descriere }}
+                    <!-- afisam descrierea categoriei in 2 situatii:
+                       (1) Site.Data description enabled for all si showCategoryDescription in articol nu e false
+                       (2) sau showCategoryDescription in articol e true -->
+                    {{ $enabledInSiteData := (and ($categorieSiteData.descriere_enabled) (ne $.Params.showCategoryDescription false)) }}
+                    {{ $enabledInArticle := eq $.Params.showCategoryDescription true }}
+                    {{ if or $enabledInSiteData $enabledInArticle }}
+                        <section class="category-description">
+                            {{ $categorieSiteData.descriere | markdownify }}
+                        </section>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+
+            {{ .Content }}
 
             {{ with .Params.infoBox }}
                 {{ partial "info-box" . }}

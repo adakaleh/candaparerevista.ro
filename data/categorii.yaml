@@ -4,5 +4,6 @@ review:
   culoare_bordura: "rgba(139,0,0,0.5)"
 retrospectivă:
   nume: "Retrospectivă"
-  descriere: "aceasta e descrierea pentru articolele de tip retrospectivă"
+  descriere: "Articole ce aruncă un ochi critic (sau doar nostalgic) asupra unui joc din vechime."
   culoare_bordura: "rgba(143,188,143,0.5)"
+  descriere_enabled: false
