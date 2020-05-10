@@ -51,7 +51,7 @@ Linkuri rapide:
 * [Battle royale blurs the line between entertainment and esports](https://www.polygon.com/2019/3/6/18244946/fortnite-apex-legends-league-competitive-ninja-esports) <sup>(Polygon)</sup>
 * [Exploring the Streets of Cyberpunk: Night City with Matthew Webb of Jackalope LARP](http://sidequest.zone/2019/03/07/exploring-the-streets-of-cyberpunk-night-city-with-matthew-webb-of-jackalope-larp/) <sup>(Sidequest)</sup>
 * [How sci-fi game worlds take on capitalist promises of success](https://www.rockpapershotgun.com/2019/03/07/how-sci-fi-game-worlds-take-on-capitalist-promises-of-success/) <sup>(RPS)</sup>
-* [From video game to day job: How ‘SimCity’ inspired a generation of city planners](https://www.latimes.com/business/technology/la-fi-tn-simcity-inspired-urban-planners-20190305-story.html) <sup>(LA Times)</sup>
+* [From video game to day job: How ‘SimCity’ inspired a generation of city planners](https://www.latimes.com/business/technology/la-fi-tn-simcity-inspired-urban-planners-20190305-story.html) <sup>(L.A. Times)</sup>
 
 ---
 

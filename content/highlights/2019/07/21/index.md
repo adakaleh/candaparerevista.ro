@@ -83,7 +83,7 @@ Linkuri rapide:
 * [Looking At How Far No Man&#039;s Sky Has Come](https://www.gameinformer.com/2019/07/15/looking-at-how-far-no-mans-sky-has-come) <sup>(Games Informer)</sup>
 * [Braid Behind the Scenes](http://gamedesignaspect.blogspot.com/2019/07/braid-behind-scenes.html) <sup>(Game Design Aspect)</sup>
 * [Chief Gates Comes to Oakhurst: A Cop Drama](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) <sup>(The Digital Antiquarian)</sup>
-* [With ‘Sky,’ thatgamecompany’s Jenova Chen wants to fix what’s broken with games](https://www.latimes.com/entertainment/herocomplex/la-et-hc-sky-thatgamecompany-20190709-story.html) <sup>(Los Angeles Times)</sup>
+* [With ‘Sky,’ thatgamecompany’s Jenova Chen wants to fix what’s broken with games](https://www.latimes.com/entertainment/herocomplex/la-et-hc-sky-thatgamecompany-20190709-story.html) <sup>(L.A. Times)</sup>
 
 ---
 

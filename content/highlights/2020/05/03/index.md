@@ -123,11 +123,13 @@ Linkuri rapide:
 * 28 aprilie: **Gears Tactics** <sup>([Steam](https://store.steampowered.com/app/1184050/Gears_Tactics/))</sup>
 * 28 aprilie: **WarriOrb** <sup>([Steam](https://store.steampowered.com/app/790360/WarriOrb/))</sup>
 * 28 aprilie: **Moving Out** <sup>([Steam](https://store.steampowered.com/app/996770/Moving_Out/))</sup>
+* 28 aprilie: **Snowrunner** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/snowrunner/))</sup>
+* 29 aprilie: **Samsara Room** <sup>([Steam](https://store.steampowered.com/app/1281800/Samsara_Room/))</sup>
 * 29 aprilie: **The Wind and Wilting Blossom** <sup>([Steam](https://store.steampowered.com/app/686770/The_Wind_and_Wilting_Blossom/))</sup>
 * 30 aprilie: **Streets of Rage 4** <sup>([Steam](https://store.steampowered.com/app/985890/Streets_of_Rage_4/), [gog.com](https://www.gog.com/game/streets_of_rage_4))</sup>
 * 30 aprilie: **Dread Nautical** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/dread-nautical/home))</sup>
 * 30 aprilie: **Call Of Duty: Modern Warfare 2 Remastered** <sup>([Battle.net Shop](https://eu.shop.battle.net/en-gb/product/call-of-duty-modern-warfare-2-campaign-remastered))</sup>
-
+* 30 aprilie: **Levelhead** <sup>([Steam](https://store.steampowered.com/app/792710/Levelhead/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri
