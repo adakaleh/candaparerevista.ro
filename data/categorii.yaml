@@ -1,7 +1,15 @@
 review:
   nume: "Review"
-  descriere: "aceasta e descrierea pentru review-uri"
   culoare_bordura: "rgba(139,0,0,0.5)"
+recomandare:
+  nume: "Recomandare"
+  culoare_bordura: "rgba(139,0,0,0.5)"
+filme:
+  nume: "Filme"
+  culoare_bordura: "rgba(125,174,23,0.5)"
+cărți:
+  nume: "Cărți"
+  culoare_bordura: "rgba(125,174,23,0.5)"
 retrospectivă:
   nume: "Retrospectivă"
   descriere: "Articole ce aruncă un ochi critic (sau doar nostalgic) asupra unui joc din vechime."
