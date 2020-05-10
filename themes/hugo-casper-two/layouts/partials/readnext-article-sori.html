@@ -1,7 +1,7 @@
 {{ $isNotBlogCard := ne .Type "blog" }}
 {{ $blogCssClass := cond $isNotBlogCard "" "blog" }}
 
-{{ $noImageCssClass := cond (eq .Params.hideImage true) "no-image" "" }}
+{{ $noImageCssClass := cond (or (eq .Type "blog") (eq .Params.hideImage true)) "no-image" "" }}
 
 {{ $customCardColor := cond (isset .Params "cardcolor") .Params.cardColor "" }}
 
