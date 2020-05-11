@@ -7,7 +7,7 @@ categories:
     - Impresii
 tags:
     - Planet Alpha
-    - Made in Romania
+    - Made în România
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=2371
 
