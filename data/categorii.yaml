@@ -4,17 +4,22 @@ review:
 recomandare:
   nume: "Recomandare"
   culoare_bordura: "rgba(139,0,0,0.5)"
+impresii:
+  nume: "Impresii"
+  culoare_bordura: "rgba(139,0,0,0.5)"
+  descriere: 'Primele impresii despre un joc contează destul de mult, fie că încerci un joc doar ca „să vezi cum e”, sau pornești un joc de mult așteptat. În această rubrică veți citi scurte păreri formate după prima sesiune de joacă, în general nu mai mult de o oră. Bineînțeles, această impresie nu are cum să fie reprezentativă pentru întregul joc, dar poate fi de ajutor pentru a vă decide dacă să încercați un anumit titlu.'
+  descriere_enabled: true
+retrospectivă:
+  nume: "Retrospectivă"
+  descriere: "Articole ce aruncă un ochi critic (sau doar nostalgic) asupra unui joc sau fenomen din zilele de demult."
+  culoare_bordura: "rgba(143,188,143,0.5)"
+  descriere_enabled: false
 filme:
   nume: "Filme"
   culoare_bordura: "rgba(125,174,23,0.5)"
 cărți:
   nume: "Cărți"
   culoare_bordura: "rgba(125,174,23,0.5)"
-retrospectivă:
-  nume: "Retrospectivă"
-  descriere: "Articole ce aruncă un ochi critic (sau doar nostalgic) asupra unui joc din vechime."
-  culoare_bordura: "rgba(143,188,143,0.5)"
-  descriere_enabled: false
 highlights:
   nume: "Highlights"
   descriere: "**Retrospectiva săptămânii** este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața.<br><br>De asemenea, rubrica e deschisă oricui vrea și poate contribui. Dacă ai citit vreun articol sau vreo știre interesantă și crezi că merită incluse în retrospectiva săptămânii, te așteptăm pe forum pe unul dintre topicurile dedicate: [Știri](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=46), [Articole](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=206), [Gaming România](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=1622)]."
