@@ -37,7 +37,7 @@ Linkuri rapide:
 
 ---
 
-### Știri:
+### Știri
 
 * Revista **Official Xbox Magazine** se închide după 19 ani. <sup>([Eurogamer](https://www.eurogamer.net/articles/2020-03-30-long-running-official-xbox-magazine-shuts-down), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2020-03-30-official-xbox-magazine-closed), [Gamasutra](https://www.gamasutra.com/view/news/360316/Future_shuts_down_Official_Xbox_Magazine_after_almost_two_decades.php))</sup>
                                                              
