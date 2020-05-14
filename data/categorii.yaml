@@ -5,7 +5,7 @@ recomandare:
   nume: "Recomandare"
   culoare_bordura: "rgba(139,0,0,0.5)"
 impresii:
-  nume: "Impresii"
+  nume: "Prima impresie"
   culoare_bordura: "rgba(139,0,0,0.5)"
   descriere: 'Primele impresii despre un joc contează destul de mult, fie că încerci un joc doar ca „să vezi cum e”, sau pornești un joc de mult așteptat. În această rubrică veți citi scurte păreri formate după prima sesiune de joacă, în general nu mai mult de o oră. Bineînțeles, această impresie nu are cum să fie reprezentativă pentru întregul joc, dar poate fi de ajutor pentru a vă decide dacă să încercați un anumit titlu.'
   descriere_enabled: true

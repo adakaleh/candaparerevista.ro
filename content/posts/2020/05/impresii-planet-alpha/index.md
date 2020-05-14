@@ -23,7 +23,7 @@ resources:
   - src: images/planet-alpha-cover.jpg
     name: "cover-image"
 
-description: "Pentru început, un joc românesc (aproape). **Planet Alpha** este un _platformer action-adventure_ 2.5D tipic, inspirat de Another World-ul lui Éric Chahi, realizat de un studio danez, printre ai cărui fondatori se numără și un român (Adrian Lazăr). Premisa e simplă — un astronaut naufragiat pe o planetă extraterestră, care trebuie să scape de inamicii care-l urmăresc (încă nu știm de ce) și care capătă o abilitate puternică, esențială pentru rezolvarea puzzle-urilor întâlnite din loc în loc. În cazul nostru, e vorba de puterea de a manipula mișcarea soarelui pe cer, deci și lumina din nivel."
+description: "Pentru început, un joc românesc (aproape). Planet Alpha este un platformer action-adventure 2.5D tipic, inspirat de Another World-ul lui Éric Chahi, realizat de un studio danez, printre ai cărui fondatori se numără și un român (Adrian Lazăr). Premisa e simplă — un astronaut naufragiat pe o planetă extraterestră, care trebuie să scape de inamicii care-l urmăresc (încă nu știm de ce) și care capătă o abilitate puternică, esențială pentru rezolvarea puzzle-urilor întâlnite din loc în loc. În cazul nostru, e vorba de puterea de a manipula mișcarea soarelui pe cer, deci și lumina din nivel."
 
 infoBox:
   data: "4 septembrie 2018"
