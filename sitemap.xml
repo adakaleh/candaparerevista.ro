@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/05/impresii-the-textorcist/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2020/05/impresii-planet-alpha/</loc>
     <lastmod>2020-05-12T00:06:01+00:00</lastmod>
   </url>
@@ -2525,7 +2530,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/cristan/</loc>
-    <lastmod>2020-05-12T00:06:01+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4303,7 +4308,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/impresii/</loc>
-    <lastmod>2020-05-12T00:06:01+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4794,14 +4799,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6068,7 +6073,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-05-12T00:06:01+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6818,7 +6823,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-05-12T00:06:01+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7729,6 +7734,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/the-suicide-of-rachel-foster/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/the-textorcist/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
