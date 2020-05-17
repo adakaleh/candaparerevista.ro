@@ -37,7 +37,7 @@ Deși n-am jucat multe, pot spune că-mi plac jocurile bazate pe _typing_ (n-o s
 
 **The Textorcist** e un titlu interesant. Nu e doar un joc de _typing_, e și un _bullet hell_ în același timp. Nu pare o combinație viabilă la prima vedere, dar jocul de față reușește să le îmbine foarte bine, rezultatul fiind o mecanică originală și, după cum vă puteți închipui, și foarte dificilă.
 
-Acțiunea se desfășoară la Roma, noi controlându-l pe sus-numitul Ray Bibbia, un fost preot actualmente exorcist privat (și nu m-ar mira să aflu că a fost inspirat de Ray McCall din **Call of Juarez**, pentru că nu doar numele e singura asemănare), ce trebuie să înfrunte tot felul de demoni și să dea de capăt unui mister ce poate ajunge tocmai până la vârful Bisericii Catolice! Nu vă dau mai multe detalii, și asta nu pentru grija de spoilere, ci pentru că nu am jucat decât demo-ul, așa că nu știu cum e mai departe. Dar din ce-am apucat să văd, precum și din alte review-uri, se pare că nu povestea nu a fost neglijată.
+Acțiunea se desfășoară la Roma, noi controlându-l pe sus-numitul Ray Bibbia, un fost preot actualmente exorcist privat (și nu m-ar mira să aflu că a fost inspirat de Ray McCall din **Call of Juarez**, pentru că nu doar numele e singura asemănare), ce trebuie să înfrunte tot felul de demoni și să dea de capăt unui mister ce poate ajunge tocmai până la vârful Bisericii Catolice! Nu vă dau mai multe detalii, și asta nu pentru grija de spoilere, ci pentru că nu am jucat decât demo-ul, așa că nu știu cum e mai departe. Dar din ce-am apucat să văd, precum și din alte review-uri, se pare că nici povestea nu a fost neglijată.
 
 {{< youtube SAEMlq_qVeM >}}
 

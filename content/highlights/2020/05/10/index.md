@@ -112,8 +112,8 @@ Linkuri rapide:
 
 * [Update: Jam De Casă a generat 72 de jocuri](https://zonait.ro/jam-de-casa-a-generat-75-de-jocuri/) <sup>(Zona IT)</sup>
 
-## Anunţuri şi lansări de jocuri
-### Anunţate
+## Anunțuri şi lansări de jocuri
+### Anunțate
 * **Sea Power**, **Second Front**, **Task Force Admiral**, trei jocuri noi de la MicroProse <sup>([Kotaku](https://kotaku.com/after-nearly-two-decades-microprose-is-making-strategy-1843259471))</sup>
 * **What Happened** <sup>([IGN](https://www.ign.com/articles/what-happened-announced))</sup>
 * **Black Book** <sup>([GameSpace](https://www.gamespace.com/all-articles/news/black-book-kickstarter-launches-with-first-chapter-free))</sup>
