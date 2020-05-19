@@ -5,7 +5,7 @@ type: post
 date: 2020-05-19
 authors: mahdi
 categories:
-    - Retro
+    - Retrospectivă
 tags:
     - "Valhalla Classics"
 
