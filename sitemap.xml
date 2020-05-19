@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/05/retro-valhalla/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/05/17/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
@@ -5004,7 +5009,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/mahdi/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6096,7 +6101,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6415,6 +6420,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/retro/</loc>
     <lastmod>2018-05-20T20:00:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6846,7 +6857,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8153,6 +8164,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/valeroa/</loc>
     <lastmod>2018-12-09T09:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/valhalla-classics/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
