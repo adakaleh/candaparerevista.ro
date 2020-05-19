@@ -5,24 +5,26 @@ type: post
 date: 2020-05-19
 authors: mahdi
 categories:
-    – Retro
+    - Retro
 tags:
-    – "Valhalla Classics"
+    - "Valhalla Classics"
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2389
    text: Articolele Comunității
-   data: 2019-08-27
+   data: 2020-05-18
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2389
 
 licenta: cc-by
 
+description: "Jocul se numește Valhalla: The Lord of Infinity, dar ce am jucat eu a fost un remake pentru Windows apărut în 2001, o ediție care l-a împărțit în patru episoade reunite sub numele Valhalla Classics, care include pe lângă acestea și episoade din două sequel-uri apărute în 1995. Pare cumva vizionar acum, când jocurile în format episodic sunt la ordinea zilei, dar am impresia că nu era ceva inovativ nici pe atunci, producătorii fiind mai degrabă inspirați de modelul shareware de la începutul anilor '90."
+
 resources:
-  – src: images/valhalla-card.jpg
+  - src: 'images/valhalla-card.jpg'
     name: "card-cover-image"
 
-  – src:
+  - src:
     name: "cover-image"
 
 infoBox:
@@ -31,7 +33,7 @@ infoBox:
   producator: Vulcan Software
   platforme: [PC]
   cumpara:
-    – [Vulcan Software, http://www.vulcan.co.uk/classics/type-big/]
+    - [Vulcan Software, http://www.vulcan.co.uk/classics/type-big/]
 
 ---
 
