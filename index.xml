@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aniversare 2 ani</title>
+      <link>https://candaparerevista.ro/blog/2020/05/aniversare-2-ani/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/blog/2020/05/aniversare-2-ani/</guid>
+      <description>A mai trecut un an. Un an în care site-ul nostru a crescut încet, dar sigur, și a continuat să adauge review-uri, recomandări, știri și chiar și un reportaj de la Gamescom 2019 la deja impresionanta colecție de articole despre lumea jocurilor (și nu numai). Și la fel a crescut și pagina noastră de Steam Curator, unde am ajuns să avem un catalog frumușel de recomandări.
+Totodată, și prietenii noștri au continuat să lucreze. Podcastul Joc și Vorbe a ajuns la episodul 165, iar canalul lor de YouTube a primit mult mai multă atenție.</description>
+    </item>
     
     <item>
       <title>Valhalla Classics</title>
@@ -61,7 +71,7 @@ The Textorcist e un titlu interesant. Nu e doar un joc de typing, e și un bulle
       <description>&amp;ldquo;Revistele lunii&amp;rdquo; este rubrica lunară în care ne uităm la chioșcul virtual cu reviste de jocuri din lumea întreagă, cât încă mai există. Avem coperți, cu link către sursă.
  Linkuri rapide:
 LEVEL | Game Informer | PC Gamer | EDGE | RetroGamer | The Games Machine | Pelit | Pelaaja | Hobby Consolas | Power Unlimited | PC Games | Wireframe | CanardPC
-Articole LEVEL (Turcia) Mai 2020 (#279.5)  Game Informer (SUA) #325  PC Gamer (UK) Iunie 2020 (#344)  Site PC Gamer</description>
+Articole LEVEL (Turcia) Mai 2020 (#279.5)         Game Informer (SUA) #325         PC Gamer (UK) Iunie 2020 (#344)         Site PC Gamer</description>
     </item>
     
     <item>
@@ -154,18 +164,6 @@ Linkuri rapide:
       <guid>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</guid>
       <description>În această săptămână avem o recomandare mai de nișă. Stygian: Reign of the Old Ones e un joc imperfect, dar interesant, care a avut parte de o lansare trecută cu vederea în 2019, fiind eclipsat de indie-uri mult mai proeminente. Și dacă despre Outer Wilds sau Disco Elysium ați mai auzit din alte părți cât de mișto sunt (chiar dacă pe site nu avem articole despre ele încă), o să vă vorbesc puțin despre acest joc.
 Mythosul lui Lovecraft a inspirat numeroase jocuri, dar am impresia că Stygian e primul RPG plasat în acest univers (asta dacă facem abstracție de parodicul Cthulhu Saves The World).</description>
-    </item>
-    
-    <item>
-      <title>Revistele lunii aprilie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/coperti-04/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/coperti-04/</guid>
-      <description>&amp;ldquo;Revistele lunii&amp;rdquo; este rubrica lunară în care ne uităm la chioșcul virtual cu reviste de jocuri din lumea întreagă, cât încă mai există. Avem coperți, cu link către sursă.
- Linkuri rapide:
-LEVEL | Game Informer | PC Gamer | EDGE | RetroGamer | Pelit | Pelaaja | Hobby Consolas | Power Unlimited | PC Games | Wireframe | CanardPC
-Știri  Revista Official Xbox Magazine se închide după 19 ani. (Eurogamer, GamesIndustry.biz, Gamasutra)   LEVEL (Cehia &amp;amp; Turcia) LEVEL (Cehia) (#302) | LEVEL (Turcia), Aprilie 2020 (#279)   Game Informer (SUA) #324  PC Gamer (UK) Mai 2020 (#343) Ediţia normală şi ediţia pentru abonaţi:   EDGE (UK) Mai 2020 (#344)  Twitter EDGE</description>
     </item>
     
   </channel>
