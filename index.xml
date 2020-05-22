@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vecter</title>
+      <link>https://candaparerevista.ro/posts/2020/05/impresii-vecter/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/05/impresii-vecter/</guid>
+      <description>Vecter e un infinite racer arcade în care îți iei nava și „alergi” la nesfârșit pe autostrăzi-neon pline de obstacole scoase parcă din filmul Tron. Controlul e simplu, dar jocul nu e ușor deloc, chiar necesită îndemânare și exercițiu. Ba chiar vine cu un manual care vă explică într-un mod amuzant detaliile și subtilitățile (și primiți chiar și un achievement dacă îl deschideți). Scorul crește în funcție de distanța parcursă și puteți încerca să urcați și în clasamentul online dacă aveți chef de competiție.
+Nu am jucat foarte mult ca timp, dar am jucat destul de mult ca număr de curse — orice impact e fatal și jocul se reia imediat, ceea ce am tot făcut.</description>
+    </item>
     
     <item>
       <title>Aniversare 2 ani</title>
@@ -154,16 +164,6 @@ Linkuri rapide:
       <description>Crysis revine la viață cu o versiune remasterizată, a murit John H. Conway, creatorul jocului Game of Life, se anulează Gamescom, iar comunitatea de creatori de jocuri din România organizează un game jam pentru a strânge fonduri pentru lupta împotriva coronavirusului. Și în plus, aveți, printre altele, material pentru o întoarcere în timp la shooterele anilor &amp;lsquo;90, WarCraft II, Gothic II și începuturile epocii „shareware”.
 Linkuri rapide:
  Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  Clasificările date de ESRB jocurilor din SUA vor conține de acum înainte avertismente privind conținutul randomizat (ex: loot boxes).</description>
-    </item>
-    
-    <item>
-      <title>Stygian: Reign of the Old Ones</title>
-      <link>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</guid>
-      <description>În această săptămână avem o recomandare mai de nișă. Stygian: Reign of the Old Ones e un joc imperfect, dar interesant, care a avut parte de o lansare trecută cu vederea în 2019, fiind eclipsat de indie-uri mult mai proeminente. Și dacă despre Outer Wilds sau Disco Elysium ați mai auzit din alte părți cât de mișto sunt (chiar dacă pe site nu avem articole despre ele încă), o să vă vorbesc puțin despre acest joc.
-Mythosul lui Lovecraft a inspirat numeroase jocuri, dar am impresia că Stygian e primul RPG plasat în acest univers (asta dacă facem abstracție de parodicul Cthulhu Saves The World).</description>
     </item>
     
   </channel>
