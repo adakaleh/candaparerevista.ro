@@ -57,6 +57,7 @@ Linkuri rapide:
 * [The Rise and Fall (and Rise) of the Female-Fronted First-Person Shooter](https://www.theringer.com/2020/5/12/21254593/first-person-shooter-perfect-dark-20th-anniversary-female-protagonists) <sup>(The Ringer)</sup>
 * [The Nightmare of Having Too Many Videogames to Play](https://www.gamasutra.com/blogs/JoshBycer/20200514/362928/The_Nightmare_of_Having_Too_Many_Videogames_to_Play.php) <sup>(Gamasutra)</sup>
 * [Jocurile online ca instrumente de socializare](https://mindcraftstories.ro/index.php/2020/05/14/jocurile-online-ca-instrumente-de-socializare/) <sup>(Mindcraft Stories)</sup>
+* [How Documentaries Are Helping Preserve Gaming Culture We're at Risk of Losing](https://www.usgamer.net/articles/video-game-documentaries-2020-feature) <sup>(USgamer)</sup>
 
 ---
 
@@ -73,6 +74,7 @@ Linkuri rapide:
 * [Epic's next-gen bid to knock down the walled garden](https://www.gamesindustry.biz/articles/2020-05-13-epics-next-gen-bid-to-knock-down-the-walled-garden) <sup>(GamesIndustry.biz)</sup>
 * [Epic Games: Unreal Engine 5 will bring a generational change to graphics](https://venturebeat.com/2020/05/13/how-epic-games-is-tailoring-unreal-engine-5-to-make-next-gen-graphics-shine/) <sup>(VentureBeat)</sup>
 * [Epic Games shows off a stunning Unreal Engine 5 demo on PlayStation 5](https://venturebeat.com/2020/05/13/epic-games-shows-off-a-stunning-unreal-engine-5-demo-on-playstation-5/) <sup>(VentureBeat)</sup>
+* [How Darren Korb and Supergiant Games took Bastion to the big stage](https://ag.hyperxgaming.com/article/10084/how-darren-korb-and-supergiant-games-took-bastion-to-the-big-stage) <sup>(AllGamers)</sup>
 
 ---
 
