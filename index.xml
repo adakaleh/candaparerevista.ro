@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aaero</title>
+      <link>https://candaparerevista.ro/posts/2020/05/impresii-aaero/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/05/impresii-aaero/</guid>
+      <description>Un joc pentru care îmi lipsește vocabularul să-l descriu corespunzător. Se înscrie cam în același gen de rhythm games din care mai fac parte și Rez Infinite sau Thumper și în care conduci un fel de navă prin niște peisaje futurist-industriale încercând s-o menții pe o panglică luminoasă ce corespunde cu notele muzicii electronice de pe fundal. Iar din când în când să mai tragi și în niște inamici zburători.
+E ceva inedit, mai ales dacă nu ai mai jucat așa ceva, și e puțin amețitor la început, dar foarte plăcut odată ce prinzi flow-ul și reușești să menții cursul și să eviți obstacolele.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 17 - 23 mai 2020</title>
@@ -153,17 +163,6 @@ Deși faza de alegere a jocurilor a început deja, încă vă puteți înscrie �
       <description>Ubisoft anunță un nou joc Assassin&amp;rsquo;s Creed, de data aceasta cu vikingi, Intel anunță o nouă generație de procesoare pentru desktop, Geoff Keighley organizează un mega-festival digital de 4 luni care să înlocuiască E3-ul, povestea din The Last of Us II se varsă pe internet umplându-l de spoilere, s-a lansat mult-așteptatul Gears Tactics și continuăm istoria epocii „shareware”. Și avem și o lansare autohtonă, action-platformer-ul WarriOrb.
 Linkuri rapide:
  Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  Gearbox anunță un serial bazat pe seria de jocuri Brothers in Arms.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 19 - 25 aprilie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/04/26/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/04/26/</guid>
-      <description>Fortnite e din nou pe Google Play Store, în ciuda luptei împotriva comisionului de 30% din industrie, viitorul Xbox are și un logo nou, Kickstarter are tot mai puține proiecte noi, Steam are o ediție nouă a festivalului LudoNarraCon dedicat jocurilor bazate în principal pe poveste și avem și niște anunțuri interesante de jocuri: un RTT bazat pe serialul Peaky Blinders și un nou joc Tintin.
-Linkuri rapide:
- Știri Articole (critică, dev, design) Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  După 18 luni în care a distribuit pe cont propriu versiunea de Android a Fortnite, Epic Games cedează și aduce jocul înapoi pe Play Store (acceptând deci să plătească și comisionul de 30% pe care-l percepe Google).</description>
     </item>
     
   </channel>
