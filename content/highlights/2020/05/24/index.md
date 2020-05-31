@@ -134,6 +134,8 @@ Linkuri rapide:
 * 21 mai: **Monster Train** <sup>([Steam](https://store.steampowered.com/app/1102190/Monster_Train/))</sup>
 * 21 mai: **Crucible** <sup>([Steam](https://store.steampowered.com/app/1057240/Crucible/), [PC Gamer](https://www.pcgamer.com/amazons-pvp-shooter-crucible-is-now-live-on-steam/))</sup>
 * 21 mai: **Bossgard** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/865980/BOSSGARD/))</sup>
+* 21 mai: **Timelie** <sup>([Steam](https://store.steampowered.com/app/1150950/Timelie/))</sup>
+* 22 mai: **Family Man** <sup>([Steam](https://store.steampowered.com/app/904360/Family_Man/))</sup>
 * 22 mai: **ShellShock Live** <sup>([Steam](https://store.steampowered.com/app/326460/ShellShock_Live/))</sup>
 * 22 mai: **Saints Row: The Third™ Remastered** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/saints-row-the-third-remastered))</sup>
 * 22 mai: **Maneater** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/maneater/))</sup>
