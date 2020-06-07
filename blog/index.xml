@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Patreon</title>
+      <link>https://candaparerevista.ro/blog/2020/06/patreon/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/blog/2020/06/patreon/</guid>
+      <description>De acum încolo avem o nouă modalitate prin care cine e interesat poate să contribuie la susținerea site-ului și forumului nostru.
+Jaunty, administratorul nevăzut care stă în spatele firelor care alimentează tot ce citiți pe aici, a deschis un cont de Patreon unde puteți contribui cu orice sumă care să ajute la acoperirea costurilor lunare de funcționare a serverelor:
+ Jaunty here. După ce revista Level și-a încetat apariția și forumul ei a dispărut subit, am pus bazele noului forum al comunității - forum.candaparerevista.ro - pe care îl găzduiesc din martie 2014.</description>
+    </item>
     
     <item>
       <title>Aniversare 2 ani</title>
@@ -156,18 +167,6 @@ Dintre schimbările vizibile faţă de versiunile anterioare de test ar fi de me
       <guid>https://candaparerevista.ro/blog/2018/0/update-progres-2/</guid>
       <description>Un alt update: &amp;ldquo;sfârșitul lunii&amp;rdquo; va însemna &amp;ldquo;după Paște&amp;rdquo;, că vom avea mai mult timp liber să lucrăm la site în perioada aia.
 Update 9 aprilie: &amp;ldquo;după Paște&amp;rdquo; se mai prelungeşte puţin (sper că doar vreo săptămână), că nu ne-am potrivit la program. Partea bună în schimb e că am implementat puţin mai multe lucruri decât ne propusesem iniţial, inclusiv din cele programate pentru versiunea finală sau mai târziu.</description>
-    </item>
-    
-    <item>
-      <title>Update progres (martie 2018)</title>
-      <link>https://candaparerevista.ro/blog/2018/0/update-progres/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2018/0/update-progres/</guid>
-      <description>Un scurt update în ce priveşte lucrul la site:
- Am reorganizat lista cu ce ar mai fi de făcut, iar planul ar fi următorul (lista cu toate schimbările planificate până acum e pe github):
- La sfârșitul lunii încercăm să lansăm o versiune beta cu câteva lucruri puse la punct față de versiunea alpha 2 de acum, dintre care mai importante ar fi :
- Un tagline pe care trebuie să-l alegem Un prim set de articole Pagini de descriere pentru autorii articolelor Pagina Despre  Urmează apoi o perioadă în care să mai finalizăm/adăugăm diverse chestii, apoi îl botezăm v1.</description>
     </item>
     
   </channel>
