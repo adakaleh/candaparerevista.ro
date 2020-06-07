@@ -15,3 +15,6 @@ type: page
 
 ### Steam
 * [/candaparerevista](https://steamcommunity.com/groups/candaparerevista)
+
+### Patreon
+* [/candaparerevista](https://www.patreon.com/candaparerevista)
