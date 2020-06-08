@@ -5,7 +5,7 @@ date: 2020-05-31
 categories:
     - Highlights
 
-tags: [Sonic the Hedgehog, Sludge Life, Bad North, Streets of Rage 4, Katana Zero, Unreal Engine, Return to Castle Wolfenstein, Grand Theft Auto 5, Gears Tactics, Mafia 2, Dishonored, Guild Wars 2, The Witcher, Outer Worlds, Sherlock Holmes, Industria, The Mighty Eight, Stirring Abyss, Toy Soldiers 2, Townscaper, Mondo Museum, Satisfactory, Samurai Shodown, Across the Grooves, "Wrath: Aeon of Ruin", Mortal Kombat 11, Wildfire, Minecraft Dungeons, Sludge Life, Those Who Remain, Poly Bridge 2, Xenoblade Chronicles]
+tags: [Sonic the Hedgehog, Sludge Life, Bad North, Streets of Rage 4, Katana Zero, Unreal Engine, Return to Castle Wolfenstein, Grand Theft Auto 5, Gears Tactics, Mafia 2, Dishonored, Guild Wars 2, The Witcher, Outer Worlds, Sherlock Holmes, Industria, The Mighty Eight, Stirring Abyss, Toy Soldiers 2, Townscaper, Mondo Museum, Satisfactory, Samurai Shodown, Across the Grooves, "Wrath: Aeon of Ruin", Mortal Kombat 11, Wildfire, Minecraft Dungeons, Sludge Life, Those Who Remain, Poly Bridge 2, Xenoblade Chronicles, Umurangi Generation]
 
 description: "Retrospectiva ultimei săptămâni liniștite, înainte să vină Vara Jocurilor cu avalanșa de anunțuri și trailere. Seria Witcher a atins vânzări de 50 de milioane de jocuri, Blizzcon 2020 se anulează, a avut loc Wholesome Direct, The Outer Worlds le-a luat fața lui Disco Elysium și Outer Wilds la Nebula Awards, s-au lansat Minecraft Dungeons și Xenoblade Chronicles, iar pe GOG a început Summer Sale cu reduceri și demo-uri la Desperados III și System Shock."
 
@@ -53,6 +53,7 @@ Linkuri rapide:
 * [I came to Sludge Life for cool graffiti but I'm staying for its brilliant, oddball characters](https://www.pcgamer.com/i-came-to-sludge-life-for-cool-graffiti-but-im-staying-for-its-brilliant-oddball-characters/) <sup>(PC Gamer)</sup>
 * [Bad North is even better when bad luck enters the fray](https://www.eurogamer.net/articles/2020-05-26-bad-north-is-even-better-when-bad-luck-enters-the-fray) <sup>(Eurogamer)</sup>
 * [Streets of Rage 4 and What it Means to Fight](https://intothespine.com/2020/05/28/streets-of-rage-4-and-what-it-means-to-fight/) <sup>(Into the Spine)</sup>
+* [What a video game about a futuristic Tauranga can tell us about our present](https://thespinoff.co.nz/atea/29-05-2020/what-a-video-game-about-a-futuristic-tauranga-can-tell-us-about-our-present/) <sup>(The Spinoff)</sup>
 
 ---
 
@@ -112,6 +113,9 @@ Linkuri rapide:
 * 28 mai: **Sludge Life** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/sludge-life/home))</sup>
 * 28 mai: **Those Who Remain** <sup>([Steam](https://store.steampowered.com/app/715380/Those_Who_Remain/))</sup>
 * 28 mai: **Poly Bridge 2** <sup>([Steam](https://store.steampowered.com/app/1062160/Poly_Bridge_2/), [Epic Store](https://www.epicgames.com/store/en-US/product/poly-bridge-2))</sup>
+* 28 mai: **Atomicrops** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/atomicrops/))</sup>
+* 28 mai: **Shantae and the Seven Sirens** <sup>([Steam](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/), [gog.com](https://www.gog.com/game/shantae_and_the_seven_sirens))</sup>
+* 28 mai: **Resolutiion** <sup>([Steam](https://store.steampowered.com/app/975150/Resolutiion/), [gog.com](https://www.gog.com/game/resolutiion))</sup>
 * 29 mai: **Xenoblade Chronicles: Definitive Edition** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/xenoblade-chronicles-definitive-edition-switch/))</sup>
 
 

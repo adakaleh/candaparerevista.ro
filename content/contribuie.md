@@ -22,6 +22,7 @@ Dacă îți place ce facem și vrei să contribui, sunt mai multe posibilități
   * [Contribuie la baza de date și arhiva de reviste vechi](#contribuie-la-baza-de-date-și-arhiva-de-reviste-vechi)
   * [Share](#share)
   * [Feedback](#feedback)
+  * [Donează](#donează)
 
 ---
 # Scrie
@@ -135,7 +136,7 @@ Deși destul de cuprinzătoare, Arhiva este încă incompletă. Iată cum poți 
 Du vorba mai departe, pe la cunoștințe și alte comunități din care faci parte (Discord / Reddit / alte forumuri), dacă este permis.
 
 ## Feedback
-Deși ultima pe listă, este și cea mai facilă formă de a contribui și totodată printre cele mai importante. Fiind un site al comunității, părerea fiecărui membru este importantă. Așadar, scrie-ne o părere despre site, aruncă-ne o critică, dă-ne o idee. Contează.
+Deși pe ultimele locuri din listă, este și cea mai facilă formă de a contribui și totodată printre cele mai importante. Fiind un site al comunității, părerea fiecărui membru este importantă. Așadar, scrie-ne o părere despre site, aruncă-ne o critică, dă-ne o idee. Contează.
 
 Aici sunt locurile de pe forum unde poți lăsa feedback:
 
@@ -145,3 +146,6 @@ Aici sunt locurile de pe forum unde poți lăsa feedback:
   * _[Articole site](https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1864)_: discuții generale despre articolele de pe site, sau despre articolele care nu au thread propriu
 * Thread pentru [site-ul ArhivaRevisteVechi](https://forum.candaparerevista.ro/viewtopic.php?t=1684)
 * Thread pentru [wiki RevisteVechi](https://forum.candaparerevista.ro/viewtopic.php?f=16&t=200)
+
+## Donează
+Și, în fine, o altă modalitate de a contribui este cu orice sumă de bani care poate ajuta la acoperirea costurilor de funcționare ale site-ului și forumului. Detalii pe [pagina de Patreon](https://www.patreon.com/candaparerevista) sau pe [threadul deschis pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=28&t=2415).
