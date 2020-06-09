@@ -6,10 +6,20 @@
     <description>Recent content in Steam on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/tags/steam/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vara Jocurilor</title>
+      <link>https://candaparerevista.ro/posts/2020/06/special-vara-jocurilor/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/06/special-vara-jocurilor/</guid>
+      <description>În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un showcase, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează.
+Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi. Dacă cumva am sărit peste vreun eveniment sau am omis detalii, trageți-ne de mânecă pe thread-ul de pe forum sau pe pagina noastră de facebook.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 24 - 30 noiembrie</title>
@@ -157,16 +167,6 @@ Linkuri rapide:
       <guid>https://candaparerevista.ro/highlights/2018/2018.11.25/</guid>
       <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
  Știri  Loot boxes in da news din nou:  Au intrat în vizorul agenției federale FTC din SUA, care anunță că vor deschide o investigație și vor prezenta un raport Congresului american. (GamesIndustry.biz, Variety, Polygon, RPS) De asemenea, o comisie a Parlamentului Australiei a publicat un raport conform căruia subiectul loot boxes este unul care merită investigat mai în amănunt de alte agenții ale guvernului.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 4-10 noiembrie 2018</title>
-      <link>https://candaparerevista.ro/highlights/2018/2018.11.04/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2018/2018.11.04/</guid>
-      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
- Știri  Microsoft a organizat X018, conferința anuală dedicată ecosistemului Xbox. Printre noutățile anunțate se numără confirmarea achiziției Obsidian, dar și achiziția surpriză a încă unui studio: inXile. (Destructoid, USgamer, Polygon, TechRaptor, Eurogamer, GamesIndustry.biz) Ediția din 2018 a campionatului mondial de Starcraft 2 a fost câștigată de un jucător din Finlanda.</description>
     </item>
     
   </channel>
