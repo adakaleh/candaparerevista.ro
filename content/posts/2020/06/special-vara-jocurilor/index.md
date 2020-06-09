@@ -32,7 +32,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ### Marți, 9 iunie
 
-* `19:00` **Destiny 2: The Next Chapter**. Va fi dezvăluit în premieră următorul capitol din Destiny 2.
+* `19:00` **Destiny 2: The Next Chapter**. Va fi dezvăluit în premieră următorul capitol din Destiny 2. ([Youtube](https://www.youtube.com/user/Bungie), [Twitch](https://www.twitch.tv/bungie))
 
 ### Miercuri, 10 iunie
 
