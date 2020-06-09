@@ -32,10 +32,6 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Marți, 9 iunie
-
-* `19:00` **Destiny 2: The Next Chapter**. Va fi dezvăluit în premieră următorul capitol din Destiny 2. ([Youtube](https://www.youtube.com/user/Bungie), [Twitch](https://www.twitch.tv/bungie))
-
 ### Miercuri, 10 iunie
 
 * `23:45` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua întâi. Vor fi făcute patru anunțuri exclusive, dintre care două vor fi despre jocuri neanunțate încă de la Funcom și Merge Games. Pe lângă acestea vom avea noi trailere și gameplay videos pentru Beyond Blue, Chivalry 2, Pathfinder: Kingmaker, Wasteland 3, Mortal Shell, Yakuza: Like a Dragon, noul DLC Borderlands 3 și multe altele. ([Youtube](https://www.youtube.com/watch?v=-GP6g5m_P7w), [Twitch](https://www.twitch.tv/ign)).
@@ -117,6 +113,13 @@ joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shad
 
 
 ## Evenimentele care au avut loc până acum
+
+### Marți, 9 iunie
+
+* Bungie au anunțat trei expansionuri majore pentru Destiny 2, care vor ieși în următorii doi ani. Posesorii jocului vor primi gratuit update-ul la versiunea de PS5 / Xbox Series X.
+  * [Bungie outlines next two years of Destiny 2, says no plans to make another sequel](https://www.theverge.com/2020/6/9/21285339/destiny-2-beyond-light-bungie-the-witch-queen-lightfall-major-expansions-no-sequel) <sup>(The Verge)</sup>
+  * [Bungie reveals 2020, 2021 and 2022 expansions for Destiny 2](https://www.eurogamer.net/articles/2020-06-09-bungie-reveals-2020-2021-and-2022-expansions-for-destiny-2) <sup>(Eurogamer)</sup>
+  * [Destiny 2 is getting a new dungeon that’s free for all players](https://www.polygon.com/2020/6/9/21278167/destiny-2-season-arrivals-new-surprise-free-dungeon-beyond-light-reveal-prophecy-daito-release-time) <sup>(Polygon)</sup>
 
 ### Sâmbătă, 6 iunie
 
