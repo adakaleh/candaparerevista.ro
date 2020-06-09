@@ -1,7 +1,7 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-06-10
+date: 2020-06-09
 categories:
     - Highlights
     - Special
@@ -27,6 +27,8 @@ resources:
 Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi. Dacă cumva am sărit peste vreun eveniment sau am omis detalii, trageți-ne de mânecă pe [thread-ul de pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=4&t=2407) sau pe [pagina noastră de facebook](https://www.facebook.com/comunitatealevel/).
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
+
+![](images/vara-jocurilor.jpg)
 
 ## Evenimentele care urmează
 
