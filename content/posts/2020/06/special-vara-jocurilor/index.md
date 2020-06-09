@@ -68,7 +68,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Marți, 16 iunie
 
 * `19:00` **[Upload VR Showcase](https://uploadvr.com/vr-showcase-2020/)** - o prezentare în stilul Nintendo Direct, dar doar cu jocuri de VR. ([Youtube](https://www.youtube.com/c/uploadvr))
-* `20:00` **[Steam Game Festival: Summer Edition](https://store.steampowered.com/sale/gamefestival)** - un eveniment pe Steam care va trece în revistă jocurile care urmează să apară, cu demo-uri exclusive și alte noutăți. Va ține până pe 14 iunie.
+* `20:00` **[Steam Game Festival: Summer Edition](https://store.steampowered.com/sale/gamefestival)** - un eveniment pe Steam care va trece în revistă jocurile care urmează să apară, cu demo-uri exclusive și alte noutăți. Va ține până pe 22 iunie.
 
 ### Joi, 18 iunie
 
