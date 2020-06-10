@@ -41,26 +41,27 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Joi, 11 iunie
 
 * `19:00` **[The Escapist Showcase](https://www.escapistmagazine.com/v2/announcing-the-escapist-indie-showcase-premiering-on-june-11/)** - o prezentare organizată de The Escapist în colaborare cu GOG, care va include peste 70 de jocuri indie. ([Youtube](https://www.youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vgt), [Twitch](https://www.twitch.tv/escapistmagazine))
+* `21:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a doua. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign)).
 * `23:00` **[PS5 - The Future of Gaming](https://blog.playstation.com/2020/06/08/updated-time-this-thursday-see-the-future-of-gaming-on-ps5/)** - eveniment în care Sony ne va arăta în premieră jocurile care vor putea fi jucate pe Playstation 5 după lansarea acestuia la final de an. ([Youtube](https://www.youtube.com/channel/UCg_JwOXFtu3iEtbr4ttXm9g), [Twitch](https://www.twitch.tv/playstation))
-* `00:15` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a doua. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign)).
+
 
 ### Vineri, 12 iunie
 
-* `00:50` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a treia. În care vom primi, printre altele, noi informații despre 13 Sentinels, Castlestorm 2, Guilty Gears Strive, Total War: Troy și Everspace 2. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign)).
+* `00:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a treia. În care vom primi, printre altele, noi informații despre 13 Sentinels, Castlestorm 2, Guilty Gears Strive, Total War: Troy și Everspace 2. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign)).
 
 ### Sâmbătă, 13 iunie
 
-* `20:00` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - festival digital de jocuri, la care vor participa producători precum SEGA, Funcom, Paradox, Larian și ZA/UM. Se va întinde pe încă două zile. ([Twitch](https://www.twitch.tv/guerrillacollective))
+* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - festival digital de jocuri, la care vor participa producători precum SEGA, Funcom, Paradox, Larian și ZA/UM. Se va întinde pe încă două zile. ([Twitch](https://www.twitch.tv/guerrillacollective))
 * `21:00` **[PC Gaming Show](https://www.pcgamer.com/pc-gaming-show-2020/)** - show-ul cu jocuri de PC de la E3 din anii trecuți se întoarce într-o formulă de sine stătătoare. ([Youtube](https://www.youtube.com/watch?v=-jXwPnDpMD4), [Twitch](https://www.twitch.tv/pcgamer))
 * `00:00` **[Future Games Show](https://www.gamesradar.com/gamesradar-presents-future-games-show-announcement-e3-2020/)** - prezentare găzduită de GamesRadar, cu peste 30 de jocuri de la Curve Digital, Deep Silver, Devolver Digital, Square Enix, Team17 și altele. ([Youtube](https://www.youtube.com/user/GamesRadar), [Twitch](https://www.twitch.tv/gamesradar))
 
 ### Duminică, 14 iunie
 
-* `??:??` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - ziua a doua. ([Twitch](https://www.twitch.tv/guerrillacollective))
+* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - ziua a doua. ([Twitch](https://www.twitch.tv/guerrillacollective))
 
 ### Luni, 15 iunie
 
-* `??:??` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - ziua a treia. ([Twitch](https://www.twitch.tv/guerrillacollective))
+* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - ziua a treia. ([Twitch](https://www.twitch.tv/guerrillacollective))
 * `22:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a patra. Va fi anunțat un joc nou, va avea loc o prezentare Humble Bundle Indies Showcase, plus o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 
 ### Marți, 16 iunie
