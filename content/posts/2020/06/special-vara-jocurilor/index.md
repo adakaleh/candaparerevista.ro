@@ -28,7 +28,11 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
+<<<<<<< HEAD
 *[Actualizat: 10 iunie]*
+=======
+*[actualizat: 10 iunie]*
+>>>>>>> cfca7cfef2d0c7facece80d6ca9d18ab881b51b5
 
 ![](images/vara-jocurilor.jpg)
 
