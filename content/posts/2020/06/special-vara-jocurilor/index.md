@@ -28,13 +28,15 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
+*[actualizat: 10 iunie]*
+
 ![](images/vara-jocurilor.jpg)
 
 ## Evenimentele care urmează
 
 ### Miercuri, 10 iunie
 
-* `23:45` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua întâi. Vor fi făcute patru anunțuri exclusive, dintre care două vor fi despre jocuri neanunțate încă de la Funcom și Merge Games. Pe lângă acestea vom avea noi trailere și gameplay videos pentru Beyond Blue, Chivalry 2, Pathfinder: Kingmaker, Wasteland 3, Mortal Shell, Yakuza: Like a Dragon, noul DLC Borderlands 3 și multe altele. ([Youtube](https://www.youtube.com/watch?v=-GP6g5m_P7w), [Twitch](https://www.twitch.tv/ign)).
+* `23:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua întâi. Vor fi făcute patru anunțuri exclusive, dintre care două vor fi despre jocuri neanunțate încă de la Funcom și Merge Games. Pe lângă acestea vom avea noi trailere și gameplay videos pentru Beyond Blue, Chivalry 2, Pathfinder: Kingmaker, Wasteland 3, Mortal Shell, Yakuza: Like a Dragon, noul DLC Borderlands 3 și multe altele. ([Youtube](https://www.youtube.com/watch?v=-GP6g5m_P7w), [Twitch](https://www.twitch.tv/ign)).
 
 ### Joi, 11 iunie
 
