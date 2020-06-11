@@ -37,13 +37,13 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Joi, 11 iunie
 
 * `19:00` **[The Escapist Showcase](https://www.escapistmagazine.com/v2/announcing-the-escapist-indie-showcase-premiering-on-june-11/)** - o prezentare organizată de The Escapist în colaborare cu GOG, care va include peste 70 de jocuri indie. ([Youtube](https://www.youtube.com/watch?v=FuJ-7fdoLjM), [Twitch](https://www.twitch.tv/escapistmagazine))
-* `21:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a doua. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/watch?v=KrSseYU3cGM), [Twitch](https://www.twitch.tv/ign)).
-* `23:00` **[PS5 - The Future of Gaming](https://blog.playstation.com/2020/06/08/updated-time-this-thursday-see-the-future-of-gaming-on-ps5/)** - eveniment în care Sony ne va arăta în premieră jocurile care vor putea fi jucate pe Playstation 5 după lansarea acestuia la final de an. ([Youtube](https://www.youtube.com/user/PlayStation), [Twitch](https://www.twitch.tv/playstation))
+* `21:30` **[IGN Expo #2](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/watch?v=KrSseYU3cGM), [Twitch](https://www.twitch.tv/ign)).
+* `23:00` **[PS5 - The Future of Gaming](https://blog.playstation.com/2020/06/08/updated-time-this-thursday-see-the-future-of-gaming-on-ps5/)** - eveniment în care Sony ne va arăta în premieră jocurile care vor putea fi jucate pe Playstation 5 după lansarea acestuia la final de an. ([Youtube](https://www.youtube.com/watch?v=RuLci-lSeCo), [Twitch](https://www.twitch.tv/playstation))
 
 
 ### Vineri, 12 iunie
 
-* `00:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a treia. În care vom primi, printre altele, noi informații despre 13 Sentinels, Castlestorm 2, Guilty Gears Strive, Total War: Troy și Everspace 2. ([Youtube](https://www.youtube.com/watch?v=SbSBsSDfz5w), [Twitch](https://www.twitch.tv/ign)).
+* `00:30` **[IGN Expo #3](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. În care vom primi, printre altele, noi informații despre 13 Sentinels, Castlestorm 2, Guilty Gears Strive, Total War: Troy și Everspace 2. ([Youtube](https://www.youtube.com/watch?v=SbSBsSDfz5w), [Twitch](https://www.twitch.tv/ign)).
 
 ### Sâmbătă, 13 iunie
 
@@ -58,7 +58,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Luni, 15 iunie
 
 * `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/)** - ziua a treia. ([Twitch](https://www.twitch.tv/guerrillacollective))
-* `22:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a patra. Va fi anunțat un joc nou, va avea loc o prezentare Humble Bundle Indies Showcase, plus o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `22:30` **[IGN Expo #4](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Va fi anunțat un joc nou, va avea loc o prezentare Humble Bundle Indies Showcase, plus o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 
 ### Marți, 16 iunie
 
@@ -68,7 +68,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Joi, 18 iunie
 
 * `20:00` **[D&D Live 2020](https://dnd.wizards.com/dndlive2020)** - eveniment de trei zile de sesiuni de D&D live cu vedete. În prima zi este planificat un „gameplay reveal” și „D&D Adventure and Product Reveal”. ([Youtube](https://www.youtube.com/channel/UCi-PULMg2eD_v5AO0PlW4sg))
-* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a cincea. Trailere și prezentări pentru The Falconeer, Drake Hollow, Fallout 76, și un joc neanunțat încă. Interviuri exclusive cu Chris Avellone și John & Brenda Romero. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Trailere și prezentări pentru The Falconeer, Drake Hollow, Fallout 76, și un joc neanunțat încă. Interviuri exclusive cu Chris Avellone și John & Brenda Romero. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 * `02:00` **[EA Play](https://www.ea.com/ea-play-live)** - prezentare a ultimelor noutăți despre jocurile EA. ([Youtube](https://www.youtube.com/channel/UCIHBybdoneVVpaQK7xMz1ww), [Twitch](https://www.twitch.tv/ea))
 
 ### Luni, 22 iunie
@@ -82,12 +82,11 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Miercuri, 24 iunie
 
 * `??:??` **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers.
-* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a șasea. Un reveal exclusiv al unui
-joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Un reveal exclusiv al unui joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 
 ### Joi, 25 iunie
 
-* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a șaptea. Gameplay video din Torchlight III și alte prezentări. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Gameplay video din Torchlight III și alte prezentări. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 * `??:??` **Night City Wire** - livestream CD Projekt despre Cyberpunk 2077.
 
 ### Sâmbătă, 27 iunie
