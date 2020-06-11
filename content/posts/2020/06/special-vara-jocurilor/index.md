@@ -28,26 +28,22 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 10 iunie]*
+*[Actualizat: 11 iunie]*
 
 ![](images/vara-jocurilor.jpg)
 
 ## Evenimentele care urmează
 
-### Miercuri, 10 iunie
-
-* `23:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua întâi. Vor fi făcute patru anunțuri exclusive, dintre care două vor fi despre jocuri neanunțate încă de la Funcom și Merge Games. Pe lângă acestea vom avea noi trailere și gameplay videos pentru Beyond Blue, Chivalry 2, Pathfinder: Kingmaker, Wasteland 3, Mortal Shell, Yakuza: Like a Dragon, noul DLC Borderlands 3 și multe altele. ([Youtube](https://www.youtube.com/watch?v=-GP6g5m_P7w), [Twitch](https://www.twitch.tv/ign)).
-
 ### Joi, 11 iunie
 
-* `19:00` **[The Escapist Showcase](https://www.escapistmagazine.com/v2/announcing-the-escapist-indie-showcase-premiering-on-june-11/)** - o prezentare organizată de The Escapist în colaborare cu GOG, care va include peste 70 de jocuri indie. ([Youtube](https://www.youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vgt), [Twitch](https://www.twitch.tv/escapistmagazine))
-* `21:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a doua. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign)).
-* `23:00` **[PS5 - The Future of Gaming](https://blog.playstation.com/2020/06/08/updated-time-this-thursday-see-the-future-of-gaming-on-ps5/)** - eveniment în care Sony ne va arăta în premieră jocurile care vor putea fi jucate pe Playstation 5 după lansarea acestuia la final de an. ([Youtube](https://www.youtube.com/channel/UCg_JwOXFtu3iEtbr4ttXm9g), [Twitch](https://www.twitch.tv/playstation))
+* `19:00` **[The Escapist Showcase](https://www.escapistmagazine.com/v2/announcing-the-escapist-indie-showcase-premiering-on-june-11/)** - o prezentare organizată de The Escapist în colaborare cu GOG, care va include peste 70 de jocuri indie. ([Youtube](https://www.youtube.com/watch?v=FuJ-7fdoLjM), [Twitch](https://www.twitch.tv/escapistmagazine))
+* `21:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a doua. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/watch?v=KrSseYU3cGM), [Twitch](https://www.twitch.tv/ign)).
+* `23:00` **[PS5 - The Future of Gaming](https://blog.playstation.com/2020/06/08/updated-time-this-thursday-see-the-future-of-gaming-on-ps5/)** - eveniment în care Sony ne va arăta în premieră jocurile care vor putea fi jucate pe Playstation 5 după lansarea acestuia la final de an. ([Youtube](https://www.youtube.com/user/PlayStation), [Twitch](https://www.twitch.tv/playstation))
 
 
 ### Vineri, 12 iunie
 
-* `00:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a treia. În care vom primi, printre altele, noi informații despre 13 Sentinels, Castlestorm 2, Guilty Gears Strive, Total War: Troy și Everspace 2. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign)).
+* `00:30` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - ziua a treia. În care vom primi, printre altele, noi informații despre 13 Sentinels, Castlestorm 2, Guilty Gears Strive, Total War: Troy și Everspace 2. ([Youtube](https://www.youtube.com/watch?v=SbSBsSDfz5w), [Twitch](https://www.twitch.tv/ign)).
 
 ### Sâmbătă, 13 iunie
 
@@ -116,6 +112,11 @@ joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shad
 
 
 ## Evenimentele care au avut loc până acum
+
+### Miercuri, 10 iunie
+
+* **[IGN Expo #1](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)** - au fost prezentate noi trailere și gameplay videos pentru Werewolf The Apocalypse, Alex Kidd in the Miracle World, Metal: Hellsinger, The Waylanders, Beyond Blue, Chivalry 2, Wasteland 3, Mortal Shell, Yakuza: Like a Dragon, Demon Turf, noul DLC Borderlands 3 și multe altele.
+  * [IGN Expo Day 1: Everything Announced and Revealed](https://www.ign.com/articles/ign-expo-day-1-everything-announced) <sup>(IGN)</sup>
 
 ### Marți, 9 iunie
 
