@@ -28,18 +28,11 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 11 iunie]*
+*[Actualizat: 12 iunie]*
 
 ![](images/vara-jocurilor.jpg)
 
 ## Evenimentele care urmează
-
-### Joi, 11 iunie
-
-* `19:00` **[The Escapist Showcase](https://www.escapistmagazine.com/v2/announcing-the-escapist-indie-showcase-premiering-on-june-11/)** - o prezentare organizată de The Escapist în colaborare cu GOG, care va include peste 70 de jocuri indie. ([Youtube](https://www.youtube.com/watch?v=FuJ-7fdoLjM), [Twitch](https://www.twitch.tv/escapistmagazine))
-* `21:30` **[IGN Expo #2](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Vom avea parte de două anunțuri în premieră și noutăți privind Stronghold: Warlords, XIII, Samurai Jack, Iron Oath și altele. ([Youtube](https://www.youtube.com/watch?v=KrSseYU3cGM), [Twitch](https://www.twitch.tv/ign)).
-* `23:00` **[PS5 - The Future of Gaming](https://blog.playstation.com/2020/06/08/updated-time-this-thursday-see-the-future-of-gaming-on-ps5/)** - eveniment în care Sony ne va arăta în premieră jocurile care vor putea fi jucate pe Playstation 5 după lansarea acestuia la final de an. ([Youtube](https://www.youtube.com/watch?v=RuLci-lSeCo), [Twitch](https://www.twitch.tv/playstation))
-
 
 ### Vineri, 12 iunie
 
@@ -111,6 +104,17 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Joi, 11 iunie
+
+* **The Escapist Showcase** - o prezentare organizată de The Escapist în colaborare cu GOG, care a inclus peste 70 de jocuri indie, printre care El Hijo, Black Book, Gamedec, Minute of Islands și Nighthawks. Lista completă poate fi văzută [aici](https://www.escapistmagazine.com/v2/gog/).
+* **[IGN Expo #2](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Au fost dezvăluite în premieră Nickelodeon Kart Racers 2 și Foreclosed. Au mai fost prezentate Stronghold: Warlords, remake-ul XIII, The Iron Oath, Samurai Jack și altele.
+  * [IGN Expo Day 2: Everything Announced and Revealed](https://www.ign.com/articles/ign-expo-day-2-everything-announced-summer-of-gaming) <sup>(IGN)</sup>
+* **PS5 - The Future of Gaming** - eveniment în cadrul căruia Sony au dezvăluit design-ul viitoarei console și o parte din line up-ul de jocuri al acesteia, printre care noul Ratchet & Clank, Demon's Souls remake, Resident Evil 8, Ghostwire: Tokyo și Horizon: Forbidden West.
+  * [Prezentarea integrală de pe Youtube](https://www.youtube.com/watch?v=RuLci-lSeCo)
+  * [PS5 Hardware Reveal Trailer](https://www.youtube.com/watch?v=RkC0l4iekYo)
+  * [Here's Every PS5 Game Sony Just Announced](https://www.wired.com/story/sony-playstation-5-event-games/) <sup>(Wired)</sup>
+
 
 ### Miercuri, 10 iunie
 
