@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 13 iunie]**
+description: "**[Actualizat: 14 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,17 +31,11 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 13 iunie]*
+*[Actualizat: 14 iunie]*
 
 {{< figure  src="images/vara-jocurilor-cover.jpg" attr="(sursă imagine: Horizon Chase Turbo)" attrlink="https://www.horizonchaseturbo.com/" >}}
 
 ## Evenimentele care urmează
-
-### Sâmbătă, 13 iunie
-
-* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-1/)** - festival digital de jocuri, la care vor participa producători precum SEGA, Funcom, Paradox, Larian și ZA/UM. Se va întinde pe încă două zile. ([Youtube](https://www.youtube.com/watch?v=2LPWjmtmFN0), [Twitch](https://www.twitch.tv/guerrillacollective))
-* `21:00` **[PC Gaming Show](https://www.pcgamer.com/pc-gaming-show-2020/)** - show-ul cu jocuri de PC de la E3 din anii trecuți se întoarce într-o formulă de sine stătătoare. ([Youtube](https://www.youtube.com/watch?v=-jXwPnDpMD4), [Twitch](https://www.twitch.tv/pcgamer))
-* `00:00` **[Future Games Show](https://www.gamesradar.com/gamesradar-presents-future-games-show-announcement-e3-2020/)** - prezentare găzduită de GamesRadar, cu peste 30 de jocuri de la Curve Digital, Deep Silver, Devolver Digital, Square Enix, Team17 și altele. ([Youtube](https://www.youtube.com/user/GamesRadar), [Twitch](https://www.twitch.tv/gamesradar))
 
 ### Duminică, 14 iunie
 
@@ -103,6 +97,14 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Sâmbătă, 13 iunie
+
+* **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-1/)** - festival digital de jocuri, la care au fost prezentate jocuri precum Baldur's Gate 3, System Shock, West of Dead, Just Die Already și altele.
+  * [Every PC game trailer from the Guerrilla Collective festival](https://www.rockpapershotgun.com/2020/06/13/every-pc-game-trailer-from-the-guerrilla-collective-festival/) <sup>(RPS)</sup>
+* **[PC Gaming Show](https://www.pcgamer.com/pc-gaming-show-2020/)** - show-ul cu jocuri de PC de la E3 din anii trecuți a revenit într-o formulă de sine stătătoare, în care au fost prezentate noi informații despre Torchlight 3, Evil Genius 2, Icarus, Twin Mirror și multe altele.
+  * [Everything Announced At The PC Gaming Show 2020](https://kotaku.com/everything-announced-at-the-pc-gaming-show-2020-1844025395)
+* **[Future Games Show](https://www.gamesradar.com/gamesradar-presents-future-games-show-announcement-e3-2020/)** - prezentare găzduită de GamesRadar, cu peste 30 de jocuri de la Curve Digital, Deep Silver, Devolver Digital, Square Enix, Team17 și altele.
 
 ### Vineri, 12 iunie
 
