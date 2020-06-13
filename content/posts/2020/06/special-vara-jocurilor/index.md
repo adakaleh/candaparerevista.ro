@@ -15,7 +15,7 @@ licenta: cc-by
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=4&t=2407
 
 resources:
-  - src: images/vara-jocurilor.jpg
+  - src: images/vara-jocurilor-card.jpg
     name: "card-cover-image"
 
   - src:
@@ -30,7 +30,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 *[Actualizat: 12 iunie]*
 
-![](images/vara-jocurilor.jpg)
+{{< figure  src="images/vara-jocurilor-cover.jpg" attr="(sursă imagine: Horizon Chase Turbo)" attrlink="https://www.horizonchaseturbo.com/" >}}
 
 ## Evenimentele care urmează
 
