@@ -1,7 +1,7 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-06-09
+date: 2020-06-14T00:00:00
 categories:
     - Highlights
     - Special
@@ -103,8 +103,10 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 * **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-1/)** - festival digital de jocuri, la care au fost prezentate jocuri precum Baldur's Gate 3, System Shock, West of Dead, Just Die Already și altele.
   * [Every PC game trailer from the Guerrilla Collective festival](https://www.rockpapershotgun.com/2020/06/13/every-pc-game-trailer-from-the-guerrilla-collective-festival/) <sup>(RPS)</sup>
 * **[PC Gaming Show](https://www.pcgamer.com/pc-gaming-show-2020/)** - show-ul cu jocuri de PC de la E3 din anii trecuți a revenit într-o formulă de sine stătătoare, în care au fost prezentate noi informații despre Torchlight 3, Evil Genius 2, Icarus, Twin Mirror și multe altele.
-  * [Everything Announced At The PC Gaming Show 2020](https://kotaku.com/everything-announced-at-the-pc-gaming-show-2020-1844025395)
+  * [Everything Announced At The PC Gaming Show 2020](https://kotaku.com/everything-announced-at-the-pc-gaming-show-2020-1844025395) <sup>(Kotaku)</sup>
+  * [PC Gaming Show 2020 trailers, announcements & reveals recap](https://www.shacknews.com/article/118646/pc-gaming-show-2020-trailers-announcements-reveals-recap) <sup>(Shacknews)</sup>
 * **[Future Games Show](https://www.gamesradar.com/gamesradar-presents-future-games-show-announcement-e3-2020/)** - prezentare găzduită de GamesRadar, cu peste 30 de jocuri de la Curve Digital, Deep Silver, Devolver Digital, Square Enix, Team17 și altele.
+  * [Every new PC game from the Future Games Show 2020](https://www.rockpapershotgun.com/2020/06/14/every-new-pc-game-from-the-future-games-show-2020/) <sup>(RPS)</sup>
 
 ### Vineri, 12 iunie
 
@@ -116,11 +118,12 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 * **The Escapist Showcase** - o prezentare organizată de The Escapist în colaborare cu GOG, care a inclus peste 70 de jocuri indie, printre care El Hijo, Black Book, Gamedec, Minute of Islands și Nighthawks. Lista completă poate fi văzută [aici](https://www.escapistmagazine.com/v2/gog/).
 * **[IGN Expo #2](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Au fost dezvăluite în premieră Nickelodeon Kart Racers 2 și Foreclosed. Au mai fost prezentate Stronghold: Warlords, remake-ul XIII, The Iron Oath, Samurai Jack și altele.
   * [IGN Expo Day 2: Everything Announced and Revealed](https://www.ign.com/articles/ign-expo-day-2-everything-announced-summer-of-gaming) <sup>(IGN)</sup>
-* **PS5 - The Future of Gaming** - eveniment în cadrul căruia Sony au dezvăluit design-ul viitoarei console și o parte din line up-ul de jocuri al acesteia, printre care noul Ratchet & Clank, Demon's Souls remake, Resident Evil 8, Ghostwire: Tokyo și Horizon: Forbidden West.
-  * [Prezentarea integrală de pe Youtube](https://www.youtube.com/watch?v=RuLci-lSeCo)
-  * [PS5 Hardware Reveal Trailer](https://www.youtube.com/watch?v=RkC0l4iekYo)
-  * [Here's Every PS5 Game Sony Just Announced](https://www.wired.com/story/sony-playstation-5-event-games/) <sup>(Wired)</sup>
+* **PS5 - The Future of Gaming** - eveniment în cadrul căruia Sony au dezvăluit design-ul viitoarei console PlayStation 5 și o parte din line up-ul de jocuri al acesteia, printre care noul Ratchet & Clank, Demon's Souls remake, Resident Evil 8, Ghostwire: Tokyo și Horizon: Forbidden West.
+  * [Prezentarea integrală de pe Youtube](https://www.youtube.com/watch?v=RuLci-lSeCo) <sup>(YouTube)</sup>
+  * [PS5 Hardware Reveal Trailer](https://www.youtube.com/watch?v=RkC0l4iekYo) <sup>(YouTube)</sup>
   * [Every PS5 game coming to PC](https://www.rockpapershotgun.com/2020/06/12/every-ps5-game-coming-to-pc/) <sup>(RPS)</sup>
+  * [All PS5 game trailers & announcements from the Sony PlayStation 5 livestream](https://www.shacknews.com/article/118602/all-ps5-game-trailers-announcements-from-the-sony-playstation-5-livestream) <sup>(Shacknews)</sup>
+  * [PS5: Every video of all the games](https://www.videogameschronicle.com/news/ps5-every-video-of-all-the-games/) <sup>(VideoGamesChronicle)</sup>
 
 ### Miercuri, 10 iunie
 
@@ -149,3 +152,5 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 * A avut loc [Wholesome Direct](https://www.youtube.com/watch?v=AwCNzOPR8Ck), o prezentare de 40 de minute cu peste 50 de jocuri indie cute & comfy.
   * [All the best news from Wholesome Direct](https://ag.hyperxgaming.com/article/10204/all-the-best-news-from-wholesome-direct) <sup>(AllGamers)</sup>
   * [All 55 Games Games Featured In The &quot;Wholesome Direct&quot;](https://www.gamespot.com/articles/all-55-games-games-featured-in-the-wholesome-direc/1100-6477628/) <sup>(Gamespot)</sup>
+  
+_Articol publicat inițial pe 9 iunie_ 

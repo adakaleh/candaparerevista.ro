@@ -140,6 +140,7 @@ Linkuri rapide:
 * 22 mai: **Saints Row: The Third™ Remastered** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/saints-row-the-third-remastered))</sup>
 * 22 mai: **Maneater** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/maneater/))</sup>
 * 22 mai: **I, Dracula: Genesis** (early access) <sup>([Steam](https://store.steampowered.com/app/1175360/I_Dracula_Genesis/))</sup>
+* 23 mai: **Gunfire Reborn** <sup>([Steam](https://store.steampowered.com/app/1217060/Gunfire_Reborn/))</sup>
 
 ## Prăvălii de jocuri
 

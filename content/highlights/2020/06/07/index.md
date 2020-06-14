@@ -25,6 +25,7 @@ Linkuri rapide:
 
 * [Știri](#știri)
 * [Articole (critică, dev, design)](#articole-critică-dev-design)
+* [Made în România](#made-în-românia)
 * [Anunțuri şi lansări de jocuri](#anunţuri-şi-lansări-de-jocuri)
 * [Prăvălii de jocuri](#prăvălii-de-jocuri)
 
@@ -105,9 +106,10 @@ Tensiunile rasiale și protestele „Black Lives Matter” din SUA reaprinse de 
 * [20 Amazing In-Game Maps That Did More Than Show the Way Forward](https://www.usgamer.net/articles/the-20-best-in-game-maps) <sup>(USgamer)</sup>
 * [Game Art: Carlos Martorell's Ecosystems (2020)](https://www.gamescenes.org/2020/06/game-art-carlos-martorells-ecosystems-2020.html) <sup>(GAMESCENES)</sup>
 
+## Made în România
+* Un interviu cu Mihai Sfrijan („Mitza” de la Level), directorul Amber Studios. <sup>([Pocket Gamer](https://www.pocketgamer.biz/interview/73515/remote-working-amber-head-mihai-sfrijan/))</sup>
 
 ## Anunţuri şi lansări de jocuri
-
 ### Anunţate
 * **Kingdoms of Amalur: Re-Reckoning** <sup>([EGM](https://egmnow.com/kingdoms-of-amalur-reckoning-is-being-remastered/))</sup>
 * **Project CARS 3** <sup>([Eurogamer](https://www.eurogamer.net/articles/2020-06-04-project-cars-3-takes-the-series-on-a-new-direction))</sup>
