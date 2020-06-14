@@ -33,6 +33,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 *[Actualizat: 14 iunie]*
 
+* [Programul viitor](#evenimentele-care-urmează)
+* [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
+
 {{< figure  src="images/vara-jocurilor-cover.jpg" attr="(sursă imagine: Horizon Chase Turbo)" attrlink="https://www.horizonchaseturbo.com/" >}}
 
 ## Evenimentele care urmează
