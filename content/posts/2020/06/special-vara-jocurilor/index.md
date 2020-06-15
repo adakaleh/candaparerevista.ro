@@ -40,14 +40,10 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Duminică, 14 iunie
-
-* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-2/)** - ziua a doua. ([Twitch](https://www.twitch.tv/guerrillacollective))
-
 ### Luni, 15 iunie
 
-* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-3/)** - ziua a treia. ([Twitch](https://www.twitch.tv/guerrillacollective))
-* `22:30` **[IGN Expo #4](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Va fi anunțat un joc nou, va avea loc o prezentare Humble Bundle Indies Showcase, plus o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-3/)** - ziua a treia. ([Youtube](https://www.youtube.com/watch?v=GoC5K-CHWPk), [Twitch](https://www.twitch.tv/guerrillacollective))
+* `22:30` **[IGN Expo #4](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Va fi anunțat un joc nou, va avea loc o prezentare Humble Bundle Indies Showcase, plus o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele. ([Youtube](https://www.youtube.com/watch?v=GoC5K-CHWPk), [Twitch](https://www.twitch.tv/ign))
 
 ### Marți, 16 iunie
 
@@ -100,6 +96,11 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Duminică, 14 iunie
+
+* **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-2/)** - ziua a doua. Au fost prezentate jocuri precum Eldest Souls, Vigil, Evil Genius 2, Calico, Lost at Sea, Drake Hollow și altele.
+  * [Everything you missed from Guerrilla Collective Day Two](https://www.rockpapershotgun.com/2020/06/14/everything-you-missed-from-guerrilla-collective-day-two/) <sup>(RPS)</sup>
 
 ### Sâmbătă, 13 iunie
 
@@ -155,5 +156,5 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 * A avut loc [Wholesome Direct](https://www.youtube.com/watch?v=AwCNzOPR8Ck), o prezentare de 40 de minute cu peste 50 de jocuri indie cute & comfy.
   * [All the best news from Wholesome Direct](https://ag.hyperxgaming.com/article/10204/all-the-best-news-from-wholesome-direct) <sup>(AllGamers)</sup>
   * [All 55 Games Games Featured In The &quot;Wholesome Direct&quot;](https://www.gamespot.com/articles/all-55-games-games-featured-in-the-wholesome-direc/1100-6477628/) <sup>(Gamespot)</sup>
-  
-_Articol publicat inițial pe 9 iunie_ 
+
+_Articol publicat inițial pe 9 iunie_
