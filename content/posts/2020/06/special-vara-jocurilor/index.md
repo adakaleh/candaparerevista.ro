@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 14 iunie]**
+description: "**[Actualizat: 16 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -40,20 +40,15 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Marți, 16 iunie
-
-* `19:00` **[Upload VR Showcase](https://uploadvr.com/vr-showcase-2020/)** - o prezentare în stilul Nintendo Direct, dar doar cu jocuri de VR. ([Youtube](https://www.youtube.com/watch?v=-Z9Zp9wzha0))
-* `20:00` **[Steam Game Festival: Summer Edition](https://store.steampowered.com/sale/gamefestival)** - un eveniment pe Steam care va trece în revistă jocurile care urmează să apară, cu demo-uri exclusive și alte noutăți. Va ține până pe 22 iunie.
-
 ### Joi, 18 iunie
 
-* `20:00` **[D&D Live 2020](https://dnd.wizards.com/dndlive2020)** - eveniment de trei zile de sesiuni de D&D live cu vedete. În prima zi este planificat un „gameplay reveal” și „D&D Adventure and Product Reveal”. ([Youtube](https://www.youtube.com/channel/UCi-PULMg2eD_v5AO0PlW4sg))
-* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Trailere și prezentări pentru The Falconeer, Drake Hollow, Fallout 76, și un joc neanunțat încă. Interviuri exclusive cu Chris Avellone și John & Brenda Romero. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `18:45` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Trailere și prezentări pentru The Falconeer, Drake Hollow, Fallout 76 și altele. Interviuri exclusive cu Chris Avellone și John & Brenda Romero. Pre-show-ul începe la 18.45 cu un speedrun de Resident Evil 3, urmând ca restul evenimentului să se desfășoare după prezentarea D&D Live. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `20:00` **[D&D Live 2020](https://dnd.wizards.com/dndlive2020)** - eveniment de trei zile de sesiuni de D&D live cu vedete. În prima zi este planificat un „gameplay reveal” și un „D&D Adventure and Product Reveal”. ([Youtube](https://www.youtube.com/user/DNDWizards), [Twitch](https://www.twitch.tv/dnd))
 * `02:00` **[EA Play](https://www.ea.com/ea-play-live)** - prezentare a ultimelor noutăți despre jocurile EA. ([Youtube](https://www.youtube.com/channel/UCIHBybdoneVVpaQK7xMz1ww), [Twitch](https://www.twitch.tv/ea))
 
 ### Luni, 22 iunie
 
-* `18:00` **[Developer Showcase: June](https://twitter.com/summergamefest/status/1263920316121624576)** - primul din cele două Developer Showcases organizate de Geoff Keighley.
+* `18:00` **[Developer Showcase: June](https://twitter.com/summergamefest/status/1263920316121624576)** - primul din cele două Developer Showcases organizate de Geoff Keighley. ([Youtube](https://www.youtube.com/user/thegameawards14/))
 
 ### Marți, 23 iunie
 
@@ -91,6 +86,12 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Marți, 16 iunie
+
+* **[Upload VR Showcase](https://uploadvr.com/vr-showcase-2020/)** - o prezentare în stilul Nintendo Direct, dar doar cu jocuri de VR.
+  * [Upload VR Showcase: Everything Announced and Revealed](https://www.ign.com/articles/upload-vr-showcase-all-games-trailers-announcements) <sup>(IGN)</sup>
+* A început **[Steam Game Festival: Summer Edition](https://store.steampowered.com/sale/gamefestival)** - un eveniment care trece în revistă jocurile care urmează să apară, cu demo-uri exclusive și alte noutăți. Va ține până pe 22 iunie.
 
 ### Luni, 15 iunie
 
