@@ -1,7 +1,7 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-06-14T00:00:00
+date: 2020-06-15T00:00:00
 categories:
     - Highlights
     - Special
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 14 iunie]*
+*[Actualizat: 16 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,14 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Luni, 15 iunie
-
-* `19:00` **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-3/)** - ziua a treia. ([Youtube](https://www.youtube.com/watch?v=GoC5K-CHWPk), [Twitch](https://www.twitch.tv/guerrillacollective))
-* `22:30` **[IGN Expo #4](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Va fi anunțat un joc nou, va avea loc o prezentare Humble Bundle Indies Showcase, plus o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele. ([Youtube](https://www.youtube.com/watch?v=GoC5K-CHWPk), [Twitch](https://www.twitch.tv/ign))
-
 ### Marți, 16 iunie
 
-* `19:00` **[Upload VR Showcase](https://uploadvr.com/vr-showcase-2020/)** - o prezentare în stilul Nintendo Direct, dar doar cu jocuri de VR. ([Youtube](https://www.youtube.com/c/uploadvr))
+* `19:00` **[Upload VR Showcase](https://uploadvr.com/vr-showcase-2020/)** - o prezentare în stilul Nintendo Direct, dar doar cu jocuri de VR. ([Youtube](https://www.youtube.com/watch?v=-Z9Zp9wzha0))
 * `20:00` **[Steam Game Festival: Summer Edition](https://store.steampowered.com/sale/gamefestival)** - un eveniment pe Steam care va trece în revistă jocurile care urmează să apară, cu demo-uri exclusive și alte noutăți. Va ține până pe 22 iunie.
 
 ### Joi, 18 iunie
@@ -78,10 +73,6 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 * `??:??` **[BitSummit Gaiden](https://bitsummit.org/en/bitsummit-gaiden-takes-discord-twitch-by-storm-june-27-28/)** - prezentare cu peste 70 de jocuri indie japoneze. ([Twitch](https://www.twitch.tv/bitsummit))
 
-### Sâmbătă, 11 iulie
-
-* `??:??` **[Tennocon 2020](https://www.warframe.com/tennocon)** - Digital Extremes vor oferi noutăți despre Warframe.
-
 ### Duminică, 12 iulie
 
 * `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/4zeZmXUNV2QZYwfOd0whUa/save-the-date-ubisoft-forward-announced-for-july-12)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3.
@@ -90,12 +81,23 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 * `??:??` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Geoff Keighley.
 
+### Miercuri, 1 August
+
+* `??:??` **[Tennocon 2020](https://www.warframe.com/tennocon)** - Digital Extremes vor oferi noutăți despre Warframe.
+
 ### Joi, 27 august
 
 * `??:??` **[Gamescom 2020 - Opening Night Live](https://www.gamescom.global/news/content-for-media-representatives/press-information-of-gamescom/press-release/)** - prima seară de Gamescom, în care vor fi făcute principalele anunțuri. Va fi urmată de alte trei zile de evenimente digitale.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Luni, 15 iunie
+
+* **[Guerrilla Collective](https://www.guerrillacollective.com/event/day-3/)** - ziua a treia. Au fost prezentate jocuri precum Boyfriend Dungeon, 30XX, West of Dead, System Shock și The Eternal Cylinder.
+  * [Guerrilla Collective Day 3: Everything Announced and Revealed](https://www.ign.com/articles/guerrilla-collective-day-3-everything-announced-and-revealed) <sup>(IGN)</sup>
+* **[IGN Expo #4](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Au fost prezentate o mulțime de trailere și gameplay videos pentru Solasta Crown of the Magister, Corepunk, Destroy All Humans, SpongeBob SquarePants: Battle for Bikini Bottom, Scarlet Nexus, Ninjala, Vigor și altele.
+  * [IGN Expo Day 4: Everything Announced and Revealed - Summer of Gaming](https://www.ign.com/articles/ign-expo-day-4-everything-announced-summer-of-gaming) <sup>(IGN)</sup>
 
 ### Duminică, 14 iunie
 
