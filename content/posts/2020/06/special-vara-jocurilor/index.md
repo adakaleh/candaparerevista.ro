@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 18 iunie]**
+description: "**[Actualizat: 19 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 18 iunie]*
+*[Actualizat: 19 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,15 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Joi, 18 iunie
-
-* `20:00` **[D&D Live 2020](https://dnd.wizards.com/dndlive2020)** - eveniment de trei zile de sesiuni de D&D live cu vedete. În prima zi este planificată o prezentare de gameplay din Baldur's Gate (de la 20.00) și un „D&D Adventure and Product Reveal” (de la 22.00). ([Youtube](https://www.youtube.com/watch?v=5HqWP1D1VVo), [Twitch](https://www.twitch.tv/dnd))
-* `20:00` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Trailere și prezentări pentru The Falconeer, Drake Hollow, Fallout 76 și altele. Interviuri exclusive cu Chris Avellone și John & Brenda Romero. Prezentările vor avea loc după ce se termină evenimentul D&D Live. ([Youtube](https://www.youtube.com/watch?v=Q9pYcexWS0k), [Twitch](https://www.twitch.tv/ign))
-* `02:00` **[EA Play](https://www.ea.com/ea-play-live)** - prezentare a ultimelor noutăți despre jocurile EA. ([Youtube](https://www.youtube.com/watch?v=yw8GffH2ckE), [Twitch](https://www.twitch.tv/ea))
-
 ### Luni, 22 iunie
 
-* `18:00` **[Developer Showcase: June](https://twitter.com/summergamefest/status/1263920316121624576)** - primul din cele două Developer Showcases organizate de Geoff Keighley. ([Youtube](https://www.youtube.com/user/thegameawards14/))
+* `18:00` **[Developer Showcase: June](http://dayofthedevs.com/)** - primul din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. Pe lângă informații despre Black Book, The Eternal Cylinder, The Night is Grey, Starbase, Ynglet și altele, sunt așteptate trei anunțuri exclusive în premieră, dintre care un „surprise major AAA reveal”.  ([Youtube](https://www.youtube.com/user/thegameawards14/), [Twitch](https://www.twitch.tv/thegameawards))
 
 ### Marți, 23 iunie
 
@@ -72,9 +66,13 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 * `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/4zeZmXUNV2QZYwfOd0whUa/save-the-date-ubisoft-forward-announced-for-july-12)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3.
 
+### Marți, 14 iulie
+
+* `20:00` **[Stadia Connect: July](https://twitter.com/GoogleStadia/status/1273303155976007680)** ([Youtube](https://www.youtube.com/channel/UCQKyy9Wl7hsVn1BP7BC53Yg/))
+
 ### Luni, 20 iulie
 
-* `??:??` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Geoff Keighley.
+* `??:??` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley.
 
 ### Miercuri, 1 August
 
@@ -86,6 +84,16 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Joi, 18 iunie
+
+* **[D&D Live 2020](https://dnd.wizards.com/dndlive2020)** - a avut loc o sesiune de live gameplay din Baldur's Gate 3 cu Swen Vincke și a fost dezvăluită o nouă campanie pen'n'paper plasată în Icewind Dale.
+  * [Baldur's Gate 3: 12 Things We Learned From the Latest Gameplay](https://www.ign.com/articles/baldurs-gate-3-gameplay-12-things-we-learned) <sup>(IGN)</sup>
+  * [Dungeons & Dragons Reveals Icewind Dale: Rime of the Frostmaiden at D&D Live 2020](https://www.ign.com/articles/dnd-icewind-dale-rime-of-the-frostmaiden-reveal-art-dungeons-dragons-campaign-adventure-2020-dnd-live) <sup>(IGN)</sup>
+* **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Trailere și prezentări pentru The Falconeer, Drake Hollow, Fallout 76 și altele. Interviuri exclusive cu Chris Avellone și John & Brenda Romero.
+  * [Chris Avellone and Emily Grace Buck Discuss the Recipe For a Great RPG](https://www.ign.com/articles/chris-avellone-and-emily-grace-buck-discuss-the-recipe-for-a-great-rpg) <sup>(IGN)</sup>
+* **[EA Play](https://www.ea.com/ea-play-live)** - prezentare a ultimelor noutăți despre jocurile EA.
+  * [EA Play Live 2020: Everything Announced and Revealed](https://www.ign.com/articles/ea-play-live-2020-everything-announced-and-revealed) <sup>(IGN)</sup>
 
 ### Marți, 16 iunie
 
