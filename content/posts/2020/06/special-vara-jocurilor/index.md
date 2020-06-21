@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 19 iunie]**
+description: "**[Actualizat: 21 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 19 iunie]*
+*[Actualizat: 21 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -42,7 +42,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ### Luni, 22 iunie
 
-* `18:00` **[Developer Showcase: June](http://dayofthedevs.com/)** - primul din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. Pe lângă informații despre Black Book, The Eternal Cylinder, The Night is Grey, Starbase, Ynglet și altele, sunt așteptate trei anunțuri exclusive în premieră, dintre care un „surprise major AAA reveal”.  ([Youtube](https://www.youtube.com/user/thegameawards14/), [Twitch](https://www.twitch.tv/thegameawards))
+* `17:30` **[Developer Showcase: June](http://dayofthedevs.com/)** - primul din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. Pe lângă informații despre Black Book, The Eternal Cylinder, The Night is Grey, Starbase, Ynglet și altele, sunt așteptate trei anunțuri exclusive în premieră, dintre care un „surprise major AAA reveal” (probabil este vorba despre Crash Bandicoot 4, care a fost leak-uit între timp). ([Youtube](https://www.youtube.com/watch?v=3MX4EqK_b_w), [Twitch](https://www.twitch.tv/thegameawards))
 
 ### Marți, 23 iunie
 
@@ -50,7 +50,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ### Miercuri, 24 iunie
 
-* `??:??` **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers.
+* `20:00` **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers.
 * `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Un reveal exclusiv al unui joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 
 ### Joi, 25 iunie
