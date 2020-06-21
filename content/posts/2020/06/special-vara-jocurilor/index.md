@@ -1,7 +1,7 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-06-15T00:00:00
+date: 2020-06-21T00:00:00
 categories:
     - Highlights
     - Special
@@ -94,12 +94,16 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
   * [Chris Avellone and Emily Grace Buck Discuss the Recipe For a Great RPG](https://www.ign.com/articles/chris-avellone-and-emily-grace-buck-discuss-the-recipe-for-a-great-rpg) <sup>(IGN)</sup>
 * **[EA Play](https://www.ea.com/ea-play-live)** - prezentare a ultimelor noutăți despre jocurile EA.
   * [EA Play Live 2020: Everything Announced and Revealed](https://www.ign.com/articles/ea-play-live-2020-everything-announced-and-revealed) <sup>(IGN)</sup>
+  * [EA Play 2020: Star Wars, Madden, FIFA, Apex Legends, and more](https://www.polygon.com/2020/6/18/21296339/ea-play-2020-games-trailers-news) <sup>(Polygon)</sup>
+  * [EA Play 2020: Everything announced](https://venturebeat.com/2020/06/18/ea-play-2020-everything-announced/) <sup>(VentureBeat)</sup>
 
 ### Marți, 16 iunie
 
 * **[Upload VR Showcase](https://uploadvr.com/vr-showcase-2020/)** - o prezentare în stilul Nintendo Direct, dar doar cu jocuri de VR.
   * [Upload VR Showcase: Everything Announced and Revealed](https://www.ign.com/articles/upload-vr-showcase-all-games-trailers-announcements) <sup>(IGN)</sup>
+  * [Upload VR Showcase: Summer Edition 2020 trailers and announcements recap](https://www.shacknews.com/article/118685/upload-vr-showcase-summer-edition-2020-trailers-and-announcements-recap) <sup>(Shacknews)</sup>
 * A început **[Steam Game Festival: Summer Edition](https://store.steampowered.com/sale/gamefestival)** - un eveniment care trece în revistă jocurile care urmează să apară, cu demo-uri exclusive și alte noutăți. Va ține până pe 22 iunie.
+  * [The best Steam Festival demos](https://www.rockpapershotgun.com/tag/steam-game-festival/) <sup>(RPS)</sup>
 
 ### Luni, 15 iunie
 

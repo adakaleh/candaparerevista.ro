@@ -120,6 +120,7 @@ Linkuri rapide:
 * **Gloomwood** <sup>([Destructoid](https://www.destructoid.com/stories/gloomwood-s-stealth-n-slash-action-invokes-90s-classic-thief-594247.phtml))</sup>
 * **No Place for Bravery** <sup>([PC Gamer](https://www.pcgamer.com/no-place-for-bravery-is-a-grim-tale-of-an-old-warrior-questing-to-save-his-family/))</sup>
 * **Just Die Already** <sup>([PC Gamer](https://www.pcgamer.com/just-die-already-is-a-mayhem-stunt-sandbox-filled-with-fragile-old-people/))</sup>
+* **Tribes of Midgard** <sup>([GamesRadar+](https://www.gamesradar.com/gearbox-is-bringing-tribes-of-midgard-to-ps5/))</sup>
 
 #### Anunțate la prezentarea PlayStation 5
 * **Spider-Man Miles Morales**<sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/insomniac-announces-spider-man-follow-up-for-ps5-launch-window/))</sup>
@@ -168,6 +169,7 @@ Linkuri rapide:
 * 11 iunie: **Skyhill: Black Mist** <sup>([Steam](https://store.steampowered.com/app/990360/SKYHILL_Black_Mist/))</sup>
 * 11 iunie: **Main Assembly** (early access) <sup>([Steam](https://store.steampowered.com/app/1078920/Main_Assembly/))</sup>
 * 11 iunie: **Beyond Blue** <sup>([Steam](https://store.steampowered.com/app/883360/Beyond_Blue/))</sup>
+* 12 iunie: **Unfortunate Spacemen** <sup>([Steam](https://store.steampowered.com/app/408900/Unfortunate_Spacemen/))</sup>
 * 13 iunie: **Torchlight III** (early access)  <sup>([Steam](https://store.steampowered.com/app/1030210/Torchlight_III/))</sup>
 * 13 iunie: **Persona 4 Golden** <sup>([Steam](https://store.steampowered.com/app/1113000/Persona_4_Golden/))</sup>
 * 13 iunie: **Among Trees** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/among-trees))</sup>
