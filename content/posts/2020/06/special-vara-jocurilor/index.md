@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 21 iunie]**
+description: "**[Actualizat: 23 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 21 iunie]*
+*[Actualizat: 23 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,13 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Luni, 22 iunie
-
-* `17:30` **[Developer Showcase: June](http://dayofthedevs.com/)** - primul din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. Pe lângă informații despre Black Book, The Eternal Cylinder, The Night is Grey, Starbase, Ynglet și altele, sunt așteptate trei anunțuri exclusive în premieră, dintre care un „surprise major AAA reveal” (probabil este vorba despre Crash Bandicoot 4, care a fost leak-uit între timp). ([Youtube](https://www.youtube.com/watch?v=3MX4EqK_b_w), [Twitch](https://www.twitch.tv/thegameawards))
-
 ### Marți, 23 iunie
 
-* `18:00` **[New Game+ Expo](https://www.ngpx.games/)** - prezentare care va include trailere și anunțuri de la SEGA, Atlus și alți producători. ([Youtube](https://www.youtube.com/NewGamePlusExpo), [Twitch](https://www.twitch.tv/newgameplusexpo))
+* `18:00` **[New Game+ Expo](https://www.ngpx.games/)** - prezentare care va include trailere și anunțuri de la SEGA, Atlus și alți producători. ([Twitch](https://www.twitch.tv/newgameplusexpo))
 
 ### Miercuri, 24 iunie
 
@@ -84,6 +80,11 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Luni, 22 iunie
+
+* **[Developer Showcase: June](http://dayofthedevs.com/)** - primul din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. Au fost prezentate trailere și informații despre Crash Bandicoot 4, Black Book, The Eternal Cylinder, The Night is Grey, Starbase, Ynglet și altele.
+  * [Crash Bandicoot 4: It's About Time First Gameplay, Details Revealed](https://www.ign.com/articles/crash-bandicoot-4-its-about-time-release-date-ps4-xbox-one) <sup>(IGN)</sup>
 
 ### Joi, 18 iunie
 
