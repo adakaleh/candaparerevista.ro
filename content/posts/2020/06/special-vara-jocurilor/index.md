@@ -40,14 +40,10 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Marți, 23 iunie
-
-* `18:00` **[New Game+ Expo](https://www.ngpx.games/)** - prezentare care va include trailere și anunțuri de la SEGA, Atlus și alți producători. ([Twitch](https://www.twitch.tv/newgameplusexpo))
-
 ### Miercuri, 24 iunie
 
-* `20:00` **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers.
-* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Un reveal exclusiv al unui joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
+* `20:00` **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers. ([Youtube](https://www.youtube.com/watch?v=LWM5uha3ZMk))
+* `??:??` **[IGN Expo #5](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Un reveal exclusiv al unui joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
 
 ### Joi, 25 iunie
 
@@ -80,6 +76,12 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Marți, 23 iunie
+
+* **[New Game+ Expo](https://www.ngpx.games/)** - prezentare axată pe producții japoneze precum Bloodstained: Curse of the Moon 2, 13 Sentinels, Ys IX, Catherine Full Body, Danganropa și [multe altele](https://www.ngpx.games/games/).
+  * [Ys IX: Monstrum Nox coming west for PS4, Switch, and PC in 2021](https://www.gematsu.com/2020/06/ys-ix-monstrum-nox-coming-west-for-ps4-switch-and-pc-in-2021) <sup>(Gematsu)</sup>
+  * [Bloodstained: Curse of the Moon is getting a sequel](https://www.pcgamer.com/bloodstained-curse-of-the-moon-is-getting-a-sequel/) <sup>(PC Gamer)</sup>
 
 ### Luni, 22 iunie
 
