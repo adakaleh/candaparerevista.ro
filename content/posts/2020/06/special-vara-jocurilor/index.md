@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 23 iunie]**
+description: "**[Actualizat: 25 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 23 iunie]*
+*[Actualizat: 25 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,15 +40,11 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Miercuri, 24 iunie
-
-* `20:00` **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers. ([Youtube](https://www.youtube.com/watch?v=LWM5uha3ZMk))
-* `??:??` **[IGN Expo #5](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Un reveal exclusiv al unui joc neanunțat încă, și câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
-
 ### Joi, 25 iunie
 
-* `??:??` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Gameplay video din Torchlight III și alte prezentări. ([Youtube](https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw), [Twitch](https://www.twitch.tv/ign))
-* `??:??` **Night City Wire** - livestream CD Projekt despre Cyberpunk 2077.
+* `19:00` **Night City Wire** - livestream CD Projekt, unde vor fi prezentate un nou trailer și imagini noi cu gameplay din Cyberpunk 2077. ([Youtube](https://www.youtube.com/watch?v=AePkuNf_53I), [Twitch](https://www.twitch.tv/cdprojektred))
+* `19:00` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Night City Wire, gameplay video din Torchlight III și altele. ([Youtube](https://www.youtube.com/watch?v=HyqToveJqcs), [Twitch](https://www.twitch.tv/ign))
+
 
 ### Sâmbătă, 27 iunie
 
@@ -77,9 +73,17 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care au avut loc până acum
 
+### Miercuri, 24 iunie
+
+* **[Marvel's Avengers: War Table](https://www.ign.com/articles/marvels-avengers-war-table-gameplay-and-co-op-stream-announced-for-june-2020)** - primul stream oficial cu imagini din viitorul joc Avengers.
+  * [Marvel’s Avengers stream reveals MODOK, new solo and co-op gameplay](https://www.polygon.com/2020/6/24/21301993/marvels-avengers-war-table-roundup-modok) <sup>(Polygon)</sup>
+* **[IGN Expo #5](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Câteva noutăți despre Dreamscaper, BioMutant, Shadow Arena, Cartel Tycoon și noul Sherlock Holmes de la Frogwares.
+  * [IGN Expo Day 5: Everything Announced and Revealed](https://www.ign.com/articles/ign-expo-day-5-everything-announced-and-revealed-summer-of-gaming) <sup>(IGN)</sup>
+
 ### Marți, 23 iunie
 
 * **[New Game+ Expo](https://www.ngpx.games/)** - prezentare axată pe producții japoneze precum Bloodstained: Curse of the Moon 2, 13 Sentinels, Ys IX, Catherine Full Body, Danganropa și [multe altele](https://www.ngpx.games/games/).
+  * [A rundown of New Game Plus Expo’s biggest announcements](https://egmnow.com/a-rundown-of-new-game-plus-expos-biggest-announcements/) <sup>(EGM)</sup>
   * [Ys IX: Monstrum Nox coming west for PS4, Switch, and PC in 2021](https://www.gematsu.com/2020/06/ys-ix-monstrum-nox-coming-west-for-ps4-switch-and-pc-in-2021) <sup>(Gematsu)</sup>
   * [Bloodstained: Curse of the Moon is getting a sequel](https://www.pcgamer.com/bloodstained-curse-of-the-moon-is-getting-a-sequel/) <sup>(PC Gamer)</sup>
 
