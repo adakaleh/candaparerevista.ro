@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 25 iunie]**
+description: "**[Actualizat: 26 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 25 iunie]*
+*[Actualizat: 26 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -39,12 +39,6 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 {{< figure  src="images/vara-jocurilor-cover.jpg" attr="(sursă imagine: Horizon Chase Turbo)" attrlink="https://www.horizonchaseturbo.com/" >}}
 
 ## Evenimentele care urmează
-
-### Joi, 25 iunie
-
-* `19:00` **Night City Wire** - livestream CD Projekt, unde vor fi prezentate un nou trailer și imagini noi cu gameplay din Cyberpunk 2077. ([Youtube](https://www.youtube.com/watch?v=AePkuNf_53I), [Twitch](https://www.twitch.tv/cdprojektred))
-* `19:00` **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Night City Wire, gameplay video din Torchlight III și altele. ([Youtube](https://www.youtube.com/watch?v=HyqToveJqcs), [Twitch](https://www.twitch.tv/ign))
-
 
 ### Sâmbătă, 27 iunie
 
@@ -72,6 +66,13 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Joi, 25 iunie
+
+* **Night City Wire** - livestream CD Projekt, unde au fost prezentate un nou trailer și imagini noi cu gameplay din Cyberpunk 2077.
+  * [Cyberpunk 2077 - Night City Wire Episode 1 Full Broadcast](https://www.ign.com/videos/cyberpunk-2077-night-city-wire-episode-1-full-broadcast) <sup>(IGN)</sup>
+* **[IGN Showcase](https://www.ign.com/articles/summer-of-gaming-live-stream-schedule-games-list)**. Night City Wire, gameplay video din Torchlight III și altele.
+  * [Torchlight 3: New Echonok Location Coming to Early Access This Month](https://www.ign.com/articles/torchlight-3-echonok-early-access-june-30-summer-of-gaming) <sup>(IGN)</sup>
 
 ### Miercuri, 24 iunie
 
