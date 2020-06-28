@@ -6,10 +6,21 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospectiva săptămânii 21 - 27 iunie 2020</title>
+      <link>https://candaparerevista.ro/highlights/2020/06/28/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:01 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2020/06/28/</guid>
+      <description>Pe fundalul unei săptămâni agitate de noi scandaluri din industrie privind abuzuri și hărțuire sexuală, Deus Ex a împlinit 20 de ani, Microsoft a anunțat că închide platforma de streaming Mixer, a fost dezvăluit un serial TV inspirat de Disco Elysium și un anime inspirat de Cyberpunk 2077, a început Summer Sale pe Steam și au avut loc ultimele anunțuri și prezentări de jocuri din luna iunie, printre care și Crash Bandicoot 4 și Bloodstained: Curse of the Moon 2.
+Linkuri rapide:
+ Știri Articole (critică, dev, design) Anunțuri şi lansări de jocuri Prăvălii de jocuri  Știri  Industria jocurilor a fost zguduită de un nou val de dezvăluiri privind cazuri de hărțuire sexuală, abuzuri și nu numai, care s-a lăsat cu concedieri, ban-uri și investigații.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 14 - 20 iunie 2020</title>
@@ -159,18 +170,6 @@ Linkuri rapide:
       <description>Crysis revine la viață cu o versiune remasterizată, a murit John H. Conway, creatorul jocului Game of Life, se anulează Gamescom, iar comunitatea de creatori de jocuri din România organizează un game jam pentru a strânge fonduri pentru lupta împotriva coronavirusului. Și în plus, aveți, printre altele, material pentru o întoarcere în timp la shooterele anilor &amp;lsquo;90, WarCraft II, Gothic II și începuturile epocii „shareware”.
 Linkuri rapide:
  Știri Articole (critică, dev, design) Made în România Anunţuri şi lansări de jocuri Prăvălii de jocuri  Știri  Clasificările date de ESRB jocurilor din SUA vor conține de acum înainte avertismente privind conținutul randomizat (ex: loot boxes).</description>
-    </item>
-    
-    <item>
-      <title>Revistele lunii aprilie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/coperti-04/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/coperti-04/</guid>
-      <description>&amp;ldquo;Revistele lunii&amp;rdquo; este rubrica lunară în care ne uităm la chioșcul virtual cu reviste de jocuri din lumea întreagă, cât încă mai există. Avem coperți, cu link către sursă.
- Linkuri rapide:
-LEVEL | Game Informer | PC Gamer | EDGE | RetroGamer | Pelit | Pelaaja | Hobby Consolas | Power Unlimited | PC Games | Wireframe | CanardPC
-Știri  Revista Official Xbox Magazine se închide după 19 ani. (Eurogamer, GamesIndustry.biz, Gamasutra)   LEVEL (Cehia &amp;amp; Turcia) LEVEL (Cehia) (#302) | LEVEL (Turcia), Aprilie 2020 (#279)   Game Informer (SUA) #324  PC Gamer (UK) Mai 2020 (#343) Ediţia normală şi ediţia pentru abonaţi:   EDGE (UK) Mai 2020 (#344)  Twitter EDGE</description>
     </item>
     
   </channel>
