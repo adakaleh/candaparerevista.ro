@@ -128,6 +128,7 @@ Linkuri rapide:
 * 16 iunie: **Disintegration** <sup>([Steam](https://store.steampowered.com/app/536280/Disintegration/))</sup>
 * 16 iunie: **Summer in Mara** <sup>([gog.com](https://www.gog.com/game/summer_in_mara), [gog.com](https://www.gog.com/game/summer_in_mara))</sup>
 * 17 iunie: **Curious Expedition 2** (early access) <sup>([Steam](https://store.steampowered.com/app/1040230/Curious_Expedition_2/))</sup>
+* 17 iunie: **Alwa's Legacy** <sup>([Steam](https://store.steampowered.com/app/1205900/Alwas_Legacy/), [gog.com](https://www.gog.com/game/alwas_legacy_bundle))</sup>
 * 18 iunie: **West of Dead** <sup>([Steam](https://store.steampowered.com/app/1016790/West_of_Dead/), [gog.com](https://www.gog.com/game/west_of_dead))</sup>
 * 18 iunie: **Outer Wilds** (vine și pe Steam după exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/753640/Outer_Wilds/))</sup>
 * 18 iunie: **P.A.M.E.L.A.** <sup>([Steam](https://store.steampowered.com/app/427880/PAMELA/), [gog.com](https://www.gog.com/game/pamelar))</sup>

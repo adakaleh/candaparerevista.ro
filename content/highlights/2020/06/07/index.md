@@ -116,6 +116,7 @@ Tensiunile rasiale și protestele „Black Lives Matter” din SUA reaprinse de 
 * **Elite Dangerous: Odyssey** <sup>([Eurogamer](https://www.eurogamer.net/articles/2020-06-03-elite-dangerous-getting-on-foot-traversal-and-atmospheric-landings-early-next-year))</sup>
 
 ### Lansate
+* 2 iunie: **Valorant** <sup>([playvalorant.com](https://playvalorant.com/en-gb/))</sup>
 * 3 iunie: **Sea of Thieves** (se lansează pe Steam) <sup>([Steam](https://store.steampowered.com/app/1172620/Sea_of_Thieves/))</sup>
 * 5 iunie: **Command & Conquer Remastered Collection** <sup>([Steam](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/))</sup>
 
