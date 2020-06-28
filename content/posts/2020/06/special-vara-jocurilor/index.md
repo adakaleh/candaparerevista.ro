@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 26 iunie]**
+description: "**[Actualizat: 28 iunie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 26 iunie]*
+*[Actualizat: 28 iunie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -39,10 +39,6 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 {{< figure  src="images/vara-jocurilor-cover.jpg" attr="(sursă imagine: Horizon Chase Turbo)" attrlink="https://www.horizonchaseturbo.com/" >}}
 
 ## Evenimentele care urmează
-
-### Sâmbătă, 27 iunie
-
-* `??:??` **[BitSummit Gaiden](https://bitsummit.org/en/bitsummit-gaiden-takes-discord-twitch-by-storm-june-27-28/)** - prezentare cu peste 70 de jocuri indie japoneze. ([Twitch](https://www.twitch.tv/bitsummit))
 
 ### Duminică, 12 iulie
 
@@ -66,6 +62,10 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Sâmbătă, 27 iunie
+
+* **[BitSummit Gaiden](https://bitsummit.org/en/bitsummit-gaiden-takes-discord-twitch-by-storm-june-27-28/)** - prezentare cu peste 70 de jocuri indie japoneze. ([Twitch](https://www.twitch.tv/bitsummit))
 
 ### Joi, 25 iunie
 
