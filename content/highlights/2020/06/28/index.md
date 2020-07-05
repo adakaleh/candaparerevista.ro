@@ -63,6 +63,7 @@ Linkuri rapide:
 * [Red Dead Redemption&#x27;s Untamable Frontier Makes It The Ultimate Open-World Game](https://kotaku.com/red-dead-redemptions-untamable-frontier-makes-it-the-ul-1844152406) <sup>(Kotaku)</sup>
 * [Wrestling Giants: Morality and Player/Character Relationships in Red Dead Redemption 2](https://unwinnable.com/2020/06/25/wrestling-giants-morality-and-player-character-relationships-in-red-dead-redemption-2/) <sup>(Unwinnable)</sup>
 * [Fallout 76 Has Its Problems, but Players Still Love Its Home Building Tools](https://www.fanbyte.com/features/fallout-76-has-its-problems-but-players-still-love-its-home-building-tools/) <sup>(Fanbyte)</sup>
+* [Red Dead Redemption's Untamable Frontier Makes It the Ultimate Open-World Game](https://www.kotaku.co.uk/2020/06/25/red-dead-redemptions-untamable-frontier-makes-it-the-ultimate-open-world-game) <sup>(Kotaku)</sup>
 
 ---
 
@@ -100,7 +101,7 @@ Linkuri rapide:
 ### Design, world-building, artă
 * [Mirror's Edge Catalyst still offers an open-world city like no other](https://www.eurogamer.net/articles/2020-06-14-mirrors-edge-catalyst-still-offers-an-open-world-city-like-no-other) <sup>(Eurogamer)</sup>
 * [Famous Game Logos In Arabic](https://kotaku.com/famous-game-logos-translated-into-arabic-1844158877) <sup>(Kotaku)</sup>
-
+* [Super Metroid and Building Believable Worlds](https://thelifeofgame.wordpress.com/2020/06/23/super-metroid-and-building-believable-worlds/) <sup>(Jeremy Signor's Games Initiative)</sup>
 
 ## Anunţuri şi lansări de jocuri
 
