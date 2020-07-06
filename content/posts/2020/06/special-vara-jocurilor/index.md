@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 5 iulie]**
+description: "**[Actualizat: 6 iulie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 5 iulie]*
+*[Actualizat: 6 iulie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,9 +40,18 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
+### Miercuri, 8 iulie
+
+* `19:00` **[World of Warcraft: Shadowlands Update](https://worldofwarcraft.com/en-us/news/23463297/tune-in-july-8-for-a-shadowlands-update)** - prezentare a următorului expansion World of Warcraft. ([Youtube](https://www.youtube.com/user/WorldofWarcraft), [Twitch](https://www.twitch.tv/warcraft))
+* `22:00` **[Limited Run #LRG3](https://twitter.com/LimitedRunGames/status/1279517108523732992)** - anunțuri despre viitoarele apariții în format fizic din catalogul Limited Run. ([Twitch](https://www.twitch.tv/limitedrungames))
+
+### Sâmbătă, 11 iulie
+
+* `22:00` **[Devolver Direct](https://twitter.com/devolverdigital/status/1278356586814111744)** - anunțuri și prezentări ale jocurilor din portofoliul Devolver Digital. ([Youtube](https://www.youtube.com/user/DevolverDigital), [Twitch](https://www.twitch.tv/devolverdigital/))
+
 ### Duminică, 12 iulie
 
-* `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/4zeZmXUNV2QZYwfOd0whUa/save-the-date-ubisoft-forward-announced-for-july-12)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3.
+* `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/41nS5f7EjNSB9Hi7CwSuVz/ubisoft-forward-everything-you-need-to-know)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3. ([Youtube](https://www.youtube.com/user/ubisoft), [Twitch](https://www.twitch.tv/ubisoft))
 
 ### Marți, 14 iulie
 
@@ -51,6 +60,10 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Luni, 20 iulie
 
 * `??:??` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley.
+
+### Joi, 23 iulie
+
+* `19:00` **[Xbox Games Showcase](https://twitter.com/Xbox/status/1280139454796009477)**
 
 ### Miercuri, 1 August
 
