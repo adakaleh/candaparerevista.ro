@@ -165,7 +165,7 @@
                     <p><span class="post-full-article-extra-categ">Linkuri externe</span>:</p>
                         <ul>
                             {{ range . }}
-                                <li><a href = "{{ .link }}">{{ .text }}</a>{{ with .desc }}: . {{end}}</li>
+                                <li><a href = "{{ .link }}">{{ .text }}</a>{{ with .desc }}: {{ . }} {{end}}</li>
                             {{ end }}
                         </ul>
                 {{end}}
