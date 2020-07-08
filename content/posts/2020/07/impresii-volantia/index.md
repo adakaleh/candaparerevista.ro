@@ -17,7 +17,7 @@ resources:
   - src: images/volantia-cover.jpg
     name: "cover-image"
 
-description: "12 Is Better Than 6 e un top-down shooter cu tematică western și asemănări evidente, ca gameplay și perspectivă, cu Hotline Miami, așa că nu necesită prea multe explicații suplimentare. Nu are o poveste la fel de interesantă, e ceva simplu, cu evadare și răzbunare, dar contează mai puțin, pentru că acțiunea e intensă și brutală — mișcările personajelor sunt foarte rapide, iar schimburile de focuri sunt frecvente, se declanșează brusc și se termină la fel de repede, pentru că orice lovitură e fatală, inclusiv pentru protagonist."
+description: "În Volantia: Kingdom in the Sky, un indie de la creatorii lui Desktop Dungeons (un roguelike foarte bun) și disponibil „gratuit” și în Humble Trove, lumea e împărțită în fragmente de insule plutitoare, alcătuite din piese hexagonale. Acestea devin disponibile periodic, pe măsură ce joci, și le vei alipi de mica insulă cu care pornești până vei ajunge să creezi un adevărat regat ÎN CER. Gameplay-ul va fi familiar imediat celor care au jucat Settlers — avem clădiri de producție, care generează resurse, care sunt preluate de un muncitor și duse la alte clădiri care au nevoie de resursa respectivă, care e necesară pentru alte clădiri sau research și tot așa. Și, bineînțeles, toate clădirile trebuie să fie conectate cu drumuri. "
 
 infoBox:
   data: "3 mai 2018"
@@ -31,7 +31,7 @@ infoBox:
 
 ---
 
-În **Volantia: Kingdom in the Sky**, un indie de la creatorii lui **Desktop Dungeons** (un roguelike foarte bun) și disponibil „gratuit” și în Humble Trove, lumea e împărțită în fragmente de insule plutitoare, alcătuite din piese hexagonale. Acestea devin disponibile periodic, pe măsură ce joci, și le vei alipi de mica insulă cu care pornești până vei ajunge să creezi un adevărat regat
+În **Volantia: Kingdom in the Sky**, un indie de la creatorii lui **Desktop Dungeons** (un roguelike foarte bun) și disponibil „gratuit” și în Humble Trove, lumea e împărțită în fragmente de insule plutitoare, alcătuite din piese hexagonale. Acestea devin disponibile periodic, pe măsură ce joci, și le vei alipi de mica insulă cu care pornești până vei ajunge să creezi un adevărat regat ÎN CER.
 
 Gameplay-ul va fi familiar imediat celor care au jucat Settlers — avem clădiri de producție, care generează resurse, care sunt preluate de un muncitor și duse la alte clădiri care au nevoie de resursa respectivă, care e necesară pentru alte clădiri sau research și tot așa. Și, bineînțeles, toate clădirile trebuie să fie conectate cu drumuri. În orice moment (era să zic în fiecare tură) avem câteva acțiuni disponibile — putem alipi bucăți noi de insulă, putem construi clădiri din categorii diferite (producție, utilități, știință etc), construi drumuri, demola construcții sau alege o direcție nouă de research (da, avem un ecran cu un research tree în care putem debloca bonusuri și tehnologii noi).
 
