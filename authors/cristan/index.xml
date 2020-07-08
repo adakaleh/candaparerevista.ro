@@ -6,10 +6,20 @@
     <description>Recent content in Cristan on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/authors/cristan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volantia: Kingdom in the Sky</title>
+      <link>https://candaparerevista.ro/posts/2020/07/impresii-volantia/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/07/impresii-volantia/</guid>
+      <description>În Volantia: Kingdom in the Sky, un indie de la creatorii lui Desktop Dungeons (un roguelike foarte bun) și disponibil „gratuit” și în Humble Trove, lumea e împărțită în fragmente de insule plutitoare, alcătuite din piese hexagonale. Acestea devin disponibile periodic, pe măsură ce joci, și le vei alipi de mica insulă cu care pornești până vei ajunge să creezi un adevărat regat
+Gameplay-ul va fi familiar imediat celor care au jucat Settlers — avem clădiri de producție, care generează resurse, care sunt preluate de un muncitor și duse la alte clădiri care au nevoie de resursa respectivă, care e necesară pentru alte clădiri sau research și tot așa.</description>
+    </item>
     
     <item>
       <title>Train Valley</title>
@@ -146,16 +156,6 @@ Pentru cine nu știe nimic despre acest joc, From Dust este, în esență, un pu
       
       <guid>https://candaparerevista.ro/posts/2018/09/recomandare-impossible-creatures-cristan/</guid>
       <description>Săptămâna aceasta, având în vedere că se găseşte la reducere peste tot, avem o propunere mai veche: Impossible Creatures este al doilea joc al studioului Relic Entertainment, după Homeworld, și a fost publicat de Microsoft în 2003. E un RTS clasic (resurse - clădiri - unități - luptă), a cărui acțiune se desfășoară într-un fictiv deceniu 1930 (energie bazată pe cărbune). Principalul său punct de atracție o constituie posibilitatea de a-ți construi unități combinând părți din animale diferite (de exemplu o gorilă cu aripi de vultur). Ceea ce nu e puțin lucru, având în vedere că sunt mai mult de 50 de tipuri de unități de bază, care pot fi combinate în fel și chip.</description>
-    </item>
-    
-    <item>
-      <title>Stardew Valley</title>
-      <link>https://candaparerevista.ro/posts/2018/07/recomandare-stardew-valley-cristan/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/07/recomandare-stardew-valley-cristan/</guid>
-      <description>Jocul perfect a devenit și mai bun! Odată cu lansarea patch-ului din 1 august, Stardew Valley are acum și multiplayer și e momentul perfect să-l (re)vizitați!
-Pentru cei care nu știu, Stardew Valley e&amp;hellip; greu de descris în doar câteva cuvinte. E un simulator de viață la țară, în care trebuie să te ocupi de ferma moștenită de la bunicul tău, dar totodată trebuie să ai grijă și de relația cu mica comunitate lângă care se află ferma. Personajul tău poate stabili relații de prietenie (sau chiar de căsătorie) cu personajele din orășel, se poate implica în restaurarea centrului cultural și de activități al orașului (prilej de multe quest-uri) și poate participa la numeroase festivități ce au loc periodic.</description>
     </item>
     
   </channel>
