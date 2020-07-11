@@ -1,14 +1,14 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-07-05T00:00:00
+date: 2020-07-11T00:00:00
 categories:
     - Highlights
     - Special
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 6 iulie]**
+description: "**[Actualizat: 11 iulie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 6 iulie]*
+*[Actualizat: 11 iulie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,18 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Miercuri, 8 iulie
-
-* `19:00` **[World of Warcraft: Shadowlands Update](https://worldofwarcraft.com/en-us/news/23463297/tune-in-july-8-for-a-shadowlands-update)** - prezentare a următorului expansion World of Warcraft. ([Youtube](https://www.youtube.com/user/WorldofWarcraft), [Twitch](https://www.twitch.tv/warcraft))
-* `22:00` **[Limited Run #LRG3](https://twitter.com/LimitedRunGames/status/1279517108523732992)** - anunțuri despre viitoarele apariții în format fizic din catalogul Limited Run. ([Twitch](https://www.twitch.tv/limitedrungames))
-
-### Sâmbătă, 11 iulie
-
-* `22:00` **[Devolver Direct](https://twitter.com/devolverdigital/status/1278356586814111744)** - anunțuri și prezentări ale jocurilor din portofoliul Devolver Digital. ([Youtube](https://www.youtube.com/user/DevolverDigital), [Twitch](https://www.twitch.tv/devolverdigital/))
-
 ### Duminică, 12 iulie
 
-* `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/41nS5f7EjNSB9Hi7CwSuVz/ubisoft-forward-everything-you-need-to-know)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3. ([Youtube](https://www.youtube.com/user/ubisoft), [Twitch](https://www.twitch.tv/ubisoft))
+* `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/41nS5f7EjNSB9Hi7CwSuVz/ubisoft-forward-everything-you-need-to-know)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3. ([Youtube](https://www.youtube.com/watch?v=m5tztyiT99s), [Twitch](https://www.twitch.tv/ubisoft))
 
 ### Marți, 14 iulie
 
@@ -75,6 +66,19 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Sâmbătă, 11 iulie
+
+* **[Devolver Direct](https://twitter.com/devolverdigital/status/1278356586814111744)** - anunțuri și prezentări ale jocurilor din portofoliul Devolver Digital, în formatul sărit de pe fix care i-a consacrat.
+  * [Everything Announced During Devolver Direct 2020](https://kotaku.com/everything-announced-during-devolver-direct-2020-1844349597) <sup>(Kotaku)</sup>
+  * [Devolver wins E3 2020 with Devolverland Expo, now playable on Steam](https://www.shacknews.com/article/119152/devolver-wins-e3-2020-with-devolverland-expo-now-playable-on-steam) <sup>(ShackNews)</sup>
+
+### Miercuri, 8 iulie
+
+* **[World of Warcraft: Shadowlands Update](https://worldofwarcraft.com/en-us/news/23463297/tune-in-july-8-for-a-shadowlands-update)** - prezentare a următorului expansion World of Warcraft.
+  * [World of Warcraft: Shadowlands Releasing in Fall – Beta Starting Next Week](https://wccftech.com/world-of-warcraft-shadowlands-beta-next-week/) <sup>(wccftech)</sup>
+* **[Limited Run #LRG3](https://twitter.com/LimitedRunGames/status/1279517108523732992)** - anunțuri despre viitoarele apariții în format fizic din catalogul Limited Run.
+  * [Limited Run Games reveals over thirty games getting physical Limited Run treatment](https://limitedrungames.com/blogs/news/lrg3-2020) <sup>(Limited Run)</sup>
 
 ### Miercuri, 1 iulie
 
