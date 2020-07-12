@@ -99,6 +99,7 @@ Linkuri rapide:
 * [How mobile games crushed consoles](https://arstechnica.com/gaming/2020/07/how-mobile-games-crushed-consoles/) <sup>(Ars Technica)</sup>
 * [Amazon and Google are in games for the wrong reasons](https://www.gamesindustry.biz/articles/2020-07-03-amazon-and-google-are-in-games-for-the-wrong-reasons-opinion) <sup>(GamesIndustry.biz)</sup>
 * [The DeanBeat: How the rest of 2020 looks for the game industry](https://venturebeat.com/2020/07/03/the-deanbeat-how-the-rest-of-2020-looks-for-the-game-industry/) <sup>(VentureBeat)</sup>
+* [On being a woman in esports](https://getfrank.co.uk/2020/06/28/on-being-a-woman-in-esports/) <sup>(Get Frank)</sup>
 
 ---
 
