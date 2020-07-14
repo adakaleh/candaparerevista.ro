@@ -18,7 +18,11 @@
 
       <!-- Restul paginilor de tags raman la fel: numele tag-ului/categoriei, plus numarul articolelor aferente  -->
       {{ else }}
-        <h1 class="site-title">{{.Title}}</h1>{{$.Scratch.Set "total" (len .Data.Pages)}}
+
+        {{ $categorieSiteData := index $.Site.Data.categorii (lower .Title) }}
+        {{ $titluCategorie := $categorieSiteData.nume | default .Title }}
+
+        <h1 class="site-title">{{$titluCategorie}}</h1>{{$.Scratch.Set "total" (len .Data.Pages)}}
         <h2 class="site-description">
           {{if ge ($.Scratch.Get "total") 2 }}A collection of {{$.Scratch.Get "total"}} posts
           {{else}}{{$.Scratch.Get "total"}} post{{end}}
