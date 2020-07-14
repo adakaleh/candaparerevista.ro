@@ -9,7 +9,7 @@ categories:
 tags:
     - Grim Dawn
 
-draft: false
+draft: true
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2452

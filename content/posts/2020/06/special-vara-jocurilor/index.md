@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 11 iulie]**
+description: "**[Actualizat: 14 iulie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 11 iulie]*
+*[Actualizat: 14 iulie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -39,14 +39,6 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 {{< figure  src="images/vara-jocurilor-cover.jpg" attr="(sursă imagine: Horizon Chase Turbo)" attrlink="https://www.horizonchaseturbo.com/" >}}
 
 ## Evenimentele care urmează
-
-### Duminică, 12 iulie
-
-* `22:00` **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/41nS5f7EjNSB9Hi7CwSuVz/ubisoft-forward-everything-you-need-to-know)** - prima conferință Ubisoft exclusiv digitală, care va înlocui show-ul pe care îl aveau de obicei la E3. ([Youtube](https://www.youtube.com/watch?v=m5tztyiT99s), [Twitch](https://www.twitch.tv/ubisoft))
-
-### Marți, 14 iulie
-
-* `20:00` **[Stadia Connect: July](https://twitter.com/GoogleStadia/status/1273303155976007680)** ([Youtube](https://www.youtube.com/channel/UCQKyy9Wl7hsVn1BP7BC53Yg/))
 
 ### Luni, 20 iulie
 
@@ -66,6 +58,16 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Marți, 14 iulie
+
+* **[Stadia Connect: July](https://twitter.com/GoogleStadia/status/1273303155976007680)** - au fost prezentate noutățile din catalogul Google Stadia.
+  * [Stadia Connect: Everything Announced and Shown](https://www.ign.com/articles/stadia-connect-everything-announced-and-shown)
+
+### Duminică, 12 iulie
+
+* **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/41nS5f7EjNSB9Hi7CwSuVz/ubisoft-forward-everything-you-need-to-know)** - prima conferință Ubisoft exclusiv digitală, care a înlocuit show-ul pe care îl aveau de obicei la E3. Au fost prezentate noutăți despre Watchdogs Legion, Assassin's Creed Valhalla, Farcry 5, Hyperscape și alte câteva jocuri.
+  * [Ubisoft Forward: Everything Announced and Shown](https://www.ign.com/articles/ubisoft-forward-everything-announced-and-shown) <sup>(IGN)</sup>
 
 ### Sâmbătă, 11 iulie
 
