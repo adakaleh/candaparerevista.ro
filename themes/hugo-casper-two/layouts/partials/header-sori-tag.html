@@ -24,8 +24,8 @@
 
         <h1 class="site-title">{{$titluCategorie}}</h1>{{$.Scratch.Set "total" (len .Data.Pages)}}
         <h2 class="site-description">
-          {{if ge ($.Scratch.Get "total") 2 }}A collection of {{$.Scratch.Get "total"}} posts
-          {{else}}{{$.Scratch.Get "total"}} post{{end}}
+          {{if ge ($.Scratch.Get "total") 2 }}{{$.Scratch.Get "total"}} articole
+          {{else}}{{$.Scratch.Get "total"}} articol{{end}}
         </h2>
       {{ end }}
     </div>
