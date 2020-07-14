@@ -1,7 +1,7 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-07-11T00:00:00
+date: 2020-07-14T00:00:00
 categories:
     - Highlights
     - Special
@@ -62,18 +62,19 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 ### Marți, 14 iulie
 
 * **[Stadia Connect: July](https://twitter.com/GoogleStadia/status/1273303155976007680)** - au fost prezentate noutățile din catalogul Google Stadia.
-  * [Stadia Connect: Everything Announced and Shown](https://www.ign.com/articles/stadia-connect-everything-announced-and-shown)
+  * [Stadia Connect: Everything Announced and Shown](https://www.ign.com/articles/stadia-connect-everything-announced-and-shown) <sup>(IGN)</sup>
 
 ### Duminică, 12 iulie
 
 * **[Ubisoft Forward](https://news.ubisoft.com/en-us/article/41nS5f7EjNSB9Hi7CwSuVz/ubisoft-forward-everything-you-need-to-know)** - prima conferință Ubisoft exclusiv digitală, care a înlocuit show-ul pe care îl aveau de obicei la E3. Au fost prezentate noutăți despre Watchdogs Legion, Assassin's Creed Valhalla, Farcry 5, Hyperscape și alte câteva jocuri.
   * [Ubisoft Forward: Everything Announced and Shown](https://www.ign.com/articles/ubisoft-forward-everything-announced-and-shown) <sup>(IGN)</sup>
+  * [Everything Ubisoft Announced Today During Its Not-E3 Event](https://kotaku.com/everything-ubisoft-announced-today-during-its-not-e3-ev-1844355453) <sup>(Kotaku)</sup>
 
 ### Sâmbătă, 11 iulie
 
 * **[Devolver Direct](https://twitter.com/devolverdigital/status/1278356586814111744)** - anunțuri și prezentări ale jocurilor din portofoliul Devolver Digital, în formatul sărit de pe fix care i-a consacrat.
   * [Everything Announced During Devolver Direct 2020](https://kotaku.com/everything-announced-during-devolver-direct-2020-1844349597) <sup>(Kotaku)</sup>
-  * [Devolver wins E3 2020 with Devolverland Expo, now playable on Steam](https://www.shacknews.com/article/119152/devolver-wins-e3-2020-with-devolverland-expo-now-playable-on-steam) <sup>(ShackNews)</sup>
+  * [Devolver wins E3 2020 with Devolverland Expo, now playable on Steam](https://www.shacknews.com/article/119152/devolver-wins-e3-2020-with-devolverland-expo-now-playable-on-steam) <sup>(Shacknews)</sup>
 
 ### Miercuri, 8 iulie
 
