@@ -3,9 +3,8 @@ title: "Revistele lunii februarie-martie 2020"
 type: post
 date: 2020-03-12
 categories:
+    - revistele_lunii
     - Highlights
-
-tags: [Revistele lunii]
 
 description: '"Revistele lunii" este rubrica lunară în care ne uităm la chioșcul virtual cu reviste de jocuri din lumea întreagă, cât încă mai există. Avem coperți, cu link către sursă.'
 
@@ -28,8 +27,6 @@ resources:
   - src:
     name: "cover-image"
 ---
-
-> **"Revistele lunii"** este rubrica lunară în care ne uităm la chioșcul virtual cu reviste de jocuri din lumea întreagă, cât încă mai există. Avem coperți, cu link către sursă.
 
 Linkuri rapide:
 
