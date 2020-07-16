@@ -6,10 +6,20 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grim Dawn</title>
+      <link>https://candaparerevista.ro/posts/2020/07/review-grim-dawn/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/07/review-grim-dawn/</guid>
+      <description>Am petrecut un număr atât de mare de ore în Grim Dawn și cele două expansiuni ale sale, care, în absența cronometrării clientului GOG, ar fi devenit nerușinat din înălțimile sale aproape incomensurabile. Acum să nu fiu înțeles greșit, timpul petrecut în joc, transparent, aproape infinit, care de obicei echivalează cu cât de mult mi-a plăcut un anume joc nu cred să-și fi găsit aceeași reprezentanță în cazul ăsta și asta din cauza unui singur motiv.
+Grim Dawn e un ARPG, construit pe bătrânul stârv, devenit pentru unii relicvă divină, al lui Titan&amp;rsquo;s Quest.</description>
+    </item>
     
     <item>
       <title>Streets of Rage 4</title>
@@ -140,16 +150,6 @@ Producătorii ne-au mai adus pe ecrane și Vampyr, iar momentan lucrează la un 
       
       <guid>https://candaparerevista.ro/posts/2019/04/review-return-obra-dinn-azad/</guid>
       <description>Nu am fost niciodată un as al puzzle-urilor sau al genului adventure. Nu jucam jocuri din sfera asta când eram mic și nici nu eram vreun mare împătimit al rezolvatului de mistere. De fapt, când am început să joc adventure mă simțeam nevoit să mă folosesc de walkthroughs frecvent, dintr-o stranie teamă de a mă confrunta cu problemele. De-a lungul timpului am căpătat, în schimb, o adevărată pasiune pentru explorare și mistere și am devenit tot mai însetat de aventuri. Return of the Obra Dinn vine ca un punct culminant al genului, construit pe logică pură, menit să îmi satisfacă această plăcere.</description>
-    </item>
-    
-    <item>
-      <title>My Brother Rabbit</title>
-      <link>https://candaparerevista.ro/posts/2019/03/review-my-brother-rabbit-azad/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2019/03/review-my-brother-rabbit-azad/</guid>
-      <description>Ce s-ar întâmpla dacă un joc și-ar plasa fundamentul poveștii pe traumele psihologice ale unui copil? Pe mecanismele de coping și construirea unei lumi fantastice unde respectivul copil poate schimba mersul lucrurilor?
-Jocul începe cu un slideshow de picturi în care este expusă premisa: sora mai mică a personajului principal se îmbolnăvește de ceva grav, nu ni se spune ce, și asistăm neputincioși la perindări cu ambulanța, prin spitale și clinici, în timp ce ea este dată pe mâinile doctorilor. Sau doar în aparență suntem neputincioși? Puși în pielea unui copil vom lupta cu boala într-un mod original, creând o lume alegorică centrată pe două personaje.</description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/07/review-grim-dawn/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/coperti-07/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
@@ -3911,7 +3916,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/fular/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4240,6 +4245,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/griftlands/</loc>
     <lastmod>2020-06-21T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/grim-dawn/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6568,7 +6579,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6958,7 +6969,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7384,7 +7395,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
