@@ -9,8 +9,6 @@ categories:
 tags:
     - Grim Dawn
 
-draft: true
-
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2452
    text: Articolele Comunității
