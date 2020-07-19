@@ -1,7 +1,7 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-07-14T00:00:00
+date: 2020-07-18T00:00:00
 categories:
     - Highlights
     - Special
@@ -63,6 +63,7 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 * **[Stadia Connect: July](https://twitter.com/GoogleStadia/status/1273303155976007680)** - au fost prezentate noutățile din catalogul Google Stadia.
   * [Stadia Connect: Everything Announced and Shown](https://www.ign.com/articles/stadia-connect-everything-announced-and-shown) <sup>(IGN)</sup>
+  * [Here's a recap of the latest Stadia Connect stream, which announced the 64-player Super Bomberman R Online](https://www.destructoid.com/stories/here-s-a-recap-of-the-latest-stadia-connect-stream-which-announced-the-64-player-super-bomberman-r-online-597455.phtml) <sup>(Destructoid)</sup>
 
 ### Duminică, 12 iulie
 
