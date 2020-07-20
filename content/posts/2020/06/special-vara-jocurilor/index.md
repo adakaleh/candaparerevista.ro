@@ -40,14 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Luni, 20 iulie
-
-* `17:00` **[Nintendo Direct Mini](https://mobile.twitter.com/NintendoAmerica/status/1285061875030298624)** - o prezentare scurtă, concentrată mai mult pe jocuri third-party, dar și cu câteva noutăți despre jocuri Nintendo anunțate deja. ([Youtube](https://www.youtube.com/user/Nintendo))
-* `18:00` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. ([Youtube](https://www.youtube.com/watch?v=2SxzLV9HNZU), [Twitch](https://www.twitch.tv/thegameawards))
-
 ### Joi, 23 iulie
 
-* `19:00` **[Xbox Games Showcase](https://twitter.com/Xbox/status/1280139454796009477)**
+* `19:00` **[Xbox Games Showcase](https://twitter.com/Xbox/status/1280139454796009477)** ([Youtube](https://www.youtube.com/user/xbox), [Twitch](https://www.twitch.tv/xbox))
 
 ### Miercuri, 1 August
 
@@ -59,6 +54,12 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Luni, 20 iulie
+
+* **[Nintendo Direct Mini](https://mobile.twitter.com/NintendoAmerica/status/1285061875030298624)** - o prezentare scurtă, concentrată mai mult pe jocuri third-party, dar și cu câteva noutăți despre jocuri Nintendo anunțate deja.
+  * [Here's everything announced in Nintendo's mini Direct](https://www.eurogamer.net/articles/2020-07-20-heres-everything-announced-in-nintendos-mini-direct) <sup>(Eurogamer)</sup>
+* **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley.
 
 ### Marți, 14 iulie
 
