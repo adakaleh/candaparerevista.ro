@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 14 iulie]**
+description: "**[Actualizat: 20 iulie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 14 iulie]*
+*[Actualizat: 20 iulie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -42,7 +42,8 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ### Luni, 20 iulie
 
-* `??:??` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley.
+* `17:00` **[Nintendo Direct Mini](https://mobile.twitter.com/NintendoAmerica/status/1285061875030298624)** - o prezentare scurtă, concentrată mai mult pe jocuri third-party, dar și cu câteva noutăți despre jocuri Nintendo anunțate deja. ([Youtube](https://www.youtube.com/user/Nintendo))
+* `18:00` **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley. ([Youtube](https://www.youtube.com/watch?v=2SxzLV9HNZU), [Twitch](https://www.twitch.tv/thegameawards))
 
 ### Joi, 23 iulie
 
