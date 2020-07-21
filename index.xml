@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Someday You&#39;ll Return</title>
+      <link>https://candaparerevista.ro/posts/2020/07/review-someday-youll-return/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/07/review-someday-youll-return/</guid>
+      <description>Dacă aș fi fost întrebată la ce mă așteptam de la acest joc după ce am văzut trailer-ul, aș fi zis o experiență horror autentică dar, ca să nu sune prea pretențios, ideea de bază ar fi fost să joc ceva cu o poveste bună care să-mi facă inima aproape să-mi sară din piept din când în când. Ce pot să zic, băieții de la CBE Software s-au ținut de cuvânt și ca să citez chiar de pe site-ul lor: „it’s much better to fail while trying something new and original than to succeed by copying already successful games”.</description>
+    </item>
     
     <item>
       <title>Retrospectiva săptămânii 12 - 18 iulie 2020</title>
@@ -155,17 +164,6 @@ EDGE (UK) Iulie 2020 (#346)  Twitter EDGE</description>
       <description>De acum încolo avem o nouă modalitate prin care cine e interesat poate să contribuie la susținerea site-ului și forumului nostru.
 Jaunty, administratorul nevăzut care stă în spatele firelor care alimentează tot ce citiți pe aici, a deschis un cont de Patreon unde puteți contribui cu orice sumă care să ajute la acoperirea costurilor lunare de funcționare a serverelor:
  Jaunty here. După ce revista Level și-a încetat apariția și forumul ei a dispărut subit, am pus bazele noului forum al comunității - forum.candaparerevista.ro - pe care îl găzduiesc din martie 2014.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 31 mai - 6 iunie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/06/07/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/06/07/</guid>
-      <description>Protestele din SUA aprinse de moartea lui George Floyd au reacții și din industria de gaming, de la strângeri de fonduri, amânarea unor evenimente și alte inițiative de susținere. În alte știri, o retrospectivă despre Maxis a dus la descoperirea unui prototip al unui joc nepublicat, a murit creatorul RPG-ului Darklands și s-a lansat colecția remasterizată Command &amp;amp; Conquer.
-Linkuri rapide:
- Știri Articole (critică, dev, design) Made în România Anunțuri şi lansări de jocuri Prăvălii de jocuri  Știri Tensiunile rasiale și protestele „Black Lives Matter” din SUA reaprinse de uciderea lui George Floyd provoacă diverse reacții și în lumea jocurilor (VideoGamesChronicle, EGM, Ars Technica, Gamasutra) &amp;hellip;</description>
     </item>
     
   </channel>
