@@ -1,14 +1,14 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-07-18T00:00:00
+date: 2020-07-26T00:00:00
 categories:
     - Highlights
     - Special
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 20 iulie]**
+description: "**[Actualizat: 26 iulie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -40,10 +40,6 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Joi, 23 iulie
-
-* `19:00` **[Xbox Games Showcase](https://twitter.com/Xbox/status/1280139454796009477)** ([Youtube](https://www.youtube.com/user/xbox), [Twitch](https://www.twitch.tv/xbox))
-
 ### Miercuri, 1 August
 
 * `??:??` **[Tennocon 2020](https://www.warframe.com/tennocon)** - Digital Extremes vor oferi noutăți despre Warframe.
@@ -55,10 +51,17 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care au avut loc până acum
 
+### Joi, 23 iulie
+
+* **[Xbox Games Showcase](https://twitter.com/Xbox/status/1280139454796009477)** ([Youtube](https://www.youtube.com/user/xbox), [Twitch](https://www.twitch.tv/xbox))
+  * [Everything announced at the Xbox Series X Games Showcase](https://www.polygon.com/2020/7/23/21335537/xbox-series-x-games-showcase-microsoft-exclusives) <sup>(Polygon)</sup>
+  * [Everything Microsoft Showed During Today&#x27;s Xbox Showcase](https://kotaku.com/everything-microsoft-showed-during-todays-xbox-showcase-1844481704) <sup>(Kotaku)</sup>
+
 ### Luni, 20 iulie
 
 * **[Nintendo Direct Mini](https://mobile.twitter.com/NintendoAmerica/status/1285061875030298624)** - o prezentare scurtă, concentrată mai mult pe jocuri third-party, dar și cu câteva noutăți despre jocuri Nintendo anunțate deja.
   * [Here's everything announced in Nintendo's mini Direct](https://www.eurogamer.net/articles/2020-07-20-heres-everything-announced-in-nintendos-mini-direct) <sup>(Eurogamer)</sup>
+
 * **[Developer Showcase: July](https://twitter.com/summergamefest/status/1263920316121624576)** - al doilea din cele două Developer Showcases organizate de Day of the Devs în colaborare cu Geoff Keighley.
 
 ### Marți, 14 iulie
