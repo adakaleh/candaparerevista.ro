@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creaks</title>
+      <link>https://candaparerevista.ro/posts/2020/07/review-creaks/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/07/review-creaks/</guid>
+      <description>Câți dintre noi nu ne-am dorit oare, copii fiind, să explorăm castele misterioase, camere secrete, să luăm parte la aventuri magice pe care le vedeam doar în desenele animate sau de care dădeam în lecturile tinereții? Ei bine, Creaks de la Amanita acoperă foarte bine fantezia asta a copilăriei, ba chiar în cele mai neașteptate și pline de imaginație moduri. Camere păzite de câini roboți? Avem. Meduze plutitoare? Avem. Oameni-păsări care își duc viețile cotidiene în acel castel? Avem și asta. Cunoscuți fiind pentru jocuri adventure precum Machinarium și Samorost, cehii de la Amanita au venit mereu cu câte ceva nou și inovativ, așa că de data aceasta avem de-a face cu un puzzle platformer delicios.</description>
+    </item>
     
     <item>
       <title>Vara Jocurilor</title>
@@ -147,15 +156,6 @@ Din descriere, In Other Waters pare că se adresează direct acelei părți a im
       <guid>https://candaparerevista.ro/posts/2020/04/recomandare-stygian/</guid>
       <description>În această săptămână avem o recomandare mai de nișă. Stygian: Reign of the Old Ones e un joc imperfect, dar interesant, care a avut parte de o lansare trecută cu vederea în 2019, fiind eclipsat de indie-uri mult mai proeminente. Și dacă despre Outer Wilds sau Disco Elysium ați mai auzit din alte părți cât de mișto sunt (chiar dacă pe site nu avem articole despre ele încă), o să vă vorbesc puțin despre acest joc.
 Mythosul lui Lovecraft a inspirat numeroase jocuri, dar am impresia că Stygian e primul RPG plasat în acest univers (asta dacă facem abstracție de parodicul Cthulhu Saves The World).</description>
-    </item>
-    
-    <item>
-      <title>Color Out Of Space</title>
-      <link>https://candaparerevista.ro/posts/2020/03/review-color-out-space/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/03/review-color-out-space/</guid>
-      <description>Un individ cu caracterul destul de neplăcut, care și-a petrecut scurta viață în Noua Anglie, într-o stare de sărăcie lucie și nebăgat în seamă dincolo de un cerc restrîns de entuziaști, a cărui creație nu a depășit în vremea sa coloanele gazetei de perete, este probabil cel mai influent autor al științifico-fantasticului macabru. La aproape un secol de la debutul său literar, opera lui H.P. Lovecraft nu este uitată în pulberea istoriei. Este chiar mai actuală ca niciodată, manifestîndu-se în forme noi permise de dezvoltarea tehnologică și viteza tot mai mare de transmitere a informației; fie că vorbim de literatură, muzică, filme sau jocuri video.</description>
     </item>
     
   </channel>
