@@ -1,14 +1,14 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-07-26T00:00:00
+date: 2020-07-31T00:00:00
 categories:
     - Highlights
     - Special
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 26 iulie]**
+description: "**[Actualizat: 3 august]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 20 iulie]*
+*[Actualizat: 3 august]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,9 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Miercuri, 1 August
+### Joi, 6 August
 
-* `??:??` **[Tennocon 2020](https://www.warframe.com/tennocon)** - Digital Extremes vor oferi noutăți despre Warframe.
+* `23:00` **[Sony State of Play - August](https://blog.playstation.com/2020/08/03/state-of-play-returns-this-thursday-august-6/)** - prezentare de 40 de minute în care Sony vor aduce noutăți despre următoarele titluri care de pe PS4 și PS VR, și câteva update-uri pentru unele jocuri de pe PS5 care au fost arătate deja la showcase-ul din iunie. ([Youtube](https://www.youtube.com/playstation), [Twitch](https://www.twitch.tv/playstation))
 
 ### Joi, 27 august
 
@@ -50,6 +50,11 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Miercuri, 1 August
+
+* **[Tennocon 2020](https://www.warframe.com/tennocon)** - Digital Extremes au anunțat următorul expansion Warframe, Heart of Deimos, care va ieși pe 25 august, plus alte câteva noutăți.
+  * [The 5 biggest reveals from Warframe's TennoCon 2020](https://www.pcgamer.com/warframe-tennocon-2020/) <sup>(PC Gamer)</sup>
 
 ### Joi, 23 iulie
 
