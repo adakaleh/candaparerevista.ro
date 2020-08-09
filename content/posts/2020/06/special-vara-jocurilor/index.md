@@ -1,14 +1,14 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-07-31T00:00:00
+date: 2020-08-08T00:00:00
 categories:
     - Highlights
     - Special
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 3 august]**
+description: "**[Actualizat: 9 august]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 3 august]*
+*[Actualizat: 9 august]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,9 +40,9 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Joi, 6 August
+### Luni, 10 August
 
-* `23:00` **[Sony State of Play - August](https://blog.playstation.com/2020/08/03/state-of-play-returns-this-thursday-august-6/)** - prezentare de 40 de minute în care Sony vor aduce noutăți despre următoarele titluri care de pe PS4 și PS VR, și câteva update-uri pentru unele jocuri de pe PS5 care au fost arătate deja la showcase-ul din iunie. ([Youtube](https://www.youtube.com/playstation), [Twitch](https://www.twitch.tv/playstation))
+* `20:00` **[Night City Wire #2](https://www.pcgamer.com/cyberpunk-2077s-next-night-city-wire-livestream-is-next-monday/)** - livestream de la CD Projekt cu noutăți din Cyberpunk 2077. ([Twitch](https://www.twitch.tv/cdprojektred))
 
 ### Joi, 27 august
 
@@ -50,6 +50,10 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+* **[Sony State of Play - August](https://blog.playstation.com/2020/08/03/state-of-play-returns-this-thursday-august-6/)** - prezentare de 40 de minute în care Sony au adus noutăți despre Crash Bandicoot 4, Braid, The Pathless, Spelunky 2 și alte jocuri. ([Youtube](https://www.youtube.com/playstation), [Twitch](https://www.twitch.tv/playstation))
+  * [Everything PlayStation Announced During Today&#x27;s State Of Play](https://kotaku.com/everything-playstation-announced-during-todays-state-of-1844638709) <sup>(Kotaku)</sup>
+  * [Everything revealed in Sony's State of Play showcase](https://www.eurogamer.net/articles/2020-08-06-everything-revealed-in-sonys-state-of-play-showcase) <sup>(Eurogamer)</sup>
 
 ### Miercuri, 1 August
 
