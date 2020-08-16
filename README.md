@@ -145,6 +145,8 @@ text articol aici
 >}}
 text articol aici
 ~~~
+## Audio
+Pentru a introduce o versiune audio a articolului, este suficientă prezența unui fișier audio .mp3 sau .ogg undeva în directorul articolului. Vezi secțiunea Cod de mai jos, partea despre Page Bundles, pentru mai multe detalii.
 
 ## Video
 Pentru video, Hugo are suport built-in pentru clipuri YouTube, dar care dintr-un motiv necunoscut nu merge la noi. Soluția a fost un shortcode custom, care face același lucru.
@@ -167,6 +169,9 @@ Articolele trebuie ţinute într-un director propriu, în directorul `content`, 
 ~~~
 content/
 ├── nume-articol/
+│   ├── audio/
+│   │   ├── audio-1.mp3
+│   │   ├── audio-1.ogg
 │   ├── images/
 │   │   ├── image-1.jpg
 │   │   ├── image-2.jpg
@@ -222,6 +227,9 @@ Dimensiunile pentru redimensionare sunt stabilite la nivel de site și stocate �
   firstCardThumbSize = "x500"
   cardThumbSize = "x350"
 ~~~
+
+### Versiune audio
+Pentru versiunea audio a unui articol se folosesc resurse de tip audio. Nu este necesar ca aceste resurse să fie specificate în front matter, ci doar să fie prezente oriunde în page bundle (dar pentru organizare e preferabil un director "audio") și vor fi recunoscute automat, indiferent de nume. Dacă sunt mai multe fișiere de același tip, va fi folosit primul. Formatele acceptate sunt .ogg și/sau .mp3 (preferabil ambele, pentru compatibilitate cu toate browserele).
 
 ### Informații suplimentare
 Hugo Page Bundles: https://gohugo.io/content-management/page-bundles
