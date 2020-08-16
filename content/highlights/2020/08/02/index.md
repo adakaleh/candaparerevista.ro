@@ -5,7 +5,7 @@ date: 2020-08-02T00:00:01
 categories:
     - Highlights
 
-tags: [Beyond Good and Evil, Splinter Cell, The Witcher, Konami, Cyberpunk 2077, Grounded, Destroy All Humans, The Maid of Sker, Othercide, Terrorarium, Skater XL, Blightbound, Fight Crab, Hellpoint, Liberated, Fairy Tail, Fae Tactics, Rescue Rangers, Metal Gear Solid 4, Ghost of Tsushima, 5D Chess]
+tags: [Beyond Good and Evil, Splinter Cell, The Witcher, Konami, Cyberpunk 2077, Grounded, Destroy All Humans, The Maid of Sker, Othercide, Terrorarium, Skater XL, Blightbound, Fight Crab, Hellpoint, Liberated, Fairy Tail, Fae Tactics, Rescue Rangers, Metal Gear Solid 4, Ghost of Tsushima, 5D Chess, Kind Words, Coffee Talk]
 
 description: "Secetă de știri - nu s-au anunțat prea multe în această săptămână, în afară de noi ecranizări după The Witcher, Splinter Cell și Beyond Good and Evil, extinderea Konami pe segmentul desktop PC, și lansarea lui Destroy All Humans, Grounded și a altor câteva jocuri indie."
 
@@ -45,6 +45,7 @@ Linkuri rapide:
 * [Gabe Newell thinks the Xbox Series X is better than the PlayStation 5](https://www.pcgamer.com/gabe-newell-thinks-the-xbox-series-x-is-better-than-the-playstation-5/) <sup>(PC Gamer)</sup>
 * [Pandemic has accelerated a number of long-term gaming trends](https://www.gamesindustry.biz/articles/2020-07-31-pandemic-has-accelerated-a-number-of-long-term-gaming-trends) <sup>(GamesIndustry.biz)</sup>
 * [PS4 ‘could’ve been the end’ for PlayStation, says former exec](https://www.videogameschronicle.com/news/ps4-couldve-been-the-end-for-playstation-says-former-strategist/) <sup>(VideoGamesChronicle)</sup>
+* [The gamification of chill beats: the music of Kind Words and Coffee Talk](https://andrewsgamingnotes.wordpress.com/2020/07/30/the-gamification-of-chill-beats-the-music-of-kind-words-and-coffee-talk/) <sup>(Andrew's Gaming Notes)</sup>
 
 ---
 

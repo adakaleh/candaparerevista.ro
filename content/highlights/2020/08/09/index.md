@@ -145,8 +145,12 @@ Linkuri rapide:
 * 4 august: **Hellbound** <sup>([Steam](https://store.steampowered.com/app/753590/Hellbound/))</sup>
 * 4 august: **The Battle of Polytopia** <sup>([Steam](https://store.steampowered.com/app/874390/The_Battle_of_Polytopia/))</sup>
 * 4 august: **Spitlings** <sup>([Steam](https://store.steampowered.com/app/1002000/SPITLINGS/))</sup>
+* 5 august: **Tesla Force** (early access) <sup>([Steam](https://store.steampowered.com/app/1149710/Tesla_Force/), [gog.com](https://www.gog.com/game/tesla_force))</sup>
 * 6 august: **Post Void** <sup>([Steam](https://store.steampowered.com/app/1285670/Post_Void/))</sup>
+* 6 august: **There Is No Game: Wrong Dimension** <sup>([Steam](https://store.steampowered.com/app/1240210/There_Is_No_Game__Wrong_Dimension/))</sup>
+* 7 august: **Fast & Furious Crossroads** <sup>([Steam](https://store.steampowered.com/app/678030/FAST__FURIOUS_CROSSROADS/))</sup>
 * 7 august: **Horizon Zero Dawn: Complete Edition** <sup>([Steam](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/))</sup>
+* 8 august: **Company of Crime** <sup>([Steam](https://store.steampowered.com/app/1229420/Company_of_Crime/), [gog.com](https://www.gog.com/game/company_of_crime))</sup>
 
 ## Prăvălii de jocuri
 
