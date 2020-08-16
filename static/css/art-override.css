@@ -153,8 +153,32 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     opacity: 0.85;
 }
 
+/* player audio articol */
+.post-template .kg-card-markdown .audio-version {
+    margin-bottom: 2em;
+    color: #26a8ed;
+    border: solid 1px #26a8ed;
+    padding: 1em;
+    width: 100%;
+    background-color: rgba(38,168,237,0.1);
+    opacity: 0.9;
+}
+
+.audio-version-label {
+    margin-bottom: 0.5em;
+    text-transform:uppercase;
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.post-template .kg-card-markdown audio {
+    width: 100%;
+    border-radius: 3px;
+}
+
 /* container text articol - primul paragraf */
-.post-template .kg-card-markdown:not(.blog)>p:first-child {
+.post-template .kg-card-markdown:not(.blog)>p:first-of-type  {
     font-size:1.9rem;
     line-height:1.5em;
     font-style:italic;

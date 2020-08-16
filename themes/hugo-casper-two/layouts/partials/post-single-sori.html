@@ -85,6 +85,20 @@
                 {{ end }}
             {{ end }}
 
+            {{ if .Resources.ByType "audio"  }}
+                <div class="audio-version"><p class="audio-version-label">Versiune audio</p>
+                    <audio controls>
+                    {{ with .Resources.GetMatch "**.ogg"  }}
+                        <source src="{{.Permalink}}" type="audio/ogg">
+                     {{ end }}
+                    {{ with .Resources.GetMatch "**.mp3"  }}
+                        <source src="{{.Permalink}}" type="audio/mpeg">
+                     {{ end }}
+                     Browserul nu suportă formatul de fișier pentru versiunea audio.
+                    </audio>
+                </div>
+            {{ end }}
+
             {{ .Content }}
 
             {{ with .Params.infoBox }}

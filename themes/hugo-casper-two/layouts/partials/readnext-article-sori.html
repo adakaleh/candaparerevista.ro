@@ -87,7 +87,13 @@
           <span class="post-card-author"><a href="/authors/{{$authorLink}}">{{ $authorName }}</a></span>
           <span class="post-card-date">{{ .Date.Format "2/01/06" | safeHTML }}</span>
         </div>
-        <div class="post-card-reading-time">{{.ReadingTime}}</div>
+        <div class="post-card-reading-time">
+            {{if .Resources.ByType "audio"}}
+            <span><svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="32" height="32" viewBox="0 0 75 75">
+                        <path d="M39.389,13.769 L22.235,28.606 L6,28.606 L6,47.699 L21.989,47.699 L39.389,62.75 L39.389,13.769z" style="stroke:#969696;stroke-width:5;stroke-linejoin:round;fill:#969696;"/>
+                        <path d="M48,27.6a19.5,19.5 0 0 1 0,21.4M55.1,20.5a30,30 0 0 1 0,35.6M61.6,14a38.8,38.8 0 0 1 0,48.6" style="fill:none;stroke:#969696;stroke-width:5;stroke-linecap:round"/></span>
+            {{end}}
+            {{.ReadingTime}}</div>
     </footer>
   </div>
 </article>
