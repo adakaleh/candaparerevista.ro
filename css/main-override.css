@@ -300,6 +300,13 @@ a {
     font-size: 1.1rem;
 }
 
+.post-card-reading-time svg {
+    width: 20px;
+    height: 20px;
+    fill: rgba(128, 128, 128, 0.8);
+    margin-right: 0.5em;
+}
+
 .post-card-reading-time {
     margin-left: auto;
     align-self: center;

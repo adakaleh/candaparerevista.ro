@@ -6,10 +6,20 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Short Hike</title>
+      <link>https://candaparerevista.ro/posts/2020/08/a-short-hike/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/08/a-short-hike/</guid>
+      <description>Îmi plac plimbările în natură și urcatul pe munte și în realitate, așa că pixelatul A Short Hike, care te îmbie fix la genul acesta de activitate, a picat excelent, mai ales în vreme de #stațiacasa. Am, de altfel, o slăbiciune pentru jocurile de aventură și explorare, iar dacă acestea includ printre activități și zborul, cu atât mai mult!
+Jocul pare să fi fost gândit, de altfel, în jurul ideii de explorare și a sentimentului de libertate. Ai ocazia să planezi printre stânci, deasupra lor, deasupra mării, printre nori, să admiri florile și trena de verdeață, pe orice fel de vreme.</description>
+    </item>
     
     <item>
       <title>Pathologic 2</title>
@@ -139,16 +149,6 @@ Pasiunea mea pentru science fiction a început acum mulți ani și nu cu vreo se
       
       <guid>https://candaparerevista.ro/posts/2019/06/review-druidstone/</guid>
       <description>În 2012, înainte ca toate drumurile să fie pline de indie-uri și kickstartere care profită de nostalgia jucătorilor, Almost Human, un studio finlandez format din numai patru persoane, lansa Legend of Grimrock. Un blobber care s-a bucurat de un succes neașteptat de mare, ce avea să fie o adevărată premoniție pentru următoarele valuri de producători mici și mari care concurează astăzi pentru atenția noastră, pe scena independentă. Ce treabă are asta cu Druidstone: The Secret of the Menhir Forest? Între timp, o parte din Almost Human s-a desprins, formând un nou studio: &amp;ldquo;Ctrl Alt Ninja&amp;rdquo;, și se face că s-au gândit să debuteze cu un hibrid RPG - TBS - Puzzle.</description>
-    </item>
-    
-    <item>
-      <title>State of Mind</title>
-      <link>https://candaparerevista.ro/posts/2019/05/review-state-of-mind/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2019/05/review-state-of-mind/</guid>
-      <description>După ușoara dezamăgire apărută la finalul lui A New Beginning, credeam că va trece un pic mai mult timp până ce voi mai juca ceva din catalogul crescând al celor de la Daedalic. Atras însă de cele câteva cadre văzute, m-am apucat de State of Mind, dar un pic circumspect după experiența anterioară și mai prudent în așteptări, fără a-mi mai pune mari nădejdi înainte de a trece prin poveste.
-Ne aflăm în viitorul lui 2048, când accidentele și inerent consecințele acestora deveniseră deja vestigii ale trecutului apropiat mulțumită tehnologiei tot mai avansate ce acoperă fiecare fațetă a cotidianului.</description>
     </item>
     
   </channel>

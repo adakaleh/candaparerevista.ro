@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Short Hike</title>
+      <link>https://candaparerevista.ro/posts/2020/08/a-short-hike/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/08/a-short-hike/</guid>
+      <description>Îmi plac plimbările în natură și urcatul pe munte și în realitate, așa că pixelatul A Short Hike, care te îmbie fix la genul acesta de activitate, a picat excelent, mai ales în vreme de #stațiacasa. Am, de altfel, o slăbiciune pentru jocurile de aventură și explorare, iar dacă acestea includ printre activități și zborul, cu atât mai mult!
+Jocul pare să fi fost gândit, de altfel, în jurul ideii de explorare și a sentimentului de libertate. Ai ocazia să planezi printre stânci, deasupra lor, deasupra mării, printre nori, să admiri florile și trena de verdeață, pe orice fel de vreme.</description>
+    </item>
     
     <item>
       <title>City of Brass / Horizon Chase Turbo / Tokyo 42</title>
@@ -144,16 +154,6 @@ Nu am jucat foarte mult ca timp, dar am jucat destul de mult ca număr de curse 
       <guid>https://candaparerevista.ro/posts/2020/05/retro-valhalla/</guid>
       <description>La quiz-ul despre jocuri adventure pe care l-am făcut acum o lună pe forum niciunul din 30 de participanți nu a reușit să identifice jocul care face subiectul acestui articol. Să fiu sincer, știam că șansele sunt minime să recunoască cineva un adventure obscur lansat inițial pe PC-urile Amiga în 1994, dar eram curios dacă mai există un om pe lume care a trăit o experiență similară cu a mea legată de acest joc.
 Jocul se numește Valhalla: The Lord of Infinity, dar ce am jucat eu a fost un remake pentru Windows apărut în 2001, o ediție care l-a împărțit în patru episoade reunite sub numele Valhalla Classics, care include pe lângă acestea și episoade din două sequel-uri apărute în 1995.</description>
-    </item>
-    
-    <item>
-      <title>The Textorcist: The Story of Ray Bibbia</title>
-      <link>https://candaparerevista.ro/posts/2020/05/impresii-the-textorcist/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/05/impresii-the-textorcist/</guid>
-      <description>Deși n-am jucat multe, pot spune că-mi plac jocurile bazate pe typing (n-o să-i zic dactilografiere, e prea lung și sună prea birocratic). În afară de un joc vechi de DOS al cărui nume nu mi-l amintesc, cu ajutorul căruia am învățat să scriu „în orb”, singurele astfel de jocuri pe care le-am mai jucat au fost The Typing of the Dead și Epistory.
-The Textorcist e un titlu interesant. Nu e doar un joc de typing, e și un bullet hell în același timp. Nu pare o combinație viabilă la prima vedere, dar jocul de față reușește să le îmbine foarte bine, rezultatul fiind o mecanică originală și, după cum vă puteți închipui, și foarte dificilă.</description>
     </item>
     
   </channel>
