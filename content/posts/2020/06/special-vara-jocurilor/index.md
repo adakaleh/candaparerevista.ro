@@ -8,7 +8,7 @@ categories:
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 9 august]**
+description: "**[Actualizat: 19 august]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 9 august]*
+*[Actualizat: 19 august]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,16 +40,19 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Luni, 10 August
-
-* `20:00` **[Night City Wire #2](https://www.pcgamer.com/cyberpunk-2077s-next-night-city-wire-livestream-is-next-monday/)** - livestream de la CD Projekt cu noutăți din Cyberpunk 2077. ([Twitch](https://www.twitch.tv/cdprojektred))
-
 ### Joi, 27 august
 
-* `??:??` **[Gamescom 2020 - Opening Night Live](https://www.gamescom.global/news/content-for-media-representatives/press-information-of-gamescom/press-release/)** - prima seară de Gamescom, în care vor fi făcute principalele anunțuri. Va fi urmată de alte trei zile de evenimente digitale.
+* `21:00` **[Gamescom 2020 - Opening Night Live](https://www.gamescom.global/news/content-for-media-representatives/press-information-of-gamescom/press-release/)** - prima seară de Gamescom, în care vor fi făcute principalele anunțuri. Va fi urmată de alte trei zile de evenimente digitale.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Luni, 10 August
+
+* **[Night City Wire #2](https://www.pcgamer.com/cyberpunk-2077s-next-night-city-wire-livestream-is-next-monday/)** - livestream de la CD Projekt cu noutăți din Cyberpunk 2077.
+  * [Cyberpunk 2077 details weapons and origin story "life paths" in latest livestream](https://www.eurogamer.net/articles/2020-08-10-cyberpunk-2077-details-weapons-and-origin-story-life-paths-in-latest-livestream) <sup>(Eurogamer)</sup>
+
+### Joi, 6 August
 
 * **[Sony State of Play - August](https://blog.playstation.com/2020/08/03/state-of-play-returns-this-thursday-august-6/)** - prezentare de 40 de minute în care Sony au adus noutăți despre Crash Bandicoot 4, Braid, The Pathless, Spelunky 2 și alte jocuri. ([Youtube](https://www.youtube.com/playstation), [Twitch](https://www.twitch.tv/playstation))
   * [Everything PlayStation Announced During Today&#x27;s State Of Play](https://kotaku.com/everything-playstation-announced-during-todays-state-of-1844638709) <sup>(Kotaku)</sup>
