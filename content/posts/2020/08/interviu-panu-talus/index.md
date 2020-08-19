@@ -11,7 +11,36 @@ tags:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2486
 
-description: "După ce am terminat jocul eram așa de încântat de experiență încât a trebuit să împărtășesc vestea pe Twitter. Acolo nu am tare mulți followeri, nu-s influencer de ăla, deci îmi cunosc destul de bine auditoriul (salut, joonior). Totuși - minunea internetului! - din noroc tweet-ul meu a ajuns la tipul care s-a ocupat cu muzica din joc, Panu Talus. Am schimbat niște impresii despre joc și-apoi m-am gândit că poate ați fi și voi curioși să aflați mai multe despre experiența lui, iar el a fost destul de amabil încât să răspundă unor întrebări."
+disableGallery: true
+
+description: "După ce am terminat jocul eram așa de încântat de experiență încât a trebuit să împărtășesc vestea pe Twitter. Acolo nu am tare mulți followers, nu-s influencer din ăla, deci îmi cunosc destul de bine auditoriul. Totuși — minunea internetului! — din noroc tweet-ul meu a ajuns la tipul care s-a ocupat cu muzica din joc, Panu Talus. Am schimbat niște impresii despre joc și-apoi m-am gândit că poate ați fi și voi curioși să aflați mai multe despre experiența lui, iar el a fost destul de amabil încât să răspundă unor întrebări."
+
+linkuriExterne:
+  1-steam:
+    text: The Way (Steam)
+    link: https://store.steampowered.com/app/311010/The_Way/
+    desc: Cumpără jocul The Way pe Steam
+
+  2-gog:
+    text: The Way (GOG)
+    link: https://www.gog.com/game/the_way
+    desc: Cumpără jocul The Way pe gog.com
+  panu-bandcamp:
+    text: Bandcamp Panu Talus
+    link: https://panutalus.bandcamp.com/
+    desc: Pagina de Bandcamp a lui Panu Talus
+  panu-soundcloud:
+    text: Soundcloud Panu Talus
+    link: https://soundcloud.com/panu-talus
+    desc: Pagina de Soundcloud a lui Panu Talus
+  panu-twitter:
+    text: Twitter Panu Talus
+    link: https://twitter.com/MusicFurLife
+    desc: Contul de Twitter al lui Panu Talus
+  panu-youtube:
+    text: YouTube Panu Talus
+    link: https://www.youtube.com/channel/UCIo89549JxJOvs2kqW5nlAA
+    desc: Canalul de YouTube al lui Panu Talus
 
 resources:
   - src: gallery/pt-02.jpg
@@ -24,14 +53,13 @@ resources:
 
 Recent am dat peste un joc care m-a surprins, așa că hai să vă povestesc ce s-a întâmplat. Obișnuiesc destul de des să răsfoiesc magazinele online de jocuri în căutare de reduceri și să văd ce mai e nou. The Way e un joc pe care l-am mai văzut, dar despre care nu știam mare lucru. Îmi amintesc că am citit pe undeva că ar fi un joc dificil și că nu ar avea controlul foarte prietenos (vorbesc despre versiunea de Nintendo Switch), în schimb screenshot-urile erau foarte faine. Se vedea că s-a depus multă muncă în pixel art și asta m-a lovit direct în nostalgie.
 
-Prima impresie a fost că am de a face cu încă un retro side scroller. Dar m-am înșelat, și încă cum! Nu doar că nu e un side scroller așa cum mă așteptam, e un puzzle game foarte inspirat, care arată mult mai bine în mișcare decât în screenshots. Și, cireașa de pe tort, muzica din joc e minunată și creează o atmosferă specială. Mi-a adus aminte instant de jocuri precum Another World sau Flashback.
+_Prima impresie a fost că am de a face cu încă un retro side scroller. Dar m-am înșelat, și încă cum! Nu doar că nu e un side scroller așa cum mă așteptam, e un puzzle game foarte inspirat, care arată mult mai bine în mișcare decât în screenshots. Și, cireașa de pe tort, muzica din joc e minunată și creează o atmosferă specială. Mi-a adus aminte instant de jocuri precum Another World sau Flashback._
 
-Nu o să divulg informații despre poveste, vă las să o descoperiți voi, dar o să vă spun de ce am ajuns totuși să scriu acest articol. După ce am terminat jocul eram așa de încântat de experiență încât a trebuit să împărtășesc vestea pe Twitter. Acolo nu am tare mulți followeri, nu-s influencer de ăla, deci îmi cunosc destul de bine auditoriul (salut, joonior). Totuși - minunea internetului! - din noroc tweet-ul meu a ajuns la tipul care s-a ocupat cu muzica din joc, Panu Talus. Am schimbat niște impresii despre joc și-apoi m-am gândit că poate ați fi și voi curioși să aflați mai multe despre experiența lui, iar el a fost destul de amabil încât să răspundă unor întrebări.
+_Nu o să divulg informații despre poveste, vă las să o descoperiți voi, dar o să vă spun de ce am ajuns totuși să scriu acest articol. După ce am terminat jocul eram așa de încântat de experiență încât a trebuit să împărtășesc vestea pe Twitter. Acolo nu am tare mulți followers, nu-s influencer din ăla, deci îmi cunosc destul de bine auditoriul (salut, joonior). Totuși — minunea internetului! — din noroc tweet-ul meu a ajuns la tipul care s-a ocupat cu muzica din joc, Panu Talus. Am schimbat niște impresii despre joc și-apoi m-am gândit că poate ați fi și voi curioși să aflați mai multe despre experiența lui, iar el a fost destul de amabil încât să răspundă unor întrebări._
 
-{{< figure-multi
-    "gallery/pt-02.jpg| "
-    "gallery/pt-05.jpg| "
->}}
+---
+
+![](gallery/pt-02-ext.jpg)
 
 ***Cine este Panu Talus și cu ce se ocupă el?***
 
@@ -82,11 +110,11 @@ Urmăresc cu plăcere multe filme, anime-uri și documentare și mereu mi-am dor
 
 Nu vreau să se înțeleagă ca aș considera filmele superioare jocurilor, pentru că eu le consider complet diferite și obișnuiesc să mă joc mai mult decât să vizionez filme, dar pasiunea pentru a crea muzică vine de la TV.
 
-Principala mea influență muzicală va fi întotdeauna Vangelis, dar nu e și singura. Mulți oameni afirmă că jocul The Way le dă o senzație de Blade Runner. Chiar am folosit în joc efectul original Reverb 224, același efect folosit și în muzica din Blade Runner!
+Principala mea influență muzicală va fi întotdeauna Vangelis, dar nu e și singura. Mulți oameni afirmă că jocul The Way le dă o senzație de Blade Runner. Chiar am folosit în joc reverb-ul original Lexicon 224, cu aceleași efecte ca cele folosite în muzica din Blade Runner!
 
-Într-adevăr am iubit jocul Another World și a fost o influență majoră, dar recunosc că încă nu am încercat Flashback sau altele. În coloana sonoră pentru The Way am avut influențe din multe alte jocuri de PC sau consolă. De exemplu pentru melodiile din „Underground Temple” m-am inspirat dintr-o piesă din jocul de SNES Jurassic Park 2, pentru starea de groază, stranie și senzația de frică pe care o oferă, în timp ce pentru melodia „Desert” m-am inspirat din Okami (cântecul numit „Cursed Shinshu Field”, ca să fiu mai precis) pentru sentimentul de singurătate, izolare și de frumusețe austeră.
+Într-adevăr am iubit jocul Another World și a fost o influență majoră, dar recunosc că încă nu am încercat Flashback sau altele. În coloana sonoră pentru The Way am avut influențe din multe alte jocuri de PC sau consolă. De exemplu pentru melodiile din _Underground Temple_ m-am inspirat dintr-o piesă din jocul de SNES Jurassic Park 2, pentru starea de groază, stranie și senzația de frică pe care o oferă, în timp ce pentru melodia _Desert_ m-am inspirat din Okami (cântecul numit _Cursed Shinshu Field_, ca să fiu mai precis) pentru sentimentul de singurătate, izolare și de frumusețe austeră.
 
-***Ce intrumente folosești pentru a compune muzică?***
+***Ce instrumente folosești pentru a compune muzică?***
 
 De obicei mă folosesc doar de instrumente hardware. Sintetizatoare digitale și analog, claviaturi electronice, samplere, procesoare pentru efecte audio, clape MIDI, pedale pentru volum și pian acustic. Laptop-ul din studio este folosit doar pentru înregistrare, iar software-ul pentru înregistrare e gratis și se numește Audacity.
 
@@ -105,13 +133,13 @@ Inițial a fost creat din dorința de a avea un platformer cu o experiență cin
 
 Cred că preferatul meu e așa numitul puzzle „MABEC”. Ți se cere să programezi un mic obiect pentru a ajunge la un întrerupător. E un puzzle cu un ritm destul de lent și necesită răbdare, dar pentru mine e relaxant și interesant. Din păcate acesta a fost exclus (aproape) complet din ediția remasterizată pentru că mulți jucători l-au considerat prea plictisitor.
 
-Un alt segment preferat apare într-o secțiune din nivelul anterior, unde era necesar să iei o foaie de hârtie și un pix și să îți notezi niște lucruri pe care să le ții minte și personal îmi place metoda asta de a participa într-un joc. Însă din nou acest lucru a fost schimbat în versiunea remasterizată și jocul ține minte totul automat, ceea ce mi s-a părut că nu era necesar, mai ales ca Switch-ul te lasă să faci screenshot-uri. Din păcate această schimbare a dus și la eliminarea unui „easter egg” amuzant.
+Un alt segment preferat apare într-o secțiune din nivelul anterior, unde era necesar să iei o foaie de hârtie și un pix și să îți notezi niște lucruri pe care să le ții minte și personal îmi place metoda asta de a participa într-un joc. Însă din nou acest lucru a fost schimbat în versiunea remasterizată și jocul ține minte totul automat, ceea ce mi s-a părut că nu era necesar, mai ales ca Switch-ul te lasă să faci screenshot-uri. Din păcate această schimbare a dus și la eliminarea unui _easter egg_ amuzant.
 
 ***Legat de produsul final, ce anume ți-a întrecut așteptările și ce crezi că ca ai fi putut face diferit?***
 
 Grafica și animația mi-au întrecut cu siguranță așteptările când am văzut jocul pentru prima oară. Mereu e interesant de văzut cum mici detalii pot să aibă un efect așa de mare, făcând jocul mai bogat și mai spectaculos.
 
-Majoritatea puzzle-urilor au fost excelente și variate, dar sunt și unele care mă fac să-mi dau ochii peste cap, cum ar fi tehnologie extraterestră străveche care se rezolvă cu… un puzzle de tip Simon says. Bineînțeles, nu e ușor să fii inspirat tot timpul. Cred că și modul de control putea să fie mai finisat, dar te obișnuiești cu el destul de repede (cel puțin pe PC. Nu am testat varianta pentru Nintendo Switch, am văzut doar niște video-uri).
+Majoritatea puzzle-urilor au fost excelente și variate, dar sunt și unele care mă fac să-mi dau ochii peste cap, cum ar fi tehnologie extraterestră străveche care se rezolvă cu… un puzzle de tip „Simon says”. Bineînțeles, nu e ușor să fii inspirat tot timpul. Cred că și modul de control putea să fie mai finisat, dar te obișnuiești cu el destul de repede (cel puțin pe PC. Nu am testat varianta pentru Nintendo Switch, am văzut doar niște video-uri).
 
 Legat de muzică, cred că mi-am întrecut propriile așteptări și majoritatea celor care o ascultă o apreciază. Trebuie să fi făcut o treabă bună, pentru că până și cei care au lăsat recenzii negative laudă muzica!
 Ca un reproș personal, nu am apucat să creez la timp o temă unică pentru finalul jocului, ceea ce eu consideram a fi cea mai importantă parte. În cele din urmă am pus la final o improvizație pe care o aveam de prin 2011, dar doar ambițiile mele personale și mândria au fost rănite de asta. Dacă o să reușesc vreodată să remasterizez soundtrack-ul și să îl lansez pe CD, cred că aș încerca să compun o piesă pentru final, așa cum era în planul original.
@@ -144,10 +172,12 @@ De când am terminat munca la The Way în 2016 nu am mai participat la nici un a
 
 ***Îți mulțumim foarte mult pentru timpul acordat și pentru toate detaliile împartășite. Ca ultimă întrebare, unde putem să îți găsim muzica online?***
 
-Cu foarte multă plăcere. O puteți găsi pe pagina mea de bandcamp: https://panutalus.bandcamp.com/
+Cu foarte multă plăcere. O puteți găsi pe pagina mea de Bandcamp: https://panutalus.bandcamp.com/
+
+Alte linkuri:
 
 * Soundcloud: https://soundcloud.com/panu-talus
 * Twitter: https://twitter.com/MusicFurLife
-* Youtube: https://www.youtube.com/channel/UCIo89549JxJOvs2kqW5nlAA
+* YouTube: https://www.youtube.com/channel/UCIo89549JxJOvs2kqW5nlAA
 
 ![](gallery/pt-08.jpg)
