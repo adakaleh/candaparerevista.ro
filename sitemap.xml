@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/08/interviu-panu-talus/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2020/08/a-short-hike/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -4987,6 +4992,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/categories/interviu/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/into-the-breach/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -5443,14 +5454,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5709,7 +5720,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/marvas/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6602,6 +6613,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/panu-talus/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/panzer-dragoon/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -6891,7 +6908,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7761,7 +7778,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8870,6 +8887,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/the-walking-dead/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/the-way/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
