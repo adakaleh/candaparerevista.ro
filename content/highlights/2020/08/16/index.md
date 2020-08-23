@@ -83,7 +83,7 @@ Pe scurt:
 * [Deciphering Religious Symbolism in Halo](https://remptongames.com/2020/08/10/deciphering-religious-symbolism-in-halo/) <sup>(Rempton Games)</sup>
 * [&#x27;Astrologaster&#x27; Asks if Bad Medicine Can Make a Good Doctor](https://www.vice.com/en_us/article/7kpmba/can-you-be-a-good-doctor-with-bad-medicine-astrologaster-thinks-so) <sup>(Vice)</sup>
 * [Waking Dreams and Wish Fulfillment in Animal Crossing](https://intothespine.com/2020/08/10/waking-dreams-animal-crossing/) <sup>(Into The Spine)</sup>
-* [Islands Apart](https://videoda.me/islands-apart-56eb5e4ba09) <sup>(Medium)</sup>
+* [Islands Apart](https://videoda.me/islands-apart-56eb5e4ba09) <sup>(Medium/Videodame)</sup>
 
 ---
 
@@ -119,7 +119,7 @@ Pe scurt:
 
 
 ## Made în România
-* Un interviu cu Sergiu Crăițoiu de la Alien Pixel Studios despre jocul lor Unbound: Worlds Apart. <sup>([Facebook Telekom Sport](https://www.facebook.com/telekomsportromania/videos/vb.145489145478715/622707945345530/))</sup>
+* Un interviu cu Sergiu Crăițoiu de la Alien Pixel Studios despre jocul lor **Unbound: Worlds Apart**. <sup>([Facebook Telekom Sport](https://www.facebook.com/telekomsportromania/videos/vb.145489145478715/622707945345530/))</sup>
 * Articol pe Hotnews despre industria jocurilor din România: [Industria divertismentului și provocările ei: cum ajunge un joc de la idee la produs final](https://www.hotnews.ro/stiri-pagini_de_cod-24227877-industria-divertismentului-provocarile-cum-ajunge-joc-idee-produs-final.htm).
 
 
@@ -146,7 +146,7 @@ Pe scurt:
 * 13 august: **Parkasaurus** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/591460/Parkasaurus/))</sup>
 * 13 august: **Bite the Bullet** <sup>([Steam](https://store.steampowered.com/app/1075550/Bite_the_Bullet/), [gog.com](https://www.gog.com/game/bite_the_bullet))</sup>
 * 14 august: **Factorio** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/427520/Factorio/), [gog.com](https://www.gog.com/game/factorio))</sup>
-
+* 14 august: **Dreamscaper** <sup>([Steam](https://store.steampowered.com/app/1040420/Dreamscaper/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri
