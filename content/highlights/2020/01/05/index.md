@@ -46,7 +46,7 @@ Linkuri rapide:
 * [Surviving GameStop: How Passion, Community, and Novelty Keep Indie Game Stores Alive](https://egmnow.com/surviving-gamestop-how-passion-community-and-novelty-keep-indie-game-stores-alive/) <sup>(EGM)</sup>
 * [&#039;Limited Appeal&#039; or Lack of &#039;Polish&#039; Shouldn&#039;t Stop You from Playing Games](https://www.escapistmagazine.com/v2/good-games-are-more-than-aaa-game-polish-terminator-resistance/) <sup>(Escapist)</sup>
 * [The indie side of cyberpunk](https://www.pcgamer.com/mag-337-cyberpunk-sup-indies/) <sup>(PC Gamer)</sup>
-* [Games are Not Magic](https://videoda.me/games-are-not-magic-520ac407452b) <sup>(Medium)</sup>
+* [Games are Not Magic](https://videoda.me/games-are-not-magic-520ac407452b) <sup>(Medium/Videodame)</sup>
 * [The “Zorfon” Mystery: Answers from a Golden-Age Video Game Developer](https://medium.com/@atarispot/the-zorfon-mystery-6d1f58544254) <sup>(Medium)</sup>
 * [In 2019, Games Explored the Meaning of Travel](https://www.fanbyte.com/features/games-travel/) <sup>(Fanbyte)</sup>
 * [Filosofia Politică a Jocurilor - Cine o să construiască Drumurile?](https://mindcraftstories.ro/index.php/2019/12/30/filosofia-politica-a-jocurilor-cine-o-sa-construiasca-drumurile/) <sup>(Mindcraft Stories)</sup>

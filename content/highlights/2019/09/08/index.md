@@ -60,7 +60,7 @@ Linkuri rapide:
 * [Playing World Of Warcraft For The First Time Ever Is Wonderful](https://kotaku.com/playing-world-of-warcraft-for-the-first-time-ever-is-wo-1837866593) <sup>(Kotaku)</sup>
 * [The Witching Hour Part 2 &#8211; The Last Wish](https://graceinthemachine.com/2019/09/02/the-witching-hour-part-2-the-last-wish/) <sup>(Grace In The Machine)</sup>
 * [I Can&#39;t Convince My Friends That Overcooked 2 Is Fun, Not Stressful](https://kotaku.com/i-cant-convince-my-friends-that-overcooked-2-is-fun-no-1837838614) <sup>(Kotaku)</sup>
-* [In Outer Wilds, Summer Camp is Home](https://videoda.me/outer-wilds-summer-camp-735794e91556) <sup>(Medium)</sup>
+* [In Outer Wilds, Summer Camp is Home](https://videoda.me/outer-wilds-summer-camp-735794e91556) <sup>(Medium/Videodame)</sup>
 * [Wilmot&#39;s Warehouse Is A Great Puzzle Game](https://kotaku.com/wilmots-warehouse-is-a-great-puzzle-game-1837879681) <sup>(Kotaku)</sup>
 * [&#8216;Wilmot&#8217;s Warehouse is a language game&#8217;, please discuss](https://www.rockpapershotgun.com/2019/09/04/wilmots-warehouse-is-a-language-game-please-discuss/) <sup>(RPS)</sup>
 * [Rebel Galaxy Outlaw Is A Space Combat Throwback In Most Of The Best Ways](https://kotaku.com/rebel-galaxy-outlaw-is-a-space-combat-throwback-in-most-1837644320) <sup>(Kotaku)</sup>
