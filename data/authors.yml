@@ -121,3 +121,8 @@ sleepknot:
   thumbnail: "sleepknot.jpg"
   description: "Membru al comunităţii din 2019."
   website: "/"
+quackers:
+  name: "Quackers"
+  thumbnail: "quackers.jpg"
+  description: "Mr. Quackers este un veteran al forumului Level și, mai nou, staroste pe subreddit-ul /r/jocuri"
+  website: "https://www.reddit.com/r/Jocuri/"
