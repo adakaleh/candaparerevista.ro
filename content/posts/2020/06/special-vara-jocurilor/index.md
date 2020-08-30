@@ -1,14 +1,14 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-08-23T00:00:00
+date: 2020-08-30T00:00:00
 categories:
     - Highlights
     - Special
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 23 august]**
+description: "**[Actualizat: 30 august]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 23 august]*
+*[Actualizat: 30 august]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -40,12 +40,25 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 ## Evenimentele care urmează
 
-### Joi, 27 august
-
-* `21:00` **[Gamescom 2020 - Opening Night Live](https://www.gamescom.global/news/content-for-media-representatives/press-information-of-gamescom/press-release/)** - prima seară de Gamescom, în care vor fi făcute principalele anunțuri. Va fi urmată de alte trei zile de evenimente digitale.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Joi, 27 august
+* **[Gamescom 2020 - Opening Night Live](https://www.gamescom.global/news/content-for-media-representatives/press-information-of-gamescom/press-release/)** - prima seară de Gamescom, în care vor fi făcute principalele anunțuri. Va fi urmată de alte trei zile de evenimente digitale.
+  * [Here's a recap of everything that happened at Gamescom Opening Night Live 2020](https://www.destructoid.com/stories/here-s-a-recap-of-everything-that-happened-at-gamescom-opening-night-live-2020-601840.phtml) <sup>(Destructoid)</sup>
+  * [All the highlights from Gamescom's Opening Night Live](https://www.eurogamer.net/articles/2020-08-27-watch-gamescoms-opening-night-live-here) <sup>(Eurogamer)</sup>
+  * [Everything Announced At Gamescom&#x27;s Opening Night](https://kotaku.com/everything-announced-at-gamescoms-opening-night-1844869976) <sup>(Kotaku)</sup>
+
+### Miercuri, 26 august
+
+* **[Nintendo Direct Mini: Partner Showcase](https://www.youtube.com/watch?v=HAlCu3t9KXE)**
+  * [Nintendo has released a surprise Partner Direct](https://www.videogameschronicle.com/news/nintendo-has-released-a-surprise-partner-direct/) <sup>(VideoGamesChronicle)</sup>
+
+### Marți, 25 august
+* **[Wholesome Snack](https://twitter.com/_wholesomegames/status/1297912532477370369)** - o prezentare de dimensiuni mai reduse a jocurilor indie promovate de Wholesome Games. 
+  * [Indie Game Highlights from the Wholesome Direct](Indie Game Highlights from the Wholesome Direct/) <sup>(The Escapist)</sup>
+  * [Wholesome Games Snack Direct Recap](https://saveorquit.com/2020/08/28/article-wholesome-games-snack-direct-recap/) <sup>(Save or Quit  )</sup>
 
 ### Marți, 18 august
 

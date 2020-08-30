@@ -68,7 +68,6 @@ Linkuri rapide:
 * [Why Epic Games and Fortnite Will Make Apple Pay for Apple Pay](https://www.escapistmagazine.com/v2/why-epic-games-and-fortnite-will-make-apple-pay-for-apple-pay/) <sup>(Escapist)</sup>
 * [With FreeFortnite Cup, Epic Continues Dragging Players Into Its Anti-Apple Crusade](https://kotaku.com/with-freefortnite-cup-epic-continues-dragging-players-1844805937) <sup>(Kotaku)</sup>
 
-
 ---
 
 ### _Not-a-review_
@@ -82,6 +81,7 @@ Linkuri rapide:
 * [A Short Hike captures the phsyicality and social interactions of hiking we&#039;re missing](https://liftoffmag.com/a-short-hike-captures-the-phsyicality-and-social-interactions-of-hiking-were-missing/) <sup>(Liftoff!)</sup>
 * [The silly, chaotic, random design behind Fall Guys’ success](https://www.polygon.com/2020/8/20/21375212/fall-guys-game-design-randomness-esports-success-sales) <sup>(Polygon)</sup>
 * [Fall Guys Devs Never Thought of It as a Battle Royale - Until They Did](https://www.fanbyte.com/features/fall-guys-devs-never-thought-of-it-as-a-battle-royale-until-they-did/) <sup>(Fanbyte)</sup>
+* [The Half-Real World of Ghost of Tsushima](https://foreignpolicy.com/2020/08/20/the-half-real-world-of-ghost-of-tsushima/) <sup>(Foreign Policy)</sup>
 
 ---
 
@@ -123,7 +123,7 @@ Linkuri rapide:
 ### Design, world-building, artă
 * [The Storm-Cloud of Death Stranding](https://uppercutcrit.com/the-storm-cloud-of-death-stranding) <sup>(Uppercut)</sup>
 * [Game Box Art Critique August: Battletoads, EA Sports UFC 4, Samurai Jack: Battle Through Time](https://www.videogamer.com/features/game-box-art-critique-august-battletoads-ea-sports-ufc-4-samurai-jack-battle-through-time) <sup>(VideoGamer)</sup>
-
+* [Game Art: Miriam Ross And Helen Perkins's Assassin's Creed Ulysses (2020)](https://www.gamescenes.org/2020/08/game-art-miriam-ross-and-helen-perkinss-ac-ulysses-2020.html) <sup>(GAMESCENES)</sup>
 
 ## Made în România
 
