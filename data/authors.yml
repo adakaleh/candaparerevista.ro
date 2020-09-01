@@ -3,6 +3,16 @@ azad:
   thumbnail: "azad.jpg"
   description: "Membru al comunităţii din 2009."
   website: "/"
+bboyz:
+  name: "The Bookhouse Boyz"
+  thumbnail: "bboyz.jpg"
+  description: "Iä! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah-nagl fhtagn!"
+  website: "/"
+bogdan:
+  name: "Bogdan"
+  thumbnail: "bogdan.jpg"
+  description: "Membru al comunităţii din 2008."
+  website: "/"
 car-lvl:
   name: "candaparerevista"
   thumbnail: "car-lvl.png"
@@ -75,10 +85,20 @@ patrunjelu:
   thumbnail: "patrunjelu.jpg"
   description: "Membru al comunităţii din 1970."
   website: "/"
+quackers:
+  name: "Quackers"
+  thumbnail: "quackers.jpg"
+  description: "Mr. Quackers este un veteran al forumului Level și, mai nou, staroste pe subreddit-ul /r/jocuri"
+  website: "https://www.reddit.com/r/Jocuri/"
 red_dot:
   name: "Red Dot"
   thumbnail: "red_dot.jpg"
   description: "Membru al comunităţii din 2018."
+  website: "/"
+sleepknot:
+  name: "sleepknot"
+  thumbnail: "sleepknot.jpg"
+  description: "Membru al comunităţii din 2019."
   website: "/"
 taikokaira:
   name: "TaikoKaira"
@@ -111,18 +131,3 @@ zulu:
   thumbnail: "zulu.jpg"
   description: "Membru al comunităţii din 2014."
   website: "/"
-bboyz:
-  name: "The Bookhouse Boyz"
-  thumbnail: "bboyz.jpg"
-  description: "Iä! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah-nagl fhtagn!"
-  website: "/"
-sleepknot:
-  name: "sleepknot"
-  thumbnail: "sleepknot.jpg"
-  description: "Membru al comunităţii din 2019."
-  website: "/"
-quackers:
-  name: "Quackers"
-  thumbnail: "quackers.jpg"
-  description: "Mr. Quackers este un veteran al forumului Level și, mai nou, staroste pe subreddit-ul /r/jocuri"
-  website: "https://www.reddit.com/r/Jocuri/"
