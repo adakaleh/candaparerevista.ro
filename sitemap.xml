@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/09/review-state-of-decay-2/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/08/30/</loc>
     <lastmod>2020-08-30T00:00:01+00:00</lastmod>
   </url>
@@ -2349,6 +2354,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/blur/</loc>
     <lastmod>2020-07-12T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/authors/bogdan/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5547,14 +5558,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7025,7 +7036,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7457,7 +7468,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7913,7 +7924,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-08-30T00:00:01+00:00</lastmod>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8286,6 +8297,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/starstruck/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/state-of-decay-2/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
