@@ -110,6 +110,11 @@ summaryLength = 90
   weight = 97
 
 [[menu.pages]]
+  name = "Revista"
+  url = "/revista/"
+  weight = 97
+
+[[menu.pages]]
   name = "Contact"
   url = "/contact/"
   weight = 96
