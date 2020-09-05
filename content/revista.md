@@ -1,6 +1,7 @@
 ---
 title: Revista
 type: page
+image: n2ce_lvl.png
 ---
 
 _Uneori apare revista._
