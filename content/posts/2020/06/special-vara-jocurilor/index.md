@@ -1,14 +1,14 @@
 ---
 title: "Vara Jocurilor"
 type: post
-date: 2020-08-30T00:00:00
+date: 2020-09-06T00:00:00
 categories:
     - Highlights
     - Special
 
 tags: [Summer of Gaming, Summer Game Fest, SEGA, Funcom, Paradox, Larian, "ZA/UM", Steam, Blizzard, World of Warcraft, "Marvel's Avengers", EA, The Escapist, IGN, GOG, Atlus, Digital Extremes, Warframe, Ubisoft, Sony, Gamescom]
 
-description: "**[Actualizat: 30 august]**
+description: "**[Actualizat: 6 septembrie]**
 </br>
 </br>
 În loc de E3, anul acesta au loc o sumedenie de evenimente separate, majoritatea reunite sub umbrela IGN Summer of Gaming și Summer Game Fest al lui Geoff Keighley. Pentru că deja toată lumea își face câte un *showcase*, ne-am gândit să punem cap la cap calendarul de mai jos, ca să vă ajute să găsiți mai ușor evenimentele care vă interesează. Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a avea informații la zi"
@@ -31,7 +31,7 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
 
 Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
-*[Actualizat: 30 august]*
+*[Actualizat: 6 septembrie]*
 
 * [Programul viitor](#evenimentele-care-urmează)
 * [Evenimentele trecute](#evenimentele-care-au-avut-loc-până-acum)
@@ -43,6 +43,11 @@ Orele de începere ale evenimentelor sunt pe fusul orar al României.
 
 
 ## Evenimentele care au avut loc până acum
+
+### Joi, 3 septembrie
+
+* **[Super Mario Bros. 35th Anniversary Direct](https://www.youtube.com/watch?v=s_UcjEq2Dgk)**
+  * [All announcements, reveals, & trailers from Super Mario Bros 35th Anniversary Direct](https://www.shacknews.com/article/120163/all-announcements-reveals-trailers-from-super-mario-bros-35th-anniversary-direct) <sup>(Shacknews)</sup>
 
 ### Joi, 27 august
 * **[Gamescom 2020 - Opening Night Live](https://www.gamescom.global/news/content-for-media-representatives/press-information-of-gamescom/press-release/)** - prima seară de Gamescom, în care vor fi făcute principalele anunțuri. Va fi urmată de alte trei zile de evenimente digitale.
