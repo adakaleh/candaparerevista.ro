@@ -2,7 +2,7 @@
 title: "Din Brennenburg pînă-n Abis"
 subtitle: încercări în anamneză
 type: post
-date: 2020-09-08
+date: 2020-09-08T00:00:01
 authors: bboyz
 categories:
     - Special
