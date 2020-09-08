@@ -2,7 +2,7 @@
 title: Suntem în Revista Știință & Tehnică
 type: blog
 date: 2020-09-08T00:00:00
-description: "De acum încolo avem o nouă modalitate prin care cine e interesat poate să contribuie la susținerea site-ului și forumului nostru. Jaunty, administratorul nevăzut care stă în spatele firelor care alimentează tot ce citiți pe aici, a deschis un cont de Patreon unde puteți contribui cu orice sumă care să ajute la acoperirea costurilor lunare de funcționare a serverelor"
+description: "De câteva săptămâni încoace, aproape printr-o întâmplare, s-a înfiripat o colaborare între comunitatea noastră și revista Știință & Tehnică. Astfel, membrii forumului au acum posibilitatea să contribuie cu articole despre jocuri care să aibă legătură tematică cu profilul revistei: știință, inginerie, antropologie, anticipație, medicină."
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=90&t=2514
 
 ---
