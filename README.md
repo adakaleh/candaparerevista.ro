@@ -145,6 +145,15 @@ text articol aici
 >}}
 text articol aici
 ~~~
+
+#### Imagine pentru facebook
+Imaginea citită de facebook pentru un articol sharuit este cea din parametrul <og:image>. În mod normal, aceasta este aceeași cu imaginea articolului, dar pentru articolele care nu au imagine, sau e nevoie de un override, există parametrul de front-matter `facebookImage: cale/catre/fisier` (unde calea începe din root-ul secțiunii:
+
+~~~
+facebookImage: posts/2018/05/retro-thief-waaagh/images/thief-cover.jpg
+~~~
+
+
 ## Audio
 Pentru a introduce o versiune audio a articolului, este suficientă prezența unui fișier audio .mp3 sau .ogg undeva în directorul articolului. Vezi secțiunea Cod de mai jos, partea despre Page Bundles, pentru mai multe detalii.
 
