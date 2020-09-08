@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Suntem în Revista Știință &amp; Tehnică</title>
+      <link>https://candaparerevista.ro/blog/2020/09/stiintasitehnica/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/blog/2020/09/stiintasitehnica/</guid>
+      <description>De câteva săptămâni încoace, aproape printr-o întâmplare, s-a înfiripat o colaborare între comunitatea noastră și revista Știință &amp;amp; Tehnică. Astfel, membrii forumului au acum posibilitatea să contribuie cu articole despre jocuri care să aibă legătură tematică cu profilul revistei: știință, inginerie, antropologie, anticipație, medicină etc. Găsiți mai multe detalii pe forum.
+Astfel că, începând de luna asta, avem primul articol publicat. Review-ul jocului Heaven&amp;rsquo;s Vault, scris de un membru al comunității noastre, a apărut în numărul pe septembrie al revistei.
+Un alt articol este deja gata de publicare, iar pe forum ne pregătim de următorul, un articol special la care oricine poate contribui.</description>
+    </item>
     
     <item>
       <title>Patreon</title>
@@ -157,16 +168,6 @@ Iar pentru început, ne-am gândit să organizăm un concurs cu premii pentru a 
       <description>Gata, de acum avem şi site.
 Dintre schimbările vizibile faţă de versiunile anterioare de test ar fi de menţionat:
  Secţiune nouă: Blogul Comunităţii. Aici vom publica update-uri despre site şi diverse informaţii despre din comunitate (evenimente, gaming nights, etc.). Avem fonturi noi: cu serif pentru pagina articolelor, şi sans serif pentru carduri. Ambele din familia Merriweather, un font open-source şi permisiv cu utilizarea în tot felul de proiecte. Fiecare articol are o licenţă ataşată. În mod implicit (atunci când autorii nu aleg altceva), autorii mențin toate drepturile asupra articolului, iar orice utilizare necesită permisiunea explicită a acestuia.</description>
-    </item>
-    
-    <item>
-      <title>Update progres (aprilie 2018)</title>
-      <link>https://candaparerevista.ro/blog/2018/0/update-progres-2/</link>
-      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2018/0/update-progres-2/</guid>
-      <description>Un alt update: &amp;ldquo;sfârșitul lunii&amp;rdquo; va însemna &amp;ldquo;după Paște&amp;rdquo;, că vom avea mai mult timp liber să lucrăm la site în perioada aia.
-Update 9 aprilie: &amp;ldquo;după Paște&amp;rdquo; se mai prelungeşte puţin (sper că doar vreo săptămână), că nu ne-am potrivit la program. Partea bună în schimb e că am implementat puţin mai multe lucruri decât ne propusesem iniţial, inclusiv din cele programate pentru versiunea finală sau mai târziu.</description>
     </item>
     
   </channel>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/09/special-din-brennenburg-pana-n-abis/</loc>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/blog/2020/09/stiintasitehnica/</loc>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/09/06/</loc>
     <lastmod>2020-09-06T00:00:01+00:00</lastmod>
   </url>
@@ -1722,6 +1732,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/amnesia/</loc>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/amnesia-the-dark-descent/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2094,7 +2110,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/bboyz/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2322,7 +2338,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/blog/</loc>
-    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3994,7 +4010,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/featured/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4886,7 +4902,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/horror/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5581,14 +5597,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7065,7 +7081,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7957,7 +7973,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-09-06T00:00:01+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8094,6 +8110,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/soma/</loc>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/someday-youll-return/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -8137,7 +8159,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/special/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
