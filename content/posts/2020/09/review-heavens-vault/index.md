@@ -1,13 +1,13 @@
 ---
 title: "Heaven's Vault"
 type: post
-date: 2020-09-17
+date: 2020-09-22
 authors: azad
 categories:
     - Review
 tags:
     - "Heaven's Vault"
-
+draft: true
 sursa:
    text: O versiune modificată a acestui articol a fost publicată inițial în revista Știință & Tehnică nr. 98 (septembrie 2020)
 
