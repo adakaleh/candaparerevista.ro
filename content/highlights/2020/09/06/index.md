@@ -71,7 +71,7 @@ Linkuri rapide:
 ### Industrie
 * [Epic Games vs. Apple -- the legal issues](https://www.gamesindustry.biz/articles/2020-09-02-epic-games-versus-apple-the-legal-issues) <sup>(GamesIndustry.biz)</sup>
 * [The DeanBeat: Apple must tread carefully lest it trample the game industry](https://venturebeat.com/2020/09/04/the-deanbeat-apple-must-tread-carefully-lest-it-trample-the-game-industry/) <sup>(VentureBeat)</sup>
-
+* [That’s time gentlemen, please: Lair of the Clockwork God ‘a nice swansong’ for Ben and Dan](https://www.thumbsticks.com/thats-time-gentlemen-please-lair-of-the-clockwork-god-a-nice-swansong-for-ben-and-dan/) <sup>(Thumbsticks)</sup>
 ---
 
 ### Istorie, retrospectivă

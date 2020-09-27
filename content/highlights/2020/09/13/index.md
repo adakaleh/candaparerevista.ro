@@ -75,6 +75,7 @@ Linkuri rapide:
 * [The unsung star of The Last of Us Part II had to pretend to be a baby](https://www.theverge.com/2020/9/8/21405994/the-last-of-us-part-2-mocap-amy-johnston-baby) <sup>(The Verge)</sup>
 * [How the Polish Indie Scene Exploded in the Wake of the Witcher](https://uppercutcrit.com/how-the-polish-indie-scene-exploded-in-the-wake-of-the-witcher/) <sup>(Uppercut)</sup>
 * [The DeanBeat: Apple v. Epic &#8212; a briefing on the antitrust arguments and interesting facts](https://venturebeat.com/2020/09/11/the-deanbeat-apple-v-epic-a-briefing-on-the-antitrust-arguments-and-interesting-facts/) <sup>(VentureBeat)</sup>
+* [Dan Marshall on growing (and feeling) old in the video game industry](https://www.thumbsticks.com/dan-marshall-growing-old-video-game-industry/) <sup>(Thumbsticks)</sup>
 
 ---
 
