@@ -9,7 +9,7 @@ categories:
 
 tags:
     - "A Short Hike"
-
+    - audio review
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2436
    text: Articolele Comunității

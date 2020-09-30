@@ -1,13 +1,13 @@
 ---
 title: "Heaven's Vault"
 type: post
-date: 2020-09-22
+date: 2020-09-30
 authors: azad
 categories:
     - Review
 tags:
     - "Heaven's Vault"
-draft: true
+    - audio review
 sursa:
    text: O versiune modificată a acestui articol a fost publicată inițial în revista Știință & Tehnică nr. 98 (septembrie 2020)
 
@@ -39,7 +39,7 @@ infoBox:
 
 Pe vremuri eram un mare fan al filmelor Indiana Jones și, de altfel, al oricărui film, joc sau carte care avea oricât de puține elemente de arheologie și reușea să mă transporte în lumi de mult dispărute și civilizații înghițite de fălcile istoriei. Evident, din acestea nu lipsea „împrumutul” unor artefacte prețioase, pentru că trebuie să trăiască și protagoniștii din ceva, nu-i așa? Din păcate, odată cu avansarea în vârstă, puține au mai fost creațiile care au reușit să îmbine pentru mine sentimentul acela de curiozitate copilărească amestecată cu mister și o ușoară neliniște în fața necunoscutului. De obicei se optează pentru scene spectaculoase de acțiune, dar care calcă în picioare orice fărâmă de rigoare științifică sau de respect pentru obiecte vechi de mii de ani. De la periplurile Larei Croft prin ruine exotice la exploziile bombastice din Uncharted, toate aceste aventuri sunt complet opuse fascinației și respectului pentru culturi străvechi pe care le-ar manifesta un anume căpitan Picard din Star Trek. Ei bine, Heaven’s Vault reușește să satisfacă această dorință mereu flămândă pentru cunoaștere și explorare.
 
-Realizat de meșterii de la inkle, dezvoltatorii din spatele cunoscutelor 80 Days și Sorcery!, Heaven’s Vault a apărut ca o gură de aer proaspăt printre jocurile adventure recente, aducând, prin intermediul trusei sale de arheologie, povești scoase parcă din legendele mesopotamiene străvechi, un limbaj antic realizat de la zero de dezvoltatori, precum și mecanici de joc menite să scoată lingviștii și etimologii din noi toți.
+Realizat de meșterii de la inkle, dezvoltatorii din spatele cunoscutelor **80 Days** și **Sorcery!**, **Heaven’s Vault** a apărut ca o gură de aer proaspăt printre jocurile adventure recente, aducând, prin intermediul trusei sale de arheologie, povești scoase parcă din legendele mesopotamiene străvechi, un limbaj antic realizat de la zero de dezvoltatori, precum și mecanici de joc menite să scoată lingviștii și etimologii din noi toți.
 
 {{< youtube RUgtMlkwXRA >}}
 
@@ -72,6 +72,6 @@ Grafic vorbind, Aliya ne este prezentată sub formă bidimensională, ca o ilust
     "gallery/h-vault-06.jpg| "
 >}}
 
-Deși ne îmbie cu melodii liniștitoare în voiajele noastre prin nebuloasă, aș spune că adevărata muzică din Heaven’s Vault este formată din sunetele cotidiene date de viața de pe planetele pe care le vizităm. Liniștea din biblioteca de pe Iox, grohăiturile porcilor din fermele de pe Maersi, larma comercianților din piețele de pe Renaki, toate acestea reprezintă motive ale unei teme foarte importante într-un joc pe care îl petrecem printre ruinele civilizațiilor moarte, mai exact motive aparținând vieții. Iar aceasta face parte din temele profunde pe care le abordează jocul, cum ar fi transumanismul prin trecerea conștiințelor umane în roboți și fragilitatea existenței umane și a monumentelor sale. Nici religia nu lipsește din această experiență. Foarte mulți indivizi sunt adepți ai Buclei, adică unirea sufletelor după moarte cu râurile nebuloasei, o interpretare puțin diferită a mitului egiptean în care sufletele morților călătoresc pe barca zeului Ra.
+Deși ne îmbie cu melodii liniștitoare în voiajele noastre prin nebuloasă, aș spune că adevărata muzică din **Heaven’s Vault** este formată din sunetele cotidiene date de viața de pe planetele pe care le vizităm. Liniștea din biblioteca de pe Iox, grohăiturile porcilor din fermele de pe Maersi, larma comercianților din piețele de pe Renaki, toate acestea reprezintă motive ale unei teme foarte importante într-un joc pe care îl petrecem printre ruinele civilizațiilor moarte, mai exact motive aparținând vieții. Iar aceasta face parte din temele profunde pe care le abordează jocul, cum ar fi transumanismul prin trecerea conștiințelor umane în roboți și fragilitatea existenței umane și a monumentelor sale. Nici religia nu lipsește din această experiență. Foarte mulți indivizi sunt adepți ai Buclei, adică unirea sufletelor după moarte cu râurile nebuloasei, o interpretare puțin diferită a mitului egiptean în care sufletele morților călătoresc pe barca zeului Ra.
 
-Nu știu ce concluzie aș putea scrie care să facă cinste jocului. Da, are micile sale probleme, cum ar fi durata prea lungă, finalul cam sec sau corvoada în care se pot transforma călătoria spațială și traducerile. Dar dincolo de toate astea, Heaven’s Vault reprezintă mai mult decât orice o epopee adresată continuității vieții și a omenirii, indiferent câte imperii s-au ridicat și au căzut, precum și un elogiu adresat precarității umane, dar și capacității sale de a ajunge cândva printre stele. ■
+Nu știu ce concluzie aș putea scrie care să facă cinste jocului. Da, are micile sale probleme, cum ar fi durata prea lungă, finalul cam sec sau corvoada în care se pot transforma călătoria spațială și traducerile. Dar dincolo de toate astea, **Heaven’s Vault** reprezintă mai mult decât orice o epopee adresată continuității vieții și a omenirii, indiferent câte imperii s-au ridicat și au căzut, precum și un elogiu adresat precarității umane, dar și capacității sale de a ajunge cândva printre stele. ■
