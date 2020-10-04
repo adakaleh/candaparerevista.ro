@@ -96,8 +96,7 @@ Linkuri rapide:
 
 
 ## Made în România
-* EvilStar Studios anunță data de lansare pentru **The Equinox Hunt**: 22 octombrie. <sup>([Facebook EvilStar Studios](https://www.facebook.com/groups/THERGDA/permalink/1922658281206038/?__cft__[0]=AZUqn-vEXH27GB0srrrIqvqEeIKE5IaIfpWfmEYb-BTqXuZMmNHh0XFkUTBngz1LEgTV1iPexsXyD7qkBjwwBoTMRO0WG8Vfg6VJn3MREoesgC0BPAG4QOdtGNnjLpvXsptaQXrBJFXvFwS180t_IjFfL3AsHfGPBM0ylZxisW0pgxmB3rUYD_UQFE_Wicld5mrSLPCkeAj3Ftw2LUFYc24c&__tn__=%2CO%2CP-R))</sup>
-
+* EvilStar Studios anunță data de lansare pentru **The Equinox Hunt**: 22 octombrie. <sup>([Facebook The Equinox Hunt](https://www.facebook.com/TheEquinoxHunt/posts/683024939001790))</sup>
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate
