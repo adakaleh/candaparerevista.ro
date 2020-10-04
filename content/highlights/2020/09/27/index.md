@@ -136,6 +136,7 @@ Linkuri rapide:
 * 23 septembrie: **UnRailed!** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1016920/Unrailed/))</sup>
 * 23 septembrie: **art of rally** <sup>([Steam](https://store.steampowered.com/app/550320/art_of_rally/), [gog.com](https://www.gog.com/game/art_of_rally))</sup>
 * 24 septembrie: **Serious Sam 4** <sup>([Steam](https://store.steampowered.com/app/257420/Serious_Sam_4/), [gog.com](https://www.gog.com/game/serious_sam_4))</sup>
+* 24 septembrie: **Going Under** <sup>([Steam](https://store.steampowered.com/app/1154810/Going_Under/), [Epic Store](https://www.epicgames.com/store/en-US/product/going-under))</sup>
 * 25 septembrie: **Panzer Dragoon: Remake** <sup>([Steam](https://store.steampowered.com/app/1178880/Panzer_Dragoon_Remake/), [gog.com](https://www.gog.com/game/panzer_dragoon_remake))</sup>
 * 25 septembrie: **Port Royale 4** <sup>([Steam](https://store.steampowered.com/app/1024650/Port_Royale_4/), [Epic Store](https://www.epicgames.com/store/en-US/product/port-royale-4/home))</sup>
 * 25 septembrie: **Mafia: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/))</sup>
