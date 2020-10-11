@@ -11,6 +11,11 @@ description: "O săptămână mai liniștită, fără prea mari evenimente. Jocu
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
+# articol publicat initial in director cu nume gresit, 10 in loc de 04
+aliases:
+- /highlights/2020/10/10/index.md
+- /highlights/2020/10/10/
+
 resources:
   - src: images/coperta-retrospectiva-2020-10-04.jpg
     name: "card-cover-image"
@@ -67,6 +72,7 @@ Linkuri rapide:
 * [We need to talk about the cost of next-gen video games](https://www.eurogamer.net/articles/2020-10-01-we-need-to-talk-about-the-cost-of-next-gen-video-games) <sup>(Eurogamer)</sup>
 * [Hardware launches and pre-orders desperately need a shake-up](https://www.gamesindustry.biz/articles/2020-10-02-hardware-launches-and-pre-orders-desperately-need-a-shake-up-opinion) <sup>(GamesIndustry.biz)</sup>
 * [Antstream can stream over 1,200 retro games for $10 a month](https://venturebeat.com/2020/10/02/antstream-can-stream-over-1200-retro-games-for-10-a-month/) <sup>(VentureBeat)</sup>
+* [Gearbox&#039;s Randy Pitchford Believes Borderlands Is Ready For Next Gen](https://www.gamespot.com/articles/gearboxs-randy-pitchford-believes-borderlands-is-ready-for-next-gen/1100-6482866/) <sup>(Gamespot)</sup>
 
 ---
 
