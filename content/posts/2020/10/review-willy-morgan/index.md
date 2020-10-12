@@ -8,7 +8,7 @@ categories:
 tags:
     - Willy Morgan
 
-draft: true
+draft: false
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2546
 
@@ -37,7 +37,7 @@ infoBox:
 
 ---
 
-De-a lungul timpului au apărut multe jocuri de aventură care au făcut trimiteri variate, mai multe sau mai puține, mai evidente sau mai subtile, la clasicul Monkey Island, dar **Willy Morgan & The Curse of Bone Town** al italienilor de la imaginarylab este mai degrabă un tribut adresat acestei serii. Aventuri, pirați și comori, Willy Morgan le are pe toate. Dar, spre deosebire de șarmul cu care ne-a cucerit Monkey Island și umorul spumos al lui Guybrush Threepwood, Willy Morgan abordează pirateria cea de toate zilele dintr-o perspectivă a maturizării. Într-un gen din ce în ce mai sufocat de povești telenovelistice și drame pseudo-existențiale, Willy Morgan este o experiență diferită, micuță și plăcut de jucat.
+De-a lungul timpului au apărut multe jocuri de aventură care au făcut trimiteri variate, mai multe sau mai puține, mai evidente sau mai subtile, la clasicul Monkey Island, dar **Willy Morgan & The Curse of Bone Town** al italienilor de la imaginarylab este mai degrabă un omagiu adus acestei serii. Aventuri, pirați și comori - Willy Morgan le are pe toate. Dar, spre deosebire de șarmul cu care ne-a cucerit Monkey Island și umorul spumos al lui Guybrush Threepwood, Willy Morgan abordează pirateria cea de toate zilele dintr-o perspectivă a maturizării. Într-un gen din ce în ce mai sufocat de povești telenovelistice și drame pseudo-existențiale, Willy Morgan este o experiență diferită, micuță și plăcut de jucat.
 
 Totul începe cu o scrisoare misterioasă primită de Willy, personajul principal, în ziua care marchează zece ani de la dispariția tatălui său, Henry Morgan, arheolog plecat în căutarea comorii Căpitanului Kidd. Scrisoarea se dovedește a fi chiar de la Henry și a fost trimisă în urmă cu 10 ani, dar a ajuns abia acum - lucru deloc surprinzător pentru cine a mai avut experiențe cu Poșta Română. În scrisoare Henry îi scrie lui Willy să se ducă în Bone Town și să se cazeze la Dead Man Inn, încheind cu un misterios „totul va fi revelat acolo”. Willy nici nu stă pe gânduri, e gata de plecare chiar în momentul ăla, dar cum în viață nu faci nimic fără bani, are nevoie de fonduri și de un mijloc de deplasare. După câteva puzzle-uri simple, în care ne familiarizăm cu interfața jocului, putem să plecăm spre Bone Town.
 
