@@ -8,6 +8,7 @@ categories:
 tags:
     - "Heaven's Vault"
     - audio review
+    - Știință & Tehnică
 sursa:
    text: O versiune modificată a acestui articol a fost publicată inițial în revista Știință & Tehnică nr. 98 (septembrie 2020)
 
