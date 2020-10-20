@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Flight Simulator</title>
+      <link>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</guid>
+      <description>Luna august a acestui an a marcat lansarea celei mai recente iterații, cea cu numărul 13, din legendara serie Microsoft Flight Simulator, care a debutat în 1982, fiind cu 3 ani mai veche chiar decât prima versiune de Windows. Precedentul titlu din serie, Microsoft Flight Simulator X, s-a lansat în 2006 și a fost foarte apreciat la vremea lui, fiind jucat chiar și până în timpurile noastre, dar nevoia de o actualizare se simțea de mult.
+Microsoft a făcut o mișcare îndrăzneață, încredințând dezvoltarea noului joc unui studio fără experiență în domeniul simulatoarelor.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 11 - 17 octombrie 2020</title>
@@ -152,17 +162,6 @@ Calendarul va fi actualizat periodic, deci nu vă sfiiți să reveniți pentru a
       <guid>https://candaparerevista.ro/posts/2020/09/review-state-of-decay-2/</guid>
       <description>Seria State of Decay este pentru mine încadrată într-un gen aparte, pe care mai în glumă, mai în serios, îl denumesc Simulator de Zombie Apocalypse. Simt că trebuie să fac această precizare pentru că în anii 2000 am fost asaltați de nenumărate titluri în care activitatea principală a jucătorului era eliminarea valurilor de zombies livrate furios și iute de developeri, bucuroși ca nu au practic de programat nicio rutina AI mai complexă decât „runForwardAndAttack();”.
 Acest trend are efectul de a trivializa în mintea multor jucători orice titlu care conține zombies, ceea ce afectează pe nedrept unele titluri ca State of Decay, în care accentul principal se pune pe experiența de supraviețuire și dezvoltare a unui grup și are multe aspecte legate de management social sau al resurselor, dincolo de elementul banal de combat.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 23 - 29 august 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/08/30/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:01 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/08/30/</guid>
-      <description>Noi scandaluri și controverse se ițesc în industrie, adăugându-se celor deja existente, piața jocurilor din Europa produce o mulțime de bani, a început ultimul mare eveniment de gaming al verii, Gamescom (găsiți rezumatul în articolul nostru despre Vara Jocurilor) și care a venit cu o mulțime de anunțuri noi (precum un nou joc Sam &amp;amp; Max și un remake Pharaoh), s-a lansat Wasteland 3, iar Gibbous: A Cthulhu Adventure va primi o continuare.
-Linkuri rapide:
- Știri Articole (critică, dev, design) Made în România Anunțuri şi lansări de jocuri Prăvălii de jocuri  Știri Continuă știrile în disputa dintre Epic și Apple:</description>
     </item>
     
   </channel>

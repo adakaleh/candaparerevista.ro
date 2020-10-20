@@ -6,10 +6,20 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Flight Simulator</title>
+      <link>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</guid>
+      <description>Luna august a acestui an a marcat lansarea celei mai recente iterații, cea cu numărul 13, din legendara serie Microsoft Flight Simulator, care a debutat în 1982, fiind cu 3 ani mai veche chiar decât prima versiune de Windows. Precedentul titlu din serie, Microsoft Flight Simulator X, s-a lansat în 2006 și a fost foarte apreciat la vremea lui, fiind jucat chiar și până în timpurile noastre, dar nevoia de o actualizare se simțea de mult.
+Microsoft a făcut o mișcare îndrăzneață, încredințând dezvoltarea noului joc unui studio fără experiență în domeniul simulatoarelor.</description>
+    </item>
     
     <item>
       <title>Mortal Shell</title>
@@ -139,16 +149,6 @@ Din descriere, In Other Waters pare că se adresează direct acelei părți a im
       
       <guid>https://candaparerevista.ro/posts/2020/02/review-total-war-warhammer-1/</guid>
       <description>Ca să nu mai așteptați pînă la Sfîrșitul Vremurilor pentru reviewurile mele, o să încerc să vă scriu din mers despre peripețiile prin Total War: Warhammer. Varianta tl;dr ar fi următoarea: e un joc pentru care s-a depus un efort considerabil pe partea de prezentare (cu cîteva fisuri jenante și acolo, între noi fie vorba), dar din păcate este umbrit de mecanici cel puțin discutabile, ca să nu spun de-a dreptul tîmpite. Prețul pentru patricieni e complet nejustificat, iar dacă nu avea atîtea mărci grele in spate probabil că ar fi primit scoruri mult mai proaste prin diverse analize.</description>
-    </item>
-    
-    <item>
-      <title>Untitled Goose Game</title>
-      <link>https://candaparerevista.ro/posts/2019/11/review-untitled-goose-game/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2019/11/review-untitled-goose-game/</guid>
-      <description>Jocul cu gâsca! Pacostea virală! Junghiul internetului! Jocul memă! L-am jucat și noi, ca să fim în rând cu lumea, astfel că acum puteți să aflați și voi cum este și de ce vorbește lumea despre el. Iar dacă încă nu aveți habar la ce mă refer, priviți trailerul de mai jos - veți înțelege imediat.
-Și… nu e rău deloc. Nu e un indie revoluționar, dar e original, amuzant și foarte accesibil, astfel încât e atractiv pentru mai multe categorii de jucători, inclusiv dintre cei care în mod normal nu s-ar prezenta drept „gameri”.</description>
     </item>
     
   </channel>
