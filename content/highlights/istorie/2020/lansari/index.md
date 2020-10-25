@@ -513,6 +513,7 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 20 octombrie: **Manifold Garden** (iese din exclusivitate epic) <sup>([Steam](https://store.steampowered.com/app/473950/Manifold_Garden/))</sup>
 * 20 octombrie: **Amnesia: Rebirth** <sup>([Steam](https://store.steampowered.com/app/999220/Amnesia_Rebirth/), [gog.com](https://www.gog.com/game/amnesia_rebirth))</sup>
 * 20 octombrie: **Drone Swarm** <sup>([Steam](https://store.steampowered.com/app/401760/Drone_Swarm/))</sup>
+* 20 octombrie: **7 Bones and 7 Stones - The Ritual** (early access) <sup>([Steam](https://store.steampowered.com/app/712080/7_Bones_and_7_Stones__The_Ritual/))</sup>
 * 21 octombrie: **LOVE - A Puzzle Box Filled with Stories** <sup>([Steam](https://store.steampowered.com/app/1239490/LOVE__A_Puzzle_Box_Filled_with_Stories/))</sup>
 * 22 octombrie: **Ezaron Defense** <sup>([Steam](https://store.steampowered.com/app/1097750/Ezaron_Defense/))</sup>
 * 21 octombrie: **ScourgeBringer** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1037020/ScourgeBringer/), [gog.com](https://www.gog.com/game/scourgebringer))</sup>

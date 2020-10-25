@@ -32,7 +32,7 @@ Studioul Croteam a fost achiziționat de Devolver Digital, Gabe Newell se gânde
 * Un publisher polonez înființează un joint venture cu o companie de investiții pentru a finanța studiouri din România cu până la 1 milion de dolari/joc. <sup>([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2020-10-19-movie-games-and-inc-joint-venture-to-focus-on-romanian-developers))</sup>
 * MicroProse va publica jocul **Urban Strife** al celor de la White Pond Games. <sup>([Facebook Urban Strife](https://www.facebook.com/urbanstrifegame/posts/4535067853231605), [PC Gamer](https://www.pcgamer.com/urban-strife-sounds-like-jagged-alliance-2-but-its-infested-with-zombies/))</sup>
 * Cu această ocazie, PC Gamer a publicat și un preview al jocului. <sup>([PC Gamer](https://www.pcgamer.com/urban-strife-sounds-like-jagged-alliance-2-but-its-infested-with-zombies/))</sup>
-* S-au lansat jocurile **Ezaron Defense** <sup>([Steam](https://store.steampowered.com/app/1097750/Ezaron_Defense/))</sup> și **The Equinox Hunt** <sup>([Steam](https://store.steampowered.com/app/1154300/The_Equinox_Hunt/))</sup>
+* S-au lansat jocurile **Ezaron Defense** <sup>([Steam](https://store.steampowered.com/app/1097750/Ezaron_Defense/))</sup>, **The Equinox Hunt** <sup>([Steam](https://store.steampowered.com/app/1154300/The_Equinox_Hunt/))</sup> și **7 Bones and 7 Stones - The Ritual**. <sup>([Steam](https://store.steampowered.com/app/712080/7_Bones_and_7_Stones__The_Ritual/))</sup>
 
 ## Anunţuri şi lansări de jocuri
 ### Lansate
@@ -41,6 +41,7 @@ Studioul Croteam a fost achiziționat de Devolver Digital, Gabe Newell se gânde
 * 20 octombrie: **Manifold Garden** (iese din exclusivitate epic) <sup>([Steam](https://store.steampowered.com/app/473950/Manifold_Garden/))</sup>
 * 20 octombrie: **Amnesia: Rebirth** <sup>([Steam](https://store.steampowered.com/app/999220/Amnesia_Rebirth/), [gog.com](https://www.gog.com/game/amnesia_rebirth))</sup>
 * 20 octombrie: **Drone Swarm** <sup>([Steam](https://store.steampowered.com/app/401760/Drone_Swarm/))</sup>
+* 20 octombrie: **7 Bones and 7 Stones - The Ritual** (early access) <sup>([Steam](https://store.steampowered.com/app/712080/7_Bones_and_7_Stones__The_Ritual/))</sup>
 * 21 octombrie: **LOVE - A Puzzle Box Filled with Stories** <sup>([Steam](https://store.steampowered.com/app/1239490/LOVE__A_Puzzle_Box_Filled_with_Stories/))</sup>
 * 22 octombrie: **Ezaron Defense** <sup>([Steam](https://store.steampowered.com/app/1097750/Ezaron_Defense/))</sup>
 * 21 octombrie: **ScourgeBringer** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1037020/ScourgeBringer/), [gog.com](https://www.gog.com/game/scourgebringer))</sup>
