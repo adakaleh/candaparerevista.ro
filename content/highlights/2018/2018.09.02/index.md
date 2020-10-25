@@ -77,7 +77,7 @@ resources:
 * [Take a closer look at one of the best video game cities, Grim Fandango’s Rubacava](https://www.polygon.com/features/2018/9/3/17775744/grim-fandango-rubacava-virtual-cities-book) (Polygon)
 
 ## Made în România
-S-a lansat **Planet Alpha** ([Steam](https://store.steampowered.com/app/485030/PLANET_ALPHA/)), iar părerile sunt în general pozitive, în special pentru partea artistică. Avem un [thread deschis şi pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=85&t=1866&p=84788) pentru discuţii.
+* S-a lansat **Planet Alpha** ([Steam](https://store.steampowered.com/app/485030/PLANET_ALPHA/)), iar părerile sunt în general pozitive, în special pentru partea artistică. Avem un [thread deschis şi pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=85&t=1866&p=84788) pentru discuţii.
 
 ## Anunţuri şi lansări de jocuri
 ### Anunţate

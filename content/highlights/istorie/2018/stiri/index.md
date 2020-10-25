@@ -2,7 +2,7 @@
 title: "2018: Retrospectiva Retrospectivelor"
 subtitle: "Știrile Anului"
 type: post
-date: 2018-12-31T00:00:02
+date: 2018-12-31T00:00:03
 categories:
     - Highlights
     - Istorie

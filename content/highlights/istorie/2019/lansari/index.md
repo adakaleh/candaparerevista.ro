@@ -2,7 +2,7 @@
 title: "2019: Retrospectiva Retrospectivelor"
 subtitle: "Calendarul Lansărilor"
 type: post
-date: 2019-12-31T00:00:01
+date: 2019-12-31T00:00:02
 categories:
     - Highlights
     - Istorie
@@ -14,12 +14,6 @@ hideDescription: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-resources:
-  - src: 
-    name: "card-cover-image"
-
-  - src:
-    name: "cover-image" 
 ---
 
 ## [30 decembrie 2018 - 5 ianuarie]({{<relref "/highlights/2019/01/06">}})

@@ -2,7 +2,7 @@
 title: "2018: Retrospectiva Retrospectivelor"
 subtitle: "Calendarul Lansărilor"
 type: post
-date: 2018-12-31T00:00:01
+date: 2018-12-31T00:00:02
 categories:
     - Highlights
     - Istorie
