@@ -10,11 +10,11 @@ hideOnHome: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-description: "Studioul Croteam a fost achiziționat de Devolver Digital, Gabe Newell se gândește să mute o parte din Valve în Noua Zeelandă, o senatoare americană face audiență pe Twitch jucând Among Us și s-au lansat foarte multe jocuri, printre care Amnesia: Rebirth și două jocuri românești: Ezaron Defense și The Equinox Hunt."
+description: "Studioul Croteam a fost achiziționat de Devolver Digital, Gabe Newell se gândește să mute o parte din Valve în Noua Zeelandă, o senatoare americană face audiență pe Twitch jucând Among Us și s-au lansat foarte multe jocuri, printre care Amnesia: Rebirth și nu mai puțin de trei jocuri românești: Ezaron Defense, The Equinox Hunt și 7 Bones and 7 Stones - The Ritual."
 
 ---
 
-Studioul Croteam a fost achiziționat de Devolver Digital, Gabe Newell se gândește să mute o parte din Valve în Noua Zeelandă, o senatoare americană face audiență pe Twitch jucând Among Us și s-au lansat foarte multe jocuri, printre care **Amnesia: Rebirth** și două jocuri românești: **Ezaron Defense** și **The Equinox Hunt**.
+Studioul Croteam a fost achiziționat de Devolver Digital, Gabe Newell se gândește să mute o parte din Valve în Noua Zeelandă, o senatoare americană face audiență pe Twitch jucând Among Us și s-au lansat foarte multe jocuri, printre care **Amnesia: Rebirth** și nu mai puțin de trei jocuri românești: **Ezaron Defense**, **The Equinox Hunt** și **7 Bones and 7 Stones - The Ritual**.
 
 ## Știri
 
