@@ -108,7 +108,7 @@ Linkuri rapide:
 
 ## Made în România
 
-Industria românească de jocuri a ales un joc care să reprezinte România la concursul Europlay ce se va desfășura pe 28 August în cadrul Gamescom. Alegerea a fost făcută de către [membrii grupului RGDA](https://www.facebook.com/groups/THERGDA/permalink/1850527088419158/) din 12 titluri participante aflate în dezvoltare. Deși încă nu a fost anunțat oficial câștigătorul până la acest moment, votarea s-a încheiat, iar pe primul loc în preferințele votanților se află **Door Kickers 2: Task Force North**. <sup>([Romanian Game Developers Association](http://rgda.ro/europlay-video-games-competition/))</sup>
+* Industria românească de jocuri a ales un joc care să reprezinte România la concursul Europlay ce se va desfășura pe 28 August în cadrul Gamescom. Alegerea a fost făcută de către [membrii grupului RGDA](https://www.facebook.com/groups/THERGDA/permalink/1850527088419158/) din 12 titluri participante aflate în dezvoltare. Deși încă nu a fost anunțat oficial câștigătorul până la acest moment, votarea s-a încheiat, iar pe primul loc în preferințele votanților se află **Door Kickers 2: Task Force North**. <sup>([Romanian Game Developers Association](http://rgda.ro/europlay-video-games-competition/))</sup>
 
 
 ## Anunţuri şi lansări de jocuri

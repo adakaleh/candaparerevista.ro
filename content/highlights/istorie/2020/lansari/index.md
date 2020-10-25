@@ -2,7 +2,7 @@
 title: "2020: Retrospectiva Retrospectivelor"
 subtitle: "Calendarul Lansărilor"
 type: post
-date: 2020-05-03T00:00:01
+date: 2020-10-25T00:00:02
 categories:
     - Highlights
     - Istorie
@@ -14,12 +14,6 @@ hideDescription: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-resources:
-  - src: 
-    name: "card-cover-image"
-
-  - src:
-    name: "cover-image" 
 ---
 
 ## [29 decembrie 2019 - 4 ianuarie]({{<relref "/highlights/2020/01/05">}})
@@ -184,7 +178,6 @@ resources:
 * 24 aprilie: **XCOM: Chimera Squad** <sup>([Steam](https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/))</sup>
 * 24 aprilie: **Predator: Hunting Grounds** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/predator-hunting-grounds/))</sup>
 
-
 ## [26 aprilie - 2 mai]({{<relref "/highlights/2020/05/03">}})
 * 28 aprilie: **Gears Tactics** <sup>([Steam](https://store.steampowered.com/app/1184050/Gears_Tactics/))</sup>
 * 28 aprilie: **WarriOrb** <sup>([Steam](https://store.steampowered.com/app/790360/WarriOrb/))</sup>
@@ -196,3 +189,344 @@ resources:
 * 30 aprilie: **Dread Nautical** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/dread-nautical/home))</sup>
 * 30 aprilie: **Call Of Duty: Modern Warfare 2 Remastered** <sup>([Battle.net Shop](https://eu.shop.battle.net/en-gb/product/call-of-duty-modern-warfare-2-campaign-remastered))</sup>
 * 30 aprilie: **Levelhead** <sup>([Steam](https://store.steampowered.com/app/792710/Levelhead/))</sup>
+
+
+## [3 - 9 mai]({{<relref "/highlights/2020/05/10">}})
+* 5 mai: **Someday You’ll Return** <sup>([Steam](https://store.steampowered.com/app/840370/Someday_Youll_Return/))</sup>
+* 5 mai: **Wintermoor Tactics Club** <sup>([Steam](https://store.steampowered.com/app/917840/Wintermoor_Tactics_Club/), [gog.com](https://www.gog.com/game/wintermoor_tactics_club))</sup>
+* 5 mai: **Population Zero** (early access) <sup>([Steam](https://store.steampowered.com/app/1239430/Population_Zero/))</sup>
+* 7 mai: **Spirit of the North** <sup>([Steam](https://store.steampowered.com/app/1213700/Spirit_of_the_North/))</sup>
+* 8 mai: **Before We Leave** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/before-we-leave/))</sup>
+* 8 mai: **Hydroneer**  <sup>([Steam](https://store.steampowered.com/app/1106840/Hydroneer/))</sup>
+* 8 mai: **Dark Light** (early access) <sup>([Steam](https://store.steampowered.com/app/1134520/Dark_Light/))</sup>
+* 8 mai: **Fury Unleashed** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/465200/Fury_Unleashed/))</sup>
+* 8 mai: **Tonight We Riot** <sup>([Steam](https://store.steampowered.com/app/290690/Tonight_We_Riot/), [gog.com](https://www.gog.com/game/tonight_we_riot))</sup>
+
+## [10 - 16 mai]({{<relref "/highlights/2020/05/17">}})
+* 11 mai: **ATOM RPG Trudograd** <sup>([Steam](https://store.steampowered.com/app/1139940/ATOM_RPG_Trudograd/), [gog.com](https://www.gog.com/game/atom_rpg_trudograd))</sup>
+* 12 mai: **VirtuaVerse** <sup>([Steam](https://store.steampowered.com/app/1019310/VirtuaVerse/), [gog.com](https://www.gog.com/game/VirtuaVerse))</sup>
+* 12 mai: **Huntdown** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/huntdown/))</sup>
+* 12 mai: **Jet Lancer** <sup>([Steam](https://store.steampowered.com/app/913060/Jet_Lancer/), [gog.com](https://www.gog.com/game/jet_lancer))</sup>
+* 13 mai: **Deep Rock Galactic** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/548430/Deep_Rock_Galactic/))</sup>
+* 13 mai: **Halo 2: Anniversary** <sup>([Steam](https://store.steampowered.com/app/1064270/Halo_2_Anniversary/))</sup>
+* 14 mai: **Nimbatus - The Space Drone Constructor** <sup>([Steam](https://store.steampowered.com/app/383840/Nimbatus__The_Space_Drone_Constructor/))</sup>
+* 14 mai: **Signs of the Sojourner** <sup>([Steam](https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/), [gog.com](https://www.gog.com/game/signs_of_the_sojourner))</sup>
+* 15 mai: **Tales From Off-Peak City Vol. 1** <sup>([Steam](https://store.steampowered.com/app/1129920/Tales_From_OffPeak_City_Vol_1/))</sup>
+
+## [17 - 23 mai]({{<relref "/highlights/2020/05/24">}})
+* 19 mai: **The Wonderful 101: Remastered** <sup>([Steam](https://store.steampowered.com/app/1190400/The_Wonderful_101_Remastered/))</sup>
+* 19 mai: **If Found...** <sup>([Steam](https://store.steampowered.com/app/1041920/If_Found/))</sup>
+* 19 mai: **Neversong** <sup>([Steam](https://store.steampowered.com/app/733210/Neversong/), [gog.com](https://www.gog.com/game/neversong))</sup>
+* 19 mai: **Umurangi Generation** <sup>([Steam](https://store.steampowered.com/app/1223500/Umurangi_Generation/))</sup>
+* 19 mai: **Mafia II: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/1030830/Mafia_II_Definitive_Edition/))</sup>
+* 19 mai: **Mafia III: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/360430/Mafia_III_Definitive_Edition/))</sup>
+* 21 mai: **Embr** <sup>([Steam](https://store.steampowered.com/app/1062830/Embr/))</sup>
+* 21 mai: **Space Haven** (early access) <sup>([Steam](https://store.steampowered.com/app/979110/Space_Haven/), [gog.com](https://www.gog.com/game/space_haven))</sup>
+* 21 mai: **Observation** a ieșit și pe Steam & GOG <sup>([Steam](https://store.steampowered.com/app/906100/Observation/), [gog.com](https://www.gog.com/game/observation))</sup>
+* 21 mai: **Monster Train** <sup>([Steam](https://store.steampowered.com/app/1102190/Monster_Train/))</sup>
+* 21 mai: **Crucible** <sup>([Steam](https://store.steampowered.com/app/1057240/Crucible/), [PC Gamer](https://www.pcgamer.com/amazons-pvp-shooter-crucible-is-now-live-on-steam/))</sup>
+* 21 mai: **Bossgard** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/865980/BOSSGARD/))</sup>
+* 21 mai: **Timelie** <sup>([Steam](https://store.steampowered.com/app/1150950/Timelie/))</sup>
+* 22 mai: **Family Man** <sup>([Steam](https://store.steampowered.com/app/904360/Family_Man/))</sup>
+* 22 mai: **ShellShock Live** <sup>([Steam](https://store.steampowered.com/app/326460/ShellShock_Live/))</sup>
+* 22 mai: **Saints Row: The Third™ Remastered** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/saints-row-the-third-remastered))</sup>
+* 22 mai: **Maneater** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/maneater/))</sup>
+* 22 mai: **I, Dracula: Genesis** (early access) <sup>([Steam](https://store.steampowered.com/app/1175360/I_Dracula_Genesis/))</sup>
+* 23 mai: **Gunfire Reborn** <sup>([Steam](https://store.steampowered.com/app/1217060/Gunfire_Reborn/))</sup>
+
+## [24 - 30 mai]({{<relref "/highlights/2020/05/31">}})
+* 26 mai: **Mortal Kombat 11: Aftermath** (DLC) <sup>([Steam](https://store.steampowered.com/app/1273971/Mortal_Kombat11_Aftermath/))</sup>
+* 26 mai: **Wildfire** <sup>([Steam](https://store.steampowered.com/app/431940/Wildfire/), [gog.com](https://www.gog.com/game/wildfire))</sup>
+* 26 mai: **Minecraft Dungeons** <sup>([Minecraft.net](https://www.minecraft.net/en-us/get-dungeons))</sup>
+* 28 mai: **Sludge Life** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/sludge-life/home))</sup>
+* 28 mai: **Those Who Remain** <sup>([Steam](https://store.steampowered.com/app/715380/Those_Who_Remain/))</sup>
+* 28 mai: **Poly Bridge 2** <sup>([Steam](https://store.steampowered.com/app/1062160/Poly_Bridge_2/), [Epic Store](https://www.epicgames.com/store/en-US/product/poly-bridge-2))</sup>
+* 28 mai: **Atomicrops** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/atomicrops/))</sup>
+* 28 mai: **Shantae and the Seven Sirens** <sup>([Steam](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/), [gog.com](https://www.gog.com/game/shantae_and_the_seven_sirens))</sup>
+* 28 mai: **Resolutiion** <sup>([Steam](https://store.steampowered.com/app/975150/Resolutiion/), [gog.com](https://www.gog.com/game/resolutiion))</sup>
+* 29 mai: **Xenoblade Chronicles: Definitive Edition** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/xenoblade-chronicles-definitive-edition-switch/))</sup>
+
+
+## [31 mai - 6 iunie]({{<relref "/highlights/2020/06/07">}})
+* 2 iunie: **Valorant** <sup>([playvalorant.com](https://playvalorant.com/en-gb/))</sup>
+* 3 iunie: **Sea of Thieves** (se lansează pe Steam) <sup>([Steam](https://store.steampowered.com/app/1172620/Sea_of_Thieves/))</sup>
+* 5 iunie: **Command & Conquer Remastered Collection** <sup>([Steam](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/))</sup>
+
+## [7 - 13 iunie]({{<relref "/highlights/2020/06/14">}})
+* 9 iunie: **1971 Project Helios** <sup>([Steam](https://store.steampowered.com/app/1186630/1971_PROJECT_HELIOS/), [gog.com](https://www.gog.com/game/1971_project_helios))</sup>
+* 11 iunie: **Journey** ajunge și pe Steam <sup>([Steam](https://store.steampowered.com/app/638230/Journey/))</sup>
+* 11 iunie: **Skyhill: Black Mist** <sup>([Steam](https://store.steampowered.com/app/990360/SKYHILL_Black_Mist/))</sup>
+* 11 iunie: **Main Assembly** (early access) <sup>([Steam](https://store.steampowered.com/app/1078920/Main_Assembly/))</sup>
+* 11 iunie: **Beyond Blue** <sup>([Steam](https://store.steampowered.com/app/883360/Beyond_Blue/))</sup>
+* 12 iunie: **Unfortunate Spacemen** <sup>([Steam](https://store.steampowered.com/app/408900/Unfortunate_Spacemen/))</sup>
+* 13 iunie: **Torchlight III** (early access)  <sup>([Steam](https://store.steampowered.com/app/1030210/Torchlight_III/))</sup>
+* 13 iunie: **Persona 4 Golden** <sup>([Steam](https://store.steampowered.com/app/1113000/Persona_4_Golden/))</sup>
+* 13 iunie: **Among Trees** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/among-trees))</sup>
+
+## [14 - 20 iunie]({{<relref "/highlights/2020/06/21">}})
+* 14 iunie: **Griftlands** (early access) <sup>([Steam](https://store.steampowered.com/app/601840/Griftlands/))</sup>
+* 16 iunie: **Desperados III** <sup>([Steam](https://store.steampowered.com/app/610370/Desperados_III/), [gog.com](https://www.gog.com/game/desperados_iii))</sup>
+* 16 iunie: **Hardspace: Shipbreaker** <sup>([Steam](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/))</sup>
+* 16 iunie: **Colt Canyon** <sup>([Steam](https://store.steampowered.com/app/940710/Colt_Canyon/), [gog.com](https://www.gog.com/game/colt_canyon))</sup>
+* 16 iunie: **Disintegration** <sup>([Steam](https://store.steampowered.com/app/536280/Disintegration/))</sup>
+* 16 iunie: **Summer in Mara** <sup>([gog.com](https://www.gog.com/game/summer_in_mara), [gog.com](https://www.gog.com/game/summer_in_mara))</sup>
+* 17 iunie: **Curious Expedition 2** (early access) <sup>([Steam](https://store.steampowered.com/app/1040230/Curious_Expedition_2/))</sup>
+* 17 iunie: **Alwa's Legacy** <sup>([Steam](https://store.steampowered.com/app/1205900/Alwas_Legacy/), [gog.com](https://www.gog.com/game/alwas_legacy_bundle))</sup>
+* 18 iunie: **West of Dead** <sup>([Steam](https://store.steampowered.com/app/1016790/West_of_Dead/), [gog.com](https://www.gog.com/game/west_of_dead))</sup>
+* 18 iunie: **Outer Wilds** (vine și pe Steam după exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/753640/Outer_Wilds/))</sup>
+* 18 iunie: **P.A.M.E.L.A.** <sup>([Steam](https://store.steampowered.com/app/427880/PAMELA/), [gog.com](https://www.gog.com/game/pamelar))</sup>
+* 18 iunie: **Waking** <sup>([Steam](https://store.steampowered.com/app/1068600/Waking/), [gog.com](https://www.gog.com/game/waking))</sup>
+* 18 iunie: **Detroit: Become Human** (vine și pe Steam după exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/1222140/Detroit_Become_Human/))</sup>
+* 18 iunie: **Heavy Rain** (vine și pe Steam după exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/960910/Heavy_Rain/))</sup>
+* 18 iunie: **Beyond: Two Souls** (vine și pe Steam după exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/960990/Beyond_Two_Souls/))</sup>
+* 19 iunie: **The Last of Us 2** <sup>([PS store](https://www.playstation.com/en-us/games/the-last-of-us-part-ii-ps4/))</sup>
+
+
+## [21 - 27 iunie]({{<relref "/highlights/2020/06/28">}})
+* 22 iunie: **Hylics 2** <sup>([Steam](https://store.steampowered.com/app/1286710/Hylics_2/))</sup>
+* 22 iunie: **Danger Scavenger** <sup>([Steam](https://store.steampowered.com/app/1169740/Danger_Scavenger/), [gog.com](https://www.gog.com/game/danger_scavenger))</sup>
+* 23 iunie: **SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated** <sup>([Steam](https://store.steampowered.com/app/969990/SpongeBob_SquarePants_Battle_for_Bikini_Bottom__Rehydrated/), [gog.com](https://www.gog.com/game/spongebob_squarepants_battle_for_bikini_bottom_rehydrated))</sup>
+* 25 iunie: **Borderlands 3: Bounty of Blood** (DLC) <sup>([Steam](https://store.steampowered.com/app/1233060/Borderlands_3_Bounty_of_Blood/))</sup>
+* 25 iunie: **Mr. Driller Drill Land** <sup>([Steam](https://store.steampowered.com/app/1126750/Mr_DRILLER_DrillLand/))</sup>
+* 25 iunie: **Anno: History Collection** (conține Anno 1602, Anno 1503, Anno 1701, Anno 1404) <sup>([Ubi Store](https://store.ubi.com/ie/game?pid=5ebc0cd00d253c242044526a))</sup>
+
+## [28 iunie - 4 iulie]({{<relref "/highlights/2020/07/05">}})
+* 30 iunie: **Fortnite** (iese din early access - da, acum) <sup>([Epic Store](https://www.epicgames.com/fortnite))</sup>
+* 30 iunie: **Townscaper** <sup>([Steam](https://store.steampowered.com/app/1291340/Townscaper/))</sup>
+* 1 iulie: **Trackmania** <sup>([Ubi Store](https://store.ubi.com/uk/game?pid=5e8b58345cdf9a12c868c878), [Epic Store](https://www.epicgames.com/store/en-US/product/trackmania))</sup>
+* 3 iulie: **Armillo** <sup>([Steam](https://store.steampowered.com/app/349520/Armillo/))</sup>
+* 4 iulie: **Golf On Mars** <sup>([Steam](https://store.steampowered.com/app/1340570/Golf_On_Mars/))</sup>
+
+## [5 - 11 iulie]({{<relref "/highlights/2020/07/12">}})
+* 9 iulie: **F1 2020** <sup>([Steam](https://store.steampowered.com/app/1080110/F1_2020/))</sup>
+* 9 iulie: **Half-Life: Alyx - Final Hours** <sup>([Steam](https://store.steampowered.com/app/1361700/HalfLife_Alyx__Final_Hours/))</sup>
+* 9 iulie: **Soda Dungeon 2** <sup>([Steam](https://store.steampowered.com/app/946050/Soda_Dungeon_2/))</sup>
+* 10 iulie: **Deadly Premonition 2: A Blessing In Disguise** <sup>([Nintendo Store](https://www.nintendo.com/games/detail/deadly-premonition-2-a-blessing-in-disguise-switch/))</sup>
+* 10 iulie: **Bloodstained: Curse of the Moon 2** <sup>([Steam](https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/))</sup>
+
+## [12 - 18 iulie]({{<relref "/highlights/2020/07/19">}})
+* 14 iulie: **Story Of Seasons: Friends Of Mineral Town** <sup>([Steam](https://store.steampowered.com/app/978780/STORY_OF_SEASONS_Friends_of_Mineral_Town/))</sup>
+* 14 iulie: **Death Stranding** <sup>([Steam](https://store.steampowered.com/app/1190460/DEATH_STRANDING/))</sup>
+* 14 iulie: **Rocket Arena** <sup>([Steam](https://store.steampowered.com/app/1233550/Rocket_Arena/))</sup>
+* 14 iulie: **Orcs Must Die 3** <sup>([Google Stadia](https://stadia.google.com/))</sup>
+* 14 iulie: **Neon Abyss** <sup>([Steam](https://store.steampowered.com/app/788100/Neon_Abyss/), [gog.com](https://www.gog.com/game/neon_abyss_launch_edition))</sup>
+* 14 iulie: **Halo 3** <sup>([Steam](https://store.steampowered.com/app/1064271/Halo_3/))</sup>
+* 15 iulie: **Ooblets** (early access) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/ooblets/))</sup>
+* 16 iulie: **The Underground King** <sup>([Steam](https://store.steampowered.com/app/1198900/The_Underground_King/))</sup>
+* 16 iulie: **Superhot: Mind Control Delete** <sup>([Steam](https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/), [gog.com](https://www.gog.com/game/superhot_mind_control_delete))</sup>
+* 16 iulie: **Beyond a Steel Sky** <sup>([Steam](https://store.steampowered.com/app/1146310/Beyond_a_Steel_Sky/))</sup>
+* 16 iulie: **We Should Talk.** <sup>([Steam](https://store.steampowered.com/app/1255990/We_should_talk/))</sup>
+* 16 iulie: **Before I Forget** <sup>([Steam](https://store.steampowered.com/app/1126600/Before_I_Forget/))</sup>
+* 17 iulie: **Ghost of Tsushima** <sup>([PS Store](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/))</sup>
+
+
+
+## [19 - 25 iulie]({{<relref "/highlights/2020/07/26">}})
+* 20 iulie: **Rogue Company** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/rogue-company))</sup>
+* 21 iulie: **Rock Of Ages 3: Make & Break** <sup>([Steam](https://store.steampowered.com/app/1101360/Rock_of_Ages_3_Make__Break/))</sup>
+* 21 iulie: **Panzer Paladin** <sup>([Steam](https://store.steampowered.com/app/975510/Panzer_Paladin/))</sup>
+* 21 iulie: **Star Wars: The Old Republic (s-a lansat și pe Steam)** <sup>([Steam](https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/))</sup>
+* 22 iulie: **5D Chess With Multiverse Time Travel** <sup>([Steam](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/))</sup>
+* 22 iulie: **Necrobarista** <sup>([Steam](https://store.steampowered.com/app/725270/Necrobarista/), [gog.com](https://www.gog.com/game/necrobarista))</sup>
+* 22 iulie: **Creaks** <sup>([Steam](https://store.steampowered.com/app/956030/Creaks/), [gog.com](https://www.gog.com/game/creaks))</sup>
+* 23 iulie: **Röki** <sup>([Steam](https://store.steampowered.com/app/1067540/Rki/), [gog.com](https://www.gog.com/game/roki))</sup>
+* 23 iulie: **Carrion** <sup>([Steam](https://store.steampowered.com/app/953490/CARRION/), [gog.com](https://www.gog.com/game/carrion))</sup>
+* 24 iulie: **Paper Beast** <sup>([Steam](https://store.steampowered.com/app/1232570/Paper_Beast/))</sup>
+
+
+## [26 iulie - 1 august]({{<relref "/highlights/2020/08/02">}})
+* 28 iulie: **The Maid of Sker** <sup>([Steam](https://store.steampowered.com/app/826940/Maid_of_Sker/))</sup>
+* 28 iulie: **Destroy All Humans** <sup>([Steam](https://store.steampowered.com/app/803330/Destroy_All_Humans/), [gog.com](https://www.gog.com/game/destroy_all_humans))</sup>
+* 28 iulie: **Othercide** <sup>([Steam](https://store.steampowered.com/app/798490/Othercide/))</sup>
+* 28 iulie: **Terrorarium** <sup>([Steam](https://store.steampowered.com/app/1003450/Terrorarium/))</sup>
+* 28 iulie: **Grounded** (early access) <sup>([Steam](https://store.steampowered.com/app/962130/Grounded/))</sup>
+* 28 iulie: **Traveller’s Rest** <sup>([Steam](https://store.steampowered.com/app/1139980/Travellers_Rest/))</sup>
+* 28 iulie: **Skater XL** <sup>([Steam](https://store.steampowered.com/app/962730/Skater_XL__The_Ultimate_Skateboarding_Game/))</sup>
+* 29 iulie: **Blightbound** (early access) <sup>([Steam](https://store.steampowered.com/app/1263070/Blightbound/))</sup>
+* 29 iulie: **Fight Crab** <sup>([Steam](https://store.steampowered.com/app/1213750/Fight_Crab/))</sup>
+* 30 iulie: **Hellpoint** <sup>([Steam](https://store.steampowered.com/app/628670/Hellpoint/), [gog.com](https://www.gog.com/game/hellpoint))</sup>
+* 30 iulie: **Liberated** <sup>([Steam](https://store.steampowered.com/app/875310/Liberated/), [gog.com](https://www.gog.com/game/liberated))</sup>
+* 30 iulie: **Fairy Tail** <sup>([Steam](https://store.steampowered.com/app/1233260/FAIRY_TAIL/))</sup>
+* 31 iulie: **Fae Tactics** <sup>([Steam](https://store.steampowered.com/app/995980/Fae_Tactics/), [gog.com](https://www.gog.com/game/fae_tactics))</sup>
+
+
+## [2 - 8 august]({{<relref "/highlights/2020/08/09">}})
+* 2 august: **Frog Fractions: Game of the Decade Edition** <sup>([Steam](https://store.steampowered.com/app/1194840/Frog_Fractions_Game_of_the_Decade_Edition/))</sup>
+* 4 august: **Fall Guys: Ultimate Knockout** <sup>([Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/))</sup>
+* 4 august: **Relicta** <sup>([Steam](https://store.steampowered.com/app/941570/Relicta/))</sup>
+* 4 august: **Skully** <sup>([Steam](https://store.steampowered.com/app/1249110/Skully/))</sup>
+* 4 august: **Hellbound** <sup>([Steam](https://store.steampowered.com/app/753590/Hellbound/))</sup>
+* 4 august: **The Battle of Polytopia** <sup>([Steam](https://store.steampowered.com/app/874390/The_Battle_of_Polytopia/))</sup>
+* 4 august: **Spitlings** <sup>([Steam](https://store.steampowered.com/app/1002000/SPITLINGS/))</sup>
+* 5 august: **Tesla Force** (early access) <sup>([Steam](https://store.steampowered.com/app/1149710/Tesla_Force/), [gog.com](https://www.gog.com/game/tesla_force))</sup>
+* 6 august: **Post Void** <sup>([Steam](https://store.steampowered.com/app/1285670/Post_Void/))</sup>
+* 6 august: **There Is No Game: Wrong Dimension** <sup>([Steam](https://store.steampowered.com/app/1240210/There_Is_No_Game__Wrong_Dimension/))</sup>
+* 7 august: **Fast & Furious Crossroads** <sup>([Steam](https://store.steampowered.com/app/678030/FAST__FURIOUS_CROSSROADS/))</sup>
+* 7 august: **Horizon Zero Dawn: Complete Edition** <sup>([Steam](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/))</sup>
+* 8 august: **Company of Crime** <sup>([Steam](https://store.steampowered.com/app/1229420/Company_of_Crime/), [gog.com](https://www.gog.com/game/company_of_crime))</sup>
+
+## [9 - 15 august]({{<relref "/highlights/2020/08/16">}})
+* 11 august: **Hyper Scape**  <sup>([Ubi Store](https://www.ubisoft.com/en-gb/game/hyper-scape))</sup>
+* 11 august: **Risk of Rain 2** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/632360/Risk_of_Rain_2/))</sup>
+* 12 august: **Metamorphosis** <sup>([Steam](https://store.steampowered.com/app/1025410/Metamorphosis/), [gog.com](https://www.gog.com/game/metamorphosis))</sup>
+* 13 august: **A Total War Saga: Troy** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/a-total-war-saga-troy/))</sup>
+* 13 august: **Kill It With Fire** <sup>([Steam](https://store.steampowered.com/app/1179210/Kill_It_With_Fire/))</sup>
+* 13 august: **Milky Way Prince: The Vampire Star** <sup>([Steam](https://store.steampowered.com/app/1302050/Milky_Way_Prince__The_Vampire_Star/), [gog.com](https://www.gog.com/game/milky_way_prince_the_vampire_star))</sup>
+* 13 august: **Parkasaurus** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/591460/Parkasaurus/))</sup>
+* 13 august: **Bite the Bullet** <sup>([Steam](https://store.steampowered.com/app/1075550/Bite_the_Bullet/), [gog.com](https://www.gog.com/game/bite_the_bullet))</sup>
+* 14 august: **Factorio** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/427520/Factorio/), [gog.com](https://www.gog.com/game/factorio))</sup>
+* 14 august: **Dreamscaper** <sup>([Steam](https://store.steampowered.com/app/1040420/Dreamscaper/))</sup>
+
+## [16 - 22 august]({{<relref "/highlights/2020/08/23">}})
+* 18 august: **Microsoft Flight Simulator** <sup>([Steam](https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator/), [Microsoft Store](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht))</sup>
+* 18 august: **Mortal Shell** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/mortal-shell/))</sup>
+* 18 august: **Spiritfarer** <sup>([Steam](https://store.steampowered.com/app/972660/Spiritfarer/), [gog.com](https://www.gog.com/game/spiritfarer))</sup>
+* 18 august: **Bleach: Brave Souls** <sup>([Steam](https://store.steampowered.com/app/1201240/BLEACH_Brave_Souls/))</sup>
+* 18 august: **Rogue Legacy 2** (early access) <sup>([Steam](https://store.steampowered.com/app/1253920/Rogue_Legacy_2/))</sup>
+* 18 august: **Helheim Hassle** <sup>([Steam](https://store.steampowered.com/app/1095120/Helheim_Hassle/))</sup>
+* 20 august: **Peaky Blinders Mastermind** <sup>([Steam](https://store.steampowered.com/app/1013310/Peaky_Blinders_Mastermind/))</sup>
+* 20 august: **Battletoads** <sup>([Steam](https://store.steampowered.com/app/1244950/Battletoads/), [Microsoft Store](https://www.microsoft.com/en-us/p/battletoads/9n7gcf5sgcxc))</sup>
+* 20 august: **Roboquest** <sup>([Steam](https://store.steampowered.com/app/692890/Roboquest/))</sup>
+* 21 august: **Inmost** <sup>([Steam](https://store.steampowered.com/app/938560/INMOST/), [gog.com](https://www.gog.com/game/inmost))</sup>
+* 21 august: **New Super Lucky's Tale** <sup>([Steam](https://store.steampowered.com/app/1038300/New_Super_Luckys_Tale/))</sup>
+* 21 august: **Samurai Jack: Battle Through Time** <sup>([Steam](https://store.steampowered.com/app/1150590/Samurai_Jack_Battle_Through_Time/))</sup>
+* 21 august: **Bake 'n Switch** <sup>([Steam](https://store.steampowered.com/app/1080410/Bake_n_Switch/))</sup>
+
+## [23 - 29 august]({{<relref "/highlights/2020/08/30">}})
+* 25 august: **No Straight Roads** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/no-straight-roads))</sup>
+* 25 august: **Street Power Football** <sup>([Steam](https://store.steampowered.com/app/1275760/Street_Power_Football/))</sup>
+* 26 august: **Sheepo** <sup>([Steam](https://store.steampowered.com/app/1281790/SHEEPO/))</sup>
+* 27 august: **The Last Campfire** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/the-last-campfire))</sup>
+* 27 august: **Ancestors: The Humankind Odyssey** <sup>([Steam](https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/))</sup>
+* 27 august: **Control: AWE** (DLC) <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/control/awe))</sup>
+* 27 august: **Control Ultimate Edition** <sup>([Steam](https://store.steampowered.com/app/870780/Control_Ultimate_Edition/), [gog.com](https://www.gog.com/game/control_ultimate_edition))</sup>
+* 27 august: **Tell Me Why: Chapter 1** <sup>([Steam](https://store.steampowered.com/app/1180660/Tell_Me_Why/))</sup>
+* 27 august: **Struggling** <sup>([Steam](https://store.steampowered.com/app/1035560/Struggling/))</sup>
+* 27 august: **Surgeon Simulator 2** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/surgeon-simulator-2/home))</sup>
+* 28 august: **Madden NFL 21** <sup>([Steam](https://store.steampowered.com/app/1239520/Madden_NFL_21/))</sup>
+* 28 august: **Wasteland 3** <sup>([Steam](https://store.steampowered.com/app/719040/Wasteland_3/), [gog.com](https://www.gog.com/game/wasteland_3))</sup>
+* 28 august: **Project Cars 3** <sup>([Steam](https://store.steampowered.com/app/958400/Project_CARS_3/))</sup>
+* 28 august: **Windbound** <sup>([Steam](https://store.steampowered.com/app/1162130/Windbound/), [gog.com](https://www.gog.com/game/windbound))</sup>
+* 28 august: **Captain Tsubasa: Rise of New Champions** <sup>([Steam](https://store.steampowered.com/app/1163550/Captain_Tsubasa_Rise_of_New_Champions/))</sup>
+
+
+## [30 august - 5 septembrie]({{<relref "/highlights/2020/09/06">}})
+* 1 septembrie: **Crusader Kings III** <sup>([Steam](https://store.steampowered.com/app/1158310/Crusader_Kings_III/))</sup>
+* 2 septembrie: **Raiders Of The Lost Island** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/867980/Raiders_Of_The_Lost_Island/))</sup>
+* 1 septembrie: **Iron Harvest** <sup>([Steam](https://store.steampowered.com/app/826630/Iron_Harvest/), [gog.com](https://www.gog.com/game/iron_harvest))</sup>
+* 3 septembrie: **Spellbreak** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/spellbreak/))</sup>
+* 3 septembrie: **Diabotical** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/diabotical/))</sup>
+* 3 septembrie: **ULTRAKILL (early access)** <sup>([Steam](https://store.steampowered.com/app/1229490/ULTRAKILL/))</sup>
+* 3 septembrie: **Total War: Three Kingdoms – The Furious Wild** <sup>([Steam](https://store.steampowered.com/app/1299591/Total_War_THREE_KINGDOMS__The_Furious_Wild/))</sup>
+* 3 septembrie: **Spinch** <sup>([Steam](https://store.steampowered.com/app/794240/Spinch/), [gog.com](https://www.gog.com/game/spinch))</sup>
+* 4 septembrie: **Tony Hawk's Pro Skater 1+2** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/tony-hawks-pro-skater-1-and-2/))</sup>
+* 4 septembrie: **NBA 2K1** <sup>([Steam](https://store.steampowered.com/app/1225330/NBA_2K21/))</sup>
+* 4 septembrie: **Marvel's Avengers** <sup>([Steam](https://store.steampowered.com/app/997070/Marvels_Avengers/))</sup>
+* 4 septembrie: **Paradise Killer** <sup>([Steam](https://store.steampowered.com/app/1160220/Paradise_Killer/), [gog.com](https://www.gog.com/game/paradise_killer))</sup>
+
+## [6 - 12 septembrie]({{<relref "/highlights/2020/09/13">}})
+* 8 septembrie: **Kingdoms of Amalur: Re-Reckoning** <sup>([Steam](https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/), [Epic Store](https://www.epicgames.com/store/en-US/product/kingdoms-of-amalur-re-reckoning/), [gog.com](https://www.gog.com/game/kingdoms_of_amalur_rereckoning_fate_edition))</sup>
+* 8 septembrie: **Star Renegades** <sup>([Steam](https://store.steampowered.com/app/651670/Star_Renegades/), [gog.com](https://www.gog.com/game/star_renegades))</sup>
+* 8 septembrie: **Necromunda: Underhive Wars** <sup>([Steam](https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/))</sup>
+* 10 septembrie: **Hotshot Racing** <sup>([Steam](https://store.steampowered.com/app/609920/Hotshot_Racing/))</sup>
+* 10 septembrie: **The Unfinished Swan** <sup>([Steam](https://store.steampowered.com/app/1206430/The_Unfinished_Swan/), [Epic Store](https://www.epicgames.com/store/en-US/product/the-unfinished-swan/))</sup>
+* 10 septembrie: **As Far As The Eye** <sup>([Steam](https://store.steampowered.com/app/1119700/As_Far_As_The_Eye/), [Epic Store](https://www.epicgames.com/store/en-US/product/as-far-as-the-eye/), [gog.com](https://www.gog.com/game/as_far_as_the_eye))</sup>
+* 10 septembrie: **A Monster's Expedition** <sup>([Steam](https://store.steampowered.com/app/1052990/A_Monsters_Expedition/))</sup>
+* 10 septembrie: **Disgaea 4 Complete+** <sup>([Steam](https://store.steampowered.com/app/1233880/Disgaea_4_Complete/))</sup>
+* 10 septembrie: **Ostranauts** <sup>([Steam](https://store.steampowered.com/app/1022980/Ostranauts/))</sup>
+* 11 septembrie: **Inertial Drift** <sup>([Steam](https://store.steampowered.com/app/1184480/Inertial_Drift/))</sup>
+
+## [13 - 19 septembrie]({{<relref "/highlights/2020/09/20">}})
+* 15 septembrie: **BPM: Bullets Per Minute** <sup>([Steam](https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/), [gog.com](https://www.gog.com/game/bpm_bullets_per_minute))</sup>
+* 15 septembrie: **eFootball PES 2021** <sup>([Steam](https://store.steampowered.com/app/1259970/eFootball_PES_2021/))</sup>
+* 16 septembrie: **Ragnorium** (early access) <sup>([Steam](https://store.steampowered.com/app/474020/Ragnorium/))</sup>
+* 17 septembrie: **Welcome To Elk** <sup>([Steam](https://store.steampowered.com/app/1015940/Welcome_to_Elk/))</sup>
+* 17 septembrie: **Wingspan** <sup>([Steam](https://store.steampowered.com/app/1054490/Wingspan/))</sup>
+* 17 septembrie: **Hades** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1145360/Hades/), [Epic Store](https://www.epicgames.com/store/en-US/product/hades/))</sup>
+* 18 septembrie: **Crysis Remastered** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/crysis-remastered/))</sup>
+* 18 septembrie: **Phasmophobia** <sup>([Steam](https://store.steampowered.com/app/739630/Phasmophobia/))</sup>
+
+## [20 - 26 septembrie]({{<relref "/highlights/2020/09/27">}})
+* 22 septembrie: **Pendragon** <sup>([Steam](https://store.steampowered.com/app/1240050/Pendragon/), [gog.com](https://www.gog.com/game/pendragon))</sup>
+* 22 septembrie: **Halo 3: ODST** <sup>([Steam](https://store.steampowered.com/app/1064272/Halo_3_ODST/))</sup>
+* 23 septembrie: **Squad** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/393380/Squad/))</sup>
+* 23 septembrie: **Darksburg** <sup>([Steam](https://store.steampowered.com/app/939100/Darksburg/))</sup>
+* 23 septembrie: **UnRailed!** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1016920/Unrailed/))</sup>
+* 23 septembrie: **art of rally** <sup>([Steam](https://store.steampowered.com/app/550320/art_of_rally/), [gog.com](https://www.gog.com/game/art_of_rally))</sup>
+* 24 septembrie: **Serious Sam 4** <sup>([Steam](https://store.steampowered.com/app/257420/Serious_Sam_4/), [gog.com](https://www.gog.com/game/serious_sam_4))</sup>
+* 24 septembrie: **Going Under** <sup>([Steam](https://store.steampowered.com/app/1154810/Going_Under/), [Epic Store](https://www.epicgames.com/store/en-US/product/going-under))</sup>
+* 25 septembrie: **Panzer Dragoon: Remake** <sup>([Steam](https://store.steampowered.com/app/1178880/Panzer_Dragoon_Remake/), [gog.com](https://www.gog.com/game/panzer_dragoon_remake))</sup>
+* 25 septembrie: **Port Royale 4** <sup>([Steam](https://store.steampowered.com/app/1024650/Port_Royale_4/), [Epic Store](https://www.epicgames.com/store/en-US/product/port-royale-4/home))</sup>
+* 25 septembrie: **Mafia: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/))</sup>
+
+## [27 septembrie - 3 octombrie]({{<relref "/highlights/2020/10/04">}})
+* 28 septembrie: **Genshin Impact** <sup>([Site Oficial](https://genshin.mihoyo.com/en))</sup>
+* 29 septembrie: **Spelunky 2** <sup>([Steam](https://store.steampowered.com/app/418530/Spelunky_2/))</sup>
+* 30 septembrie: **Spaceflux** (early access) <sup>([Steam](https://store.steampowered.com/app/1344440/Spaceflux/))</sup>
+* 1 octombrie: **TraptionBakery** <sup>([Steam](https://store.steampowered.com/app/1292100/TraptionBakery/))</sup>
+* 1 octombrie: **Train Station Renovation** <sup>([Steam](https://store.steampowered.com/app/914010/Train_Station_Renovation/))</sup>
+* 1 octombrie: **Drake Hollow** <sup>([Steam](https://store.steampowered.com/app/739650/Drake_Hollow/))</sup>
+* 2 octombrie: **Star Wars: Squadrons** <sup>([Steam](https://store.steampowered.com/app/1222730/STAR_WARS_Squadrons/), [Epic Store](https://www.epicgames.com/store/en-US/product/star-wars-squadrons))</sup>
+
+## [4 - 10 octombrie]({{<relref "/highlights/2020/10/11">}})
+* 6 octombrie: **Baldur’s Gate 3** (early access) <sup>([Steam](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/), [gog.com](https://www.gog.com/game/baldurs_gate_iii))</sup>
+* 6 octombrie: **Hadr** <sup>([Steam](https://store.steampowered.com/app/1359760/Hadr/))</sup>
+* 6 octombrie: **Primordials** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/primordials-of-amyrion/))</sup>
+* 6 octombrie: **Overcrowd: A Commute 'Em Up** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/726110/Overcrowd_A_Commute_Em_Up/))</sup>
+* 6 octombrie: **A Game of Thrones: The Board Game - Digital Edition** <sup>([Steam](https://store.steampowered.com/app/1075190/A_Game_of_Thrones_The_Board_Game__Digital_Edition/))</sup>
+* 6 octombrie: **The Solitaire Conspiracy** <sup>([Steam](https://store.steampowered.com/app/1424980/The_Solitaire_Conspiracy/), [Epic Store](https://www.epicgames.com/store/en-US/product/the-solitaire-conspiracy))</sup>
+* 6 octombrie: **Democracy 4** (early access) <sup>([Steam](https://store.steampowered.com/app/1410710/Democracy_4/), [gog.com](https://www.gog.com/game/democracy_4))</sup>
+* 8 octombrie: **Neighbours back From Hell** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/neighbours-back-from-hell/))</sup>
+* 8 octombrie: **Falcon Age** <sup>([Steam](https://store.steampowered.com/app/1075080/Falcon_Age/))</sup>
+* 8 octombrie: **RIDE 4** <sup>([Steam](https://store.steampowered.com/app/1259980/RIDE_4/))</sup>
+* 8 octombrie: **I Am Dead** <sup>([Steam](https://store.steampowered.com/app/951750/I_Am_Dead/), [Epic Store](https://www.epicgames.com/store/en-US/product/i-am-dead))</sup>
+* 8 octombrie: **Ikenfell** <sup>([Steam](https://store.steampowered.com/app/854940/Ikenfell/), [gog.com](https://www.gog.com/game/ikenfell))</sup>
+* 8 octombrie: **The Uncertain: Light At The End** <sup>([Steam](https://store.steampowered.com/app/925570/The_Uncertain_Light_At_The_End/), [gog.com](https://www.gog.com/game/uncertain_light_at_the_end))</sup>
+* 9 octombrie: **FIFA 21** <sup>([Steam](https://store.steampowered.com/app/1313860/EA_SPORTS_FIFA_21/), [EA Store](https://www.origin.com/gbr/en-us/store/fifa/fifa-21))</sup>
+* 9 octombrie: **The Survivalists** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/897450/The_Survivalists/))</sup>
+
+## [11 - 17 octombrie]({{<relref "/highlights/2020/10/18">}})
+* 12 octombrie: **Cardpocalypse** <sup>([Steam](https://store.steampowered.com/app/904400/Cardpocalypse/), [gog.com](https://www.gog.com/game/cardpocalypse))</sup>
+* 12 octombrie: **Cats Organized Neatly** <sup>([Steam](https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/))</sup>
+* 13 octombrie: **Torchlight III** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1030210/Torchlight_III/))</sup>
+* 13 octombrie: **Remothered: Broken Porcelain** <sup>([Steam](https://store.steampowered.com/app/1142390/Remothered_Broken_Porcelain/), [gog.com](https://www.gog.com/game/remothered_broken_porcelain))</sup>
+* 14 octombrie: **Cook, Serve, Delicious! 3?!** <sup>([Steam](https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/))</sup>
+* 15 octombrie: **Lucifer Within Us** <sup>([Steam](https://store.steampowered.com/app/717560/Lucifer_Within_Us/))</sup>
+* 15 octombrie: **The Jackbox Party Pack 7** <sup>([Steam](https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/), [Epic Store](https://www.epicgames.com/store/en-US/product/jackbox-party-pack-7))</sup>
+* 15 octombrie: **Space Crew** <sup>([Steam](https://store.steampowered.com/app/1176710/Space_Crew/))</sup>
+* 15 octombrie: **The Signifier** <sup>([Steam](https://store.steampowered.com/app/1082930/The_Signifier/), [gog.com](https://www.gog.com/game/the_signifier))</sup>
+* 15 octombrie: **Ring Of Pain** <sup>([Steam](https://store.steampowered.com/app/998740/Ring_of_Pain/), [gog.com](https://www.gog.com/game/ring_of_pain))</sup>
+* 15 octombrie: **Age of Empires III: Definitive Edition** <sup>([Steam](https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/))</sup>
+* 15 octombrie: **Noita** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/881100/Noita/))</sup>
+* 15 octombrie: **Crystal Caves HD** <sup>([Steam](https://store.steampowered.com/app/1330890/Crystal_Caves_HD/), [gog.com](https://www.gog.com/game/crystal_caves_hd))</sup>
+* 15 octombrie: **Raji: An Ancient Epic** <sup>([Steam](https://store.steampowered.com/app/730390/Raji_An_Ancient_Epic/), [Epic Store](https://www.epicgames.com/store/en-US/product/raji-an-ancient-epic))</sup>
+* 15 octombrie: **Vecter** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1175140/Vecter/))</sup>
+* 15 octombrie: **10mg Collection** <sup>([Steam](https://store.steampowered.com/bundle/16287/10mg_Collection/))</sup>
+* 16 octombrie: **9 Monkeys of Shaolin** <sup>([Steam](https://store.steampowered.com/app/739080/9_Monkeys_of_Shaolin/))</sup>
+* 16 octombrie: **Mesmer** <sup>([Steam](https://store.steampowered.com/app/1308760/Mesmer/), [gog.com](https://www.gog.com/game/mesmer))</sup>
+* 16 octombrie: **Aquanox Deep Descent** <sup>([Steam](https://store.steampowered.com/app/254370/Aquanox_Deep_Descent/), [gog.com](https://www.gog.com/game/aquanox_deep_descent))</sup>
+* 16 octombrie: **CrownTrick** <sup>([Steam](https://store.steampowered.com/app/1000010/Crown_Trick/))</sup>
+
+## [18 - 24 octombrie]({{<relref "/highlights/2020/10/25">}})
+* 19 octombrie: **Kine** <sup>([Steam](https://store.steampowered.com/app/824570/Kine/))</sup>
+* 20 octombrie: **Paper Beast - Folded Edition** <sup>([Steam](https://store.steampowered.com/app/1403830/Paper_Beast__Folded_Edition/), [Epic Store](https://www.epicgames.com/store/en-US/product/paper-beast/))</sup>
+* 20 octombrie: **Manifold Garden** (iese din exclusivitate epic) <sup>([Steam](https://store.steampowered.com/app/473950/Manifold_Garden/))</sup>
+* 20 octombrie: **Amnesia: Rebirth** <sup>([Steam](https://store.steampowered.com/app/999220/Amnesia_Rebirth/), [gog.com](https://www.gog.com/game/amnesia_rebirth))</sup>
+* 20 octombrie: **Drone Swarm** <sup>([Steam](https://store.steampowered.com/app/401760/Drone_Swarm/))</sup>
+* 21 octombrie: **LOVE - A Puzzle Box Filled with Stories** <sup>([Steam](https://store.steampowered.com/app/1239490/LOVE__A_Puzzle_Box_Filled_with_Stories/))</sup>
+* 22 octombrie: **Ezaron Defense** <sup>([Steam](https://store.steampowered.com/app/1097750/Ezaron_Defense/))</sup>
+* 21 octombrie: **ScourgeBringer** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1037020/ScourgeBringer/), [gog.com](https://www.gog.com/game/scourgebringer))</sup>
+* 22 octombrie: **Rogue** <sup>([Steam](https://store.steampowered.com/app/1443430/Rogue/))</sup>
+* 22 octombrie: **DwarfHeim** (early access) <sup>([Steam](https://store.steampowered.com/app/977650/DwarfHeim/))</sup>
+* 22 octombrie: **Gonner2** <sup>([Steam](https://store.steampowered.com/app/1117670/GONNER2/), [gog.com](https://www.gog.com/game/gonner2))</sup>
+* 22 octombrie: **Afterparty** <sup>([Steam](https://store.steampowered.com/app/762220/Afterparty/), [gog.com](https://www.gog.com/game/afterparty))</sup>
+* 22 octombrie: **Asterix & Obelix XXL: Romastered** <sup>([Steam](https://store.steampowered.com/app/1261520/Asterix__Obelix_XXL_Romastered/), [gog.com](https://www.gog.com/game/asterix_obelix_xxl_romastered))</sup>
+* 22 octombrie: **Surviving the Aftermath** (early access) <sup>([Steam](https://store.steampowered.com/app/684450/Surviving_the_Aftermath/))</sup>
+* 22 octombrie: **The Red Lantern** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/the-red-lantern/))</sup>
+* 22 octombrie: **Disc Room** <sup>([Steam](https://store.steampowered.com/app/1229580/Disc_Room/), [gog.com](https://www.gog.com/game/disc_room), [Epic Store](https://www.epicgames.com/store/en-US/product/disc-room/))</sup>
+* 22 octombrie: **The Equinox Hunt** <sup>([Steam](https://store.steampowered.com/app/1154300/The_Equinox_Hunt/))</sup>
+* 23 octombrie: **Monster Prom 2: Monster Camp** <sup>([Steam](https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/), [gog.com](https://www.gog.com/game/monster_prom_2_monster_camp))</sup>
+* 23 octombrie: **Penko Park** <sup>([Steam](https://store.steampowered.com/app/852090/Penko_Park/))</sup>
+* 23 octombrie: **The Outer Worlds** (iese din exclusivitate epic) <sup>([Steam](https://store.steampowered.com/app/578650/The_Outer_Worlds/), [gog.com](https://www.gog.com/game/the_outer_worlds))</sup>
+* 23 octombrie: **Leisure Suit Larry - Wet Dreams Dry Twice** <sup>([gog.com](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dry_twice))</sup>
+* 23 octombrie: **Pumpkin Jack** <sup>([Steam](https://store.steampowered.com/app/1186640/Pumpkin_Jack/), [gog.com](https://www.gog.com/game/pumpkin_jack))</sup>
