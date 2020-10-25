@@ -30,8 +30,10 @@ _(fără știri relevante)_
 ## Anunţuri şi lansări de jocuri
 ### Lansate
 * 12 octombrie: **Cardpocalypse** <sup>([Steam](https://store.steampowered.com/app/904400/Cardpocalypse/), [gog.com](https://www.gog.com/game/cardpocalypse))</sup>
+* 12 octombrie: **Cats Organized Neatly** <sup>([Steam](https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/))</sup>
 * 13 octombrie: **Torchlight III** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1030210/Torchlight_III/))</sup>
 * 13 octombrie: **Remothered: Broken Porcelain** <sup>([Steam](https://store.steampowered.com/app/1142390/Remothered_Broken_Porcelain/), [gog.com](https://www.gog.com/game/remothered_broken_porcelain))</sup>
+* 14 octombrie: **Cook, Serve, Delicious! 3?!** <sup>([Steam](https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/))</sup>
 * 15 octombrie: **Lucifer Within Us** <sup>([Steam](https://store.steampowered.com/app/717560/Lucifer_Within_Us/))</sup>
 * 15 octombrie: **The Jackbox Party Pack 7** <sup>([Steam](https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/), [Epic Store](https://www.epicgames.com/store/en-US/product/jackbox-party-pack-7))</sup>
 * 15 octombrie: **Space Crew** <sup>([Steam](https://store.steampowered.com/app/1176710/Space_Crew/))</sup>
@@ -42,6 +44,8 @@ _(fără știri relevante)_
 * 15 octombrie: **Crystal Caves HD** <sup>([Steam](https://store.steampowered.com/app/1330890/Crystal_Caves_HD/), [gog.com](https://www.gog.com/game/crystal_caves_hd))</sup>
 * 15 octombrie: **Raji: An Ancient Epic** <sup>([Steam](https://store.steampowered.com/app/730390/Raji_An_Ancient_Epic/), [Epic Store](https://www.epicgames.com/store/en-US/product/raji-an-ancient-epic))</sup>
 * 15 octombrie: **Vecter** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1175140/Vecter/))</sup>
+* 15 octombrie: **10mg Collection** <sup>([Steam](https://store.steampowered.com/bundle/16287/10mg_Collection/))</sup>
 * 16 octombrie: **9 Monkeys of Shaolin** <sup>([Steam](https://store.steampowered.com/app/739080/9_Monkeys_of_Shaolin/))</sup>
 * 16 octombrie: **Mesmer** <sup>([Steam](https://store.steampowered.com/app/1308760/Mesmer/), [gog.com](https://www.gog.com/game/mesmer))</sup>
 * 16 octombrie: **Aquanox Deep Descent** <sup>([Steam](https://store.steampowered.com/app/254370/Aquanox_Deep_Descent/), [gog.com](https://www.gog.com/game/aquanox_deep_descent))</sup>
+* 16 octombrie: **CrownTrick** <sup>([Steam](https://store.steampowered.com/app/1000010/Crown_Trick/))</sup>

@@ -176,6 +176,7 @@ Mai multe evenimente digitale avut loc în această săptămână:
 * 17 septembrie: **Wingspan** <sup>([Steam](https://store.steampowered.com/app/1054490/Wingspan/))</sup>
 * 17 septembrie: **Hades** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1145360/Hades/), [Epic Store](https://www.epicgames.com/store/en-US/product/hades/))</sup>
 * 18 septembrie: **Crysis Remastered** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/crysis-remastered/))</sup>
+* 18 septembrie: **Phasmophobia** <sup>([Steam](https://store.steampowered.com/app/739630/Phasmophobia/))</sup>
 
 ## Prăvălii de jocuri
 ### Știri
