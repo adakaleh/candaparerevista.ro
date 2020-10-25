@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2020/stiri/</loc>
+    <lastmod>2020-10-25T00:00:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2020/lansari/</loc>
+    <lastmod>2020-10-25T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2020/romania/</loc>
+    <lastmod>2020-10-25T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/2020/10/25/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
@@ -293,16 +313,6 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/highlights/istorie/2020/stiri/</loc>
-    <lastmod>2020-05-03T00:00:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candaparerevista.ro/highlights/istorie/2020/lansari/</loc>
-    <lastmod>2020-05-03T00:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://candaparerevista.ro/highlights/2020/05/03/</loc>
     <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
@@ -429,11 +439,16 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2019/stiri/</loc>
-    <lastmod>2019-12-31T00:00:02+00:00</lastmod>
+    <lastmod>2019-12-31T00:00:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2019/lansari/</loc>
+    <lastmod>2019-12-31T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2019/romania/</loc>
     <lastmod>2019-12-31T00:00:01+00:00</lastmod>
   </url>
   
@@ -934,11 +949,16 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2018/stiri/</loc>
-    <lastmod>2018-12-31T00:00:02+00:00</lastmod>
+    <lastmod>2018-12-31T00:00:03+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2018/lansari/</loc>
+    <lastmod>2018-12-31T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2018/romania/</loc>
     <lastmod>2018-12-31T00:00:01+00:00</lastmod>
   </url>
   
@@ -4982,13 +5002,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5336,7 +5356,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/istorie/</loc>
-    <lastmod>2020-05-03T00:00:02+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8203,7 +8223,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-25T00:00:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
