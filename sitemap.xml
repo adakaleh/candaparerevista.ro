@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/10/review-seria-we-were-here/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2020/stiri/</loc>
     <lastmod>2020-10-25T00:00:03+00:00</lastmod>
   </url>
@@ -7307,7 +7312,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7439,7 +7444,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/quackers/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7751,7 +7756,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8223,7 +8228,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-10-25T00:00:03+00:00</lastmod>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10178,6 +10183,24 @@
   <url>
     <loc>https://candaparerevista.ro/tags/we-should-talk/</loc>
     <lastmod>2020-07-26T00:00:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/we-were-here/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/we-were-here-together/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/we-were-here-too/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

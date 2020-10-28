@@ -6,10 +6,20 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seria We Were Here</title>
+      <link>https://candaparerevista.ro/posts/2020/10/review-seria-we-were-here/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/10/review-seria-we-were-here/</guid>
+      <description>Avea Mark Twain o vorbă, „nu există o metodă mai bună să-ți dai seama dacă îți place sau displace cineva decât să călătorești cu acea persoană”. Ei bine, Mark Twain e învechit și oricum de fapt el și-a pierdut prietenii prin investiții defectuoase. Pentru oamenii prezentului care vor alternative moderne și mai distractive, cea mai bună metodă să-ți dai seama dacă trebuie să pui punct căsniciei cu soția, sau prieteniei cu amicul tău de o viață, este să joci cu ei seria We Were Here.
+WWH e o trilogie care te pune pe ține și încă o persoană în situația de a rezolva varii puzzle-uri într-un mod cooperativ folosind magia prieteniei.</description>
+    </item>
     
     <item>
       <title>Microsoft Flight Simulator</title>
@@ -140,15 +150,6 @@ Grim Dawn e un ARPG, construit pe bătrânul stârv, devenit pentru unii relicv�
       <guid>https://candaparerevista.ro/posts/2020/05/review-in-other-waters/</guid>
       <description>Imaginați-vă dacă Subnautica ar fi un joc text adventure, cu accentul pus pe explorare și descoperire științifică în loc de supraviețuire și tensiune, și vă veți apropia de ceea ce este In Other Waters.
 Din descriere, In Other Waters pare că se adresează direct acelei părți a imaginației mele în care odată găseau teren fertil pasajele din seria Odyssey a lui Arthur C. Clarke, care prezentau viața oceanică primordială de sub gheața Europei, sau descrierile aventurilor din romanele lui Jules Verne, în care protagoniștii descoperă un ținut nou, plin de priveliști nemaivăzute.</description>
-    </item>
-    
-    <item>
-      <title>Total War: Warhammer (I)</title>
-      <link>https://candaparerevista.ro/posts/2020/02/review-total-war-warhammer-1/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/02/review-total-war-warhammer-1/</guid>
-      <description>Ca să nu mai așteptați pînă la Sfîrșitul Vremurilor pentru reviewurile mele, o să încerc să vă scriu din mers despre peripețiile prin Total War: Warhammer. Varianta tl;dr ar fi următoarea: e un joc pentru care s-a depus un efort considerabil pe partea de prezentare (cu cîteva fisuri jenante și acolo, între noi fie vorba), dar din păcate este umbrit de mecanici cel puțin discutabile, ca să nu spun de-a dreptul tîmpite. Prețul pentru patricieni e complet nejustificat, iar dacă nu avea atîtea mărci grele in spate probabil că ar fi primit scoruri mult mai proaste prin diverse analize.</description>
     </item>
     
   </channel>
