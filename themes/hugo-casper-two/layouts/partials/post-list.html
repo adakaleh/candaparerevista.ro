@@ -30,8 +30,18 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
 
   {{ $customCardColor := cond (isset .Params "cardcolor") .Params.cardColor "" }}
 
-  <article class="post-card {{.Type}} {{ $firstCardCssClass }} {{ $noImageCssClass }}" style="background: {{ $customCardColor | safeCSS }}">
-      {{ if and $isNotBlogCard (ne .Params.hideImage true) }}
+  {{$notBlogAndDoesntHideImage := eq (and $isNotBlogCard (ne .Params.hideImage true)) true }}
+
+  {{$isFeatured := eq .Params.featured true}}
+  {{$featureImage := cond (eq $isFirstCardFirstPage true) (.Resources.GetMatch "feature-image") (.Resources.GetMatch "card-cover-image")}}
+
+  {{ if (and $isFeatured $featureImage) }}
+      <!-- ----- Featured card are clasa proprie, cu imaginea featured (doar pentru primul card) sub un gradient negru si fara excerpt ----- -->
+      <article class="post-card {{.Type}} {{ $firstCardCssClass }} featured" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.8)), url({{$featureImage.Permalink}})">
+  {{ else }}
+      <article class="post-card {{.Type}} {{ $firstCardCssClass }} {{ $noImageCssClass }}" {{if (ne $customCardColor "")}} style="background: {{ $customCardColor | safeCSS }}" {{end}}>
+
+        {{ if $notBlogAndDoesntHideImage }}
           <!-- ----- Imagine card ----- -->
           <!-- o afisam doar pentru posturile normale ("post") nu pentru "blog" -->
           {{if .Params.image}}
@@ -57,13 +67,14 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
             <a class="post-card-image-link" href="{{ .Permalink }}">
               <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
             </a>
-          {{end}}
-
-      {{ end }}
+          {{end}}   <!-- end if imagini -->
+      {{ end }}  <!-- end if $notBlogAndDoesntHideImage -->
+  {{ end }} <!-- end if $isFeatured -->
 
       <!-- ----- Conţinut card ----- -->
       <div class="post-card-content">
         <a class="post-card-content-link" href="{{ .Permalink }}">
+            <!-- ----- Categorii, titlu, subtitlu ----- -->
             <header class="post-card-header">
                 {{with .Params.categories }}
                     <!-- luam prima categorie din articol si, daca are definitie in Site Data,
@@ -87,19 +98,22 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
                 <h2 class="post-card-title">{{.Title}}</h2>
                 {{with .Params.subtitle}}<span class="post-card-subtitle">{{.}}</span>{{end}}
             </header>
-            {{ if ne .Params.hideDescription true }}
-            <section class="post-card-excerpt">
-              <!-- pentru cardurile de blog vrem sa vedem mai mult text, pentru ca n-au imagine, asa ca facem clamp dublu,
-              cu exceptia primului card de pe prima pagina, unde nu facem clamp deloc si va ramane limita din config -->
-              {{ $clampCssClass := cond (and $isNotBlogCard $isNotFirstCardHomePage) "js-text-clamp" (cond $isNotFirstCardHomePage "js-text-clamp-double" "") }}
-                <p class="{{ $clampCssClass }}">
-                {{ if .Description }}
-                  {{ .Description | markdownify }}
-                {{ else}}
-                      {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
-                {{ end}}
-              </p>
-            </section>
+
+            <!-- ----- Excerpt articol ----- -->
+            <!-- nu afisam extras pentru cardurile 'featured' sau pentru cele cu hideDescription -->
+            {{ if (and (ne $isFeatured true) (ne .Params.hideDescription true)) }}
+                <section class="post-card-excerpt">
+                  <!-- pentru cardurile de blog vrem sa vedem mai mult text, pentru ca n-au imagine, asa ca facem clamp dublu,
+                  cu exceptia primului card de pe prima pagina, unde nu facem clamp deloc si va ramane limita din config -->
+                  {{ $clampCssClass := cond (and $isNotBlogCard $isNotFirstCardHomePage) "js-text-clamp" (cond $isNotFirstCardHomePage "js-text-clamp-double" "") }}
+                    <p class="{{ $clampCssClass }}">
+                    {{ if .Description }}
+                      {{ .Description | markdownify }}
+                    {{ else}}
+                          {{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}}
+                    {{ end}}
+                  </p>
+                </section>
             {{ end}}
         </a>
 
@@ -117,12 +131,15 @@ de pe home page, dar sa fie afisate normal atunci cand afisam posturile in categ
               </div>
               <div class="post-card-reading-time">
                   {{if .Resources.ByType "audio"}}
-                    <span><svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="32" height="32" viewBox="0 0 75 75">
+                      <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="32" height="32" viewBox="0 0 75 75">
                         <path d="M39.389,13.769 L22.235,28.606 L6,28.606 L6,47.699 L21.989,47.699 L39.389,62.75 L39.389,13.769z" style="stroke:#969696;stroke-width:5;stroke-linejoin:round;fill:#969696;"/>
-                        <path d="M48,27.6a19.5,19.5 0 0 1 0,21.4M55.1,20.5a30,30 0 0 1 0,35.6M61.6,14a38.8,38.8 0 0 1 0,48.6" style="fill:none;stroke:#969696;stroke-width:5;stroke-linecap:round"/></span>
+                        <path d="M48,27.6a19.5,19.5 0 0 1 0,21.4M55.1,20.5a30,30 0 0 1 0,35.6M61.6,14a38.8,38.8 0 0 1 0,48.6" style="fill:none;stroke:#969696;stroke-width:5;stroke-linecap:round"/>
+                      </span>
                   {{end}}
-                  {{.ReadingTime}}</div>
+                  {{.ReadingTime}}
+              </div>
           </footer>
       </div>
   </article>
-{{ end }}
+{{ end }} <!-- end range $paginator.Pages -->
