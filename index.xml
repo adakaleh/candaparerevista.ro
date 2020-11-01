@@ -6,10 +6,21 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 25 - 31 octombrie 2020</title>
+      <link>https://candaparerevista.ro/highlights/2020/11/01/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2020/11/01/</guid>
+      <description>AMD anunță o nouă serie de procesoare grafice care să concureze cu seria 30 de la Nvidia, CD Projekt Red amână din nou Cyberpunk 2077 și are probleme din cauza asta, vom avea serial Assassin&amp;rsquo;s Creed și jocul românesc PositroniX iese din early access.
+Știri  AMD anunță seria de procesoare grafice RX 6000, ce promit performanță comparabilă cu cea a seriei 30xx de la Nvidia, cu prețuri cuprinse între 579 și 999 de dolari. (Ars Technica, Shacknews, PC Gamer, DSOGaming, Polygon)
+ Cyberpunk 2077 a suferit încă o amânare (VideoGamesChronicle, Kotaku, Eurogamer), motiv pentru care unii dintre dezvoltatori au primit amenințări cu moartea (Eurogamer, PC Gamer, The Verge) și, totodată, acțiunile CD Projekt Red sunt la minimul ultimelor două luni, scăzând cu 25% din luna august pe fondul incertitudinilor legate de lansarea jocului.</description>
+    </item>
     
     <item>
       <title>Seria We Were Here</title>
@@ -60,10 +71,10 @@ WWH e o trilogie care te pune pe ține și încă o persoană în situația de a
     
     <item>
       <title>Microsoft Flight Simulator</title>
-      <link>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</link>
+      <link>https://candaparerevista.ro/posts/2020/10/review-microsoft-flight-simulator/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/posts/2020/review-microsoft-flight-simulator/</guid>
+      <guid>https://candaparerevista.ro/posts/2020/10/review-microsoft-flight-simulator/</guid>
       <description>Luna august a acestui an a marcat lansarea celei mai recente iterații, cea cu numărul 13, din legendara serie Microsoft Flight Simulator, care a debutat în 1982, fiind cu 3 ani mai veche chiar decât prima versiune de Windows. Precedentul titlu din serie, Microsoft Flight Simulator X, s-a lansat în 2006 și a fost foarte apreciat la vremea lui, fiind jucat chiar și până în timpurile noastre, dar nevoia de o actualizare se simțea de mult.
 Microsoft a făcut o mișcare îndrăzneață, încredințând dezvoltarea noului joc unui studio fără experiență în domeniul simulatoarelor.</description>
     </item>
@@ -147,17 +158,6 @@ Linkuri rapide:
       <guid>https://candaparerevista.ro/highlights/2020/09/20/</guid>
       <description>Evenimente importante în această săptămână: Sony a prețul și data de lansare pentru PlayStation 5, ce are același preț cu nou Xbox, Facebook a prezentat un nou dispozitiv VR Oculus ce le înlocuiește pe toate celelalte, Nvidia lansează plăcile 3080, care se epuizează imediat, Unity se listează la bursă, iar EA schimbă numele clientului Origin în EA Access. În plus, conferințele au adus și anunțuri de jocuri noi: titluri noi VR pentru Assassin&amp;rsquo;s Creed, Splinter Cell și Myst, precum și un nou joc God of War pentru PlayStation.
 Linkuri rapide:</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva săptămânii 6 - 12 septembrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/09/13/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/09/13/</guid>
-      <description>Microsoft ne dă prețul și un model mai accesibil pentru următoarea generație Xbox, Ubisoft a ținut o conferință digitală în care CEO-ul a prezentat scuze victimelor abuzurilor din companie, a fost anunțat un remake pentru Prince of Persia: The Sands of Time, Game Pass for PC își dublează prețul, iar Sid Meier și-a publicat memoriile.
-Linkuri rapide:
- Știri Articole (critică, dev, design) Anunțuri şi lansări de jocuri Prăvălii de jocuri  Știri  Microsoft a dezvăluit prețul și data de lansare pentru Xbox Series X: consola va apărea pe piață pe 10 noiembrie la un preț de 499 de dolari&amp;hellip; (Ars Technica, Escapist, Kotaku, PC Gamer, VideoGamesChronicle, GamesIndustry.</description>
     </item>
     
   </channel>
