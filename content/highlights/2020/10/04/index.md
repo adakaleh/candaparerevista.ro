@@ -13,7 +13,6 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
 # articol publicat initial in director cu nume gresit, 10 in loc de 04
 aliases:
-- /highlights/2020/10/10/index.md
 - /highlights/2020/10/10/
 
 resources:

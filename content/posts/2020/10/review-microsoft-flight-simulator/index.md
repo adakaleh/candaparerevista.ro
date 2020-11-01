@@ -13,6 +13,10 @@ sursa:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1864
 
+# articol publicat initial in directorul gresit, '2020', in loc de '2020/10'
+aliases:
+- /posts/2020/review-microsoft-flight-simulator/
+
 resources:
   - src: images/msfs-card.jpg
     name: "card-cover-image"
