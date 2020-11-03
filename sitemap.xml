@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/11/retro-severance/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/11/01/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -4180,7 +4185,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/featured/</loc>
-    <lastmod>2020-09-08T00:00:01+00:00</lastmod>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7317,7 +7322,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7702,6 +7707,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/respawn/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8100,6 +8111,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/severance-blade-of-darkness/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/shadow-tactics/</loc>
     <lastmod>2019-02-17T08:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -8233,7 +8250,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10061,7 +10078,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/waaagh/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
