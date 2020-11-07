@@ -51,3 +51,4 @@ AMD anunță o nouă serie de procesoare grafice care să concureze cu seria 30 
 * 29 octombrie: **Pacer** <sup>([Steam](https://store.steampowered.com/app/389670/Pacer/))</sup>
 * 29 octombrie: **Stirring Abyss** <sup>([Steam](https://store.steampowered.com/app/1178210/Stirring_Abyss/), [gog.com](https://www.gog.com/game/stirring_abyss))</sup>
 * 30 octombrie: **The Dark Pictures Anthology: Little Hope** <sup>([Steam](https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/))</sup>
+* 31 octombrie: **Sector's Edge** (early access) <sup>([Steam](https://store.steampowered.com/app/1024890/Sectors_Edge/))</sup>
