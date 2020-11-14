@@ -40,5 +40,6 @@ Hackerii lovesc în Capcom și Ubisoft, Take-Two vrea să cumpere Codemasters, G
 * 5 noiembrie: **Dirt 5** <sup>([Steam](https://store.steampowered.com/app/1038250/DIRT_5/))</sup>
 * 5 noiembrie: **Chicken Police** <sup>([Steam](https://store.steampowered.com/app/1084640/Chicken_Police/), [gog.com](https://www.gog.com/game/chicken_police))</sup>
 * 5 noiembrie: **Superliminal** <sup>([Steam](https://store.steampowered.com/app/1049410/Superliminal/), [gog.com](https://www.gog.com/game/superliminal))</sup>
+* 5 noiembrie: **Kosmokrats** <sup>([Steam](https://store.steampowered.com/app/1204410/Kosmokrats/), [gog.com](https://www.gog.com/game/kosmokrats))</sup>
 * 6 noiembrie: **From the Depths** <sup>([Steam](https://store.steampowered.com/app/268650/From_the_Depths/))</sup>
 * 6 noiembrie: **Need for Speed Hot Pursuit Remastered** <sup>([Steam](https://store.steampowered.com/app/1328660/Need_for_Speed_Hot_Pursuit_Remastered/), [Origin](https://www.origin.com/gbr/en-us/store/need-for-speed/need-for-speed-hot-pursuit-remastered))</sup>
