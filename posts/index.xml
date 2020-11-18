@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Metamorphosis</title>
+      <link>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</guid>
+      <description>„O aventură suprarealistă inspirată din strania imaginație a lui Franz Kafka. Intră în rolul lui Gregor Samsa, transformat într-o mică insectă&amp;hellip;”, spune curajos descrierea jocului. Și te uiți la trailer, te uiți la screenshots și te gândești… da, acesta pare să fie un joc bazat pe lucrările lui Kafka.
+Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și singura. Motivul transformării din om în insectă servește ca premisă a jocului, dar restul poveștii împrumută elemente din Procesul (Der Process) și, într-o măsură mai mică, din Castelul (Das Schloss).</description>
+    </item>
     
     <item>
       <title>Severance: Blade of Darkness</title>
@@ -142,15 +152,6 @@ City of Brass Am încercat și un joc gratis de la Epic, de ce nu (dar îl găsi
       
       <guid>https://candaparerevista.ro/posts/2020/08/review-pathologic-2/</guid>
       <description>Acum un an de zile, în pragul unei veri toride și neamenințate de crize globale, Pathologic 2 îmbolnăvea piața jocurilor survival-horror cu o tăcere aproape profetică. De-ar fi știut lumea ce urmează, jocul probabil s-ar fi cumpărat înmiit. Un veritabil manual de pregătire în caz de pandemie, Pathologic 2 ne ajută nu doar să facem stocurile de făină și Plaquenil din timp, ci - mai important - ne forțează să acceptăm disconfortul ca fiind inevitabil, alegerile ca o necesitate vitală, tragicul ca pe o problema de perspectivă, și - nu în cele din urmă - jocurile video drept un mediu artistic pe deplin realizabil in sine.</description>
-    </item>
-    
-    <item>
-      <title>Pathfinder: Kingmaker</title>
-      <link>https://candaparerevista.ro/posts/2020/08/review-pathfinder-kingmaker/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/08/review-pathfinder-kingmaker/</guid>
-      <description>Mă mai apucă nostalgia câteodată și intru pe Mobygames, apăs pe butonul care îți afișează aleatoriu un joc, apoi mă uit prin poze. Ocazional dau de titluri pe care le știu, am trecut prin ele, iar simpla privire la câteva poze mă face să-mi amintesc coloana sonoră, poate un intro cinematic sau chiar sentimentele de entuziasm și împlinire pe care le-am avut, pe rând, când am început jocul și când am început cu adevărat să mă joc. Știți toți sentimentul acela specific, când te-ai familiarizat cu interfața și regulile, și părea că te jucai dintotdeauna.</description>
     </item>
     
   </channel>

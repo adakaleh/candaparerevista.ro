@@ -6,10 +6,20 @@
     <description>Recent content in Cristan on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/authors/cristan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Metamorphosis</title>
+      <link>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</guid>
+      <description>„O aventură suprarealistă inspirată din strania imaginație a lui Franz Kafka. Intră în rolul lui Gregor Samsa, transformat într-o mică insectă&amp;hellip;”, spune curajos descrierea jocului. Și te uiți la trailer, te uiți la screenshots și te gândești… da, acesta pare să fie un joc bazat pe lucrările lui Kafka.
+Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și singura. Motivul transformării din om în insectă servește ca premisă a jocului, dar restul poveștii împrumută elemente din Procesul (Der Process) și, într-o măsură mai mică, din Castelul (Das Schloss).</description>
+    </item>
     
     <item>
       <title>City of Brass / Horizon Chase Turbo / Tokyo 42</title>
@@ -147,16 +157,6 @@ Heist este al treilea joc SteamWorld, după SteamWorld Dig și SteamWorld Dig 2,
       <guid>https://candaparerevista.ro/posts/2018/11/recomandare-superflight-cristan/</guid>
       <description>Superflight este un „simulator” de costum cu aripă (wingsuit), care te lasă să zbori în voie în jurul unor stânci colorate. Nu este un simulator adevărat, dar redă foarte bine senzația de zbor și viteză și, în plus, poți zbura la nesfârșit.
 Grafica e simplă și colțuroasă, după cum veți vedea, este absolut suficientă, iar paleta de culori și lumina creează o atmosferă foarte plăcută. Nivelurile sunt generate aleatoriu, iar în fiecare nivel se găsesc portaluri către alte niveluri, putând schimba astfel peisajul și, practic, se poate zbura la nesfârșit. Jocul îți acordă puncte și bonusuri în funcție de cât de aproape (și cât timp) zbori față de stânci, astfel că jocul poate fi abordat fie într-o manieră competitivă, pentru a aduna puncte, fie într-o manieră relaxantă, bucurându-te de zbor și trecând de la o hartă la alta, ambele modalități fiind satisfăcătoare în egală măsură.</description>
-    </item>
-    
-    <item>
-      <title>From Dust</title>
-      <link>https://candaparerevista.ro/posts/2018/11/recomandare-from-dust-cristan/</link>
-      <pubDate>Sun, 04 Nov 2018 10:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/11/recomandare-from-dust-cristan/</guid>
-      <description>Nu vă mai aduceți aminte bine, dar From Dust e un simulator de natură. Nu este un god game cum poate credeați, nu e un succesor al lui Populous, nu „tragi cu magii”, nimic de genul ăsta. Nu, pur și simplu este o cutiuță cu „natură”, în care te joci cu elementele primordiale.
-Pentru cine nu știe nimic despre acest joc, From Dust este, în esență, un puzzle game lansat în 2011 de Ubisoft, cu niveluri din ce în ce mai provocatoare, în care trebuie să te folosești de elementele naturii pentru a ghida un trib de omuleți într-o lume sălbatică, primordială, și a-i feri de stihiile naturii.</description>
     </item>
     
   </channel>

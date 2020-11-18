@@ -6,10 +6,20 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Metamorphosis</title>
+      <link>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</guid>
+      <description>„O aventură suprarealistă inspirată din strania imaginație a lui Franz Kafka. Intră în rolul lui Gregor Samsa, transformat într-o mică insectă&amp;hellip;”, spune curajos descrierea jocului. Și te uiți la trailer, te uiți la screenshots și te gândești… da, acesta pare să fie un joc bazat pe lucrările lui Kafka.
+Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și singura. Motivul transformării din om în insectă servește ca premisă a jocului, dar restul poveștii împrumută elemente din Procesul (Der Process) și, într-o măsură mai mică, din Castelul (Das Schloss).</description>
+    </item>
     
     <item>
       <title>Seria We Were Here</title>
@@ -140,16 +150,6 @@ Grim Dawn e un ARPG, construit pe bătrânul stârv, devenit pentru unii relicv�
       
       <guid>https://candaparerevista.ro/posts/2020/06/review-streets-rage-4/</guid>
       <description>Genul beat&amp;rsquo;em up o să aibă mereu un șarm juvenil și irezistibil pentru mine. Se trage din lucrurile mărunte care-i alcătuiesc convențiile, precum expresiile comice ale inamicilor burdușiți cu pumni în freză, sau felul în care aceștia cad dramatic și pâlpâie înainte să dispară de tot, ori semnul proeminent de GO! când scena curentă a fost „curățată”, boșii neiertători și câte și mai câte. Nostalgia joacă un rol hotărâtor pentru această fascinație, cu toate că noi, est europenii în general, am avut o expunere mai mică la genul ăsta de jocuri.</description>
-    </item>
-    
-    <item>
-      <title>In Other Waters</title>
-      <link>https://candaparerevista.ro/posts/2020/05/review-in-other-waters/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/05/review-in-other-waters/</guid>
-      <description>Imaginați-vă dacă Subnautica ar fi un joc text adventure, cu accentul pus pe explorare și descoperire științifică în loc de supraviețuire și tensiune, și vă veți apropia de ceea ce este In Other Waters.
-Din descriere, In Other Waters pare că se adresează direct acelei părți a imaginației mele în care odată găseau teren fertil pasajele din seria Odyssey a lui Arthur C. Clarke, care prezentau viața oceanică primordială de sub gheața Europei, sau descrierile aventurilor din romanele lui Jules Verne, în care protagoniștii descoperă un ținut nou, plin de priveliști nemaivăzute.</description>
     </item>
     
   </channel>
