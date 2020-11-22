@@ -47,3 +47,4 @@ description: "Luare de ostatici falsă la Ubisoft Montreal, Take-Two a cumpărat
 * 12 noiembrie: **Godfall** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/godfall/))</sup>
 * 12 noiembrie: **Warhammer 40,000: Gladius – Relics of War** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/warhammer-40000-gladius-relics-of-war/))</sup>
 * 13 noiembrie: **Strategic Mind: Spectre of Communism** <sup>([Steam](https://store.steampowered.com/app/1341170/Strategic_Mind_Spectre_of_Communism/), [gog.com](https://www.gog.com/game/strategic_mind_spectre_of_communism))</sup>
+* 13 noiembrie: **Call of Duty: Black Ops Cold War** <sup>([Battle.net Store](https://eu.shop.battle.net/en-us/product/call-of-duty-black-ops-cold-war?p=73929))</sup>
