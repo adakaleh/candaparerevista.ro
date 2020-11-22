@@ -1,7 +1,7 @@
 ---
 title: "Mini-Retrospectiva săptămânii 15 - 21 noiembrie 2020"
 type: post
-date: 2020-11-21
+date: 2020-11-22
 categories:
     - Highlights
 
@@ -10,7 +10,7 @@ hideOnHome: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-description: "Luare de ostatici falsă la Ubisoft Montreal, Take-Two a cumpărat Codemasters, filmul Mortal Kombat se suspendă și EA are un nou proces din cauza microtranzacțiilor."
+description: "Apple reduce comisionul (dar nu și pentru Epic), au fost anunțate nominalizările pentru The Game Awards, vom avea și un film Tetris iar Bucharest Gaming Week aduce mai multe panels cu discuții interesante și lansarea unui site dedicat părinților de gameri."
 
 ---
 
