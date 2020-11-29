@@ -36,5 +36,6 @@ description: "Apple reduce comisionul (dar nu și pentru Epic), au fost anunțat
 * 16 noiembrie: **Phantom Brigade** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/phantom-brigade/))</sup>
 * 19 noiembrie: **Shenmue III** (iese din exclusivitate Epic Store) <sup>([Steam](https://store.steampowered.com/app/878670/Shenmue_III/), [gog.com](https://www.gog.com/game/shenmue_iii_deluxe_edition))</sup>
 * 19 noiembrie: **Bridge Constructor: The Walking Dead** <sup>([Steam](https://store.steampowered.com/app/1336120/Bridge_Constructor_The_Walking_Dead/), [gog.com](https://www.gog.com/game/bridge_constructor_the_walking_dead), [Epic Store](https://www.epicgames.com/store/en-US/product/bridge-constructor-the-walking-dead/home))</sup>
+* 19 noiembrie: **Tukoni** <sup>([Steam](https://store.steampowered.com/app/1419860/Tukoni/))</sup>
 * 20 noiembrie: **BloodRayne: Terminal Cut** <sup>([Steam](https://store.steampowered.com/app/1373510/BloodRayne_Terminal_Cut/), [gog.com](https://www.gog.com/game/bloodrayne_terminal_cut))</sup>
 * 20 noiembrie: **BloodRayne 2: Terminal Cut** <sup>([Steam](https://store.steampowered.com/app/1373550/BloodRayne_2_Terminal_Cut/), [gog.com](https://www.gog.com/game/bloodrayne2_terminal_cut))</sup>
