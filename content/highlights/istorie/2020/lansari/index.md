@@ -2,7 +2,7 @@
 title: "2020: Retrospectiva Retrospectivelor"
 subtitle: "Calendarul Lansărilor"
 type: post
-date: 2020-10-25T00:00:02
+date: 2020-11-29T00:00:02
 categories:
     - Highlights
     - Istorie
@@ -94,6 +94,7 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 25 februarie: **Dota Underlords** a ieșit din early access <sup>([Steam](https://store.steampowered.com/app/1046930/Dota_Underlords/))</sup>
 * 25 februarie: **Wasteland Remastered** <sup>([Steam](https://store.steampowered.com/app/875800/Wasteland_Remastered/), [gog.com](https://www.gog.com/game/wasteland_remastered))</sup>
 * 25 februarie: **Broken Lines** <sup>([Steam](https://store.steampowered.com/app/926580/Broken_Lines/), [gog.com](https://www.gog.com/game/broken_lines))</sup>
+* 25 februarie: **Mainframe Defenders** <sup>([Steam](https://store.steampowered.com/app/1184810/Mainframe_Defenders/))</sup>
 * 26 februarie: **Beautiful Desolation** <sup>([Steam](https://store.steampowered.com/app/912570/BEAUTIFUL_DESOLATION/), [gog.com](https://www.gog.com/game/beautiful_desolation))</sup>
 * 26 februarie: **Warlander** <sup>([Steam](https://store.steampowered.com/app/1054040/Warlander/))</sup>
 * 27 februarie: **Overpass** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/overpass/home))</sup>
@@ -531,3 +532,54 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 23 octombrie: **The Outer Worlds** (iese din exclusivitate epic) <sup>([Steam](https://store.steampowered.com/app/578650/The_Outer_Worlds/), [gog.com](https://www.gog.com/game/the_outer_worlds))</sup>
 * 23 octombrie: **Leisure Suit Larry - Wet Dreams Dry Twice** <sup>([gog.com](https://www.gog.com/game/leisure_suit_larry_wet_dreams_dry_twice))</sup>
 * 23 octombrie: **Pumpkin Jack** <sup>([Steam](https://store.steampowered.com/app/1186640/Pumpkin_Jack/), [gog.com](https://www.gog.com/game/pumpkin_jack))</sup>
+## [25 - 31 octombrie]({{<relref "/highlights/2020/11/01">}})
+* 27 octombrie: **Ghostrunner** <sup>([Steam](https://store.steampowered.com/app/1139900/Ghostrunner/), [gog.com](https://www.gog.com/game/ghostrunner))</sup>
+* 27 octombrie: **Carto** <sup>([Steam](https://store.steampowered.com/app/1172450/Carto/), [gog.com](https://www.gog.com/game/carto))</sup>
+* 27 octombrie: **Due Process** (early access) <sup>([Steam](https://store.steampowered.com/app/753650/Due_Process/))</sup>
+* 27 octombrie: **Hammerting** (early access) <sup>([Steam](https://store.steampowered.com/app/760650/Hammerting/))</sup>
+* 28 octombrie: **AGOS - A Game Of Space** <sup>([Steam](https://store.steampowered.com/app/1392700/AGOS__A_Game_Of_Space/))</sup>
+* 28 octombrie: **Auto Chess** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/auto-chess/))</sup>
+* 28 octombrie: **Transient** <sup>([Steam](https://store.steampowered.com/app/962630/Transient/), [gog.com](https://www.gog.com/game/transient))</sup>
+* 29 octombrie: **Watch Dogs: Legion** <sup>([Ubi Store](https://store.ubi.com/ie/watch-dogs-legion-standard-edition/5ced3b5c39798c0870c0769e.html), [Epic Store](https://www.epicgames.com/store/en-US/product/watch-dogs-legion/))</sup>
+* 29 octombrie: **PositronX** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/529970/PositronX/), [gog.com](https://www.gog.com/game/positronx))</sup>
+* 29 octombrie: **Pacer** <sup>([Steam](https://store.steampowered.com/app/389670/Pacer/))</sup>
+* 29 octombrie: **Stirring Abyss** <sup>([Steam](https://store.steampowered.com/app/1178210/Stirring_Abyss/), [gog.com](https://www.gog.com/game/stirring_abyss))</sup>
+* 30 octombrie: **The Dark Pictures Anthology: Little Hope** <sup>([Steam](https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/))</sup>
+* 31 octombrie: **Sector's Edge** (early access) <sup>([Steam](https://store.steampowered.com/app/1024890/Sectors_Edge/))</sup>
+## [1 - 7 noiembrie]({{<relref "/highlights/2020/11/08">}})
+* 3 noiembrie: **Door Kickers 2: Task Force North** (early access) <sup>([Steam](https://store.steampowered.com/app/1239080/Door_Kickers_2_Task_Force_North/))</sup>
+* 5 noiembrie: **YesterMorrow** <sup>([Steam](https://store.steampowered.com/app/1210490/YesterMorrow/), [gog.com](https://www.gog.com/game/yestermorrow))</sup>
+* 5 noiembrie: **Möbius Front '83** <sup>([Steam](https://store.steampowered.com/app/971160/Mbius_Front_83/))</sup>
+* 5 noiembrie: **Dirt 5** <sup>([Steam](https://store.steampowered.com/app/1038250/DIRT_5/))</sup>
+* 5 noiembrie: **Chicken Police** <sup>([Steam](https://store.steampowered.com/app/1084640/Chicken_Police/), [gog.com](https://www.gog.com/game/chicken_police))</sup>
+* 5 noiembrie: **Superliminal** <sup>([Steam](https://store.steampowered.com/app/1049410/Superliminal/), [gog.com](https://www.gog.com/game/superliminal))</sup>
+* 5 noiembrie: **Kosmokrats** <sup>([Steam](https://store.steampowered.com/app/1204410/Kosmokrats/), [gog.com](https://www.gog.com/game/kosmokrats))</sup>
+* 6 noiembrie: **From the Depths** <sup>([Steam](https://store.steampowered.com/app/268650/From_the_Depths/))</sup>
+* 6 noiembrie: **Need for Speed Hot Pursuit Remastered** <sup>([Steam](https://store.steampowered.com/app/1328660/Need_for_Speed_Hot_Pursuit_Remastered/), [Origin](https://www.origin.com/gbr/en-us/store/need-for-speed/need-for-speed-hot-pursuit-remastered))</sup>
+## [8 - 14 noiembrie]({{<relref "/highlights/2020/11/15">}})
+* 9 noiembrie: **Prodeus** <sup>([Steam](https://store.steampowered.com/app/964800/Prodeus/), [gog.com](https://www.gog.com/game/prodeus))</sup>
+* 10 noiembrie: **Assassin's Creed Valhalla** <sup>([Ubi Store](https://store.ubi.com/ie/game?pid=5e849c6c5cdf9a21c0b4e731), [Epic Store](https://www.epicgames.com/store/en-US/product/assassins-creed-valhalla/))</sup>
+* 10 noiembrie: **XIII** <sup>([Steam](https://store.steampowered.com/app/1154790/XIII/), [gog.com](https://www.gog.com/game/xiii_remake))</sup>
+* 10 noiembrie: **Fuser** <sup>([Steam](https://store.steampowered.com/app/1331440/FUSER/))</sup>
+* 10 noiembrie: **The Falconeer** <sup>([Steam](https://store.steampowered.com/app/1135260/The_Falconeer/), [gog.com](https://www.gog.com/game/the_falconeer))</sup>
+* 10 noiembrie: **Yakuza: Like a Dragon** <sup>([Steam](https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/))</sup>
+* 10 noiembrie: **Destiny 2: Beyond Light** <sup>([Steam](https://store.steampowered.com/app/1314563/Destiny_2_Beyond_Light/))</sup>
+* 10 noiembrie: **Sakuna: Of Rice and Ruin** <sup>([Steam](https://store.steampowered.com/app/1356670/Sakuna_Of_Rice_and_Ruin/))</sup>
+* 10 noiembrie: **Observer: System Redux** <sup>([Steam](https://store.steampowered.com/app/1386900/Observer_System_Redux/), [gog.com](https://www.gog.com/game/observer_system_redux))</sup>
+* 12 noiembrie: **Bugsnax** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/bugsnax/))</sup>
+* 12 noiembrie: **The Pathless** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/the-pathless))</sup>
+* 12 noiembrie: **Godfall** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/godfall/))</sup>
+* 12 noiembrie: **Warhammer 40,000: Gladius – Relics of War** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/warhammer-40000-gladius-relics-of-war/))</sup>
+* 13 noiembrie: **Strategic Mind: Spectre of Communism** <sup>([Steam](https://store.steampowered.com/app/1341170/Strategic_Mind_Spectre_of_Communism/), [gog.com](https://www.gog.com/game/strategic_mind_spectre_of_communism))</sup>
+* 13 noiembrie: **Call of Duty: Black Ops Cold War** <sup>([Battle.net Store](https://eu.shop.battle.net/en-us/product/call-of-duty-black-ops-cold-war?p=73929))</sup>
+## [15 - 21 noiembrie]({{<relref "/highlights/2020/11/22">}})
+* 16 noiembrie: **Phantom Brigade** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/phantom-brigade/))</sup>
+* 19 noiembrie: **Shenmue III** (iese din exclusivitate Epic Store) <sup>([Steam](https://store.steampowered.com/app/878670/Shenmue_III/), [gog.com](https://www.gog.com/game/shenmue_iii_deluxe_edition))</sup>
+* 19 noiembrie: **Bridge Constructor: The Walking Dead** <sup>([Steam](https://store.steampowered.com/app/1336120/Bridge_Constructor_The_Walking_Dead/), [gog.com](https://www.gog.com/game/bridge_constructor_the_walking_dead), [Epic Store](https://www.epicgames.com/store/en-US/product/bridge-constructor-the-walking-dead/home))</sup>
+* 19 noiembrie: **Tukoni** <sup>([Steam](https://store.steampowered.com/app/1419860/Tukoni/))</sup>
+* 20 noiembrie: **BloodRayne: Terminal Cut** <sup>([Steam](https://store.steampowered.com/app/1373510/BloodRayne_Terminal_Cut/), [gog.com](https://www.gog.com/game/bloodrayne_terminal_cut))</sup>
+* 20 noiembrie: **BloodRayne 2: Terminal Cut** <sup>([Steam](https://store.steampowered.com/app/1373550/BloodRayne_2_Terminal_Cut/), [gog.com](https://www.gog.com/game/bloodrayne2_terminal_cut))</sup>
+## [22 - 28 noiembrie]({{<relref "/highlights/2020/11/29">}})
+* 23 noiembrie: **World of Warcraft: Shadowlands** <sup>([Battle.net Shop](https://eu.shop.battle.net/en-us/product/world-of-warcraft-shadowlands))</sup>
+* 24 noiembrie: **Football Manager 2021** <sup>([Steam](https://store.steampowered.com/app/1263850/Football_Manager_2021/))</sup>
+* 27 noiembrie: **From the Shadows** <sup>([Steam](https://store.steampowered.com/app/1427210/From_the_Shadows/))</sup>

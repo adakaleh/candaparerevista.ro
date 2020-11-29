@@ -2,7 +2,7 @@
 title: "2020: Retrospectiva Retrospectivelor"
 subtitle: "Made în România"
 type: post
-date: 2020-10-25T00:00:01
+date: 2020-11-29T00:00:01
 categories:
     - Highlights
     - Istorie
@@ -126,3 +126,30 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * MicroProse va publica jocul **Urban Strife** al celor de la White Pond Games. <sup>([Facebook Urban Strife](https://www.facebook.com/urbanstrifegame/posts/4535067853231605), [PC Gamer](https://www.pcgamer.com/urban-strife-sounds-like-jagged-alliance-2-but-its-infested-with-zombies/))</sup>
 * Cu această ocazie, PC Gamer a publicat și un preview al jocului. <sup>([PC Gamer](https://www.pcgamer.com/urban-strife-sounds-like-jagged-alliance-2-but-its-infested-with-zombies/))</sup>
 * S-au lansat jocurile **Ezaron Defense** <sup>([Steam](https://store.steampowered.com/app/1097750/Ezaron_Defense/))</sup>, **The Equinox Hunt** <sup>([Steam](https://store.steampowered.com/app/1154300/The_Equinox_Hunt/))</sup> și **7 Bones and 7 Stones - The Ritual**. <sup>([Steam](https://store.steampowered.com/app/712080/7_Bones_and_7_Stones__The_Ritual/))</sup>
+
+## [25 - 31 octombrie]({{<relref "/highlights/2020/11/01">}})
+* Jocul **PositronX** se lansează în varianta finală după 2 ani de _early access_. <sup>([Steam Community](https://steamcommunity.com/games/529970/announcements/detail/2930114451199929345))</sup>
+* [S-a lansat Watch Dogs: Legion! Cum a contribuit Ubisoft București la dezolvarea jocului în care orice personaj e controlabil](https://www.overheat.ro/2020/10/30/s-a-lansat-watch-dogs-legion-cum-a-contribuit-ubisoft-bucuresti-la-dezolvarea-jocului-in-care-orice-personaj-e-controlabil/) <sup>(Overheat)</sup>
+* [INTERVIU Doi români care au lucrat la FIFA 21 îți spun cum se face un astfel de joc](https://playtech.ro/2020/interviu-cum-se-face-fifa-21/) <sup>(Playtech)</sup>
+
+## [1 - 7 noiembrie]({{<relref "/highlights/2020/11/08">}})
+
+* **Door Kickers 2: Task Force North** a avut parte de o lansare-surpriză în _early access_. <sup>([PC Gamer](https://www.pcgamer.com/door-kickers-2-gets-a-surprise-launch-after-fan-demands-release-the-damn-game/), [Eurogamer](https://www.eurogamer.net/articles/2020-11-04-door-kickers-2-surprise-launches-into-steam-early-access))</sup>
+* [O mare parte din jocul FIFA 21 este creată în România](https://mindcraftstories.ro/tehnologie/o-mare-parte-din-jocul-fifa-21-este-creata-in-romania/) <sup>(Mindcraft Stories)</sup>
+* [Jocurile românești au săptămâna lor pe Steam](https://mindcraftstories.ro/cultura/jocurile-romanesti-au-saptamana-lor-pe-steam/) <sup>(Mindcraft Stories)</sup>
+* [Acum și în cifre: jocurile video sunt prea scumpe pentru România](https://mindcraftstories.ro/tehnologie/acum-si-in-cifre-jocurile-video-sunt-prea-scumpe-pentru-romania/) <sup>(Mindcraft Stories)</sup>
+* [Video gaming, o afacere în creștere în pandemie / Rareș: Nu mai pun accent pe calitatea jocului, caut neapărat să fie multi-player / Vreau ca în joc să îmi încarc bateriile sociale](https://www.g4media.ro/video-gaming-o-afacere-in-crestere-in-pandemie-rares-nu-mai-pun-accent-pe-calitatea-jocului-caut-neaparat-sa-fie-multi-player-vreau-ca-in-joc-sa-imi-incarc-bateriile-sociale.html) <sup>(G4Media.ro )</sup>
+
+## [8 - 14 noiembrie]({{<relref "/highlights/2020/11/15">}})
+* Amber deschide un studio nou în Montreal. <sup>([StartupCafe.ro](https://www.startupcafe.ro/afaceri/amber-studio-montreal.htm), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2020-11-11-amber-opens-new-studio-in-montreal))</sup>
+* [Dragoș Preda, MTIC, întâlnire cu dezvoltatorii de jocuri video: &quot;Ne dorim să atingem un nivel de retenție a tinerei generații și a experților care să genereze plus valoare pe piaţa muncii&quot;](https://financialintelligence.ro/dragos-preda-mtic-intalnire-cu-dezvoltatorii-de-jocuri-video-ne-dorim-sa-atingem-un-nivel-de-retentie-a-tinerei-generatii-si-a-expertilor-care-sa-genereze-plus-valoare-pe-piata-muncii/) <sup>(Financial Intelligence)</sup>
+
+
+## [15 - 21 noiembrie]({{<relref "/highlights/2020/11/22">}})
+* Asociaţia Dezvoltatorilor de Jocuri din România (RGDA) lansează site-ul [desprejocurivideo](https://desprejocurivideo.ro) dedicat părinților care vor să fie informați în privința jocurilor pe care le joacă copiii.<sup>([StartupCafe](https://www.startupcafe.ro/smart-tech/jocuri-video-gaming-parinti.htm), [Facebook RGDA](https://www.facebook.com/rgdassociation/posts/3499354486845613))</sup>
+* A avut loc Bucharest Gaming Week, în cadrul căreia au fost organizate mai multe discuții online pe teme diverse privind industria jocurilor în România: _Women in Gaming_ <sup>([Facebook Amber](https://www.facebook.com/AmberDevs/videos/187940709610070/))</sup> sau _Profilul jucătorului român de jocuri video_ <sup>([Facebook RGDA](https://www.facebook.com/rgdassociation/videos/202244884758859))</sup>
+* [Trei jocuri mai mult sau mai puțin fericite de jucat în timpul pandemiei](https://www.scena9.ro/article/jocuri-video-pandemie) <sup>(Scena9)</sup>
+
+
+## [22 - 28 noiembrie]({{<relref "/highlights/2020/11/29">}})
+* Critique Gaming (**Interrogation**) au anunțat un joc nou: **Domains of Dusk**, un TBS cu tematică supranaturală. <sup>([Facebook Critique Gaming](https://www.facebook.com/critiquegaming/posts/1792180607616348))</sup>
