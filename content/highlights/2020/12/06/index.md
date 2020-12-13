@@ -36,6 +36,7 @@ description: "Filmul Metal Gear Solid atrage un actor de top în rolul principal
 * 1 decembrie: **Project Wingman** <sup>([Steam](https://store.steampowered.com/app/895870/Project_Wingman/))</sup>
 * 2 decembrie: **Chronos: Before the Ashes** <sup>([Steam](https://store.steampowered.com/app/967390/Chronos_Before_the_Ashes/), [Epic Store](https://www.epicgames.com/store/en-US/product/chronos-before-the-ashes/))</sup>
 * 2 decembrie: **Sam & Max Save the World Remastered** <sup>([Steam](https://store.steampowered.com/app/1440440/Sam__Max_Save_the_World/), [gog.com](https://www.gog.com/game/sam_max_save_the_world_remastered))</sup>
+* 2 decembrie: **Sumerians** (early access) <sup>([Steam](https://store.steampowered.com/app/1079510/Sumerians/))</sup>
 * 3 decembrie: **El Hijo - A Wild West Tale** <sup>([Steam](https://store.steampowered.com/app/853050/El_Hijo__A_Wild_West_Tale/), [gog.com](https://www.gog.com/game/el_hijo_a_wild_west_tale))</sup>
 * 3 decembrie: **Haven** <sup>([Steam](https://store.steampowered.com/app/983970/Haven/), [gog.com](https://www.gog.com/game/haven))</sup>
 * 3 decembrie: **Immortals Fenyx Rising** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/immortals-fenyx-rising/))</sup>
@@ -44,6 +45,7 @@ description: "Filmul Metal Gear Solid atrage un actor de top în rolul principal
 * 3 decembrie: **Per Aspera** <sup>([Steam](https://store.steampowered.com/app/803050/Per_Aspera/), [gog.com](https://www.gog.com/game/per_aspera))</sup>
 * 3 decembrie: **Phogs!** <sup>([Steam](https://store.steampowered.com/app/850320/PHOGS/))</sup>
 * 3 decembrie: **Phoenix Point: Year One Edition** (iese din exclusivitate Epic Store) <sup>([Steam](https://store.steampowered.com/app/839770/Phoenix_Point_Year_One_Edition/), [gog.com](https://www.gog.com/game/phoenix_point_year_one_edition))</sup>
+* 3 decembrie: **Silmaris: Dice Kingdom** <sup>([Steam](https://store.steampowered.com/app/1293120/Silmaris_Dice_Kingdom/), [gog.com](https://www.gog.com/game/silmaris_dice_kingdom))</sup>
 * 4 decembrie: **Suzerain** <sup>([Steam](https://store.steampowered.com/app/1207650/Suzerain/), [gog.com](https://www.gog.com/game/suzerain))</sup>
 * 4 decembrie: **Nine Witches: Family Disruption** <sup>([Steam](https://store.steampowered.com/app/1272580/Nine_Witches_Family_Disruption/), [gog.com](https://www.gog.com/game/nine_witches_family_disruption))</sup>
 * 5 decembrie: **Dragon Quest XI S: Echoes of an Elusive Age** <sup>([Steam](https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/), [Epic Store](https://www.epicgames.com/store/en-US/product/dragon-quest-xi-s-echoes-of-an-elusive-age/))</sup>
