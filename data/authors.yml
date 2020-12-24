@@ -121,6 +121,11 @@ waaagh:
   thumbnail: "waaagh.jpg"
   description: "Membru al comunităţii din 106 e.n."
   website: "/"
+white_plum:
+  name: "WhitePlum"
+  thumbnail: "no-avatar.png"
+  description: "\"Girls can't play games\" \"Before I knew you, I thought I was good at gaming\" — said to me by the same guy on the same day"
+  website: "/"
 woozie:
   name: "Woozie"
   thumbnail: "no-avatar.png"
