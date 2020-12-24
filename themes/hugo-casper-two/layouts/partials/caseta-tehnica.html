@@ -2,50 +2,67 @@
   <div class="caseta-tehnica-title">OSÂNDA</div>
   <div class="rating-container">
 
-    {{ if or .nota .verdict .plusuri .minusuri }}
-    <div class="caseta-tehnica-section nota-plus-minus">
+    {{ if or .nota .verdict .plusuri .minusuri .custom }}
+      <div class="caseta-tehnica-section nota-plus-minus">
 
-      {{ if or .nota .verdict}}
-        <div class="rating">
-          {{ with .nota }}
-          <p class="nota">{{ . }}</p>
-          {{ end }}
+        {{ if or .nota .verdict}}
+          <div class="rating">
+            {{ with .nota }}
+            <p class="nota">{{ . }}</p>
+            {{ end }}
 
-          {{with .verdict}}
-          <p class="verdict">{{ . }}</p>
-          {{end}}
-        </div>
-      {{ end }}
+            {{with .verdict}}
+            <p class="verdict">{{ . }}</p>
+            {{end}}
+          </div>
+        {{end}}
 
-      {{with .plusuri}}
-      <div class="pluses">
-        <p class="label">Cele bune</p>
-        <ul>
-          {{ range .}}
-          <li>{{.}}</li>
-          {{end}}
-        </ul>
+        {{ if or .plusuri .minusuri .custom}}
+          <div class="liste">
+
+            {{with .plusuri}}
+              <div class="pluses">
+                <p class="label">Cele bune</p>
+                <ul>
+                  {{ range .}}
+                  <li>{{.}}</li>
+                  {{end}}
+                </ul>
+              </div>
+            {{end}}
+
+            {{with .minusuri}}
+              <div class="minuses">
+                <p class="label">Cele rele</p>
+                <ul>
+                  {{ range .}}
+                  <li>{{.}}</li>
+                  {{end}}
+                </ul>
+              </div>
+            {{end}}
+
+            {{with .custom}}
+              <div class="other">
+                <p class="label">{{.descriere}}</p>
+                <ul>
+                  {{ range .lista}}
+                  <li>{{.}}</li>
+                  {{end}}
+                </ul>
+              </div>
+            {{end}}
+            </div>
+        {{end}}
+
       </div>
-      {{end}}
-
-      {{with .minusuri}}
-      <div class="minuses">
-        <p class="label">Cele rele</p>
-        <ul>
-          {{ range .}}
-          <li>{{.}}</li>
-          {{end}}
-        </ul>
-      </div>
-      {{end}}
-    </div>
     {{ end }}
 
     {{with .concluzie}}
-    <div class="caseta-tehnica-section conclusion">
-      <p class="label">Pe scurt</p>
-      <p>{{.}}</p>
-    </div>
+      <div class="caseta-tehnica-section conclusion">
+        <p class="label">Pe scurt</p>
+        <p>{{.}}</p>
+      </div>
     {{end}}
 
     {{ with .alternativa }}
