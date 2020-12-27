@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/2020/12/27/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2020/12/review-yakuza-like-a-dragon/</loc>
     <lastmod>2020-12-25T00:00:00+00:00</lastmod>
   </url>
@@ -5078,13 +5083,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5857,14 +5862,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7778,14 +7783,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/retro/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/retro/</loc>
+    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/retro/</loc>
-    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8317,7 +8322,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
