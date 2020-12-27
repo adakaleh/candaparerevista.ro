@@ -11,7 +11,7 @@ facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-description: "Continuă problemele pentru CD Projekt și Cyberpunk 2077, se face un film Dungeons & Dragons și cumpărătorul Codemasters e până la urmă EA, nu Take Two."
+description: "Procese deschise împotriva Cyberpunk și Tencent care achiziționează și mai multe studiouri de jocuri, acestea sunt știrile finalului de an. "
 
 ---
 

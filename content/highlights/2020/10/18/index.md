@@ -7,6 +7,7 @@ categories:
 
 hideImage: true
 hideOnHome: true
+facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
