@@ -8,6 +8,7 @@
 {{ $cumpara := apply $tempLinkuriMag "split" "." "," }}
 {{ $metacritic := .Get "metacritic" }}
 {{ $opencritic := .Get "opencritic" }}
+{{ $opencritic := .Get "boardgamegeek" }}
 
 {{ $params := (dict "data" $data "producator" $prod "autor" $autor "gen" $gen "platforme" $platforme "cumpara" $cumpara "reviews" (dict "metacritic" $metacritic "opencritic" $opencritic)) }}
 
