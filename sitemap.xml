@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2020/12/review-terraforming-mars/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2020/12/27/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
@@ -2578,8 +2583,14 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/categories/boardgame/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/authors/bogdan/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7394,7 +7405,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8322,7 +8333,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9097,6 +9108,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/terra-nil/</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/terraforming-mars/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10684,7 +10701,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/%C8%99tiin%C8%9B%C4%83--tehnic%C4%83/</loc>
-    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
