@@ -2,7 +2,7 @@
 title: "2020: Retrospectiva Retrospectivelor"
 subtitle: "Calendarul Lansărilor"
 type: post
-date: 2020-11-29T00:00:02
+date: 2020-12-31T00:00:02
 categories:
     - Highlights
     - Istorie
@@ -13,6 +13,7 @@ hideImage: true
 hideDescription: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
+facebookImage: /highlights/istorie/2020/lansari/coperta-retrospectiva-anului-2020-lansari.jpg
 
 ---
 
@@ -90,6 +91,7 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 20 februarie: **Conglomerate 451** <sup>([Steam](https://store.steampowered.com/app/1022710/Conglomerate_451/))</sup>
 * 21 februarie: **Dreadout 2** <sup>([Steam](https://store.steampowered.com/app/945710/DreadOut_2/))</sup>
 
+
 ## [23 - 29 februarie]({{<relref "/highlights/2020/03/01">}})
 * 25 februarie: **Dota Underlords** a ieșit din early access <sup>([Steam](https://store.steampowered.com/app/1046930/Dota_Underlords/))</sup>
 * 25 februarie: **Wasteland Remastered** <sup>([Steam](https://store.steampowered.com/app/875800/Wasteland_Remastered/), [gog.com](https://www.gog.com/game/wasteland_remastered))</sup>
@@ -99,6 +101,7 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 26 februarie: **Warlander** <sup>([Steam](https://store.steampowered.com/app/1054040/Warlander/))</sup>
 * 27 februarie: **Overpass** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/overpass/home))</sup>
 * 28 februarie: **Bloodroots** <sup>([Steam](https://store.steampowered.com/app/820540/Bloodroots/))</sup>
+
 
 ## [1 - 7 martie]({{<relref "/highlights/2020/03/08">}})
 * 2 martie: **Savage Vessels** <sup>([Steam](https://store.steampowered.com/app/912550/Savage_Vessels/))</sup>
@@ -179,6 +182,7 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 24 aprilie: **XCOM: Chimera Squad** <sup>([Steam](https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/))</sup>
 * 24 aprilie: **Predator: Hunting Grounds** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/predator-hunting-grounds/))</sup>
 
+
 ## [26 aprilie - 2 mai]({{<relref "/highlights/2020/05/03">}})
 * 28 aprilie: **Gears Tactics** <sup>([Steam](https://store.steampowered.com/app/1184050/Gears_Tactics/))</sup>
 * 28 aprilie: **WarriOrb** <sup>([Steam](https://store.steampowered.com/app/790360/WarriOrb/))</sup>
@@ -190,7 +194,6 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 30 aprilie: **Dread Nautical** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/dread-nautical/home))</sup>
 * 30 aprilie: **Call Of Duty: Modern Warfare 2 Remastered** <sup>([Battle.net Shop](https://eu.shop.battle.net/en-gb/product/call-of-duty-modern-warfare-2-campaign-remastered))</sup>
 * 30 aprilie: **Levelhead** <sup>([Steam](https://store.steampowered.com/app/792710/Levelhead/))</sup>
-
 
 ## [3 - 9 mai]({{<relref "/highlights/2020/05/10">}})
 * 5 mai: **Someday You’ll Return** <sup>([Steam](https://store.steampowered.com/app/840370/Someday_Youll_Return/))</sup>
@@ -583,3 +586,43 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 * 23 noiembrie: **World of Warcraft: Shadowlands** <sup>([Battle.net Shop](https://eu.shop.battle.net/en-us/product/world-of-warcraft-shadowlands))</sup>
 * 24 noiembrie: **Football Manager 2021** <sup>([Steam](https://store.steampowered.com/app/1263850/Football_Manager_2021/))</sup>
 * 27 noiembrie: **From the Shadows** <sup>([Steam](https://store.steampowered.com/app/1427210/From_the_Shadows/))</sup>
+## [29 noiembrie - 5 decembrie]({{<relref "/highlights/2020/12/06">}})
+* 1 decembrie: **Twin Mirror** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/twin-mirror/))</sup>
+* 1 decembrie: **Empire of Sin** <sup>([Steam](https://store.steampowered.com/app/604540/Empire_of_Sin/))</sup>
+* 1 decembrie: **Worms Rumble** <sup>([Steam](https://store.steampowered.com/app/1186040/Worms_Rumble/))</sup>
+* 1 decembrie: **Project Wingman** <sup>([Steam](https://store.steampowered.com/app/895870/Project_Wingman/))</sup>
+* 2 decembrie: **Chronos: Before the Ashes** <sup>([Steam](https://store.steampowered.com/app/967390/Chronos_Before_the_Ashes/), [Epic Store](https://www.epicgames.com/store/en-US/product/chronos-before-the-ashes/))</sup>
+* 2 decembrie: **Sam & Max Save the World Remastered** <sup>([Steam](https://store.steampowered.com/app/1440440/Sam__Max_Save_the_World/), [gog.com](https://www.gog.com/game/sam_max_save_the_world_remastered))</sup>
+* 2 decembrie: **Sumerians** (early access) <sup>([Steam](https://store.steampowered.com/app/1079510/Sumerians/))</sup>
+* 3 decembrie: **El Hijo - A Wild West Tale** <sup>([Steam](https://store.steampowered.com/app/853050/El_Hijo__A_Wild_West_Tale/), [gog.com](https://www.gog.com/game/el_hijo_a_wild_west_tale))</sup>
+* 3 decembrie: **Haven** <sup>([Steam](https://store.steampowered.com/app/983970/Haven/), [gog.com](https://www.gog.com/game/haven))</sup>
+* 3 decembrie: **Immortals Fenyx Rising** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/immortals-fenyx-rising/))</sup>
+* 3 decembrie: **Startup Panic** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/startup-panic/))</sup>
+* 3 decembrie: **Creeper World 4** <sup>([Steam](https://store.steampowered.com/app/848480/Creeper_World_4/), [gog.com](https://www.gog.com/game/creeper_world_4))</sup>
+* 3 decembrie: **Per Aspera** <sup>([Steam](https://store.steampowered.com/app/803050/Per_Aspera/), [gog.com](https://www.gog.com/game/per_aspera))</sup>
+* 3 decembrie: **Phogs!** <sup>([Steam](https://store.steampowered.com/app/850320/PHOGS/))</sup>
+* 3 decembrie: **Phoenix Point: Year One Edition** (iese din exclusivitate Epic Store) <sup>([Steam](https://store.steampowered.com/app/839770/Phoenix_Point_Year_One_Edition/), [gog.com](https://www.gog.com/game/phoenix_point_year_one_edition))</sup>
+* 3 decembrie: **Silmaris: Dice Kingdom** <sup>([Steam](https://store.steampowered.com/app/1293120/Silmaris_Dice_Kingdom/), [gog.com](https://www.gog.com/game/silmaris_dice_kingdom))</sup>
+* 4 decembrie: **Suzerain** <sup>([Steam](https://store.steampowered.com/app/1207650/Suzerain/), [gog.com](https://www.gog.com/game/suzerain))</sup>
+* 4 decembrie: **Nine Witches: Family Disruption** <sup>([Steam](https://store.steampowered.com/app/1272580/Nine_Witches_Family_Disruption/), [gog.com](https://www.gog.com/game/nine_witches_family_disruption))</sup>
+* 5 decembrie: **Dragon Quest XI S: Echoes of an Elusive Age** <sup>([Steam](https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/), [Epic Store](https://www.epicgames.com/store/en-US/product/dragon-quest-xi-s-echoes-of-an-elusive-age/))</sup>
+## [6 - 12 decembrie]({{<relref "/highlights/2020/12/13">}})
+* 8 decembrie: **Call of the Sea** <sup>([Steam](https://store.steampowered.com/app/1042490/Call_of_the_Sea/))</sup>
+* 9 decembrie: **Unto The End** <sup>([Steam](https://store.steampowered.com/app/600080/Unto_The_End/), [gog.com](https://www.gog.com/game/unto_the_end))</sup>
+* 10 decembrie: **Orwell’s Animal Farm** <sup>([Steam](https://store.steampowered.com/app/1398100/Orwells_Animal_Farm/), [Epic Store](https://www.epicgames.com/store/en-US/product/orwells-animal-farm/))</sup>
+* 10 decembrie: **Shady Part of Me** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/shady-part-of-me/))</sup>
+* 11 decembrie: **Alba: A Wildlife Adventure** <sup>([Steam](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/), [gog.com](https://www.gog.com/game/alba_a_wildlife_adventure))</sup>
+* 11 decembrie: **Cyberpunk 2077** <sup>([Steam](https://store.steampowered.com/app/1091500/Cyberpunk_2077/), [gog.com](https://www.gog.com/game/cyberpunk_2077), [Epic Store](https://www.epicgames.com/store/en-US/product/cyberpunk-2077))</sup>
+* 11 decembrie: **Medal of Honor: Above and Beyond** <sup>([Steam](https://store.steampowered.com/app/1402320/Medal_of_Honor_Above_and_Beyond/))</sup>
+## [13 - 19 decembrie]({{<relref "/highlights/2020/12/20">}})
+* 14 decembrie: **Northern Lights** <sup>([Steam](https://store.steampowered.com/app/1090800/Northern_Lights/))</sup>
+* 15 decembrie: **Calico** <sup>([Steam](https://store.steampowered.com/app/1112890/Calico/))</sup>
+* 15 decembrie: **Spellbreak** <sup>([Steam](https://store.steampowered.com/app/1399780/Spellbreak/))</sup>
+* 17 decembrie: **Airborne Kingdom** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/airborne-kingdom/))</sup>
+* 18 decembrie: **The Flower Collectors** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/the-flower-collectors/))</sup>
+* 18 decembrie: **Founders' Fortune** <sup>([Steam](https://store.steampowered.com/app/1104330/Founders_Fortune/))</sup>
+* 18 decembrie: **Wattam** (iese din exclusivitatea Epic) <sup>([Steam](https://store.steampowered.com/app/702680/Wattam/))</sup>
+
+## [20 - 26 decembrie]({{<relref "/highlights/2020/12/27">}})
+* 22 decembrie: **Override 2: Super Mech League** <sup>([Steam](https://store.steampowered.com/app/1329790/Override_2_Super_Mech_League/))</sup>
+* 23 decembrie: **Super Meat Boy Forever** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/super-meat-boy-forever/))</sup>

@@ -2,7 +2,7 @@
 title: "2020: Retrospectiva Retrospectivelor"
 subtitle: "Made în România"
 type: post
-date: 2020-11-29T00:00:01
+date: 2020-12-31T00:00:01
 categories:
     - Highlights
     - Istorie
@@ -13,6 +13,7 @@ hideImage: true
 hideDescription: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
+facebookImage: /highlights/istorie/2020/romania/coperta-retrospectiva-anului-2020-romania.jpg
 
 ---
 
@@ -153,3 +154,17 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
 ## [22 - 28 noiembrie]({{<relref "/highlights/2020/11/29">}})
 * Critique Gaming (**Interrogation**) au anunțat un joc nou: **Domains of Dusk**, un TBS cu tematică supranaturală. <sup>([Facebook Critique Gaming](https://www.facebook.com/critiquegaming/posts/1792180607616348))</sup>
+
+## [29 noiembrie - 5 decembrie]({{<relref "/highlights/2020/12/06">}})
+* [Care sunt cele mai interesante jocuri dezvoltate in Romania?](https://zonait.ro/care-sunt-cele-mai-interesante-jocuri-dezvoltate-in-romania/) <sup>(Zona IT)</sup>
+* De Ziua Națională a României, Apple a scos în evidență [jocurile românești publicate pe App Store](https://apps.apple.com/ro/story/id1534687543). <sup>(Apple App Store)</sup>
+
+## [6 - 12 decembrie]({{<relref "/highlights/2020/12/13">}})
+
+* Andreea Medvedovici-Per, Director Executiv al RGDA, a fost inclusă de GameIndustry.biz în „GI 100 | Game Changers”, o serie de articole dedicate personalităților din industria jocurilor care luptă pentru a schimba în bine domeniul. <sup>([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2020-12-11-gi-100-game-changers-part-five))</sup>
+* Jocul **Vecter** a primit un articol pe The Escapist. <sup>([Escapist](https://www.escapistmagazine.com/v2/vecter-is-among-the-best-cyberpunk-games-you-can-play-this-week-and-its-free/))</sup>
+* Încă un joc românesc se află în dezvoltare și e aproape gata de lansare: **Northern Lights** de la studiul MadGoat. <sup>([YouTube Northern Lights](https://www.youtube.com/watch?v=NTCP5gXkQKM))</sup>
+* Jocul **Viking Vengeance** este nominalizat la categoria „Upcoming Games” la premiile Indie of the Year decernate anual de site-ul indiedb.com. <sup>([Indie DB](https://www.indiedb.com/groups/2020-indie-of-the-year-awards/top100/#vote74545))</sup>
+
+## [13 - 19 decembrie]({{<relref "/highlights/2020/12/20">}})
+* S-a lansat jocul **Northern Lights**, al studioului MadGoat. <sup>([Steam](https://store.steampowered.com/app/1090800/Northern_Lights/))</sup>
