@@ -40,11 +40,10 @@ INDEX_MD = "index.md"
 
 ### --------- SCRIPTUL INCEPE AICI --------- ###
 
-def read_retro_dirs(sectiune_cautata, sub_sectiune_cautata=None):
+def read_retro_dirs(sectiune_cautata, sub_sectiune_cautata=None, anul_cautat=None):
 
     def get_current_year(list_of_dirs):
         return next(curr_year for curr_year in reversed(list_of_dirs) if curr_year.isnumeric())
-        # return "2018"
 
     def is_weekly_highlights_dir(dir_name):
         # ignoram directoarele care nu-s retrospective (nu sunt
@@ -56,7 +55,7 @@ def read_retro_dirs(sectiune_cautata, sub_sectiune_cautata=None):
     lista_bucati_saptamanale = {}
 
     lista_directoare = os.listdir(HIGHLIGHTS_DIR_PATH)
-    current_year = get_current_year(lista_directoare)
+    current_year = anul_cautat if anul_cautat else get_current_year(lista_directoare)
 
     # for year_dir in os.listdir(highlights_base_path):
 
@@ -124,7 +123,10 @@ def citeste_fisier(root_dir, retro_year, sectiune_cautata, sub_sectiune_cautata=
         if is_hugo_markdown_title(line):
 
             # TODO replace with regex
-            titlu_saptamana = line.lstrip('title: "Retrospectiva săptămânii ').rstrip().rstrip(' ' + retro_year + '"')
+            titlu_saptamana = line\
+                .lstrip('title: "Retrospectiva săptămânii ') \
+                .lstrip('title: "Mini-Retrospectiva săptămânii ')\
+                .rstrip().rstrip(' ' + retro_year + '"')
 
         # pana acum n-am gasit sectiunea cautata; acum am gasit o sectiune - verificam daca e cea dorita
         elif not gasit_sectiune and is_section_title(line):
@@ -236,8 +238,9 @@ if __name__ == "__main__":
     # TODO fix - include sectiune si subsectiune din argumente
     sectiune_cautata = SECTIUNE_DEFAULT
     # sectiune_cautata = "anun"
-    lista_finala_bucati = read_retro_dirs(sectiune_cautata)
-    # lista_finala_bucati = read_retro_dirs("anun", "lansate")
+    lista_finala_bucati = read_retro_dirs(sectiune_cautata) # default știri
+    # lista_finala_bucati = read_retro_dirs("anun", "lansate") # lansari jocuri
+    # lista_finala_bucati = read_retro_dirs("românia", anul_cautat="2020") # made in romania
 
     # scrie_fisier("\n".join(lista_finala_bucati))
     scrie_fisier(lista_finala_bucati, clean_diacritice(sectiune_cautata))
