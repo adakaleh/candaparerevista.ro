@@ -1,6 +1,5 @@
 ---
-title: "2018: Retrospectiva Retrospectivelor"
-subtitle: "Știrile Anului"
+title: "Retrospectiva Anului 2018: Știrile Anului"
 type: post
 date: 2018-12-31T00:00:03
 categories:

@@ -1,6 +1,5 @@
 ---
-title: "2018: Retrospectiva Retrospectivelor"
-subtitle: "Made în România"
+title: "Retrospectiva Anului 2018: Made în România"
 type: post
 date: 2018-12-31T00:00:01
 categories:

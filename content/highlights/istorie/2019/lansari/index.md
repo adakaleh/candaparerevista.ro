@@ -1,6 +1,5 @@
 ---
-title: "2019: Retrospectiva Retrospectivelor"
-subtitle: "Calendarul Lansărilor"
+title: "Retrospectiva Anului 2019: Calendarul Lansărilor"
 type: post
 date: 2019-12-31T00:00:02
 categories:
