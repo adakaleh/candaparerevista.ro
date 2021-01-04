@@ -1,6 +1,5 @@
 ---
-title: "2020: Retrospectiva Retrospectivelor"
-subtitle: "Știrile Anului"
+title: "Retrospectiva Anului 2020: Știrile Anului"
 type: post
 date: 2020-12-31T00:00:03
 categories:
