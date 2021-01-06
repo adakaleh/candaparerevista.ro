@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2021/review-warhammer-end-times-vermintide/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2020/stiri/</loc>
     <lastmod>2020-12-31T00:00:03+00:00</lastmod>
   </url>
@@ -4256,7 +4261,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/featured/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5873,14 +5878,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7405,7 +7410,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7794,14 +7799,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/retro/</loc>
-    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/retro/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/retro/</loc>
+    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7855,7 +7860,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8333,7 +8338,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2020-12-31T00:00:03+00:00</lastmod>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10118,6 +10123,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/vermintide/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/viking-vengeance/</loc>
     <lastmod>2019-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -10173,7 +10184,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/waaagh/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10228,6 +10239,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/wargroove/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/warhammer/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
