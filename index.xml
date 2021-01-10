@@ -6,10 +6,22 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 3 - 9 ianuarie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/10/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/10/</guid>
+      <description>Angajații Google fac sindicat, Epic Games se mută la mall, iar marile platforme de socializare îi dau ban lui Trump.
+Știri  Epic Games vrea să-și schimbe sediul global, cumpărând în acest sens un fost mall cu o suprafață de 9 hectare. (Polygon, Shacknews, VideoGamesChronicle)
+ O parte din angajații Google au înființat primul sindicat din istoria companiei. (Shacknews, GamesIndustry.biz)
+ Un reportaj Bloomberg prezintă o parte mai puțin știută din istoria Xbox și povestește cum Microsoft a vrut să facă o intrare puternică pe piața consolelor în urmă cu 20 de an încercând să cumpere mai multe companii, printre care EA, Nintendo, Midway și Square, rămânând până la urmă doar cu Bungie.</description>
+    </item>
     
     <item>
       <title>Warhammer: End Times - Vermintide</title>
@@ -18,6 +30,16 @@
       
       <guid>https://candaparerevista.ro/posts/2021/review-warhammer-end-times-vermintide/</guid>
       <description>Warhammer Fantasy (WHF), marcă aflată în proprietatea Games Workshop (GW), are o istorie de aproape patru decenii în domeniul jocurilor de strategie tabletop și al RPG-urilor pen &amp;amp; paper. Prezența sa în mediul virtual este semnificativ mai modestă și începe să capete impuls abia după anul 2000. Este totuși interesant de remarcat că primul joc video ce poartă marca WH, anume Warhammer: Shadow of the Horned Rat (SHR), datează din 1995. Exact douăzeci de ani mai tîrziu, în 2015, un grup suedez destul de obscur, Fatshark (FS), avînd o oarecare experiență în domeniul jocurilor multiplayer, lansează Vermintide (VT) fără prea mare fanfară.</description>
+    </item>
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 27 decembrie 2020 - 2 ianuarie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/03/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/03/</guid>
+      <description>Începem anul fără știri importante.
+Știri (fără știri relevante)</description>
     </item>
     
     <item>
@@ -134,27 +156,6 @@ Inspirată din literatura hard SF — în primul rând din Trilogia Marțiană a
       
       <guid>https://candaparerevista.ro/highlights/2020/11/29/</guid>
       <description>Știri  Încă o dată recordul pentru cel mai scump joc din lume a fost depășit, și încă o dată e tot Mario, numai că de data aceasta e vorba de o copie sigilată de Super Mario Bros. 3. (VideoGamesChronicle, Eurogamer) Premiile Hugo, care se acordă în fiecare an creațiilor din domeniul SF și fantasy, începând cu 1953, vor avea anul viitor și o categorie dedicată jocurilor video și experiențelor interactive. Trebuie notat că sunt planuri concrete doar pentru această ediție, urmând a se analiza ulterior posibilitatea de a permanentiza această categorie.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 15 - 21 noiembrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/11/22/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/11/22/</guid>
-      <description>Știri  Apple și-a redus comisionul pentru veniturile aplicațiilor de pe App Store de la 30% la 15%, dar numai pentru dezvoltatorii ce obțin venituri mai mici de 1 milion de dolari într-un an. (Shacknews, Eurogamer, Polygon)
- Au fost anunțate jocurile nominalizate pentru cele 29 de premii ale The Game Awards 2020. Cele mai multe nominalizări au fost primite de The Last of Us Part 2, Hades și Ghost of Tsushima (VideoGamesChronicle, Shacknews, RPS, Variety)
- Ubisoft îl înlătură pe Hugues Ricour de pe poziția de director al studioului Ubisoft Singapore (care lucrează la Skull &amp;amp; Bones) în urma unei investigații interne asupra mai multor acuzații de hărțuire sexuală.</description>
-    </item>
-    
-    <item>
-      <title>Metamorphosis</title>
-      <link>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</link>
-      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</guid>
-      <description>„O aventură suprarealistă inspirată din strania imaginație a lui Franz Kafka. Intră în rolul lui Gregor Samsa, transformat într-o mică insectă&amp;hellip;”, spune curajos descrierea jocului. Și te uiți la trailer, te uiți la screenshots și te gândești… da, acesta pare să fie un joc bazat pe lucrările lui Kafka.
-Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și singura. Motivul transformării din om în insectă servește ca premisă a jocului, dar restul poveștii împrumută elemente din Procesul (Der Process) și, într-o măsură mai mică, din Castelul (Das Schloss).</description>
     </item>
     
   </channel>
