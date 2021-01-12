@@ -21,6 +21,10 @@ linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2610
 
 featured: true
 
+# articol publicat initial in directorul gresit, '2021', in loc de '2021/01'
+aliases:
+- /posts/2021/review-warhammer-end-times-vermintide/
+
 description: "Vermintide are mai degrabă aerul unei experiențe construite de amorul artei și pentru satisfacția lucrului bine făcut, decât cu scopul loviturii centrate în ținta de profit sau optimizarea schemei de creștere a veniturilor. Vă veți întreba ce-i cu atîtea superlative pentru un joc despre pocnit muride la temelie. Păi să vă explic..."
 
 resources:
