@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2021/01/review-fell-seal-arbiter-mark/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2021/10/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/posts/2021/review-warhammer-end-times-vermintide/</loc>
+    <loc>https://candaparerevista.ro/posts/2021/01/review-warhammer-end-times-vermintide/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -4276,6 +4281,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/fell-seal/</loc>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/fic%C8%9Biune/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -7420,7 +7431,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7552,7 +7563,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/quackers/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7870,7 +7881,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8348,7 +8359,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
