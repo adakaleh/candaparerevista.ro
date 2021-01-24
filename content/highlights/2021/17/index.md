@@ -52,4 +52,5 @@ Revine Lucasfilm Games și EA nu mai sunt singurii care fac jocuri Star Wars, fo
 * 13 ianuarie: **Skellboy Refractured** <sup>([Steam](https://store.steampowered.com/app/1096100/Skellboy_Refractured/))</sup>
 * 14 ianuarie: **Scott Pilgrim vs. The World: The Game** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/scott-pilgrim-vs-the-world-the-game/))</sup>
 * 14 ianuarie: **Down in Bermuda** <sup>([Steam](https://store.steampowered.com/app/1107300/Down_in_Bermuda/), [gog.com](https://www.gog.com/game/down_in_bermuda))</sup>
+* 14 ianuarie: **Sunlight** <sup>([Steam](https://store.steampowered.com/app/1451120/Sunlight/)
 * 15 ianuarie: **Ancient Abyss** (early access) <sup>([Steam](https://store.steampowered.com/app/973450/Ancient_Abyss/))</sup>
