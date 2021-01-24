@@ -6,10 +6,20 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 17 - 23 ianuarie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/24/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/24/</guid>
+      <description>Valve primește amendă în UE pentru geo-blocking, remake-ul Diablo II pare să primească forțe noi, filmul Uncharted se amână, Apple își face propriul headset VR și s-a lansat Hitman 3.
+Știri  Comisia Europeană a amendat Valve și alți cinci publisheri — Focus Home Interactive, ZeniMax, Koch Media, Capcom, Bandai Namco — cu aproape 8 milioane de euro pentru stabilirea de prețuri diferențiate și geo-blocking în cazul jocurilor vândute în țări europene din regiuni diferite, ceea ce contravine principiilor Pieței Unice. (GamesIndustry.biz, PC Gamer, Eurogamer, VideoGamesChronicle, Kotaku) Activision a dizolvat studioul Vicarious Visions, responsabili de recentul remake Tony Hawk&amp;rsquo;s Pro Skater 1+2, și a integrat echipa în cadrul Blizzard.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 10 - 16 ianuarie 2021</title>
@@ -151,17 +161,6 @@
       <guid>https://candaparerevista.ro/highlights/2020/11/08/</guid>
       <description>Hackerii lovesc în Capcom și Ubisoft, Take-Two vrea să cumpere Codemasters, Gaben are pitici pe rachetă, iar jocurile românești au o săptămână mai plină, cu o promoție dedicată pe Steam și cu o lansare-surpriză a lui Door Kickers 2.
 Știri  Take-Two poartă negocieri pentru a achiziționa Codemasters făcând o ofertă în acest sens de aproape 1 miliard de dolari. (PC Gamer, Eurogamer, VideoGamesChronicle) Gabe Newell organizează o acțiune caritabilă în cadrul căreia va lansa în spațiu un pitic de grădină, moment ce recreează unul dintre cele mai celebre achievement-uri din seria Half-Life 2.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 25 - 31 octombrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/11/01/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/11/01/</guid>
-      <description>AMD anunță o nouă serie de procesoare grafice care să concureze cu seria 30 de la Nvidia, CD Projekt Red amână din nou Cyberpunk 2077 și are probleme din cauza asta, vom avea serial Assassin&amp;rsquo;s Creed și jocul românesc PositroniX iese din early access.
-Știri  AMD anunță seria de procesoare grafice RX 6000, ce promit performanță comparabilă cu cea a seriei 30xx de la Nvidia, cu prețuri cuprinse între 579 și 999 de dolari. (Ars Technica, Shacknews, PC Gamer, DSOGaming, Polygon)
- Cyberpunk 2077 a suferit încă o amânare (VideoGamesChronicle, Kotaku, Eurogamer), motiv pentru care unii dintre dezvoltatori au primit amenințări cu moartea (Eurogamer, PC Gamer, The Verge) și, totodată, acțiunile CD Projekt Red sunt la minimul ultimelor două luni, scăzând cu 25% din luna august pe fondul incertitudinilor legate de lansarea jocului.</description>
     </item>
     
   </channel>
