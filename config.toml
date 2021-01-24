@@ -95,6 +95,11 @@ summaryLength = 90
   weight = 100
 
 [[menu.main]]
+name = "Știri"
+url = "/categories/highlights/"
+weight = 100
+
+[[menu.main]]
   name = "Autori"
   url = "/authors/"
   weight = 98
