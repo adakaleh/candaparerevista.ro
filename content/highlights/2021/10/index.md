@@ -27,3 +27,7 @@ Angajații Google fac sindicat, Epic Games se mută la mall, iar marile platform
   <sup>([Destructoid](https://www.destructoid.com/stories/microsoft-once-tried-to-acquire-nintendo-but-they-apparently-laughed-their-asses-off--615983.phtml))</sup>
 
 * După violențele de la asediul Capitoliului american, Twitch și Discord îl surghiunesc pe Trump, suspendându-i contul pe o perioadă nespecificată, urmând exemplul dat de Twitter, Facebook și Instagram. <sup>([Gamasutra](https://www.gamasutra.com/view/news/375978/Updated_Twitch_Discord_suspend_Trumprelated_accounts_after_Capitol_assault.php), [PC Gamer](https://www.pcgamer.com/twitch-bans-trump/), [Polygon](https://www.polygon.com/2021/1/7/22219150/president-trump-twitch-channel-disabled-capitol-attack), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-01-07-twitch-suspends-trump-account-following-insurrection-at-us-capitol))</sup>
+
+## Anunţuri şi lansări de jocuri
+### Lansate
+* 5 ianuarie: **NERTS! Online** <sup>([Steam](https://store.steampowered.com/app/1131190/NERTS_Online/))</sup>

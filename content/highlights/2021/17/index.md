@@ -54,3 +54,4 @@ Revine Lucasfilm Games și EA nu mai sunt singurii care fac jocuri Star Wars, fo
 * 14 ianuarie: **Down in Bermuda** <sup>([Steam](https://store.steampowered.com/app/1107300/Down_in_Bermuda/), [gog.com](https://www.gog.com/game/down_in_bermuda))</sup>
 * 14 ianuarie: **Sunlight** <sup>([Steam](https://store.steampowered.com/app/1451120/Sunlight/)
 * 15 ianuarie: **Ancient Abyss** (early access) <sup>([Steam](https://store.steampowered.com/app/973450/Ancient_Abyss/))</sup>
+* 15 ianuarie: **hexceed** <sup>([Steam](https://store.steampowered.com/app/1463920/hexceed/))</sup>
