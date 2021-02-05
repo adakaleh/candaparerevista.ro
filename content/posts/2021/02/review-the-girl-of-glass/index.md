@@ -15,7 +15,7 @@ sursa:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2628
 
-description: ""
+description: "The Girl of Glass este un titlu de care am auzit abia recent, după ce am citit review-ul de pe Adventure Gamers, și care m-a cucerit cu stilul vizual, adică ce am văzut prin poze. Mai multe despre el nu știam, dar când am intrat în meniul acompaniat de un pian nostalgic am știut că am ceva special în față."
 
 disclaimerReviewCopy: default
 
@@ -64,7 +64,7 @@ Cât despre puzzle-uri, acestea nu sunt foarte dificile, dar nici nu sunt prea u
 
 ![](gallery/tgog-03.jpg)
 
-Experiența de joc este completată de grafică și sunet. Estetica este pur și simplu superbă, iar totul pare a fi pictat de mână și se prezintă ca o lume de basm. După părerea mea, culorile își fac treaba de minune: albastrul cerului care duce la visare (sic), verdele care ne aduce aminte de zilele de vară din copilărie, toate acestea fac din The Girl of Glass unul dintre cele mai frumoase jocuri pe care le-am încercat în ultimul timp. Pe partea de muzică Fredrik Jonasson a creat o coloană sonoră excelentă, ce alternează între piese melancolice, bucăți sumbre și marșuri de bătălie care ne stârnesc să fim victorioși în luptă. Iar în ce privește _voice-acting-ul_, doar naratorul jocului este însuflețit de către un actor, în rest avem parte doar de text. Dar eu nu văd asta ca pe un minus - mereu am fost de părere că prefer textul decât actori slabi care să îmi strice experiența.
+Experiența de joc este completată de grafică și sunet. Estetica este pur și simplu superbă, iar totul pare a fi pictat de mână și se prezintă ca o lume de basm. După părerea mea, culorile își fac treaba de minune: albastrul cerului care duce la visare, verdele care ne aduce aminte de zilele de vară din copilărie, toate acestea fac din The Girl of Glass unul dintre cele mai frumoase jocuri pe care le-am încercat în ultimul timp. Pe partea de muzică Fredrik Jonasson a creat o coloană sonoră excelentă, ce alternează între piese melancolice, bucăți sumbre și marșuri de bătălie care ne stârnesc să fim victorioși în luptă. Iar în ce privește _voice-acting-ul_, doar naratorul jocului este însuflețit de către un actor, în rest avem parte doar de text. Dar eu nu văd asta ca pe un minus - mereu am fost de părere că prefer textul decât actori slabi care să îmi strice experiența.
 
 Acestea fiind zis, concluzia. Ei bine, nu am una. Am spus la început că acest joc s-a suprapus cu un eveniment nefericit din viața mea. Era să pierd pe cineva drag, prin suicid, iar jocul ăsta a scos din mine emoții care mai de care, de la singurătate, teama de pierdere, la nostalgie, nu a iertat nimic. Da, este o poveste frumoasă cu foarte multe componente faine, dar în același timp simt și că este o experiență personală pentru fiecare în parte. Îl recomand și vă recomand și vouă să încheiați această recenzie cu piesa care m-a făcut să rămân în meniul jocului mult și bine. ■
 
