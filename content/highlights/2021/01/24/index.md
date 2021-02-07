@@ -11,6 +11,10 @@ facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
+# articol publicat initial in directorul gresit, '2021', in loc de '2020/01'
+aliases:
+- /highlights/2021/24/
+
 description: "Valve primește amendă în UE pentru _geo-blocking_, remake-ul Diablo II pare să primească forțe noi, filmul Uncharted se amână, Apple își face propriul headset VR și s-a lansat Hitman 3."
 
 ---

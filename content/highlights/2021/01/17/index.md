@@ -11,6 +11,10 @@ facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
+# articol publicat initial in directorul gresit, '2021', in loc de '2020/01'
+aliases:
+- /highlights/2021/17/
+
 description: "Revine Lucasfilm Games și EA nu mai sunt singurii care fac jocuri Star Wars, fondatorul CD Projekt își cere scuze public, Flash a murit definitiv, iar Yaga se lansează în sfârșit pe toate platformele."
 
 ---

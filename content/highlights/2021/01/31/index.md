@@ -11,6 +11,10 @@ facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
+# articol publicat initial in directorul gresit, '2021', in loc de '2020/01'
+aliases:
+- /highlights/2021/31/
+
 description: "Un nou scandal de comportament abuziv în industrie, Valve sunt ținta altor două procese, Epic Store a dat foarte multe jocuri gratis și Tomb Raider primește un serial animat."
 
 ---
