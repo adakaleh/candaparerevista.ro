@@ -6,10 +6,20 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 7 - 13 februarie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/02/14/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/02/14/</guid>
+      <description>Hackerii au furat codul sursă pentru Cyberpunk 2077 și Witcher 3, s-a lansat Steam China, Pedro Pascal apare în The Last of Us, Warner Bros brevetează sistemul Nemesis și s-a lansat versiunea alpha a jocului românesc Domion.
+Știri  Sistemele interne ale CD Projekt Red au fost ținta unui atac ransomware care a reușit să sustragă codul sursă pentru Cyberpunk 2077, Witcher 3 și Gwent. Compania a refuzat să negocieze cu atacatorii. (Ars Technica, Eurogamer, Destructoid, Kotaku, VideoGamesChronicle) Astfel că, după ce au publicat codul sursă pentru Gwent, (Game World Observer) hackerii au deschis o licitație pe un form dark web pentru codul sursă al celorlalte două jocuri, pe care au și închis-o la scurt timp motivând că un cumpărător extern ar fi plătit 7 milioane de dolari pentru a cumpăra codul.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 31 ianuarie - 6 februarie 2021</title>
@@ -151,17 +161,6 @@
       
       <guid>https://candaparerevista.ro/highlights/2020/11/29/</guid>
       <description>Știri  Încă o dată recordul pentru cel mai scump joc din lume a fost depășit, și încă o dată e tot Mario, numai că de data aceasta e vorba de o copie sigilată de Super Mario Bros. 3. (VideoGamesChronicle, Eurogamer) Premiile Hugo, care se acordă în fiecare an creațiilor din domeniul SF și fantasy, începând cu 1953, vor avea anul viitor și o categorie dedicată jocurilor video și experiențelor interactive. Trebuie notat că sunt planuri concrete doar pentru această ediție, urmând a se analiza ulterior posibilitatea de a permanentiza această categorie.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 15 - 21 noiembrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/11/22/</link>
-      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/11/22/</guid>
-      <description>Știri  Apple și-a redus comisionul pentru veniturile aplicațiilor de pe App Store de la 30% la 15%, dar numai pentru dezvoltatorii ce obțin venituri mai mici de 1 milion de dolari într-un an. (Shacknews, Eurogamer, Polygon)
- Au fost anunțate jocurile nominalizate pentru cele 29 de premii ale The Game Awards 2020. Cele mai multe nominalizări au fost primite de The Last of Us Part 2, Hades și Ghost of Tsushima (VideoGamesChronicle, Shacknews, RPS, Variety)
- Ubisoft îl înlătură pe Hugues Ricour de pe poziția de director al studioului Ubisoft Singapore (care lucrează la Skull &amp;amp; Bones) în urma unei investigații interne asupra mai multor acuzații de hărțuire sexuală.</description>
     </item>
     
   </channel>
