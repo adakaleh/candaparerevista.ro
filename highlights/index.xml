@@ -6,10 +6,21 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 14 - 20 februarie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/02/21/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/02/21/</guid>
+      <description>Vom primi un serial animat Dota 2, Apple vrea să afle câți bani produce Steam, Blizzard anunță o versiune remasterizată a Diablo II și s-a lansat un nou joc românesc: Joy the Pug.
+Știri  Arabia Saudită face investiții în marile companii de jocuri, cumpărând, prin fondul public de investiții condus de prințul moștenitor, acțiuni de peste 3 miliarde de dolari ale Activision, EA și Take-Two. (VideoGamesChronicle, Eurogamer, Kotaku, GamesIndustry.biz)
+ Apple încearcă să-și întărească poziția în procesul cu Epic solicitând curții să oblige Valve să dezvăluie o mulțime de date financiare privind veniturile generate de Steam, motivând că sunt necesare pentru a determina dimensiunile pieței și ale concurenței pentru Epic.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 7 - 13 februarie 2021</title>
@@ -152,15 +163,6 @@
       
       <guid>https://candaparerevista.ro/highlights/2020/12/06/</guid>
       <description>Știri  Filmul Metal Gear Solid îl va avea pe Oscar Isaac în rolul lui Solid Snake. (PC Gamer, Kotaku, Polygon, VideoGamesChronicle) Filmul Monster Hunter: World, lansat săptămâna aceasta în China, a generat un mare scandal datorită unor linii de dialog ce fac aluzie la un vechi proverb rasist. Controversa a dus și la o acțiune de review-bombing al jocului pe Steam. (Kotaku, Eurogamer, RPS) Doi dintre angajații de top ai BioWare părăsesc compania: Casey Hudson, director general al studioului și fost creative director al seriei Mass Effect, și Mark Darrah, executive producer pentru seria Dragon Age.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 22 - 28 noiembrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/11/29/</link>
-      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/11/29/</guid>
-      <description>Știri  Încă o dată recordul pentru cel mai scump joc din lume a fost depășit, și încă o dată e tot Mario, numai că de data aceasta e vorba de o copie sigilată de Super Mario Bros. 3. (VideoGamesChronicle, Eurogamer) Premiile Hugo, care se acordă în fiecare an creațiilor din domeniul SF și fantasy, începând cu 1953, vor avea anul viitor și o categorie dedicată jocurilor video și experiențelor interactive. Trebuie notat că sunt planuri concrete doar pentru această ediție, urmând a se analiza ulterior posibilitatea de a permanentiza această categorie.</description>
     </item>
     
   </channel>
