@@ -6,10 +6,21 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 21 - 27 februarie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/02/28/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/02/28/</guid>
+      <description>Epic scapă de proces plătind cu monede virtuale, Terraria va reveni pe Stadia, Sony anunță un nou sistem VR pentru PlayStation, Fortnite are festival de film, iar jocurile românești de mobil sunt nominalizate la premiile PocketGamer.
+Știri  Epic a ajuns la o înțelegere pentru a încheia un proces colectiv mai vechi, deschis în jurul loot-boxes din Fortnite și Rocket League, urmând să plătească cea mai mare parte a despăgubirilor în&amp;hellip; V-bucks, moneda virtuală din Fortnite. (Kotaku, Ars Technica, Escapist, PC Gamer)
+ Curtea a admis parțial cererea Apple din cadrul procesului deschis de Epic Games și obligă Valve să depună date financiare privind unele jocuri vândute pe Steam începând cu anul 2017.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 14 - 20 februarie 2021</title>
@@ -154,15 +165,6 @@
       <guid>https://candaparerevista.ro/highlights/2020/12/13/</guid>
       <description>Evenimente majore săptămâna aceasta: mega-lansarea lui Cyberpunk 2077 și decernarea premiilor The Game Awards, plus un nou joc românesc anunțat: Northern Lights.
 Știri  Jocul taiwanez Detention, cel care a fost interzis pe Steam pentru un easter egg care făcea aluzie la președintele chinez, are acum și un serial pe Netflix. (RPS, PCGamesInsider.biz, PC Gamer) Filmul Monster Hunter a fost reeditat pentru a elimina bucata de dialog ce a provocat scandal în China, iar regizorul și actorul din secvența respectivă și-au cerut scuze. (PC Gamer, Eurogamer, Polygon) Un jaf de proporții a avut loc la o fabrică MSI din China, unde hoții au furat din depozit plăci video RTX 3090s în valoare de peste 300.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 29 noiembrie - 5 decembrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/12/06/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/12/06/</guid>
-      <description>Știri  Filmul Metal Gear Solid îl va avea pe Oscar Isaac în rolul lui Solid Snake. (PC Gamer, Kotaku, Polygon, VideoGamesChronicle) Filmul Monster Hunter: World, lansat săptămâna aceasta în China, a generat un mare scandal datorită unor linii de dialog ce fac aluzie la un vechi proverb rasist. Controversa a dus și la o acțiune de review-bombing al jocului pe Steam. (Kotaku, Eurogamer, RPS) Doi dintre angajații de top ai BioWare părăsesc compania: Casey Hudson, director general al studioului și fost creative director al seriei Mass Effect, și Mark Darrah, executive producer pentru seria Dragon Age.</description>
     </item>
     
   </channel>
