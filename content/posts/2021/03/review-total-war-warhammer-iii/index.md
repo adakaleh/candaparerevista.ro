@@ -8,7 +8,7 @@ categories:
     - Review
 tags:
     - "Total War: Warhammer"
-
+draft: true
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2296
 
 resources:
