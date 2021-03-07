@@ -39,6 +39,7 @@ Switch primește un upgrade 4K, Epic cumpără **Fall Guys**, **The Sinking City
 ## Anunţuri şi lansări de jocuri
 
 ### Lansate
+* 1 martie: **Foregone** (expiră exclusivitatea Epic) <sup>([Steam](https://store.steampowered.com/app/1000760/Foregone/), [gog.com](https://www.gog.com/game/foregone))</sup>
 * 2 martie: **Maquette** <sup>([Steam](https://store.steampowered.com/app/762840/Maquette/))</sup>
 * 2 martie: **Crypto: Against All Odds** <sup>([Steam](https://store.steampowered.com/app/1200900/Crypto_Against_All_Odds__Tower_Defense/), [gog.com](https://www.gog.com/game/crypto_against_all_odds))</sup>
 * 2 martie: **Monster Jam Steel Titans 2** <sup>([Steam](https://store.steampowered.com/app/1205480/Monster_Jam_Steel_Titans_2/), [gog.com](https://www.gog.com/game/monster_jam_steel_titans_2), [Epic Store](https://www.epicgames.com/store/en-US/p/monster-jam-steel-titans-2))</sup>
