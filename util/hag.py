@@ -236,11 +236,12 @@ if __name__ == "__main__":
 
     # read highlights years
     # TODO fix - include sectiune si subsectiune din argumente
-    sectiune_cautata = SECTIUNE_DEFAULT
-    # sectiune_cautata = "anun"
-    lista_finala_bucati = read_retro_dirs(sectiune_cautata) # default știri
-    # lista_finala_bucati = read_retro_dirs("anun", "lansate") # lansari jocuri
-    # lista_finala_bucati = read_retro_dirs("românia", anul_cautat="2020") # made in romania
+    sectiune_cautata = SECTIUNE_DEFAULT  # default știri
+    # sectiune_cautata = "românia"
+    lista_finala_bucati = read_retro_dirs(sectiune_cautata)
+
+    # sectiune_cautata = "anunturi"
+    # lista_finala_bucati = read_retro_dirs(sectiune_cautata,sub_sectiune_cautata="lansate") # anunturi/lansari jocuri
 
     # scrie_fisier("\n".join(lista_finala_bucati))
     scrie_fisier(lista_finala_bucati, clean_diacritice(sectiune_cautata))
