@@ -6,10 +6,22 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 28 februarie - 6 martie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/03/07/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/03/07/</guid>
+      <description>Switch primește un upgrade 4K, Epic cumpără Fall Guys, The Sinking City este și nu este pe Steam, Apple se pregătește de proces cu Epic, iar The Last of Us Part II conduce nominalizările la premiile BAFTA.
+Știri  Epic Games a cumpărat Mediatonic, studioul din spatele hitului Fall Guys. (Ars Technica, Destructoid, Kotaku, Polygon, PC Gamer, GamesIndustry.biz)
+ S-au anunțat nominalizările BAFTA Game Awards, ediția de anul acesta fiind dominată categoric de The Last of Us Part II cu 13 nominalizări. (Destructoid, VideoGamesChronicle, Shacknews, GamesIndustry.biz)
+ Surse din interiorul Nintendo dezvăluie că compania lucrează la următoarea iterație a Switch, un model ce va suporta rezoluții 4K și va avea ecran OLED.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 21 - 27 februarie 2021</title>
@@ -155,16 +167,6 @@
 Știri Cyberpunk 2077 Problemele și scandalul din jurul Cyberpunk 2077 continuă:
  Într-o întâlnire cu investitorii, președintele Cyberpunk 2077 recunoaște că au ignorat problemele jocului pe generațiile anterioare de console și a deschis subiectul returnării banilor cumpărătorilor nemulțumiți (Polygon, Kotaku)
  &amp;hellip; iar angajații companiei critică conducerea pentru felul în care au gestionat lansarea și perioada premergătoare (Kotaku, PC Gamer, RPS) &amp;hellip; și sunt în pregătire și câteva procese colective pentru daunele suferite de investitori din cauza „informațiilor înșelătoare” prezentate de companie în perioada de dinaintea lansării.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 6 - 12 decembrie 2020</title>
-      <link>https://candaparerevista.ro/highlights/2020/12/13/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2020/12/13/</guid>
-      <description>Evenimente majore săptămâna aceasta: mega-lansarea lui Cyberpunk 2077 și decernarea premiilor The Game Awards, plus un nou joc românesc anunțat: Northern Lights.
-Știri  Jocul taiwanez Detention, cel care a fost interzis pe Steam pentru un easter egg care făcea aluzie la președintele chinez, are acum și un serial pe Netflix. (RPS, PCGamesInsider.biz, PC Gamer) Filmul Monster Hunter a fost reeditat pentru a elimina bucata de dialog ce a provocat scandal în China, iar regizorul și actorul din secvența respectivă și-au cerut scuze. (PC Gamer, Eurogamer, Polygon) Un jaf de proporții a avut loc la o fabrică MSI din China, unde hoții au furat din depozit plăci video RTX 3090s în valoare de peste 300.</description>
     </item>
     
   </channel>
