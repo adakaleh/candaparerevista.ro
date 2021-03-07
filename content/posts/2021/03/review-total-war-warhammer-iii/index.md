@@ -11,6 +11,8 @@ tags:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2296
 
+draft: true
+
 resources:
   - src: images/tww-image-4.jpg
     name: "card-cover-image"

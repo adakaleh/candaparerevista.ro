@@ -48,9 +48,11 @@ Epic scapă de proces plătind cu monede virtuale, Terraria va reveni pe Stadia,
 
 ## Anunţuri şi lansări de jocuri
 ### Lansate
+* 21 februarie: **HellSign** <sup>([Steam](https://store.steampowered.com/app/606500/HellSign/))</sup>
 * 23 februarie: **Curse of the Dead Gods** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods/), [Epic Store](https://www.epicgames.com/store/en-US/product/curse-of-the-dead-gods/))</sup>
 * 24 februarie: **Fights in Tight Spaces** (early access) <sup>([Steam](https://store.steampowered.com/app/1265820/Fights_in_Tight_Spaces/), [gog.com](https://www.gog.com/game/fights_in_tight_spaces), [Epic Store](https://www.epicgames.com/store/en-US/product/fights-in-tight-spaces/))</sup>
 * 24 februarie: **Geneforge 1 – Mutagen** <sup>([Steam](https://store.steampowered.com/app/1424710/Geneforge_1__Mutagen/), [gog.com](https://www.gog.com/game/geneforge_1_mutagen), [Epic Store](https://www.epicgames.com/store/en-US/product/geneforge-1-mutagen/))</sup>
 * 25 februarie: **Breathedge** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/738520/Breathedge/), [gog.com](https://www.gog.com/game/breathedge))</sup>
 * 25 februarie: **Fantasy General II: Evolution** <sup>([Steam](https://store.steampowered.com/app/1401480/Fantasy_General_II_Evolution/), [gog.com](https://www.gog.com/game/fantasy_general_ii_evolution))</sup>
+* 25 februarie: **Skid Cities** <sup>([Steam](https://store.steampowered.com/app/1242630/Skid_Cities/))</sup>
 * 27 februarie: **Urtuk: The Desolation** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/))</sup>

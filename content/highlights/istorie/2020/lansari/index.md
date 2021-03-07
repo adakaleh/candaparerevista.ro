@@ -98,7 +98,8 @@ facebookImage: /highlights/istorie/2020/lansari/coperta-retrospectiva-anului-202
 * 25 februarie: **Mainframe Defenders** <sup>([Steam](https://store.steampowered.com/app/1184810/Mainframe_Defenders/))</sup>
 * 26 februarie: **Beautiful Desolation** <sup>([Steam](https://store.steampowered.com/app/912570/BEAUTIFUL_DESOLATION/), [gog.com](https://www.gog.com/game/beautiful_desolation))</sup>
 * 26 februarie: **Warlander** <sup>([Steam](https://store.steampowered.com/app/1054040/Warlander/))</sup>
-* 27 februarie: **Overpass** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/overpass/home))</sup>
+* 27 februarie: **Overpass** <sup>([Epic Store](https://www.epicgames.com/store/en-US/product/overpass))</sup>
+* 27 februarie: **Foregone** <sup>([Epic Store](https://www.epicgames.com/store/en-US/p/foregone))</sup>
 * 28 februarie: **Bloodroots** <sup>([Steam](https://store.steampowered.com/app/820540/Bloodroots/))</sup>
 
 
