@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Total War: Warhammer (III)</title>
+      <link>https://candaparerevista.ro/posts/2021/03/review-total-war-warhammer-iii/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/03/review-total-war-warhammer-iii/</guid>
+      <description>Bretonnia este o facțiune încropită parcă pe genunchi dintr-un amalgam de legende Arthuriene, istorii medievale și melancolii provensale tratate într-o manieră care sfîrșește prin a părea drept parodie involuntară. În cazul lui TW:WH, facțiunea nici nu a fost gata pentru lansarea originală, ci a sosit mai tîrziu sub forma unui supliment gratuit în așa numita Old World Edition, fapt care nu o ajută prea mult, căci accentuează impresia unui lucru făcut la repezeală, pentru a ține promisiuni oricum ratate. Toate problemele și defectele jocului sunt amplificate dramatic din perspectiva Bretonniei, iar timpul petrecut aici reprezintă una dintre cele mai triste și frustrante experiențe virtuale de care am avut parte vreodată.</description>
+    </item>
     
     <item>
       <title>Retrospectiva Anului 2021: Știrile Anului</title>
@@ -163,15 +172,6 @@ Ancestors: The Humankind Odyssey ne poartă înapoi în timp cu 10 milioane de a
       <description>Revine Lucasfilm Games și EA nu mai sunt singurii care fac jocuri Star Wars, fondatorul CD Projekt își cere scuze public, Flash a murit definitiv, iar Yaga se lansează în sfârșit pe toate platformele.
 Știri  Disney face mutări pe segmentul jocurilor:
  &amp;hellip; mai întâi reactivează brandul Lucasfilm Games, care se va ocupa de acum încolo de gestionarea tuturor jocurilor bazate pe filmele Lucasfilm (GamesIndustry.biz, Shacknews, Kotaku, Escapist, Destructoid, GamesIndustry.biz) &amp;hellip; întrerupe exclusivitatea pe care o avea cu EA și încheie o înțelegere cu Ubisoft pentru un joc nou open-world în universul Star Wars, de care se va ocupa studioul Massive Entertainment (seria The Division) (VideoGamesChronicle, Shacknews, PC Gamer, Kotaku) &amp;hellip; și a dat undă verde și unui nou joc Indiana Jones, care va fi produs de Bethesda prin studioul Machine Games (seria Wolfenstein).</description>
-    </item>
-    
-    <item>
-      <title>Fell Seal: Arbiter&#39;s Mark</title>
-      <link>https://candaparerevista.ro/posts/2021/01/review-fell-seal-arbiter-mark/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/01/review-fell-seal-arbiter-mark/</guid>
-      <description>Ai crede că după decenii de jucat jocuri pe calculator ai fi jucat de toate, dar cu cât joci mai multe cu atât îți dai seama cât de multe mai ai de jucat. Faptul că România, că restul zonei balcanice, din rațiuni pur politice legate de securi și ciocane, a fost „scutită” de influența Nintendo și Sony nu e ceva nou. A fost „scutită” de Dreamcast-uri, de SEGA Genesis, NES-uri și aproape și de prima serie de Playstation-uri, cu toate jocurile care face lumea vestică, dar și depărtat-estică, să cadă în genunchi de nostalgie.</description>
     </item>
     
   </channel>
