@@ -6,10 +6,21 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 7 - 13 martie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/03/14/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/03/14/</guid>
+      <description>Serverele Rust au luat foc, Roblox are o valoare de piață cât EA și Florian Munteanu a fost distribuit în filmul Borderlands.
+Știri  Un incendiu la un centru de date din Strasbourg a dus la pierderea tuturor serverelor europene ale jocului Rust. (VideoGamesChronicle, Shacknews, PC Gamer, Kotaku)
+ How Rust got back online after its servers literally caught fire (PC Gamer)  Compania Roblox s-a listat în sfârșit la bursă, iar tranzacțiile acțiunilor sale din prima zi au crescut valoarea companiei cu 38 miliarde de dolari. (GamesIndustry.biz, Eurogamer, Kotaku, VideoGamesChronicle, PC Gamer)</description>
+    </item>
     
     <item>
       <title>Retrospectiva Anului 2021: Știrile Anului</title>
@@ -166,15 +177,6 @@
       
       <guid>https://candaparerevista.ro/highlights/istorie/2020/stiri/</guid>
       <description>29 decembrie 2019 - 4 ianuarie  Jocul Witcher 3 a atins la sfârșitul anului 2019, un record de popularitate, având mai mulți jucători simultani pe Steam decât a avut chiar și la lansare, motivul fiind, fără îndoială, succesul serialului proaspăt lansat de Netflix în decembrie. (Destructoid, Eurogamer, PC Gamer) Filmul Uncharted pierde și al șaselea regizor, după ce Travis Knight a renunțat la proiect din cauza orarului. (Polygon, Destructoid, Escapist, VideoGamesChronicle, GamesIndustry.biz) Industria de jocuri a generat în 2019 venituri de 120 miliarde dolari&amp;hellip; (GamesIndustry.biz, VentureBeat) &amp;hellip; iar Fortnite a fost jocul cu cele mai mari încasări: 1,8 miliarde de dolari.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva Anului 2020: Calendarul Lansărilor</title>
-      <link>https://candaparerevista.ro/highlights/istorie/2020/lansari/</link>
-      <pubDate>Thu, 31 Dec 2020 00:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/istorie/2020/lansari/</guid>
-      <description>29 decembrie 2019 - 4 ianuarie  1 ianuarie: miniLAW: Ministry of Law (Steam)  5 - 11 ianuarie  9 ianuarie: Monster Hunter World: Iceborne (Steam) 9 ianuarie: Rusty Lake: The White Door (Steam) 9 ianuarie: AO Tennis 2 (Steam)  12 - 18 ianuarie  14 ianuarie: Orangeblood (Steam) 14 ianuarie: Darwin Project (Steam) 15 ianuarie: Wizardry: Labyrinth Of Lost Souls (Steam) 15 ianuarie: Lightmatter (Steam) 16 ianuarie: Total War: Three Kingdoms – Mandate of Heaven (Steam) 16 ianuarie: A Long Way Down (Steam) 16 ianuarie: Super Crush KO (Steam) 17 ianuarie: Dragon Ball Z: Kakarot (Steam)  19 - 25 ianuarie  21 ianuarie: Frostpunk: The Last Autumn DLC (Steam, gog.</description>
     </item>
     
   </channel>

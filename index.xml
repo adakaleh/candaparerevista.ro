@@ -6,10 +6,21 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 7 - 13 martie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/03/14/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/03/14/</guid>
+      <description>Serverele Rust au luat foc, Roblox are o valoare de piață cât EA și Florian Munteanu a fost distribuit în filmul Borderlands.
+Știri  Un incendiu la un centru de date din Strasbourg a dus la pierderea tuturor serverelor europene ale jocului Rust. (VideoGamesChronicle, Shacknews, PC Gamer, Kotaku)
+ How Rust got back online after its servers literally caught fire (PC Gamer)  Compania Roblox s-a listat în sfârșit la bursă, iar tranzacțiile acțiunilor sale din prima zi au crescut valoarea companiei cu 38 miliarde de dolari. (GamesIndustry.biz, Eurogamer, Kotaku, VideoGamesChronicle, PC Gamer)</description>
+    </item>
     
     <item>
       <title>Total War: Warhammer (III)</title>
@@ -161,17 +172,6 @@ Ancestors: The Humankind Odyssey ne poartă înapoi în timp cu 10 milioane de a
       
       <guid>https://candaparerevista.ro/posts/2021/01/review-total-war-warhammer-ii/</guid>
       <description>Scurți de statură, dar compensînd cu lungimea bărbii, piticii sunt una dintre cele mai bătrîne civilizații ale Lumii Vechi și totodată una destul de atipică. Spre exemplu, piticii nu au divinități în sensul teologic uzual, anume ființe supranaturale care să intervină în chestiuni lumești. Ei își venerează strămoșii, la loc de cinste fiind făurarul Grugni, care i-a scos din paleoliticul piticesc prin meșteșugul metalurgiei, gospodina Valaya, care a descoperit secretul vital al fabricării berii, și supăriciul Grimnir de la care au învățat deprinderea esențială de crăpare a țestelor potrivnice cu securea.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 10 - 16 ianuarie 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/01/17/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/01/17/</guid>
-      <description>Revine Lucasfilm Games și EA nu mai sunt singurii care fac jocuri Star Wars, fondatorul CD Projekt își cere scuze public, Flash a murit definitiv, iar Yaga se lansează în sfârșit pe toate platformele.
-Știri  Disney face mutări pe segmentul jocurilor:
- &amp;hellip; mai întâi reactivează brandul Lucasfilm Games, care se va ocupa de acum încolo de gestionarea tuturor jocurilor bazate pe filmele Lucasfilm (GamesIndustry.biz, Shacknews, Kotaku, Escapist, Destructoid, GamesIndustry.biz) &amp;hellip; întrerupe exclusivitatea pe care o avea cu EA și încheie o înțelegere cu Ubisoft pentru un joc nou open-world în universul Star Wars, de care se va ocupa studioul Massive Entertainment (seria The Division) (VideoGamesChronicle, Shacknews, PC Gamer, Kotaku) &amp;hellip; și a dat undă verde și unui nou joc Indiana Jones, care va fi produs de Bethesda prin studioul Machine Games (seria Wolfenstein).</description>
     </item>
     
   </channel>
