@@ -6,10 +6,21 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 14 - 20 martie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/03/21/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/03/21/</guid>
+      <description>Medal of Honor e nominalizat la oscar, Devotion revine la vânzare, Intel lansează o serie nouă de procesoare desktop iar Bobby Kotick primește din nou bonus în timp ce angajații sunt concediați.
+Știri  Un film intitulat „Colette” din galeria de materiale suplimentare incluse în jocul VR Medal of Honor: Above and Beyond a fost nominalizat pentru un premiu Oscar la categoria scurt-metraj document ar. (Kotaku, PC Gamer)
+ Jocul taiwanez Devotion, care a cunoscut o întreagă epopee de la lansarea sa în 2019, tot fiind retras de la vânzare în urma scandalurilor legate de China, este din nou disponibil după ce dezvoltatorii și-au făcut propriul magazin online.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 7 - 13 martie 2021</title>
@@ -168,15 +179,6 @@
       <guid>https://candaparerevista.ro/highlights/2021/01/03/</guid>
       <description>Începem anul fără știri importante.
 Știri (fără știri relevante)</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva Anului 2020: Știrile Anului</title>
-      <link>https://candaparerevista.ro/highlights/istorie/2020/stiri/</link>
-      <pubDate>Thu, 31 Dec 2020 00:00:03 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/istorie/2020/stiri/</guid>
-      <description>29 decembrie 2019 - 4 ianuarie  Jocul Witcher 3 a atins la sfârșitul anului 2019, un record de popularitate, având mai mulți jucători simultani pe Steam decât a avut chiar și la lansare, motivul fiind, fără îndoială, succesul serialului proaspăt lansat de Netflix în decembrie. (Destructoid, Eurogamer, PC Gamer) Filmul Uncharted pierde și al șaselea regizor, după ce Travis Knight a renunțat la proiect din cauza orarului. (Polygon, Destructoid, Escapist, VideoGamesChronicle, GamesIndustry.biz) Industria de jocuri a generat în 2019 venituri de 120 miliarde dolari&amp;hellip; (GamesIndustry.biz, VentureBeat) &amp;hellip; iar Fortnite a fost jocul cu cele mai mari încasări: 1,8 miliarde de dolari.</description>
     </item>
     
   </channel>
