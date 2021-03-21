@@ -11,11 +11,11 @@ facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-description: "Medal of Honor e nominalizat la oscar, **Devotion** revine la vânzare, Intel lansează o serie nouă de procesoare desktop iar Bobby Kotick primește din nou bonus în timp ce angajații sunt concediați."
+description: "Medal of Honor e nominalizat la oscar, Devotion revine la vânzare, Intel lansează o serie nouă de procesoare desktop iar Bobby Kotick primește din nou bonus în timp ce angajații sunt concediați."
 
 ---
 
-**Medal of Honor** e nominalizat la oscar, Devotion revine la vânzare, Intel lansează o serie nouă de procesoare desktop iar Bobby Kotick primește din nou bonus în timp ce angajații sunt concediați.
+**Medal of Honor** e nominalizat la oscar, **Devotion** revine la vânzare, Intel lansează o serie nouă de procesoare desktop iar Bobby Kotick primește din nou bonus în timp ce angajații sunt concediați.
 
 ## Știri
 
