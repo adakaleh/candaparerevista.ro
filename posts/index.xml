@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Port Royale 4</title>
+      <link>https://candaparerevista.ro/posts/2021/03/review-port-royale-4/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/03/review-port-royale-4/</guid>
+      <description>În 1992 Ascaron Entertainment scotea pe piață The Patrician, un simulator economic plasat în perioada și jurisdicția ligii hanseatice… pe care nu am avut plăcerea să-l joc. Așadar o să trecem pe repede-înainte până în 2000 când Patrician II și-a făcut simțită prezenta. În Germania jocul a avut un succes notabil, astfel devenind relativ cunoscut și prin restul Europei. Toate aceste informații oferă context dar sunt neimportante și doar o formalitate de care mă achit, pentru că Patrician II este unul dintre jocurile cele mai dragi mie, în care am investit probabil peste o mie de ore și care încă mai reprezintă, alături de Transport Tycoon Deluxe, un punct de referință al genului.</description>
+    </item>
     
     <item>
       <title>Total War: Warhammer (III)</title>
@@ -143,15 +152,6 @@ WWH e o trilogie care te pune pe ține și încă o persoană în situația de a
       <guid>https://candaparerevista.ro/posts/2020/10/review-microsoft-flight-simulator/</guid>
       <description>Luna august a acestui an a marcat lansarea celei mai recente iterații, cea cu numărul 13, din legendara serie Microsoft Flight Simulator, care a debutat în 1982, fiind cu 3 ani mai veche chiar decât prima versiune de Windows. Precedentul titlu din serie, Microsoft Flight Simulator X, s-a lansat în 2006 și a fost foarte apreciat la vremea lui, fiind jucat chiar și până în timpurile noastre, dar nevoia de o actualizare se simțea de mult.
 Microsoft a făcut o mișcare îndrăzneață, încredințând dezvoltarea noului joc unui studio fără experiență în domeniul simulatoarelor.</description>
-    </item>
-    
-    <item>
-      <title>Mortal Shell</title>
-      <link>https://candaparerevista.ro/posts/2020/10/review-mortal-shell/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/10/review-mortal-shell/</guid>
-      <description>În urmă cu un an și jumătate a avut loc primul meu contact cu jocurile From Software. Sigur, strict și prin curiozitatea generată de meme-uri și alte glumițe de pe internet, m-am plimbat și eu ca tot omul prin Dark Souls atunci când s-a lansat versiunea de PC, dar nu cât să-i aprofundez lumea. În fapt, portarea necizelată nu m-a dat pe spate și am decis că o voi lăsa pe altădată. Iată că acest altădată a venit când studioul japonez a lansat pe piață Sekiro, care încă dinaintea apariției m-a cucerit prin estetică și atenția la detaliu, un deliciu pentru fanii culturii japoneze.</description>
     </item>
     
   </channel>
