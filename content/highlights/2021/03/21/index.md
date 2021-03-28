@@ -48,5 +48,7 @@ description: "Medal of Honor e nominalizat la oscar, Devotion revine la vânzare
 * 16 martie: **Saviors of Sapphire Wings** <sup>([Steam](https://store.steampowered.com/app/1363840/Saviors_of_Sapphire_Wings__Stranger_of_Sword_City_Revisited/), [Epic Store](https://www.epicgames.com/store/en-US/p/saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited), [gog.com](https://www.gog.com/game/saviors_of_sapphire_wings_stranger_of_sword_city_revisited))</sup>
 * 16 martie: **X4: Cradle of Humanity** <sup>([Steam](https://store.steampowered.com/app/1288460/X4_Cradle_of_Humanity/), [gog.com](https://www.gog.com/game/x4_cradle_of_humanity))</sup>
 * 16 martie: **The Outer Worlds: Murder on Eridanos** <sup>([Steam](https://store.steampowered.com/app/1393111/The_Outer_Worlds_Murder_on_Eridanos/), [gog.com](https://www.gog.com/game/the_outer_worlds_murder_on_eridanos))</sup>
+* 17 martie: **Adios** <sup>([Steam](https://store.steampowered.com/app/1271400/Adios/))</sup>
 * 18 martie: **Cartel Tycoon** <sup>([Steam](https://store.steampowered.com/app/1220140/Cartel_Tycoon/), [Epic Store](https://www.epicgames.com/store/en-US/p/cartel-tycoon), [gog.com](https://www.gog.com/game/cartel_tycoon))</sup>
 * 18 martie: **Endzone - A World Apart**(iese din early access) <sup>([Steam](https://store.steampowered.com/app/933820/Endzone__A_World_Apart/))</sup>
+* 18 martie: **Mr. Prepper** <sup>([Steam](https://store.steampowered.com/app/761830/Mr_Prepper/))</sup>
