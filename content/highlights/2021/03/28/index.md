@@ -49,3 +49,4 @@ description: "Știrile săptămânii vin în principal de la Sony și Microsoft,
 * 26 martie: **Spacebase Startopia** <sup>([Steam](https://store.steampowered.com/app/840390/Spacebase_Startopia/), [Epic Store](https://www.epicgames.com/store/en-US/p/spacebase-startopia))</sup>
 * 26 martie: **Adeptus Titanicus: Dominus** <sup>([Steam](https://store.steampowered.com/app/853140/Adeptus_Titanicus_Dominus/), [gog.com](https://www.gog.com/game/adeptus_titanicus_dominus))</sup>
 * 26 martie: **Crash Bandicoot 4: It’s About Time** (PC) <sup>([Battle.net](https://us.shop.battle.net/en-us/product/crash-bandicoot-4))</sup>
+* 26 martie: **Subverse** (early access) <sup>([Steam](https://store.steampowered.com/app/1034140/Subverse/))</sup>
