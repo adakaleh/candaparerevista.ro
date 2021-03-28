@@ -6,10 +6,22 @@
     <description>Recent content in Highlights on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/highlights/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mini-Retrospectiva săptămânii 21 - 27 martie 2021</title>
+      <link>https://candaparerevista.ro/highlights/2021/03/28/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2021/03/28/</guid>
+      <description>Știrile săptămânii vin în principal de la Sony și Microsoft, plus premiile BAFTA câștigate de Hades.
+Știri  Microsoft se află în negocieri pentru achiziția platformei Discord, conform unui reportaj Bloomberg, valoarea tranzacției situându-se la aproximativ 10 miliarde de dolari. (Ars Technica, Destructoid, Eurogamer)
+ Microsoft schimbă numele serviciului online Xbox Live în Xbox Network pentru a-l diferenția mai bine de abonamentele Xbox Live Gold. (The Verge, Polygon, Escapist, GamesIndustry.biz)
+ Sony a dat undă verde unei ecranizări a jocului Ghost of Tsushima, film ce va fi regizat de Chad Stahelski, regizorul lui John Wick.</description>
+    </item>
     
     <item>
       <title>Mini-Retrospectiva săptămânii 14 - 20 martie 2021</title>
@@ -169,16 +181,6 @@
 Știri  Epic Games vrea să-și schimbe sediul global, cumpărând în acest sens un fost mall cu o suprafață de 9 hectare. (Polygon, Shacknews, VideoGamesChronicle)
  O parte din angajații Google au înființat primul sindicat din istoria companiei. (Shacknews, GamesIndustry.biz)
  Un reportaj Bloomberg prezintă o parte mai puțin știută din istoria Xbox și povestește cum Microsoft a vrut să facă o intrare puternică pe piața consolelor în urmă cu 20 de an încercând să cumpere mai multe companii, printre care EA, Nintendo, Midway și Square, rămânând până la urmă doar cu Bungie.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 27 decembrie 2020 - 2 ianuarie 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/01/03/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/01/03/</guid>
-      <description>Începem anul fără știri importante.
-Știri (fără știri relevante)</description>
     </item>
     
   </channel>
