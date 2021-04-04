@@ -33,6 +33,7 @@ description: "Știrile săptămânii vin în principal de la Sony și Microsoft,
 ## Anunţuri şi lansări de jocuri
 
 ### Lansate
+* 22 martie: **Out of the Park Baseball 22** <sup>([Steam](https://store.steampowered.com/app/1455660/Out_of_the_Park_Baseball_22/))</sup>
 * 23 martie: **Inspector Waffles** <sup>([Steam](https://store.steampowered.com/app/1055850/Inspector_Waffles/), [gog.com](https://www.gog.com/game/inspector_waffles))</sup>
 * 23 martie: **Arkham Horror: Mother's Embrace** <sup>([Steam](https://store.steampowered.com/app/840210/Arkham_Horror_Mothers_Embrace/), [gog.com](https://www.gog.com/game/arkham_horror_mothers_embrace))</sup>
 * 24 martie: **Paradise Lost** <sup>([Steam](https://store.steampowered.com/app/982720/Paradise_Lost/), [gog.com](https://www.gog.com/game/paradise_lost))</sup>
@@ -41,6 +42,7 @@ description: "Știrile săptămânii vin în principal de la Sony și Microsoft,
 * 25 martie: **Sentience** (early access) <sup>([Steam](https://store.steampowered.com/app/1352540/Sentience/))</sup>
 * 25 martie: **Black Legend** <sup>([Steam](https://store.steampowered.com/app/1094730/Black_Legend/), [gog.com](https://www.gog.com/game/black_legend))</sup>
 * 25 martie: **Dandy Ace** <sup>([Steam](https://store.steampowered.com/app/1037130/Dandy_Ace/))</sup>
+* 25 martie: **Yakuza 6: The Song of Life** <sup>([Steam](https://store.steampowered.com/app/1388590/Yakuza_6_The_Song_of_Life/))</sup>
 * 25 martie: **The Tenants** (early access) <sup>([Steam](https://store.steampowered.com/app/1009560/The_Tenants/), [gog.com](https://www.gog.com/game/the_tenants))</sup>
 * 26 martie: **Genesis Noir** <sup>([Steam](https://store.steampowered.com/app/735290/Genesis_Noir/), [gog.com](https://www.gog.com/game/genesis_noir), [Epic Store](https://www.epicgames.com/store/en-US/p/genesis-noir))</sup>
 * 25 martie: **The Bus** (early access) <sup>([Steam](https://store.steampowered.com/app/491540/The_Bus/))</sup>

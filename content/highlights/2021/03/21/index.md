@@ -52,3 +52,5 @@ description: "Medal of Honor e nominalizat la oscar, Devotion revine la vânzare
 * 18 martie: **Cartel Tycoon** <sup>([Steam](https://store.steampowered.com/app/1220140/Cartel_Tycoon/), [Epic Store](https://www.epicgames.com/store/en-US/p/cartel-tycoon), [gog.com](https://www.gog.com/game/cartel_tycoon))</sup>
 * 18 martie: **Endzone - A World Apart**(iese din early access) <sup>([Steam](https://store.steampowered.com/app/933820/Endzone__A_World_Apart/))</sup>
 * 18 martie: **Mr. Prepper** <sup>([Steam](https://store.steampowered.com/app/761830/Mr_Prepper/))</sup>
+* 18 martie: **Enderal: Forgotten Stories (Special Edition)** <sup>([Steam](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/))</sup>
+* 19 martie: **Sizeable** <sup>([Steam](https://store.steampowered.com/app/1333910/Sizeable/))</sup>
