@@ -9,13 +9,13 @@ categories:
 tags:
     - Outer Wilds
     - Știință & Tehnică
-draft: true
+
 sursa:
   text: O versiune modificată a acestui articol a fost publicată inițial în revista Știință & Tehnică nr. 103 (martie 2021)
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1864
 
-description: ""
+description: "Probabil că mulți dintre noi ne-am închipuit în copilărie tot felul de aventuri în necunoscut, înfruntând pericole de tot felul înarmați doar cu recuzită încropită din ce jucării sau obiecte casnice aveam la îndemână. Nu era nevoie de mult pentru a ne aprinde fanteziile și a ne transpune în adâncul pământului sau în spațiu. Outer Wilds recreează în mod miraculos acea magie a copilăriei în lumea adulților, o aventură ancorată în știință, dar plină de necunoscut, care ne cheamă să-l cucerim. "
 
 infoBox:
   data: '2019-05-30'
@@ -40,11 +40,17 @@ resources:
 
 ---
 
-Probabil că mulți dintre noi ne-am închipuit în copilărie tot felul de aventuri în necunoscut, înfruntând pericole de tot felul înarmați doar cu recuzită încropită din ce jucării sau obiecte casnice aveam la îndemână. Nu era nevoie de mult pentru a ne aprinde fanteziile și a ne transpune în adâncul pământului sau în spațiu.
+Într-un timp foarte scurt, Annapurna Interactive a devenit un publisher extrem de interesant și de atrăgător. Începând cu 2017, când au debutat cu **What Remains of Edith Finch**, Annapurna au publicat o serie de jocuri originale cu succes atât la public, dar și la critică, fără vreun pas greșit, astfel încât, după publicarea Outer Wilds în 2019, logo-ul „Annapurna” pe genericul unui joc deja putea fi considerat sinonim cu sigiliu al calității, iar timpul scurs de atunci nu a făcut decât să consolideze acest statut — anul trecut, Annapurna s-a aflat pe locul 2 într-un [top Metacritic](https://www.metacritic.com/feature/2021-game-publisher-rankings-summary-table) al publisher-ilor, bazat pe notele jocurilor publicate.
 
-Outer Wilds recreează în mod miraculos acea magie a copilăriei în lumea adulților, o aventură ancorată în știință, dar plină de necunoscut, care ne cheamă să-l cucerim. E un joc făcut, parcă, pentru a ilustra toate citatele lui Carl Sagan despre imaginație, sete de cunoaștere și locul nostru într-un univers uriaș, prin felul în care jonglează cu ușurință și coerență cu tot felul de concepte fizice precum supernove, găuri negre, stele albe, călătoria în timp, mecanică cuantică, păstrând în același timp sentimentul de uimire copilărească în fața mărețiilor naturii.
+Preluând etosul companiei-mamă, [Annapurna Pictures](https://en.wikipedia.org/wiki/Annapurna_Pictures), care se ocupă cu producția și distribuția de filme (aruncați un ochi în portofoliul companiei și veți găsi o mulțime de titluri interesante), Annapurna Interactive au reușit să găsească și să publice proiecte originale și cu o pronunțată latură artistică, precum **Gorogoa**, **Florence**, **Telling Lies**, **Gone Home** și multe altele. Sunt jocuri orientate către un public mai matur, care nu caută neapărat gratificare imediată, și care pot să abordeze și teme mai complexe.
 
 {{< youtube ZKJUMMCJvGM >}}
+
+## ***
+
+Probabil că mulți dintre noi ne-am închipuit în copilărie tot felul de aventuri în necunoscut, înfruntând pericole de tot felul înarmați doar cu recuzită încropită din ce jucării sau obiecte casnice aveam la îndemână. Nu era nevoie de mult pentru a ne aprinde fanteziile și a ne transpune în adâncul pământului sau în spațiu.
+
+**Outer Wilds** recreează în mod miraculos acea magie a copilăriei în lumea adulților, o aventură ancorată în știință, dar plină de necunoscut, care ne cheamă să-l cucerim. E un joc făcut, parcă, pentru a ilustra toate citatele lui Carl Sagan despre imaginație, sete de cunoaștere și locul nostru într-un univers uriaș, prin felul în care jonglează cu ușurință și coerență cu tot felul de concepte fizice precum supernove, găuri negre, stele albe, călătoria în timp, mecanică cuantică, păstrând în același timp sentimentul de uimire copilărească în fața mărețiilor naturii. E un adventure unic, fără obiective prestabilite, hartă inventar sau meniuri, fiind propulsat doar de curiozitatea jucătorului și misterele ascunse în necunoscut, ce pot fi explorate în orice ordine.
 
 Jocul începe undeva departe în spațiu și timp, într-un loc asemănător cu Pământul nostru — o planetă stâncoasă, cu atmosferă, viață, brazi, râuri, iar deasupra o mică Lună. Personajul nostru, cel mai recent absolvent al programului spațial local, e gata de îmbarcare în nava spațială ce-l va purta în expediția de explorare a sistemului solar. Dar nici nu apucăm bine să ne obișnuim cu lumea jocului și să decolăm, când deodată soarele explodează, totul e distrus și jocul ia sfârșit. Poftim?!
 
