@@ -11,15 +11,15 @@ facebookImage: /highlights/coperta-retrospectiva-default.jpg
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=84&t=1822
 
-description: "S-a lansat un nou joc românesc, iar FBI e pe urmele trișorilor din meciurile de Counter Strike."
+description: "S-a lansat un nou joc românesc, iar FBI e pe urmele trișorilor din meciurile de Counter-Strike."
 
 ---
 
-S-a lansat un nou joc românesc, iar FBI e pe urmele trișorilor din meciurile de Counter Strike.
+S-a lansat un nou joc românesc, iar FBI e pe urmele trișorilor din meciurile de Counter-Strike.
 
 ## Știri
 
-* FBI investighează presupusele blaturi din meciurile profesioniste de **Conter Strike: Global Offensive** <sup>([Eurogamer](https://www.eurogamer.net/articles/2021-04-04-the-fbi-is-investigating-counter-strike-global-offensive-cheating), [PC Gamer](https://www.pcgamer.com/esports-commission-confirms-fbi-is-investigating-match-fixing-but-says-its-not-new/), [Game World Observer](https://gameworldobserver.com/2021/04/06/fbi-steps-in-to-investigate-csgo-match-fixing-in-north-america))</sup>
+* FBI investighează presupusele blaturi din meciurile profesioniste de **Counter-Strike: Global Offensive** <sup>([Eurogamer](https://www.eurogamer.net/articles/2021-04-04-the-fbi-is-investigating-counter-strike-global-offensive-cheating), [PC Gamer](https://www.pcgamer.com/esports-commission-confirms-fbi-is-investigating-match-fixing-but-says-its-not-new/), [Game World Observer](https://gameworldobserver.com/2021/04/06/fbi-steps-in-to-investigate-csgo-match-fixing-in-north-america))</sup>
 * Nintendo, Xbox și Ubisoft susțin organizarea E3 2021. Această ediție a evenimentului va avea loc exclusiv online, între 12 și 15 iunie. <sup>([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-04-06-nintendo-xbox-and-ubisoft-back-digital-only-e3-2021))</sup>
 
 ## Made în România
