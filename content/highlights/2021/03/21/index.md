@@ -19,7 +19,7 @@ description: "Medal of Honor e nominalizat la oscar, Devotion revine la vânzare
 
 ## Știri
 
-* Un film intitulat „Colette” din galeria de materiale suplimentare incluse în jocul VR **Medal of Honor: Above and Beyond** a fost nominalizat pentru un premiu Oscar la categoria scurt-metraj document ar. <sup>([Kotaku](https://kotaku.com/a-short-film-from-medal-of-honor-has-been-nominated-for-1846495186), [PC Gamer](https://www.pcgamer.com/respawn-may-be-the-first-game-developer-to-be-nominated-for-an-oscar/))</sup>
+* Un film intitulat „Colette” din galeria de materiale suplimentare incluse în jocul VR **Medal of Honor: Above and Beyond** a fost nominalizat pentru un premiu Oscar la categoria scurt-metraj documentar. <sup>([Kotaku](https://kotaku.com/a-short-film-from-medal-of-honor-has-been-nominated-for-1846495186), [PC Gamer](https://www.pcgamer.com/respawn-may-be-the-first-game-developer-to-be-nominated-for-an-oscar/))</sup>
 
 * Jocul taiwanez Devotion, care a cunoscut o întreagă epopee de la lansarea sa în 2019, tot fiind retras de la vânzare în urma scandalurilor legate de China, este din nou disponibil după ce dezvoltatorii și-au făcut propriul magazin online. <sup>([Kotaku](https://kotaku.com/controversial-taiwanese-horror-game-devotion-is-back-an-1846475830), [Escapist](https://www.escapistmagazine.com/v2/devotion-available-again-after-red-candle-games-launches-its-own-eshop/), [Polygon](https://www.polygon.com/22331418/devotion-playable-red-candle-games-store-horror), [Eurogamer](https://www.eurogamer.net/articles/2021-03-15-devotion-returns-to-sale-digitally-two-years-after-it-was-delisted))</sup>
 
