@@ -35,6 +35,7 @@ Cyberpunk 2077 a fost un succes financiar, Hades câștigă și premiile DICE, i
 ## Anunțuri şi lansări de jocuri
 ### Lansate
 * 20 aprilie: **Don't Forget Me** <sup>([Steam](https://store.steampowered.com/app/1335800/Dont_Forget_Me/), [gog.com](https://www.gog.com/game/dont_forget_me))</sup>
+* 20 aprilie: **Silicon Dreams | cyberpunk interrogation** <sup>([Steam](https://store.steampowered.com/app/1272070/Silicon_Dreams____cyberpunk_interrogation/))</sup>
 * 22 aprilie: **Orbital Bullet** (early access) <sup>([Steam](https://store.steampowered.com/app/1167680/Orbital_Bullet__The_360_Roguelite/))</sup>
 * 22 aprilie: **Smelter** <sup>([Steam](https://store.steampowered.com/app/1094540/Smelter/), [gog.com](https://www.gog.com/game/smelter))</sup>
 * 22 aprilie: **We Are The Caretakers** (early access) <sup>([Steam](https://store.steampowered.com/app/1042960/We_Are_The_Caretakers/))</sup>

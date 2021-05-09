@@ -39,4 +39,5 @@ Epic Games e peste tot în știri săptămâna aceasta, atât cu noutăți despr
 * 15 aprilie: **Hitchhiker - A Mystery Game** <sup>([Steam](https://store.steampowered.com/app/1003120/Hitchhiker__A_Mystery_Game/), [gog.com](https://www.gog.com/game/hitchhiker_a_mystery_game))</sup>
 * 15 aprilie: **Stellaris: Nemesis** <sup>([Steam](https://store.steampowered.com/app/1522090/Stellaris_Nemesis/), [gog.com](https://www.gog.com/game/stellaris_nemesis))</sup>
 * 15 aprilie: **Shadow Man Remastered** <sup>([Steam](https://store.steampowered.com/app/1413870/Shadow_Man_Remastered/), [gog.com](https://www.gog.com/game/shadow_man_remastered))</sup>
+* 15 aprilie: **Quantum League** <sup>([Steam](https://store.steampowered.com/app/651150/Quantum_League/))</sup>
 * 16 aprilie: **Emily is Away <3** <sup>([Steam](https://store.steampowered.com/app/978460/Emily_is_Away_3/))</sup>
