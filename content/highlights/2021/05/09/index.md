@@ -74,8 +74,12 @@ Alte articole:
 
 ## Anunţuri şi lansări de jocuri
 ### Lansate
+* 3 mai: **The Bart Bonte collection** <sup>([Steam](https://store.steampowered.com/app/1574910/The_Bart_Bonte_collection/))</sup>
 * 4 mai: **X3: Farnham's Legacy** (joc gratuit făcut de fani) <sup>([Steam](https://store.steampowered.com/app/483330/X3_Farnhams_Legacy/), [gog.com](https://www.gog.com/game/x3_terran_war_pack?pp=10594093386de500e04b3fdabcce7ec3ff556dc5))</sup>
 * 5 mai: **Distant Kingdoms** (early access) <sup>([Steam](https://store.steampowered.com/app/1090760/Distant_Kingdoms/), [gog.com](https://www.gog.com/game/distant_kingdoms))</sup>
+* 6 mai: **Cloud Cutter** <sup>([Steam](https://store.steampowered.com/app/1584750/Cloud_Cutter/))</sup>
+* 6 mai: **Skate City** <sup>([Steam](https://store.steampowered.com/app/1361670/Skate_City/), [Epic Store](https://www.epicgames.com/store/en-US/p/skate-city))</sup>
 * 7 mai: **Papetura** <sup>([Steam](https://store.steampowered.com/app/593640/Papetura/), [gog.com](https://www.gog.com/game/papetura))</sup>
 * 7 mai: **The Invisible Hand** <sup>([Steam](https://store.steampowered.com/app/628200/The_Invisible_Hand/), [gog.com](https://www.gog.com/game/the_invisible_hand))</sup>
 * 7 mai: **Resident Evil Village** <sup>([Steam](https://store.steampowered.com/app/1196590/Resident_Evil_Village/))</sup>
+* 8 mai: **Nongunz: Doppelganger Edition** <sup>([Steam](https://store.steampowered.com/app/1304780/Nongunz_Doppelganger_Edition/), [gog.com](https://www.gog.com/game/nongunz_doppelganger_edition))</sup>
