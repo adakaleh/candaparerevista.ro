@@ -44,7 +44,7 @@ Epic scapă de proces plătind cu monede virtuale, Terraria va reveni pe Stadia,
 
 ## Made în România
 
-* Mai multe jocuri și dezvoltatări români au fost nominalizați la premiile PocketGamer Awards 2021. Este vorba de **Interrogation: Deceived** ([Best Game Narrative](https://www.pocketgamer.com/pgawards2021/vote/best-game-narrative/)), **Not Chess** ([Best Strategy Game](https://www.pocketgamer.com/pgawards2021/vote/best-strategy-game/)), **Door Kickers: Action Squad** ([Best Shooter](https://www.pocketgamer.com/pgawards2021/vote/best-shooter/) și [Best Action Game](https://www.pocketgamer.com/pgawards2021/vote/best-action-game/)) și Tepes Ovidiu ([Best Mobile Developer](https://www.pocketgamer.com/pgawards2021/vote/best-mobile-developer/)).
+* Mai multe jocuri și dezvoltatori români au fost nominalizați la premiile PocketGamer Awards 2021. Este vorba de **Interrogation: Deceived** ([Best Game Narrative](https://www.pocketgamer.com/pgawards2021/vote/best-game-narrative/)), **Not Chess** ([Best Strategy Game](https://www.pocketgamer.com/pgawards2021/vote/best-strategy-game/)), **Door Kickers: Action Squad** ([Best Shooter](https://www.pocketgamer.com/pgawards2021/vote/best-shooter/) și [Best Action Game](https://www.pocketgamer.com/pgawards2021/vote/best-action-game/)) și Tepes Ovidiu ([Best Mobile Developer](https://www.pocketgamer.com/pgawards2021/vote/best-mobile-developer/)).
 
 ## Anunţuri şi lansări de jocuri
 ### Lansate
