@@ -9,11 +9,11 @@ tags:
     - Strangeland
 
 sursa:
-   link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2628
+   link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2720
    text: Articolele Comunității
-   data: 2021-01-31
+   data: 2021-05-25
 
-linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2628
+linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=2720
 
 description: "Există o poveste bine cunoscută în mitologia greacă, mai exact mitul lui Icar și a ascensiunii acestuia până la soare. În aroganța sa specifică fie vârstei, fie a omului în general, Icar a crezut că se poate apropia de soare. Bineînțeles, această credință s-a topit odată cu aripile sale de ceară, iar ce a urmat după a fost doar prăbușirea în întuneric. Sigur, există interpretări peste interpretări ale acestui mit, dar ce se întâmplă atunci când propriile noastre minți devin labirinturi ale regretului și pierderii iar aripile nu sunt nimic mai mult decât bule de săpun în briza unei seri de vară?"
 
@@ -65,4 +65,4 @@ Din punct de vedere audio-vizual pășim într-o lume a melancoliei, cu inspira�
 
 Ajungem și la punctul sensibil al acestui review. Nu mi-a plăcut Strangeland. Sigur, am apreciat la nivel intelectual inspirațiile și temele, dar totul mi s-a părut prea încărcat și cu desfășurare pe un interval timp prea scurt în lumea reală. Jocul ține doar vreo 5-6 ore iar, personal, nu sunt adeptul rejucării unui titlu pentru a lua alte decizii. Mi-aș fi dorit să mă simt absorbit de joc, dar asta nu s-a întâmplat. Toată experiența a fost una mai degrabă chirurgicală pentru mine, în care nu am simțit această călătorie prin carnaval ca fiind a mea, ci mai degrabă ca luând parte la o căutare a sinelui în urma unei tragedii personale a altcuiva.
 
-Ca și concluzie, Strangeland mi se pare că gâdilă la intelect și cam atât. Poate alte persoane vor aprecia jocul la un nivel mai emoțional, dar pentru mine nu a fost mai mult decât o sesiune de momente în care m-am scărpinat în bărbie și am zis „hmm… interesant”. Desigur, în adâncul jocului mișună acel întuneric care m-a făcut să bănuiesc dureri și tristeți profunde, dar când am închis jocul tot acolo au rămas și aceste trăiri. Cu toate astea, tot este un point & click mai interesant decât multe din genul său, așa că vi-l recomand și numai pentru părțile sale bizare. Sau, cine știe, poate pe unii dintre voi va reuși să vă captiveze cu atracțiile sale trecătoare, dar vechi de când lumea. ■
+Ca și concluzie, Strangeland mi se pare că gâdilă la intelect și cam atât. Poate alte persoane vor aprecia jocul la un nivel mai emoțional, dar pentru mine nu a fost mai mult decât o sesiune de momente în care m-am scărpinat în bărbie și am zis „hmm… interesant”. Desigur, în adâncul jocului mișună acel întuneric care m-a făcut să bănuiesc dureri și tristeți profunde, dar când am închis jocul tot acolo au rămas și aceste trăiri. Cu toate astea, tot este un point & click mai interesant decât multe din genul său, așa că vi-l recomand și numai pentru părțile sale bizare. Sau, cine știe, poate pe unii dintre voi va reuși să vă captiveze cu atracțiile sale. ■
