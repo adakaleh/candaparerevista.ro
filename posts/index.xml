@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Strangeland</title>
+      <link>https://candaparerevista.ro/posts/2021/05/review-strangeland/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/05/review-strangeland/</guid>
+      <description>Există o poveste bine cunoscută în mitologia greacă, mai exact mitul lui Icar și a ascensiunii acestuia până la soare. În aroganța sa specifică fie vârstei, fie a omului în general, Icar a crezut că se poate apropia de soare. Bineînțeles, această credință s-a topit odată cu aripile sale de ceară, iar ce a urmat după a fost doar prăbușirea în întuneric. Sigur, există interpretări peste interpretări ale acestui mit, dar ce se întâmplă atunci când propriile noastre minți devin labirinturi ale regretului și pierderii iar aripile nu sunt nimic mai mult decât bule de săpun în briza unei seri de vară?</description>
+    </item>
     
     <item>
       <title>Cluedo</title>
@@ -140,16 +149,6 @@ Inspirată din literatura hard SF — în primul rând din Trilogia Marțiană a
       <guid>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</guid>
       <description>„O aventură suprarealistă inspirată din strania imaginație a lui Franz Kafka. Intră în rolul lui Gregor Samsa, transformat într-o mică insectă&amp;hellip;”, spune curajos descrierea jocului. Și te uiți la trailer, te uiți la screenshots și te gândești… da, acesta pare să fie un joc bazat pe lucrările lui Kafka.
 Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și singura. Motivul transformării din om în insectă servește ca premisă a jocului, dar restul poveștii împrumută elemente din Procesul (Der Process) și, într-o măsură mai mică, din Castelul (Das Schloss).</description>
-    </item>
-    
-    <item>
-      <title>Severance: Blade of Darkness</title>
-      <link>https://candaparerevista.ro/posts/2020/11/retro-severance/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/11/retro-severance/</guid>
-      <description>Gînduri bune. Vorbe bune. Fapte bune. Și puțină cafteală pătimașă cu ipostaza distructivă.
-Șeherezada bocește în afara cadrului în vreme ce un nea profet recită versete apocaliptice cu o engleză de conac în care a dat umezeala. Asta peste vîntul ce spulberă frunze uscate deasupra unor scrijelituri asemănătoare unui alfabet ebraic. Apoi vin fumurile rele, prelingîndu-se peste o poartă pe care joacă Nataraja ușor alterat în simbolism. Dincolo de ea, o sabie stă înfiptă în soclu, cu figura unei zeițe selenare gravată în mîner. Cad trăznetele, iar din ochii zeiței curg șuvoaie de sînge.</description>
     </item>
     
   </channel>

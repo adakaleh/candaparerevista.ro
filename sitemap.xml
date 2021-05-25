@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2021/05/review-strangeland/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2021/stiri/</loc>
     <lastmod>2021-05-23T00:00:05+00:00</lastmod>
   </url>
@@ -2347,7 +2352,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/azad/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7588,7 +7593,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8038,7 +8043,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8516,7 +8521,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2021-05-23T00:00:05+00:00</lastmod>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8991,6 +8996,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/stoneshard/</loc>
     <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/strangeland/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
