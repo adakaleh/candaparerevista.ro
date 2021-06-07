@@ -55,6 +55,7 @@ Alte articole:
 * 18 mai: **Galactic Mining Corp** <sup>([Steam](https://store.steampowered.com/app/1218500/Galactic_Mining_Corp/))</sup>
 * 18 mai: **Days Gone** <sup>([Steam](https://store.steampowered.com/app/1259420/Days_Gone/))</sup>
 * 18 mai: **SnowRunner** (iese din exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/1465360/SnowRunner/))</sup>
+* 18 mai: **Just Act Natural** (early access) <sup>([Steam](https://store.steampowered.com/app/1485080/Just_Act_Natural/))</sup>
 * 19 mai: **Aerial_Knight's Never Yield** <sup>([Steam](https://store.steampowered.com/app/1323540/Aerial_Knights_Never_Yield/), [Epic Store](https://www.epicgames.com/store/en-US/p/aerial-knights-never-yield))</sup>
 * 19 mai: **Panzer Knights** <sup>([Steam](https://store.steampowered.com/app/1416230/Panzer_Knights/))</sup>
 * 19 mai: **Elite Dangerous: Odyssey** <sup>([Steam](https://store.steampowered.com/app/1336350/Elite_Dangerous_Odyssey/))</sup>
@@ -70,4 +71,5 @@ Alte articole:
 * 21 mai: **Timelie** <sup>([Steam](https://store.steampowered.com/app/1150950/Timelie/), [gog.com](https://www.gog.com/game/timelie))</sup>
 * 21 mai: **Strategic Mind: Fight for Freedom** <sup>([Steam](https://store.steampowered.com/app/1381850/Strategic_Mind_Fight_for_Freedom/), [gog.com](https://www.gog.com/game/strategic_mind_fight_for_freedom))</sup>
 * 21 mai: **41 Hours** <sup>([Steam](https://store.steampowered.com/app/1358020/41_Hours/))</sup>
+* 21 mai: **Shin Megami Tensei III Nocturne HD Remaster** <sup>([Steam](https://store.steampowered.com/app/1413480/Shin_Megami_Tensei_III_Nocturne_HD_Remaster/))</sup>
 * 22 mai: **Saints Row: The Third Remastered** <sup>([Steam](https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/))</sup>
