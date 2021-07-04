@@ -1,7 +1,7 @@
 ---
 title: "Retrospectiva Anului 2021: Știrile Anului"
 type: post
-date: 2021-05-23T00:00:05
+date: 2021-07-05T00:00:04
 categories:
     - Highlights
     - Istorie
@@ -358,3 +358,95 @@ Alte articole:
 * [Epic vs Apple - Week Two In Review: Does the judge have a solution in mind?](https://www.gamesindustry.biz/articles/2021-05-18-epic-vs-apple-week-two-in-review-does-the-judge-have-a-solution-in-mind) <sup>(GamesIndustry.biz)</sup>
 * [Why Roblox’s definition of “games” is key to the Epic vs. Apple case](https://arstechnica.com/gaming/2021/05/why-robloxs-definition-of-games-is-key-to-the-epic-vs-apple-case/) <sup>(Ars Technica)</sup>
 * [Epic Games v. Apple by the numbers: Fortnite is worth that much money?](https://arstechnica.com/gaming/2021/05/by-the-numbers-what-weve-learned-from-the-epic-games-v-apple-trial/) <sup>(Ars Technica)</sup>
+
+## [23 - 29 mai (+30 mai)]({{<relref "/highlights/2021/05/30">}})
+
+* A murit artistul belgian Benoît Sokal, creatorul seriei **Syberia**, la vârsta de 66 de ani. <sup>([Microids](https://www.microids.com/mourning-benoit-sokal/), [Kotaku](https://kotaku.com/benoit-sokal-creator-of-the-syberia-series-has-died-1847000866), [Eurogamer](https://www.eurogamer.net/articles/2021-05-29-a-true-visionary-tributes-to-syberia-creator-benoit-sokal-who-has-died-aged-66), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-05-31-syberia-author-and-artist-beno-t-sokal-dies))</sup>
+
+* Conform unor zvonuri credibile, Valve lucrează la un dispozitiv PC portabil pentru gaming (similar cu Switch) care să ruleze jocuri de pe Steam. <sup>([Ars Technica](https://arstechnica.com/gaming/2021/05/exclusive-valve-is-making-a-switch-like-portable-gaming-pc/), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-05-25-valve-reportedly-making-handheld-steam-pc), [PC Gamer](https://www.pcgamer.com/steam-client-update-code-points-to-possible-handheld-console-in-the-works/), [Kotaku](https://kotaku.com/report-valve-is-making-a-switch-like-portable-codename-1846967422))</sup>
+
+* Una dintre actrițele care au jucat în jocul **The Last Of Us**, Merle Dandridge (Marlene), va interpreta același rol și în serialul TV aflat în producție. <sup>([Kotaku](https://kotaku.com/the-last-of-us-game-actor-will-be-in-the-tv-series-1846988060), [Eurogamer](https://www.eurogamer.net/articles/2021-05-28-the-voice-of-marlene-will-play-marlene-in-the-last-of-us-tv-show), [Variety](https://variety.com/2021/tv/news/the-last-of-us-merle-dandridge-marlene-hbo-1234983605/))</sup>
+
+* Charlie Guillemot, fiul CEO-ului Ubisoft Yves Guillemot, părăsește compania, el deținând o poziție de conducere la unul dintre studiourile deținute de Ubisoft. <sup>([Kotaku](https://kotaku.com/charlie-guillemot-son-of-ubisoft-s-ceo-is-leaving-the-1846986415), [Shacknews](https://www.shacknews.com/article/124615/ubisoft-ceos-son-owlient-lead-resign-from-company))</sup>
+
+* Blizzard renunță la organizarea convenției BlizzCon din acest an. <sup>([VentureBeat](https://venturebeat.com/2021/05/26/blizzard-says-there-will-be-no-blizzcon-this-fall/), [PC Gamer](https://www.pcgamer.com/blizzcon-2021-is-not-happening), [Kotaku](https://kotaku.com/blizzcon-is-skipping-2021-due-to-continuing-covid-19-co-1846974716), [Shacknews](https://www.shacknews.com/article/124579/blizzard-cancels-november-blizzcon-event))</sup>
+
+* Epic Games lansează Unreal Engine 5 în early access. <sup>([VentureBeat](https://venturebeat.com/2021/05/26/epic-games-launches-unreal-engine-5-early-access-shows-massive-3d-scenes/), [Shacknews](https://www.shacknews.com/article/124578/unreal-engine-5-early-access-is-now-available-including-nanite-lumen-tech), [VideoGamesChronicle](https://www.videogameschronicle.com/news/epic-shows-new-unreal-engine-5-demo-as-ue5-gets-early-access-release/))</sup>
+
+* Borderlands 3 introduce cross-play pentru toate platformele mai puțin PlayStation, care, după cum am aflat în cadrul procesului dintre Epic și Apple, percepe tarife suplimentare pentru a permite această opțiune. <sup>([PC Gamer](https://www.pcgamer.com/borderlands-3-gets-partial-crossplay-but-refuses-to-play-by-sonys-rules), [Kotaku](https://kotaku.com/borderlands-3-is-getting-crossplay-everywhere-but-plays-1846982382), [Destructoid](https://www.destructoid.com/stories/gearbox-says-it-was-required-to-remove-borderlands-3-cross-play-for-playstation-consoles-630567.phtml))</sup>
+
+### Epic vs. Apple
+* Se încheie, după trei săptămâni, procesul dintre Epic și Apple cu pledoariile de final ale avocaților celor două părți. <sup>([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-05-24-epic-apple-make-their-closing-statements-as-three-week-antitrust-trial-comes-to-an-end), [VentureBeat](https://venturebeat.com/2021/05/24/apple-v-epic-antitrust-trial-closing-arguments-judge-grills-both-sides-on-competition/))</sup>
+
+## [31 mai - 6 iunie]({{<relref "/highlights/2021/06/07">}})
+
+* Codul sursă pentru mai multe proiecte ale CD Projekt Red, inclusiv Cyberpunk 2077 și Witcher 3, a fost publicat online, fiind vorba de aceleași informații care au fost pierdute în atacul ransomware din [luna februarie]({{<relref "highlights/2021/02/14/index.md">}}). <sup>([Eurogamer](https://www.eurogamer.net/articles/2021-06-04-cd-projekt-stolen-data-leak), [VideoGamesChronicle](https://www.videogameschronicle.com/news/stolen-cd-projekt-data-including-cyberpunks-source-code-has-reportedly-leaked/), [PCGamesInsider.biz](https://www.pcgamesinsider.biz/news/72233/report-stolen-cd-projekt-game-source-code-released-into-wild/))</sup>
+
+* Nvidia anunță două modele noi de plăci video, RTX 3080 Ti și RTX 3070 Ti. <sup>([PC Gamer](https://www.pcgamer.com/nvidia-geforce-rtx-3080-ti-announcement-release-date/), [Kotaku](https://kotaku.com/nvidias-latest-flagship-graphics-card-is-the-1-200-rxt-1847006954), [PCGamesInsider.biz](https://www.pcgamesinsider.biz/news/72225/nvidia-reveals-new-raytracing-3080ti-and-3070ti-graphics-cards/))</sup>
+
+* Nintendo a câștigat daune de 2 milioane de dolari în urma unui proces de copyright intentat proprietarului unui site ce distribuia ROMs pentru consolele Nintendo. <sup>([Ars Technica](https://arstechnica.com/gaming/2021/06/former-rom-site-owner-must-pay-2-1-million-to-nintendo/), [VideoGamesChronicle](https://www.videogameschronicle.com/news/a-rom-site-owner-decided-to-fight-nintendo-in-court-and-lost-2-1-million/), [Polygon](https://www.polygon.com/22462914/nintendo-lawsuit-2-million-damages-rom-universe-pirated-games), [PC Gamer](https://www.pcgamer.com/owner-of-rom-site-represents-himself-in-court-gets-obliterated/))</sup>
+
+* Editura de benzi desenate Dark Horse se extinde și în industria jocurilor, înființând o divizie care va contracta jocuri video bazate pe licențele sale, ce includ, printre altele, Hellboy, Sin City și 300. <sup>([VentureBeat](https://venturebeat.com/2021/06/01/dark-horse-comics-starts-a-gaming-and-digital-entertainment-division/), [Escapist](https://www.escapistmagazine.com/v2/hellboy-sin-city-publisher-dark-horse-comics-expanding-into-video-games/), [Game World Observer](https://gameworldobserver.com/2021/06/02/dark-horse-comics-starts-gaming-division-to-release-aaa-titles-based-on-its-famous-ips))</sup>
+
+## [7 - 13 iunie]({{<relref "/highlights/2021/06/14">}})
+* Un grup de hackeri a reușit să sustragă din sistemele EA codul sursă pentru FIFA 21 și motorul Frostbite. <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/ea-confirms-hackers-have-stolen-source-code-for-fifa-21-and-the-frostbite-engine/), [Shacknews](https://www.shacknews.com/article/124833/hackers-allegedly-hit-ea-for-over-700gbs-of-data-including-frostbite-fifa-source-code), [Destructoid](https://www.destructoid.com/ea-hack-source-code-stolen-frostbite-fifa-21-electronic-arts-hacked/), [Eurogamer](https://www.eurogamer.net/articles/2021-06-11-hackers-reportedly-steal-fifa-21-and-frostbite-source-code), [Kotaku](https://kotaku.com/report-hackers-steal-fifa-21-and-frostbite-source-code-1847072725))</sup>
+
+* CD Projekt confirmă că scurgerea de date din februarie e mai serioasă decât anunțase inițial și cuprinde și date personale ale angajaților. <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/cd-projekt-warns-leaked-stolen-data-may-include-employee-details/), [Eurogamer](https://www.eurogamer.net/articles/2021-06-10-cd-projekt-warns-employee-data-might-be-caught-up-in-leak-circulating-online), [Polygon](https://www.polygon.com/2021/6/10/22528302/cd-projekt-data-breach-warning-cyberpunk-2077))</sup>
+
+* Netflix și CD Projekt anunță prima ediție a WitcherCon, ce va avea loc în luna iulie. <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/cd-projekt-and-netflix-announce-witchercon-event-for-july/), [Kotaku](https://kotaku.com/first-official-witchercon-is-happening-in-july-1847080178), [Shacknews](https://www.shacknews.com/article/124880/netflix-and-cd-projekt-red-announce-witchercon-for-july), [PC Gamer](https://www.pcgamer.com/netflix-and-cd-projekt-are-holding-witchercon-in-july))</sup>
+
+* NMPA, o asociație a producătorilor de muzică din SUA, a dat în judecată Roblox solicitând daune de 200 de milioane de dolari pentru încălcarea drepturilor de autor. <sup>([Kotaku](https://kotaku.com/roblox-is-being-sued-by-music-publishers-for-200-milli-1847067980), [PC Gamer](https://www.pcgamer.com/roblox-has-been-hit-by-dollar200m-lawsuit-by-music-publishers-for-copyright-infringement), [Variety](https://variety.com/2021/digital/news/roblox-sued-music-publishers-nmpa-1234992976/), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-06-10-roblox-facing-usd200m-lawsuit-from-music-publishers))</sup>
+
+### E3 2021
+A început ediția 2021 a E3, care s-a desfășurat anul acesta exclusiv în format digital și care a fost precedată de o serie de alte evenimente mai mici, printre care Summer Game Fest organizat de Geoff Keighley.
+
+#### Pre-E3
+* 5 iunie: Guerrilla Collective <sup>([Kotaku](https://kotaku.com/every-indie-game-shown-during-today-s-guerrilla-collect-1847039951), [PC Gamer](https://www.pcgamer.com/guerrilla-collective-e3-2021-games/))</sup>
+* 10 iunie: Summer Game Fest <sup>([Shacknews](https://www.shacknews.com/article/124863/summer-game-fest-2021-all-announcements-reveals-trailers), [Kotaku](https://kotaku.com/everything-we-saw-at-the-summer-game-fest-kickoff-1847074994), [VideoGamesChronicle](https://www.videogameschronicle.com/news/summer-game-fest-kickoff-live-heres-every-major-announcement/), [RPS](https://www.rockpapershotgun.com/every-new-trailer-from-the-summer-game-fest))</sup>
+* 10 iunie: Day of the Devs <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/gallery-heres-every-game-shown-at-the-day-of-the-devs-showcase/), [Kotaku](https://kotaku.com/e3s-best-show-already-happened-1847082486), [Destructoid](https://www.destructoid.com/day-of-the-devs-showcase-2021-roundup), [RPS](https://www.rockpapershotgun.com/everything-that-happened-the-summer-game-fest-day-of-the-devs-showcase-2021))</sup>
+* 11 iunie: Netflix Geeked Week: Gaming <sup>([RPS](https://www.rockpapershotgun.com/everything-at-netflixs-geeked-video-games-showcase), [PC Gamer](https://www.pcgamer.com/all-the-videogame-shows-announced-during-netflixs-geeked-week))</sup>
+* 11 iunie: Koch Primetime <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/blog/kochs-e3-presentation-didnt-show-the-games-so-we-will/), [Destructoid](https://www.destructoid.com/koch-media-prime-matter-payday-3-kings-bounty-2-new-painkiller))</sup>
+
+#### E3
+* 12 iunie: Wholesome Direct <sup>([Kotaku](https://kotaku.com/e3-2021-s-comfiest-showcase-yet-1847086584), [RPS](https://www.rockpapershotgun.com/wholesome-direct-e3-2021-every-game))</sup>
+* 12 iunie: Ubisoft Forward <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/ubisoft-forward-heres-every-major-announcement/), [Kotaku](https://kotaku.com/ubisofts-e3-event-all-the-biggest-announcements-1847063213), [RPS](https://www.rockpapershotgun.com/everything-from-ubisoft-forward-at-e3-2021))</sup>
+* 12 iunie: Devolver Digital <sup>([VideoGamesChronicle](https://www.videogameschronicle.com/news/devolver-digital-roundup-see-all-9-new-trailers/), [Eurogamer](https://www.eurogamer.net/articles/2021-06-12-everything-announced-during-devolvers-e3-2021-show))</sup>
+* 12 iunie: Upload VR Showcase <sup>([UploadVR](https://uploadvr.com/upload-vr-showcase-2021-everything-announced/), [The Verge](https://www.theverge.com/2021/6/12/22531257/upload-vr-e3-2021-showcase))</sup>
+* 13 iunie: Microsoft (Xbox și Bethesda) Showcase <sup>([Kotaku](https://kotaku.com/xbox-and-bethesda-e3-2021-event-all-the-biggest-announ-1847088093), [Destructoid](https://www.destructoid.com/microsoft-e3-2021-recap/))</sup>
+* 13 iunie: Square Enix <sup>([Destructoid](https://www.destructoid.com/everything-that-happened-at-square-enixs-conference-at-e3-2021), [Polygon](https://www.polygon.com/e3/22530014/square-enix-e3-2021-press-conference-news-announcements-trailers), [Kotaku](https://kotaku.com/everything-square-enix-announced-at-e3-2021-1847067075))</sup>
+* 13 iunie: PC Gaming Show <sup>([RPS](https://www.rockpapershotgun.com/everything-new-from-the-pc-gaming-show-at-e3-2021))</sup>
+* 13 iunie: Future Games Show <sup>([Tom's Guide](https://www.tomsguide.com/news/future-games-show-live-blog-all-the-new-game-reveals-as-they-happen), [GamesRadar+](https://www.gamesradar.com/every-announcement-during-the-future-games-show-spring-showcase/))</sup>
+
+## [14 - 20 iunie]({{<relref "/highlights/2021/06/21">}})
+* EA introduce o modalitate de a previzualiza conținutul pachetelor de cărți FUT înainte de cumpărare, utilizatorii având apoi de ales dacă să le achiziționeze sau să aștepte un anumit timp până vor putea previzualiza alte pachete. <sup>([Eurogamer](https://www.eurogamer.net/articles/2021-06-18-ea-adds-ultimate-team-loot-boxes-that-let-you-see-all-items-before-you-buy-in-most-significant-shakeup-of-fifa-series-in-years), [Shacknews](https://www.shacknews.com/article/125197/fifa-will-now-let-you-see-whats-inside-of-fut-packs-before-buying-them), [Polygon](https://www.polygon.com/22541541/fifa-ultimate-team-preview-pack-changes-loot-boxes-rules-ea-sports))</sup>
+
+* După ce [acum un an]({{<relref "highlights/2020/08/23/index.md#știri">}}) Facebook anunța că va condiționa folosirea dispozitivelor VR Oculus de deținerea unui cont Facebook, acum introduce un program pilot pentru a testa afișarea de reclame în spațiul VR. <sup>([Ars Technica](https://arstechnica.com/gaming/2021/06/facebook-begins-tying-social-media-use-to-ads-served-inside-its-vr-ecosystem/), [Eurogamer](https://www.eurogamer.net/articles/2021-06-17-facebook-is-testing-in-headset-vr-ads-for-oculus), [Shacknews](https://www.shacknews.com/article/125177/facebook-begins-deployment-of-advertising-into-oculus-vr-headsets), [PC Gamer](https://www.pcgamer.com/facebook-to-start-testing-ads-in-oculus-games), [GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-06-17-facebook-to-test-ads-in-oculus-quest-games))</sup>
+
+* Codul-sursă pentru prima versiune a World Wide Web-ului este scos la licitație sub formă de NFT de Sir Tim Berners-Lee. Pachetul conține, printre altele, implementări pentru HTML, HTTP și URI, iar câștigurile vor fi folosite în scopuri caritabile. <sup>([PC Gamer](https://www.pcgamer.com/world-wide-web-nft/))</sup>
+
+### E3 2021
+A luat sfârșit E3-ul de anul acesta:
+
+* 14 iunie: Limited Run Games showcase <sup>([Shacknews](https://www.shacknews.com/article/125086/limited-run-delivers-a-packed-lrg3-2021-with-30-games-shown))</sup>
+* 15 iunie: Nintendo Direct <sup>([Kotaku](https://kotaku.com/nintendo-s-e3-2021-direct-all-the-biggest-announcement-1847100756), [Polygon](https://www.polygon.com/e3/22534921/nintendo-direct-e3-2021-announcements-trailers), [Destructoid](https://www.destructoid.com/nintendo-direct-e3-2021-recap-everything-that-happened/), [Eurogamer](https://www.eurogamer.net/articles/2021-06-15-everything-announced-in-todays-nintendo-direct))</sup>
+
+#### Recapitulare
+* [E3 2021: All games, trailers, announcements, news, and presentation VODs](https://www.shacknews.com/article/125047/e3-2021-all-games-trailers-announcements-news-and-presentation-vods) <sup>(Shacknews)</sup>
+* [All the announcements | E3 2021](https://www.gamesindustry.biz/articles/2021-06-10-gi-e3-all-the-announcements) <sup>(GamesIndustry.biz)</sup>
+* [The best games of E3 2021](https://www.rockpapershotgun.com/our-best-games-of-e3-2021) <sup>(RPS)</sup>
+* [Everything interesting that happened at E3 2021](https://www.rockpapershotgun.com/everything-you-need-to-know-about-e3-2021) <sup>(RPS)</sup>
+
+#### Alte articole
+* [33% of E3 and Summer Game Fest titles are non-violent (thanks to indies)](https://www.gamesindustry.biz/articles/2021-06-17-33-percent-of-e3-and-summer-games-fest-titles-are-non-violent-thanks-to-indies) <sup>(GamesIndustry.biz)</sup>
+
+## [21 - 27 iunie]({{<relref "/highlights/2021/06/28">}})
+
+* Chris Avellone revine în atenția publică, la un an după ce [a fost acuzat de hărțuire sexuală]({{<relref "highlights/2020/06/28/index.md#știri">}}) și publică propria versiune asupra evenimentelor și, în plus, intentează un proces de calomnie celor două femei care l-au acuzat. <sup>([Forbes](https://www.forbes.com/sites/erikkain/2021/06/26/chris-avellone-strikes-back-sexual-misconduct-allegations-karissa-barrows-kelly-bristol-dying-light-obsidian-developer/), [Game World Observer](https://gameworldobserver.com/2021/06/28/chris-avellone-files-libel-lawsuit-against-his-accusers-the-attacks-against-me-were-made-from-malice), [Gamasutra](https://www.gamasutra.com/view/news/384253/Game_writer_Chris_Avellone_files_libel_lawsuit_over_sexual_misconduct_allegations.php))</sup>
+
+* **Cyberpunk 2077** se întoarce pe PlayStation Network, dar Sony a inclus un avertisment pe pagina jocului că nu îl recomandă posesorilor de PlayStation 4 simplu. <sup>([Ars Technica](https://arstechnica.com/gaming/2021/06/sony-relists-cyberpunk-2077-includes-new-warning-base-ps4-not-recommended/), [Kotaku](https://kotaku.com/cyberpunk-2077-is-back-on-psn-but-still-broken-sony-wa-1847140309), [Shacknews](https://www.shacknews.com/article/125226/cyberpunk-2077-is-back-on-ps-store-but-it-still-stinks-on-ps4), [Escapist](https://www.escapistmagazine.com/v2/cyberpunk-2077-is-back-on-the-playstation-store-with-a-warning-not-to-buy-on-base-ps4/))</sup>
+
+* John McAfee, creatorul antivirului și companiei cu același nume, s-a sinucis într-o închisoare din Spania, la câteva ore după ce un tribunal aprobase extrădarea sa în Statele Unite unde era căutat pentru evaziune fiscală.<sup>([Shacknews](https://www.shacknews.com/article/125284/antivirus-software-creator-john-mcafee-found-dead-in-prison-cell-at-75), [PC Gamer](https://www.pcgamer.com/john-mcafee-found-dead-in-spanish-prison-cell))</sup>
+
+* Microsoft a anunțat oficial Windows 11, o versiune nouă a sistemului de operare. <sup>([Ars Technica](https://arstechnica.com/gadgets/2021/06/microsoft-details-windows-11-with-new-ui-and-android-app-support/), [DSOGaming](https://www.dsogaming.com/news/microsoft-windows-11-first-details-pc-gaming/), [Eurogamer](https://www.eurogamer.net/articles/2021-06-25-windows-11-adds-auto-hdr-to-games-android-apps-via-amazons-app-store))</sup>
+
+* Valoarea de piață a Microsoft a ajuns la 2 trilioane de dolari, a doua companie din lume care atinge acest prag după Apple. <sup>([GamesIndustry.biz](https://www.gamesindustry.biz/articles/2021-06-23-microsofts-market-cap-reaches-usd2-trillion))</sup>

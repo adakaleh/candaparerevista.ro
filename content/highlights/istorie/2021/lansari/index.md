@@ -1,7 +1,7 @@
 ---
 title: "Retrospectiva Anului 2021: Calendarul Lansărilor"
 type: post
-date: 2021-05-23T00:00:04
+date: 2021-07-05T00:00:05
 categories:
     - Highlights
     - Istorie
@@ -102,7 +102,7 @@ facebookImage: /highlights/istorie/2020/lansari/coperta-retrospectiva-anului-202
 * 4 martie: **Ranch Simulator** (early access) <sup>([Steam](https://store.steampowered.com/app/1119730/Ranch_Simulator__The_Realistic_Multiplayer_Agriculture_Management_Sandbox_Farm_Harvest_Hunt__Build/))</sup>
 * 4 martie: **Everhood** <sup>([Steam](https://store.steampowered.com/app/1229380/Everhood/))</sup>
 * 4 martie: **The Life and Suffering of Sir Brante** <sup>([Steam](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/), [gog.com](https://www.gog.com/game/the_life_and_suffering_of_sir_brante), [Epic Store](https://www.epicgames.com/store/en-US/p/the-life-and-suffering-of-sir-brante))</sup>
-* 5 martie: **Circuit Superstars**  (early access) <sup>([Steam](https://store.steampowered.com/app/1097130/Circuit_Superstars/))</sup>r-meat-boy-forever/))</sup>
+* 5 martie: **Circuit Superstars**  (early access) <sup>([Steam](https://store.steampowered.com/app/1097130/Circuit_Superstars/))</sup>
 
 ## [7 - 13 martie]({{<relref "/highlights/2021/03/14">}})
 * 9 martie: **Forza Horizon 4** <sup>([Steam](https://store.steampowered.com/app/1293830/Forza_Horizon_4/))</sup>
@@ -259,3 +259,67 @@ facebookImage: /highlights/istorie/2020/lansari/coperta-retrospectiva-anului-202
 * 21 mai: **41 Hours** <sup>([Steam](https://store.steampowered.com/app/1358020/41_Hours/))</sup>
 * 21 mai: **Shin Megami Tensei III Nocturne HD Remaster** <sup>([Steam](https://store.steampowered.com/app/1413480/Shin_Megami_Tensei_III_Nocturne_HD_Remaster/))</sup>
 * 22 mai: **Saints Row: The Third Remastered** <sup>([Steam](https://store.steampowered.com/app/978300/Saints_Row_The_Third_Remastered/))</sup>
+## [23 - 29 mai (+30 mai)]({{<relref "/highlights/2021/05/30">}})
+* 25 mai: **King of Seas** <sup>([Steam](https://store.steampowered.com/app/1209410/King_of_Seas/), [gog.com](https://www.gog.com/game/king_of_seas))</sup>
+* 25 mai: **Maneater** <sup>([Steam](https://store.steampowered.com/app/629820/Maneater/))</sup>
+* 25 mai: **Biomutant** <sup>([Steam](https://store.steampowered.com/app/597820/BIOMUTANT/), [gog.com](https://www.gog.com/game/biomutant), [Epic Store](https://www.epicgames.com/store/en-US/p/biomutant))</sup>
+* 25 mai: **Strangeland** <sup>([Steam](https://store.steampowered.com/app/1369520/Strangeland/), [gog.com](https://www.gog.com/game/strangeland))</sup>
+* 25 mai: **Imagine Earth** <sup>([Steam](https://store.steampowered.com/app/280720/Imagine_Earth/), [gog.com](https://www.gog.com/game/imagine_earth))</sup>
+* 25 mai: **An Airport For Aliens Currently Run By Dogs** <sup>([Steam](https://store.steampowered.com/app/1246250/An_Airport_for_Aliens_Currently_Run_by_Dogs/))</sup>
+* 26 mai: **Graven** (early access) <sup>([Steam](https://store.steampowered.com/app/1371690/GRAVEN/), [gog.com](https://www.gog.com/game/graven), [Epic Store](https://www.epicgames.com/store/en-US/p/graven))</sup>
+* 26 mai: **Arid** (early access) <sup>([Steam](https://store.steampowered.com/app/1463730/Arid/))</sup>
+* 27 mai: **Solasta: Crown of the Magister** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/), [gog.com](https://www.gog.com/game/solasta_crown_of_the_magister))</sup>
+* 27 mai: **Tainted Grail: Conquest** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1199030/Tainted_Grail_Conquest/), [gog.com](https://www.gog.com/game/tainted_grail))</sup>
+* 27 mai: **Warhammer Age of Sigmar: Storm Ground** <sup>([Steam](https://store.steampowered.com/app/1233590/Warhammer_Age_of_Sigmar_Storm_Ground/))</sup>
+* 27 mai: **The Longest Road on Earth** <sup>([Steam](https://store.steampowered.com/app/1295790/The_Longest_Road_on_Earth/), [gog.com](https://www.gog.com/game/the_longest_road_on_earth), [Epic Store](https://www.epicgames.com/store/en-US/p/the-longest-road-on-earth))</sup>
+* 27 mai: **Truck Driver** <sup>([Epic Store](https://www.epicgames.com/store/en-US/p/truck-driver))</sup>
+* 27 mai: **MechWarrior 5: Mercenaries** <sup>([Steam](https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/), [gog.com](https://www.gog.com/game/mechwarrior_5_mercenaries))</sup>
+* 28 mai: **Long Ago: A Puzzle Tale** <sup>([Steam](https://store.steampowered.com/app/1589920/Long_Ago_A_Puzzle_Tale/))</sup>
+## [31 mai - 6 iunie]({{<relref "/highlights/2021/06/07">}})
+* 1 iunie: **Stonefly** <sup>([Steam](https://store.steampowered.com/app/1198590/Stonefly/), [gog.com](https://www.gog.com/game/stonefly), [Epic Store](https://www.epicgames.com/store/en-US/p/stonefly))</sup>
+* 1 iunie: **Necromunda: Hired Gun** <sup>([Steam](https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/), [gog.com](https://www.gog.com/game/necromunda_hired_gun), [Epic Store](https://www.epicgames.com/store/en-US/p/necromunda-hired-gun))</sup>
+* 1 iunie: **Griftlands** (iese din exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/601840/Griftlands/))</sup>
+* 1 iunie: **Ghosts 'n Goblins Resurrection** <sup>([Steam](https://store.steampowered.com/app/1375400/Ghosts_n_Goblins_Resurrection/))</sup>
+* 1 iunie: **Going Medieval** (early access) <sup>([Steam](https://store.steampowered.com/app/1029780/Going_Medieval/), [gog.com](https://www.gog.com/game/going_medieval), [Epic Store](https://www.epicgames.com/store/en-US/p/going-medieval))</sup>
+* 1 iunie: **Operation: Tango** <sup>([Steam](https://store.steampowered.com/app/1335790/Operation_Tango/))</sup>
+* 1 iunie: **World of Warcraft: The Burning Crusade Classic** <sup>([Site World of Warcraft](https://worldofwarcraft.com/en-us/wowclassic))</sup>
+* 2 iunie: **Overboard!** <sup>([Steam](https://store.steampowered.com/app/1546920/Overboard/), [gog.com](https://www.gog.com/game/overboard))</sup>
+* 3 iunie: **The Last Spell** <sup>([Steam](https://store.steampowered.com/app/1105670/The_Last_Spell/))</sup>
+* 3 iunie: **Until We Die** <sup>([Steam](https://store.steampowered.com/app/1197570/Until_We_Die/), [gog.com](https://www.gog.com/game/until_we_die))</sup>
+* 3 iunie: **Slipways** <sup>([Steam](https://store.steampowered.com/app/1264280/Slipways/), [gog.com](https://www.gog.com/game/slipways), [Epic Store](https://www.epicgames.com/store/en-US/p/slipways))</sup>
+* 3 iunie: **Wasteland 3: The Battle of Steeltown** <sup>([Steam](https://store.steampowered.com/app/1522650/Wasteland_3_The_Battle_of_Steeltown/), [gog.com](https://www.gog.com/game/wasteland_3_the_battle_of_steeltown))</sup>
+* 3 iunie: **The Magnificent Trufflepigs** <sup>([Steam](https://store.steampowered.com/app/1529550/The_Magnificent_Trufflepigs/))</sup>
+* 4 iunie: **Sniper Ghost Warrior Contracts 2** <sup>([Steam](https://store.steampowered.com/app/1338770/Sniper_Ghost_Warrior_Contracts_2/))</sup>
+* 4 iunie: **The Handbook** <sup>([Steam](https://store.steampowered.com/app/1637520/The_Handbook/))</sup>
+* 5 iunie: **Mighty Goose** <sup>([Steam](https://store.steampowered.com/app/1299360/Mighty_Goose/))</sup>
+* 5 iunie: **Ynglet** <sup>([Steam](https://store.steampowered.com/app/1015920/Ynglet/))</sup>
+## [7 - 13 iunie]({{<relref "/highlights/2021/06/14">}})
+* 8 iunie: **Backbone** <sup>([Steam](https://store.steampowered.com/app/865610/Backbone/), [gog.com](https://www.gog.com/game/backbone), [Epic Store](https://www.epicgames.com/store/en-US/p/backbone))</sup>
+* 8 iunie: **Edge Of Eternity** <sup>([Steam](https://store.steampowered.com/app/269190/Edge_Of_Eternity/), [gog.com](https://www.gog.com/game/edge_of_eternity), [Epic Store](https://www.epicgames.com/store/en-US/p/edge-of-eternity))</sup>
+* 8 iunie: **Chivalry 2** <sup>([Epic Store](https://www.epicgames.com/store/en-US/p/chivalry-2))</sup>
+* 10 iunie: **Alchemist Adventure** <sup>([Steam](https://store.steampowered.com/app/521620/Alchemist_Adventure/), [gog.com](https://www.gog.com/game/alchemist_adventure))</sup>
+* 10 iunie: **Chicory: A Colorful Tale** <sup>([Steam](https://store.steampowered.com/app/1123450/Chicory_A_Colorful_Tale/), [Epic Store](https://www.epicgames.com/store/en-US/p/chicory-a-colorful-tale))</sup>
+* 10 iunie: **Open Country** <sup>([Steam](https://store.steampowered.com/app/1192010/Open_Country/), [Epic Store](https://www.epicgames.com/store/en-US/p/open-country))</sup>
+* 10 iunie: **We Are Football** <sup>([Steam](https://store.steampowered.com/app/1196470/WE_ARE_FOOTBALL/), [Epic Store](https://www.epicgames.com/store/en-US/p/we-are-football))</sup>
+* 11 iunie: **Guilty Gear Strive** <sup>([Steam](https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/))</sup>
+* 12 iunie: **Beasts of Maravilla Island** <sup>([Steam](https://store.steampowered.com/app/1378020/Beasts_of_Maravilla_Island/), [Epic Store](https://www.epicgames.com/store/en-US/p/beasts-of-maravilla-island))</sup>
+* 13 iunie: **Lumberhill** <sup>([Steam](https://store.steampowered.com/app/976900/Lumberhill/))</sup>
+## [14 - 20 iunie]({{<relref "/highlights/2021/06/21">}})
+* 14 iunie: **Minute of Islands** <sup>([Steam](https://store.steampowered.com/app/1049710/Minute_of_Islands/), [gog.com](https://www.gog.com/game/minute_of_islands))</sup>
+* 15 iunie: **UFO2: Extraterrestrials** <sup>([Steam](https://store.steampowered.com/app/1049850/UFO2_Extraterrestrials/))</sup>
+* 15 iunie: **Wildermyth** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/763890/Wildermyth/))</sup>
+* 16 iunie: **Cruelty Squad** <sup>([Steam](https://store.steampowered.com/app/1388770/Cruelty_Squad/))</sup>
+* 16 iunie: **Luna's Fishing Garden** <sup>([Steam](https://store.steampowered.com/app/1477790/Lunas_Fishing_Garden), [Epic Store](https://www.epicgames.com/store/en-US/p/lunas-fishing-garden))</sup>
+* 17 iunie: **Red Solstice 2: Survivors** <sup>([Steam](https://store.steampowered.com/app/768520/Red_Solstice_2_Survivors/))</sup>
+* 17 iunie: **Roguebook** <sup>([Steam](https://store.steampowered.com/app/1076200/Roguebook/))</sup>
+## [21 - 27 iunie]({{<relref "/highlights/2021/06/28">}})
+* 21 iunie: **Industries of Titan** (early access) <sup>([Steam](https://store.steampowered.com/app/427940/Industries_of_Titan/))</sup>
+* 21 iunie: **Ender Lilies: Quietus of the Knights** (iese din early access) <sup>([Steam](https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/))</sup>
+* 22 iunie: **Phantom Abyss** (early access) <sup>([Steam](https://store.steampowered.com/app/989440/Phantom_Abyss/))</sup>
+* 22 iunie: **Alex Kidd in Miracle World DX** <sup>([Steam](https://store.steampowered.com/app/1333470/Alex_Kidd_in_Miracle_World_DX/), [Epic Store](https://www.epicgames.com/store/en-US/p/alex-kidd-in-miracle-world-dx))</sup>
+* 22 iunie: **Dungeons & Dragons: Dark Alliance** <sup>([Steam](https://store.steampowered.com/app/623280/Dungeons__Dragons_Dark_Alliance/))</sup>
+* 22 iunie: **Olympic Games Tokyo 2020 – The Official Video Game** <sup>([Steam](https://store.steampowered.com/app/981890/Olympic_Games_Tokyo_2020__The_Official_Video_Game/))</sup>
+* 23 iunie: **Out of Line** <sup>([Steam](https://store.steampowered.com/app/1419290/Out_of_Line/), [Epic Store](https://www.epicgames.com/store/en-US/p/out-of-line-209cbb), [gog.com](https://www.gog.com/game/out_of_line))</sup>
+* 24 iunie: **Legend of Mana Remastered** <sup>([Steam](https://store.steampowered.com/app/1175830/Legend_of_Mana/))</sup>
+* 24 iunie: **Real Farm** <sup>([Steam](https://store.steampowered.com/app/1321220/Real_Farm__Gold_Edition/), [Epic Store](https://www.epicgames.com/store/en-US/p/real-farm-gold-edition))</sup>
+* 25 iunie: **Super Squad** (early access) <sup>([Steam](https://store.steampowered.com/app/1124940/Super_Squad/), [Epic Store](https://www.epicgames.com/store/en-US/p/super-squad))</sup>

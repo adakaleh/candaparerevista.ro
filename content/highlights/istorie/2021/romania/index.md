@@ -1,7 +1,7 @@
 ---
 title: "Retrospectiva Anului 2021: Made în România"
 type: post
-date: 2021-05-23T00:00:03
+date: 2021-07-05T00:00:06
 categories:
     - Highlights
     - Istorie
@@ -36,7 +36,6 @@ facebookImage: /highlights/istorie/2020/romania/coperta-retrospectiva-anului-202
 ## [21 - 27 februarie]({{<relref "/highlights/2021/02/28">}})
 
 * Mai multe jocuri și dezvoltatori români au fost nominalizați la premiile PocketGamer Awards 2021. Este vorba de **Interrogation: Deceived** ([Best Game Narrative](https://www.pocketgamer.com/pgawards2021/vote/best-game-narrative/)), **Not Chess** ([Best Strategy Game](https://www.pocketgamer.com/pgawards2021/vote/best-strategy-game/)), **Door Kickers: Action Squad** ([Best Shooter](https://www.pocketgamer.com/pgawards2021/vote/best-shooter/) și [Best Action Game](https://www.pocketgamer.com/pgawards2021/vote/best-action-game/)) și Tepes Ovidiu ([Best Mobile Developer](https://www.pocketgamer.com/pgawards2021/vote/best-mobile-developer/)).
-d.com/app/1090800/Northern_Lights/))</sup>
 
 ## [7 - 13 martie]({{<relref "/highlights/2021/03/14">}})
 * S-a lansat jocul gratuit **Tadpole Tales**. <sup>([Twitter](https://twitter.com/zizhen96/status/1370341081729097729), [Steam](https://store.steampowered.com/app/1428900/Tadpole_Tales/))</sup>
@@ -62,3 +61,20 @@ d.com/app/1090800/Northern_Lights/))</sup>
 ## [16 - 22 mai]({{<relref "/highlights/2021/05/23">}})
 
 * S-a lansat **41 Hours**. <sup>([Steam](https://store.steampowered.com/app/1358020/41_Hours/))</sup>
+
+## [23 - 29 mai (+30 mai)]({{<relref "/highlights/2021/05/30">}})
+
+* S-a lansat **Long Ago: A Puzzle Tale**. <sup>([Steam](https://store.steampowered.com/app/1589920/Long_Ago_A_Puzzle_Tale/))</sup>
+* [Game development moves up a level in Romania](https://www.intellinews.com/game-development-moves-up-a-level-in-romania-211377/) <sup>(IntelliNews)</sup>
+
+## [31 mai - 6 iunie]({{<relref "/highlights/2021/06/07">}})
+
+* S-a lansat **The Handbook**. <sup>([Steam](https://store.steampowered.com/app/1637520/The_Handbook/), [Facebook RGDA](https://www.facebook.com/groups/307481012723781/?multi_permalinks=2126887077449823))</sup>
+* [Game development moves up a level in Romania](https://www.intellinews.com/game-development-moves-up-a-level-in-romania-211377/) <sup>(IntelliNews)</sup>
+
+## [7 - 13 iunie]({{<relref "/highlights/2021/06/14">}})
+* **Unbound: Worlds Apart** are în sfârșit dată de lansare: 28 iulie. <sup>([YouTube](https://www.youtube.com/watch?v=GA8yiUq8NI4))</sup>
+
+## [14 - 20 iunie]({{<relref "/highlights/2021/06/21">}})
+* Steam Game Fest, un festival al demo-urilor organizat de Steam în cadrul E3, are demo-uri și pentru jocuri românești, cum ar fi **Zoria: Age of Shattering**<sup>([Steam](https://store.steampowered.com/app/1159090/Zoria_Age_of_Shattering/))</sup>, **Seed of Life** <sup>([Steam](https://store.steampowered.com/app/1030060/Seed_of_Life/))</sup> sau **Bear and Breakfast**<sup>([Steam](https://store.steampowered.com/app/1136370/Bear_and_Breakfast/))</sup>
+    * [Bear and Breakfast is an extremely chill management game](https://www.destructoid.com/bear-and-breakfast-quaint-extremely-chill-management-game) <sup>(Destructoid)</sup>
