@@ -39,8 +39,9 @@ Codul sursă al Cyberpunk 2077 ajunge pe internet, Nvidia lansează alte plăci 
 * 1 iunie: **Griftlands** (iese din exclusivitate Epic) <sup>([Steam](https://store.steampowered.com/app/601840/Griftlands/))</sup>
 * 1 iunie: **Ghosts 'n Goblins Resurrection** <sup>([Steam](https://store.steampowered.com/app/1375400/Ghosts_n_Goblins_Resurrection/))</sup>
 * 1 iunie: **Going Medieval** (early access) <sup>([Steam](https://store.steampowered.com/app/1029780/Going_Medieval/), [gog.com](https://www.gog.com/game/going_medieval), [Epic Store](https://www.epicgames.com/store/en-US/p/going-medieval))</sup>
-* 2 iunie: **Overboard!** <sup>([Steam](https://store.steampowered.com/app/1546920/Overboard/), [gog.com](https://www.gog.com/game/overboard))</sup>
 * 1 iunie: **Operation: Tango** <sup>([Steam](https://store.steampowered.com/app/1335790/Operation_Tango/))</sup>
+* 1 iunie: **World of Warcraft: The Burning Crusade Classic** <sup>([Site World of Warcraft](https://worldofwarcraft.com/en-us/wowclassic))</sup>
+* 2 iunie: **Overboard!** <sup>([Steam](https://store.steampowered.com/app/1546920/Overboard/), [gog.com](https://www.gog.com/game/overboard))</sup>
 * 3 iunie: **The Last Spell** <sup>([Steam](https://store.steampowered.com/app/1105670/The_Last_Spell/))</sup>
 * 3 iunie: **Until We Die** <sup>([Steam](https://store.steampowered.com/app/1197570/Until_We_Die/), [gog.com](https://www.gog.com/game/until_we_die))</sup>
 * 3 iunie: **Slipways** <sup>([Steam](https://store.steampowered.com/app/1264280/Slipways/), [gog.com](https://www.gog.com/game/slipways), [Epic Store](https://www.epicgames.com/store/en-US/p/slipways))</sup>
@@ -49,3 +50,4 @@ Codul sursă al Cyberpunk 2077 ajunge pe internet, Nvidia lansează alte plăci 
 * 4 iunie: **Sniper Ghost Warrior Contracts 2** <sup>([Steam](https://store.steampowered.com/app/1338770/Sniper_Ghost_Warrior_Contracts_2/))</sup>
 * 4 iunie: **The Handbook** <sup>([Steam](https://store.steampowered.com/app/1637520/The_Handbook/))</sup>
 * 5 iunie: **Mighty Goose** <sup>([Steam](https://store.steampowered.com/app/1299360/Mighty_Goose/))</sup>
+* 5 iunie: **Ynglet** <sup>([Steam](https://store.steampowered.com/app/1015920/Ynglet/))</sup>
