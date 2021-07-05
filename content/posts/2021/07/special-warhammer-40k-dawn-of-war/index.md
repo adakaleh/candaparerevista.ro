@@ -2,7 +2,7 @@
 title: "Warhammer 40k: Dawn of War sau inițierea în estetica grimdark"
 subtitle:
 type: post
-date: 2021-07-03
+date: 2021-07-06
 authors: sleepknot
 categories:
     - Special
