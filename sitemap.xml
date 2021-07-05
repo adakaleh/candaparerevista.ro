@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2021/romania/</loc>
+    <lastmod>2021-07-05T00:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2021/lansari/</loc>
+    <lastmod>2021-07-05T00:00:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/istorie/2021/stiri/</loc>
+    <lastmod>2021-07-05T00:00:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/2021/06/28/</loc>
+    <lastmod>2021-07-05T00:00:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/2021/06/21/</loc>
+    <lastmod>2021-07-05T00:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/highlights/2021/06/14/</loc>
+    <lastmod>2021-07-05T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/2021/06/07/</loc>
     <lastmod>2021-06-07T00:00:02+00:00</lastmod>
   </url>
@@ -15,21 +45,6 @@
   <url>
     <loc>https://candaparerevista.ro/posts/2021/05/review-strangeland/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candaparerevista.ro/highlights/istorie/2021/stiri/</loc>
-    <lastmod>2021-05-23T00:00:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candaparerevista.ro/highlights/istorie/2021/lansari/</loc>
-    <lastmod>2021-05-23T00:00:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candaparerevista.ro/highlights/istorie/2021/romania/</loc>
-    <lastmod>2021-05-23T00:00:03+00:00</lastmod>
   </url>
   
   <url>
@@ -5286,13 +5301,13 @@
   
   <url>
     <loc>https://candaparerevista.ro/highlights/</loc>
-    <lastmod>2021-06-07T00:00:02+00:00</lastmod>
+    <lastmod>2021-07-05T00:00:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://candaparerevista.ro/categories/highlights/</loc>
-    <lastmod>2021-06-07T00:00:02+00:00</lastmod>
+    <lastmod>2021-07-05T00:00:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5640,7 +5655,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/istorie/</loc>
-    <lastmod>2021-05-23T00:00:05+00:00</lastmod>
+    <lastmod>2021-07-05T00:00:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6065,14 +6080,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7992,14 +8007,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/retro/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/retro/</loc>
+    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/retro/</loc>
-    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8531,7 +8546,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2021-06-07T00:00:02+00:00</lastmod>
+    <lastmod>2021-07-05T00:00:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
