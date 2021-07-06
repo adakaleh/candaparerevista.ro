@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Warhammer 40k: Dawn of War sau inițierea în estetica grimdark</title>
+      <link>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</guid>
+      <description>&amp;ldquo;Every moment of anger, hate, deceit, pain, suffering, pleasure, and desire is mirrored in the power of Chaos. When its legions march, they march to return upon us a ruin that is of our own making.&amp;rdquo;
+Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri definitorii pentru subgen, mulți vor arăta înspre Blitzkrieg, Command and Conquer sau Dune II, și puțini înspre Warhammer 40k: Dawn of War. Dawn of War este poate cel mai subapreciat joc de strategie din punct de vedere al influenței sale - dar mai ales, ca joc video capabil de a întrupa un univers fictiv.</description>
+    </item>
     
     <item>
       <title>Strangeland</title>
@@ -139,16 +149,6 @@ Inspirată din literatura hard SF — în primul rând din Trilogia Marțiană a
       
       <guid>https://candaparerevista.ro/posts/2020/12/preview-solasta/</guid>
       <description>A scrie un preview mi s-a părut mereu o îndeletnicire bizară, la limita dintre reclamă și visat cu ochii deschiși. Frunzărind prin reviste vechi de gaming nu se poate să nu zâmbești cât de optimiste și adeseori fanteziste sunt articolele din această categorie. De multe ori tot ce avea la dispoziție un redactor erau câteva screenshots și un comunicat de presă, în cel mai fericit caz un demo. Lucrurile s-au mai schimbat între timp. Demo-urile au dispărut din peisaj — deși în ultimul timp remarc o revenire a acestora pe Steam — dar tot mai multe jocuri se lansează în early access, într-o formă nedefinitivă.</description>
-    </item>
-    
-    <item>
-      <title>Metamorphosis</title>
-      <link>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</link>
-      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/11/review-metamorphosis/</guid>
-      <description>„O aventură suprarealistă inspirată din strania imaginație a lui Franz Kafka. Intră în rolul lui Gregor Samsa, transformat într-o mică insectă&amp;hellip;”, spune curajos descrierea jocului. Și te uiți la trailer, te uiți la screenshots și te gândești… da, acesta pare să fie un joc bazat pe lucrările lui Kafka.
-Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și singura. Motivul transformării din om în insectă servește ca premisă a jocului, dar restul poveștii împrumută elemente din Procesul (Der Process) și, într-o măsură mai mică, din Castelul (Das Schloss).</description>
     </item>
     
   </channel>

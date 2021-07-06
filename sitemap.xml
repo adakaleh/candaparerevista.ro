@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/highlights/istorie/2021/romania/</loc>
     <lastmod>2021-07-05T00:00:06+00:00</lastmod>
   </url>
@@ -4457,7 +4462,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/featured/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7618,7 +7623,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8546,7 +8551,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2021-07-05T00:00:06+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8624,7 +8629,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/sleepknot/</loc>
-    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8738,7 +8743,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/special/</loc>
-    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -10477,6 +10482,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/warhammer-40000-gladius---relics-of-war/</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/warhammer-40k-dawn-of-war/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
