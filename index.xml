@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Backbone</title>
+      <link>https://candaparerevista.ro/posts/2021/07/review-backbone/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/07/review-backbone/</guid>
+      <description>Se întâmplă destul de rar să-mi achiziționez un joc în ziua de lansare și chiar mai rar să-l iau în orb fără a ști vreun aspect considerabil despre el. Backbone a zăcut câteva luni în wishlist, încă de dinainte să se concretizeze în altceva mai mult de câteva cadre spilcuite care promiteau un noir-adventure cu animale antropomorfe. Așadar, în preziua lansării m-am hotărât să-i încerc prologul, ca neștiința să nu-mi fie completă, iar după numai câteva minute l-am părăsit pentru a nu-mi strica experiența viitoare cu promisiunea că-l voi cumpăra fără preget.</description>
+    </item>
     
     <item>
       <title>Warhammer 40k: Dawn of War sau inițierea în estetica grimdark</title>
@@ -169,18 +178,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
       <description>Humble Bundle dă înapoi, Nintendo anunță profituri-record, Discord ajunge pe PlayStation și debutează în sfârșit procesul dintre Epic și Apple.
 Știri  După reacțiile negative, Humble Bundle dă înapoi și reintroduce posibilitatea cumpărătorilor de a configura procentajele de împărțire a sumelor plătite între dezvoltatori, Humble și organizațiile de binefacere. (VideoGamesChronicle, Destructoid, Shacknews, GamesIndustry.biz)
  Konrad Tomaszkiewicz, fost game director pentru The Witcher 3, și-a dat demisia de la CD Projekt Red în urma unor acuzații de comportament abuziv, cu toate că o anchetă internă nu i-a găsit nicio vină. (PC Gamer, VideoGamesChronicle, Kotaku, Eurogamer, GamesIndustry.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 25 aprilie - 1 mai 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/05/02/</link>
-      <pubDate>Sun, 02 May 2021 00:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/05/02/</guid>
-      <description>Medal of Honor câștigă la Oscar, Microsoft își reduce comisionul pentru vânzarea jocurilor și Epic cumpără ArtStation.
- După neașteptata nominalizare de luna trecută, clipul „Colette”, ce însoțește jocul Medal of Honor: Above and Beyond, surprinde din nou câștigând premiul Oscar la categoria scurt-metraj documentar. (Eurogamer, GamesIndustry.biz, Game World Observer)
- După Epic Store, acum și Microsoft își reduce comisionul pe care-l percepe la vânzarea jocurilor de pe platforma sa, de la 30% la 12%, dar numai pentru jocurile de PC. (Ars Technica, Eurogamer, Kotaku, GamesIndustry.biz)
- Bobby Kotick a semnat pentru prelungirea contractului pentru poziția de CEO al Activision Blizzard, acceptând în același timp și o reducere la jumătate a salariului și bonusurilor pe care le va primi.</description>
     </item>
     
   </channel>

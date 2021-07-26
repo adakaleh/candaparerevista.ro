@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2021/07/review-backbone/</loc>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -2393,6 +2398,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/backbone/</loc>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/bad-north/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4666,7 +4677,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/fular/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7623,7 +7634,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8073,7 +8084,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8551,7 +8562,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

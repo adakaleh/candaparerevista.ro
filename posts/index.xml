@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Backbone</title>
+      <link>https://candaparerevista.ro/posts/2021/07/review-backbone/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/07/review-backbone/</guid>
+      <description>Se întâmplă destul de rar să-mi achiziționez un joc în ziua de lansare și chiar mai rar să-l iau în orb fără a ști vreun aspect considerabil despre el. Backbone a zăcut câteva luni în wishlist, încă de dinainte să se concretizeze în altceva mai mult de câteva cadre spilcuite care promiteau un noir-adventure cu animale antropomorfe. Așadar, în preziua lansării m-am hotărât să-i încerc prologul, ca neștiința să nu-mi fie completă, iar după numai câteva minute l-am părăsit pentru a nu-mi strica experiența viitoare cu promisiunea că-l voi cumpăra fără preget.</description>
+    </item>
     
     <item>
       <title>Warhammer 40k: Dawn of War sau inițierea în estetica grimdark</title>
@@ -140,15 +149,6 @@ Inspirată din literatura hard SF — în primul rând din Trilogia Marțiană a
       <guid>https://candaparerevista.ro/posts/2020/12/special-asimov-herbert-bradbury/</guid>
       <description>Acest articol a apărut în numărul din noiembrie 2020 al revistei Știință &amp;amp; Tehnică, ediție care marchează 100 de apariții din noua serie și, totodată, 100 de ani de la nașterea lui Frank Herbert, Ray Bradbury și Isaac Asimov.
  E de necontestat că literatura de anticipație face casă bună cu jocul video. Ca atare, clasicii Isaac Asimov, Ray Bradbury și Frank Herbert nu aveau cum să lipsească din lumea divertismentului digital. În unele cazuri, jocurile extind povestea cărților pe care se bazează, alteori doar extind universul creat de autor cu aventuri și idei noi.</description>
-    </item>
-    
-    <item>
-      <title>Solasta: Crown of the Magister</title>
-      <link>https://candaparerevista.ro/posts/2020/12/preview-solasta/</link>
-      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/12/preview-solasta/</guid>
-      <description>A scrie un preview mi s-a părut mereu o îndeletnicire bizară, la limita dintre reclamă și visat cu ochii deschiși. Frunzărind prin reviste vechi de gaming nu se poate să nu zâmbești cât de optimiste și adeseori fanteziste sunt articolele din această categorie. De multe ori tot ce avea la dispoziție un redactor erau câteva screenshots și un comunicat de presă, în cel mai fericit caz un demo. Lucrurile s-au mai schimbat între timp. Demo-urile au dispărut din peisaj — deși în ultimul timp remarc o revenire a acestora pe Steam — dar tot mai multe jocuri se lansează în early access, într-o formă nedefinitivă.</description>
     </item>
     
   </channel>
