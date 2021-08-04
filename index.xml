@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>King&#39;s Bounty II</title>
+      <link>https://candaparerevista.ro/posts/2021/08/preview-kings-bounty-2/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/08/preview-kings-bounty-2/</guid>
+      <description>Despre King&amp;rsquo;s Bounty II v-am mai povestit acum vreo doi ani, când am avut ocazia să joc o versiune alpha la Gamescom. Dacă vă mai amintiți, nu rămăsesem cu o impresie prea bună - build-ul neșlefuit și schimbările radicale de gameplay și direcția artistică mă dezamăgiseră puțin. Am pornit însă cu un sâmbure de curiozitate și optimism prudent copia de preview primită acum câteva săptămâni.
+Cât de mult s-au putut schimba lucrurile în doi ani? Ei bine, o să încep cu ce a rămas la fel. Încă din primele trailere King&amp;rsquo;s Bounty II a fost prezentat ca un joc mai întunecat și mai serios decât predecesorii săi, cu un accent mai pronunțat pe dialoguri și secvențe cinematice.</description>
+    </item>
     
     <item>
       <title>Backbone</title>
@@ -167,17 +177,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
       
       <guid>https://candaparerevista.ro/posts/2021/05/special-cluedo/</guid>
       <description>Care este prima voastră amintire legată de jocurile video? Orice amintire, fie că e vorba de împușcat rațe pe televizorul vechi din sufragerie (care avea de obicei un milieu pe el), fie că e vorba de jucat Disney’s Hercules pe butoanele cu săgeți ale tastaturii sau de Cluedo, jocul original cu detectivi pe PC. În cazul meu e tot jocul cu rațele, pentru că făcuse tatăl meu rost de ceva nintendo knock-off, dar vă jur că m-am jucat și Cluedo din ‘98 mai târziu, pe primul meu calculator cu, evident, Windows ‘98.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 2 - 8 mai 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/05/09/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/05/09/</guid>
-      <description>Humble Bundle dă înapoi, Nintendo anunță profituri-record, Discord ajunge pe PlayStation și debutează în sfârșit procesul dintre Epic și Apple.
-Știri  După reacțiile negative, Humble Bundle dă înapoi și reintroduce posibilitatea cumpărătorilor de a configura procentajele de împărțire a sumelor plătite între dezvoltatori, Humble și organizațiile de binefacere. (VideoGamesChronicle, Destructoid, Shacknews, GamesIndustry.biz)
- Konrad Tomaszkiewicz, fost game director pentru The Witcher 3, și-a dat demisia de la CD Projekt Red în urma unor acuzații de comportament abuziv, cu toate că o anchetă internă nu i-a găsit nicio vină. (PC Gamer, VideoGamesChronicle, Kotaku, Eurogamer, GamesIndustry.</description>
     </item>
     
   </channel>
