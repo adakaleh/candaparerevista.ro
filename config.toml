@@ -115,6 +115,11 @@ weight = 100
   weight = 97
 
 [[menu.pages]]
+  name = "Prieteni"
+  url = "/prieteni/"
+  weight = 97
+
+[[menu.pages]]
   name = "Revista"
   url = "/revista/"
   weight = 97
