@@ -6,10 +6,31 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyberpunk 2077</title>
+      <link>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:02 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</guid>
+      <description>Ambiție. Dacă ar fi să folosesc un singur cuvânt ca să descriu Cyberpunk 2077, acela ar fi „ambiție”. Sunt extraordinar de rare jocurile care se chinuie atât de tare să ajungă la lună. Dar dacă aș putea să folosesc două cuvinte, acelea ar fi „ambiție prostească”.
+Dar să o luăm cu începutul: ce e Cyberpunk 2077 de fapt? Poate fi descris ca un fenomen, un val de hype ajuns în topul produselor media contemporane care au generat cele mai mari așteptări, un Avengers: Infinity War al jocurilor video. Iar din perspectiva asta Cyberpunk 2077 a fost un succes — nu cred că există suflet de om care să aibă chiar și tangențial legătură cu gamingul și care să nu fi auzit de, vorbit de sau jucat jocul ăsta.</description>
+    </item>
+    
+    <item>
+      <title>ncv a trecut în BonusStage.ro</title>
+      <link>https://candaparerevista.ro/blog/2021/bonusstage/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:01 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/blog/2021/bonusstage/</guid>
+      <description>Surpriză! După Marius Ghinea, cioLAN și Paul Policarp, încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Luând o pauză după 6 ani la revista Level și apoi cele câteva numere din scurta existență a revistei Nivelul 2, Nicolae „ncv” Marin se întoarce acum cu forțe proaspete, ambiții mari și un site nou: BonusStage.ro.
+    BonusStage.ro     În propriile cuvinte, ncv își propune:
+ Review-urile și specialele o să fie cele mai numeroase. Jumătate din recenzii vor fi pentru titlurile testate pe PC.</description>
+    </item>
     
     <item>
       <title>King&#39;s Bounty II</title>
@@ -156,27 +177,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
 Știri  Tribunalul unde se judecă patru dintre procesele deschise împotriva CD Projekt Red cu privire la lansarea Cyberpunk 2077 au fost unite într-un singur proces. (PC Gamer, Game World Observer, Eurogamer)
  Microsoft trage în sfârșit cortina peste Internet Explorer, compania anunțând încetarea definitivă a suportului pentru bătrânul browser începând cu anul viitor. (PC Gamer, RPS)
  Bethesda își închide forumul, comunicarea cu fanii urmând a se muta pe Discord.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 9 - 15 mai 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/05/16/</link>
-      <pubDate>Sun, 23 May 2021 00:00:01 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/05/16/</guid>
-      <description>Ubisoft a făcut mulți bani, Apple sunt loviți cu încă un proces și s-au lansat două jocuri românești: Heterodox și Ring Racer.
-Știri  Apple sunt chemați din nou în judecată pentru „practici anti-concurențiale” într-un nou proces deschis în Marea Britanie. (GamesIndustry.biz)
- Anul pandemiei a fost cât se poate de prielnic pentru Ubisoft — raportul de sfârșit de an fiscal prezintă venituri de 2,7 miliarde de dolari pentru anul 2020-2021, în creștere cu 39% față de anul precedent. (Gamasutra, GamesIndustry.biz)
-  Made în România  S-au lansat Heterodox (Steam) și Ring Racer.</description>
-    </item>
-    
-    <item>
-      <title>Cluedo</title>
-      <link>https://candaparerevista.ro/posts/2021/05/special-cluedo/</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/05/special-cluedo/</guid>
-      <description>Care este prima voastră amintire legată de jocurile video? Orice amintire, fie că e vorba de împușcat rațe pe televizorul vechi din sufragerie (care avea de obicei un milieu pe el), fie că e vorba de jucat Disney’s Hercules pe butoanele cu săgeți ale tastaturii sau de Cluedo, jocul original cu detectivi pe PC. În cazul meu e tot jocul cu rațele, pentru că făcuse tatăl meu rost de ceva nintendo knock-off, dar vă jur că m-am jucat și Cluedo din ‘98 mai târziu, pe primul meu calculator cu, evident, Windows ‘98.</description>
     </item>
     
   </channel>

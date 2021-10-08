@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyberpunk 2077</title>
+      <link>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:02 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</guid>
+      <description>Ambiție. Dacă ar fi să folosesc un singur cuvânt ca să descriu Cyberpunk 2077, acela ar fi „ambiție”. Sunt extraordinar de rare jocurile care se chinuie atât de tare să ajungă la lună. Dar dacă aș putea să folosesc două cuvinte, acelea ar fi „ambiție prostească”.
+Dar să o luăm cu începutul: ce e Cyberpunk 2077 de fapt? Poate fi descris ca un fenomen, un val de hype ajuns în topul produselor media contemporane care au generat cele mai mari așteptări, un Avengers: Infinity War al jocurilor video. Iar din perspectiva asta Cyberpunk 2077 a fost un succes — nu cred că există suflet de om care să aibă chiar și tangențial legătură cu gamingul și care să nu fi auzit de, vorbit de sau jucat jocul ăsta.</description>
+    </item>
     
     <item>
       <title>King&#39;s Bounty II</title>
@@ -139,16 +149,6 @@ Ancestors: The Humankind Odyssey ne poartă înapoi în timp cu 10 milioane de a
       <guid>https://candaparerevista.ro/posts/2020/12/review-terraforming-mars/</guid>
       <description>Terraforming Mars este un foarte popular joc de societate pentru 1 până la 5 jucători. Încă de la apariția din 2016 a luat cu asalt topurile de specialitate, atât pe cele ale criticilor, cat și pe cele de vânzări, și continuă să rămână foarte sus în preferințele împătimiților de board games. În România a fost localizat de Lex Games în 2019, sub numele de Terraformarea Planetei Marte.
 Inspirată din literatura hard SF — în primul rând din Trilogia Marțiană a lui Kim Stanley Robinson — tema jocului este efortul comun al omenirii, aflată în secolul 24 sub presiunea suprapopulării Pământului și a epuizării resurselor, de a transforma planeta roșie într-un mediu locuibil și propice extinderii societății.</description>
-    </item>
-    
-    <item>
-      <title>Yakuza: Like a Dragon</title>
-      <link>https://candaparerevista.ro/posts/2020/12/review-yakuza-like-a-dragon/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/12/review-yakuza-like-a-dragon/</guid>
-      <description>Articol tradus din limba engleză de Azad
- Dacă ești fan al jocurilor video și dacă Japonia înseamnă pentru tine mai mult decât un ansamblu de clișee precum florile de cireș sau restaurantul local de sushi, atunci probabil că ai auzit în ultimii ani de seria de jocuri video Yakuza. Evident, dacă ne luăm după titlu, nu trebuie să ne gândim foarte mult la tema jocului. Deși seria era mult mai populară în Japonia decât în Occident, o dată cu apariția în 2015 a lui Yakuza 0, jocurile Yakuza au început să prezinte interes și pentru publicul larg din vest și nu au rămas doar ceva de nișă.</description>
     </item>
     
   </channel>
