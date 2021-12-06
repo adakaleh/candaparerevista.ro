@@ -6,10 +6,24 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Oct 2021 00:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Concurs de Crăciun</title>
+      <link>https://candaparerevista.ro/blog/2021/12/concurs/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/blog/2021/12/concurs/</guid>
+      <description>E final de 2021, iată că am supraviețuit și e aproape Crăciunul! După cum ne e bunul obicei, vrem să organizăm din nou un concurs și să îmbogățim colecția de jocuri a unor norocoși.
+Pentru a vă înscrie trebuie doar să răspundeți în topicul dedicat de pe forum la următoarea întrebare:
+ Cu ce joc vreți să vă petreceți sărbătorile de iarnă?
+ Vă puteți înscrie până în data de 18 decembrie. În 19 decembrie vom extrage prin tragere la sorți trei câștigători.
+Condiții:
+ Jocul poate fi în format fizic sau digital, pentru orice consolă actuală sau PC.</description>
+    </item>
     
     <item>
       <title>Cyberpunk 2077</title>
@@ -23,10 +37,10 @@
     
     <item>
       <title>ncv a trecut în BonusStage.ro</title>
-      <link>https://candaparerevista.ro/blog/2021/bonusstage/</link>
+      <link>https://candaparerevista.ro/blog/2021/10/bonusstage/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:01 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/blog/2021/bonusstage/</guid>
+      <guid>https://candaparerevista.ro/blog/2021/10/bonusstage/</guid>
       <description>Surpriză! După Marius Ghinea, cioLAN și Paul Policarp, încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Luând o pauză după 6 ani la revista Level și apoi cele câteva numere din scurta existență a revistei Nivelul 2, Nicolae „ncv” Marin se întoarce acum cu forțe proaspete, ambiții mari și un site nou: BonusStage.ro.
     BonusStage.ro     În propriile cuvinte, ncv își propune:
  Review-urile și specialele o să fie cele mai numeroase. Jumătate din recenzii vor fi pentru titlurile testate pe PC.</description>
@@ -165,18 +179,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
       
       <guid>https://candaparerevista.ro/posts/2021/05/review-strangeland/</guid>
       <description>Există o poveste bine cunoscută în mitologia greacă, mai exact mitul lui Icar și a ascensiunii acestuia până la soare. În aroganța sa specifică fie vârstei, fie a omului în general, Icar a crezut că se poate apropia de soare. Bineînțeles, această credință s-a topit odată cu aripile sale de ceară, iar ce a urmat după a fost doar prăbușirea în întuneric. Sigur, există interpretări peste interpretări ale acestui mit, dar ce se întâmplă atunci când propriile noastre minți devin labirinturi ale regretului și pierderii iar aripile nu sunt nimic mai mult decât bule de săpun în briza unei seri de vară?</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 16 - 22 mai 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/05/23/</link>
-      <pubDate>Sun, 23 May 2021 00:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/05/23/</guid>
-      <description>Internet Explorer ajunge în sfârșit la capăt de drum, Netflix vrea să facă și jocuri, continuă procesul Epic vs Apple și s-a lansat încă un joc românesc: 41 Hours.
-Știri  Tribunalul unde se judecă patru dintre procesele deschise împotriva CD Projekt Red cu privire la lansarea Cyberpunk 2077 au fost unite într-un singur proces. (PC Gamer, Game World Observer, Eurogamer)
- Microsoft trage în sfârșit cortina peste Internet Explorer, compania anunțând încetarea definitivă a suportului pentru bătrânul browser începând cu anul viitor. (PC Gamer, RPS)
- Bethesda își închide forumul, comunicarea cu fanii urmând a se muta pe Discord.</description>
     </item>
     
   </channel>

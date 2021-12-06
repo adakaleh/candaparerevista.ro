@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/blog/2021/12/concurs/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</loc>
     <lastmod>2021-10-08T00:00:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/blog/2021/bonusstage/</loc>
+    <loc>https://candaparerevista.ro/blog/2021/10/bonusstage/</loc>
     <lastmod>2021-10-08T00:00:01+00:00</lastmod>
   </url>
   
@@ -2756,7 +2761,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/blog/</loc>
-    <lastmod>2021-10-08T00:00:01+00:00</lastmod>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8587,7 +8592,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2021-10-08T00:00:02+00:00</lastmod>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
