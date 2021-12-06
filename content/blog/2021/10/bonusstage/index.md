@@ -6,7 +6,8 @@ date: '2021-10-08T00:00:01'
 description: 'Încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Nicolae „ncv” Marin revine cu forțe proaspete, ambiții mari și un site nou: BonusStage.ro. După cum ne spune chiar el: „Review-urile și specialele o să fie cele mai numeroase. Jumătate din recenzii vor fi pentru titlurile testate pe PC. Mai vechi, mai noi, mai rare, majoritatea jocuri care mi-au atras atenția dintr-un motiv sau altul. Switch-ul va primi cealaltă jumătate de recenzii.”'
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=2&t=2787
-
+aliases:
+- /blog/2021/bonusstage/
 ---
 Surpriză! După Marius Ghinea, cioLAN și Paul Policarp, încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Luând o pauză după 6 ani la revista Level și apoi cele câteva numere din scurta existență a revistei Nivelul 2, Nicolae „ncv” Marin se întoarce acum cu forțe proaspete, ambiții mari și un site nou: [BonusStage.ro](http://www.bonusstage.ro/).
 
