@@ -4,7 +4,7 @@ type: blog
 date: '2021-12-06'
 description: "E final de 2021, iată că am supraviețuit și e aproape Crăciunul! După cum ne e bunul obicei, vrem să organizăm din nou un concurs și să îmbogățim colecția de jocuri a trei (3) norocoși. Pentru a vă înscrie trebuie doar să răspundeți la o simplă întrebare până pe 18 decembrie."
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?t=2813
-
+facebookImage: img/misc/craciun_cover.jpg
 ---
 E final de 2021, iată că am supraviețuit și e aproape Crăciunul! După cum ne e bunul obicei, vrem să organizăm din nou un concurs și să îmbogățim colecția de jocuri a unor norocoși.
 
