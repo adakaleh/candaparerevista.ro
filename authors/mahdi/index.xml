@@ -6,10 +6,20 @@
     <description>Recent content in Mahdi on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/authors/mahdi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loop Hero</title>
+      <link>https://candaparerevista.ro/posts/2022/01/recomandare-loop-hero/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/01/recomandare-loop-hero/</guid>
+      <description>Tocmai când începeam să cred că s-au cam fumat toate variațiunile pe formula roguelike, Loop Hero mi-a demonstrat că ingeniozitatea indie nu cunoaște limite. Preluând elementele clasice ale rețetei, permadeath și generare procedurală, cei de la Four Quarters au adăugat câteva elemente de deck building, autobattle și chiar strategie, iar rezultatul a fost surprinzător de simplu și adictiv.
+În Loop Hero nu ai niciun control asupra eroului. Acesta parcurge singur un drum legat ca un circuit, și înfruntă toți monștrii random care îi ies în cale. La început există doar drumul - lumea a fost distrusă de către un misterios lich.</description>
+    </item>
     
     <item>
       <title>King&#39;s Bounty II</title>
@@ -142,15 +152,6 @@ Primul joc pe care l-am încercat a fost în așa numitul Indie Village — o ju
       
       <guid>https://candaparerevista.ro/posts/2018/08/recomandare-hollow-knight-mahdi/</guid>
       <description>Hollow Knight este unul dintre acele rare jocuri care pot fi numite „a labor of love” fără a te strâmba după rostirea acestui clișeu. Nu doar că este un joc de o calitate deosebită, dar dezvoltatorii săi au continuat să lanseze update-uri consistente de conținut în mod gratuit. Godmaster a fost lansat săptămâna aceasta și marchează finalul unei serii de 4 DLC-uri care au adus noi zone de explorat, la pachet cu boși și provocări suplimentare. De obicei ăsta e semnul unei lansări inițiale pripite - când producătorii rămân cu materiale nefolosite sau neterminate la masa de tăiere - dar acesta nu este cazul lui Hollow Knight.</description>
-    </item>
-    
-    <item>
-      <title>Torment: Tides of Numenera</title>
-      <link>https://candaparerevista.ro/posts/2018/05/preview-torment-mahdi/</link>
-      <pubDate>Sun, 20 May 2018 20:00:05 +0200</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/05/preview-torment-mahdi/</guid>
-      <description>Iată că mai sunt două săptămâni până la lansarea lui Torment: Tides of Numenera. După aproape patru ani în development, ultimul dintre “greii” din primul val de jocuri Kickstarter este în sfârșit gata. Fiind unul dintre backeri, am avut ocazia să pun mâna pe versiunea beta a jocului, în care am putut juca primul act. Mai jos sunt câteva dintre impresiile mele, sub forma unui preview. Aș vrea să pot da vina pe tipografie pentru publicarea lui atât de târzie - în curând ar trebui să apară primele reviewuri - dar adevărul e că mi-a fost doar lene să mă ocup de el.</description>
     </item>
     
   </channel>
