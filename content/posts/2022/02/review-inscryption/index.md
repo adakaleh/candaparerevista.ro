@@ -75,10 +75,7 @@ Am tot vorbit până acum despre duelurile de cărți, mecanica de bază a jocul
 
 Conceptul e destul de simplu. Ai o tablă de joc împărțită în trei rânduri de câte patru căsuțe, pe care ne vom așeza cărțile — primul rând e pentru jucător, celelalte două pentru Leshy. Atât, ăsta-i tot terenul de luptă. Îți plasezi cărțile în joc, apoi la finalul rundei acestea vor „ataca” rândul din față. Dacă acolo se găsește o carte inamică, vor face damage acelei unități, dacă e o casetă goală, vor face damage direct adversarului. Aceasta e și condiția de victorie: să reușești să faci 5 puncte de damage oponentului. Simplu, nu? Dar atenție, scorul nu se ține separat, ci pe talerele unei balanțe. La finalul rundei tale, vine rândul lui Leshy. Orice punct de damage pe care îl face și nu ai o carte care să „încaseze” devine o contragreutate la punctele tale, astfel că condiția de victorie înseamnă de fapt să ajungi să faci 5 puncte de damage mai mult decât adversarul. Și asta nu mai e deloc atât de simplu pe cât sună.
 
-
-{{< figure-multi
-"gallery/inscryption-16.jpg| O mică selecție de cărți disponibile."
->}}
+{{< figure src="gallery/inscryption-16.jpg" caption="O mică selecție de cărți disponibile." >}}
 
 Cărțile se împart în „resurse” și „unități”, fiecare într-un pachet separat. Cel de unități conține doar cărțile găsite până în acel moment în jocul tabletop, pe când cel de resurse este infinit, iar la începutul fiecarei runde poți trage o singură carte din ce pachet vrei. Fiecare unitate are înscris un cost de resurse pe care trebuie să le plătești înainte de a putea juca cartea respectivă. Apoi, pentru lupta propriu-zisă, fiecare carte are o cifră care reprezintă puterea de atac și încă una ce reprezintă câtă viață are, sau mai precis cât damage poate să primească până să moară. Luptele nu au niciun element de RNG, ci se rezolvă pur aritmetic — 2 puncte de damage vor scădea întotdeauna 2 puncte din viața inamicului, indiferent care ar fi acesta.
 
@@ -86,9 +83,7 @@ Cărțile se împart în „resurse” și „unități”, fiecare într-un pac
 
 Și peste toate acestea vin „sigiliile”, care sunt niște bonusuri permanente sau temporare care modifică într-un anumit fel comportamentul cărților și măresc extraordinar de mult posibilitățile tactice, în general inspirându-se din caracteristicile animalului de pe carte. De exemplu, o „călugăriță” face damage doar 1, dar poate ataca la stânga și la dreapta. Păsările au sigiliul „airborne”, astfel că fac damage direct adversarului, ignorând unitatea din față. Vipera, cu veninul său, omoară instant orice unitate adversă, indiferent câtă viață are. O anumită pisică are damage zero, dar vieți infinite. Și multe altele asemenea care dau varietate și pot modifica cursul unei partide.
 
-{{< figure-multi
-"gallery/inscryption-17.jpg| Duelurile de la finalul hărților sunt interesante din mai multe motive"
->}}
+{{< figure src="gallery/inscryption-17.jpg" caption="Duelurile de la finalul hărților sunt interesante din mai multe motive." >}}
 
 Și mai este un amănunt important peste care am sărit destul de repede. Spuneam că adversarul folosește două din cele trei rânduri ale tablei de joc. Regulile sunt făcute în așa fel încât oponentul își introduce cărțile pe primul rând, fără să atace, iar de-abia în runda următoare acestea se vor muta pe cel de-al doilea rând, unde e „linia frontului”, și atunci vor ataca. Astfel, în combinație cu lipsa de RNG, vei ști (aproape) întotdeauna la ce atac trebuie să faci față și să decizi cum îți așezi cărțile. Desigur, nu vei avea mereu unități adecvate situației, așa că de multe ori vei fi în situația de a alege răul mai mic, cum ar fi să sacrifici o carte bună doar pentru a preveni damage-ul pe care altfel l-ar fi făcut unitatea adversă.
 
@@ -108,6 +103,4 @@ După ce v-am povestit, o să vă mai dau un spoiler — jocul de-abia începe. 
 
 Pentru cine nu știe, Daniel Mullins, programatorul din spatele jocului, a mai făcut în trecut **Pony Island** și **The Hex**. Deși nu e nicio legătură directă între ele (deci nu e nevoie neapărat să le fi jucat înainte), ce au toate aceste titluri în comun este felul în care pornesc de la o premisă sau o mecanică de joc aparent simplă, dar pe măsură ce joci așează încontinuu strat peste strat de gameplay, secrete, poveste și meta-poveste, mare parte din experiența de joc fiind dată tocmai de descoperirea tuturor aromelor și a felului în care se întrepătrund pe măsură ce-l consumi. Iar **Inscryption** este de departe cel mai bun dintre acestea, o rețetă dusă la perfecțiune, un tort care nu trebuie ratat. ■
 
-{{< figure-multi
-"gallery/inscryption-14.jpg| Felicitări, ai câștigat!"
->}}
+{{< figure src="gallery/inscryption-14.jpg" caption="Felicitări, ai câștigat!" >}}
