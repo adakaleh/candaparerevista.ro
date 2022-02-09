@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inscryption</title>
+      <link>https://candaparerevista.ro/posts/2022/02/review-inscryption/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/02/review-inscryption/</guid>
+      <description>Inscryption se prezintă ca un „deckbuilding roguelike” și în mod normal această introducere ar fi fost suficientă ca să-i zic pas, deoarece evit cam orice joc bazat pe mecanici de CCG. În general, prefer jocurile cu un parcurs predictibil, în care să am șansa de a învăța și de a depăși provocările prin propriile-mi abilități, decât să fiu nevoit să gestionez niște probabilități și să mă bazez pe norocul sau ghinionul de moment al unor abilități random. Dar pentru că știam că acest joc a fost dezvoltat de Daniel Mullins mi-am depășit cu ușurință toate prejudecățile.</description>
+    </item>
     
     <item>
       <title>Loop Hero</title>
@@ -166,18 +175,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
 Știri  Un grup de hackeri a reușit să sustragă din sistemele EA codul sursă pentru FIFA 21 și motorul Frostbite. (VideoGamesChronicle, Shacknews, Destructoid, Eurogamer, Kotaku)
  CD Projekt confirmă că scurgerea de date din februarie e mai serioasă decât anunțase inițial și cuprinde și date personale ale angajaților. (VideoGamesChronicle, Eurogamer, Polygon)
  Netflix și CD Projekt anunță prima ediție a WitcherCon, ce va avea loc în luna iulie.</description>
-    </item>
-    
-    <item>
-      <title>Mini-Retrospectiva săptămânii 31 mai - 6 iunie 2021</title>
-      <link>https://candaparerevista.ro/highlights/2021/06/07/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/2021/06/07/</guid>
-      <description>Codul sursă al Cyberpunk 2077 ajunge pe internet, Nvidia lansează alte plăci video și s-a lansat încă un joc românesc: The Handbook.
-Știri  Codul sursă pentru mai multe proiecte ale CD Projekt Red, inclusiv Cyberpunk 2077 și Witcher 3, a fost publicat online, fiind vorba de aceleași informații care au fost pierdute în atacul ransomware din luna februarie. (Eurogamer, VideoGamesChronicle, PCGamesInsider.biz)
- Nvidia anunță două modele noi de plăci video, RTX 3080 Ti și RTX 3070 Ti. (PC Gamer, Kotaku, PCGamesInsider.biz)
- Nintendo a câștigat daune de 2 milioane de dolari în urma unui proces de copyright intentat proprietarului unui site ce distribuia ROMs pentru consolele Nintendo.</description>
     </item>
     
   </channel>

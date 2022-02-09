@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Oct 2021 00:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inscryption</title>
+      <link>https://candaparerevista.ro/posts/2022/02/review-inscryption/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/02/review-inscryption/</guid>
+      <description>Inscryption se prezintă ca un „deckbuilding roguelike” și în mod normal această introducere ar fi fost suficientă ca să-i zic pas, deoarece evit cam orice joc bazat pe mecanici de CCG. În general, prefer jocurile cu un parcurs predictibil, în care să am șansa de a învăța și de a depăși provocările prin propriile-mi abilități, decât să fiu nevoit să gestionez niște probabilități și să mă bazez pe norocul sau ghinionul de moment al unor abilități random. Dar pentru că știam că acest joc a fost dezvoltat de Daniel Mullins mi-am depășit cu ușurință toate prejudecățile.</description>
+    </item>
     
     <item>
       <title>Cyberpunk 2077</title>
@@ -140,15 +149,6 @@ Microsoft a făcut o mișcare îndrăzneață, încredințând dezvoltarea noulu
       
       <guid>https://candaparerevista.ro/posts/2020/10/review-mortal-shell/</guid>
       <description>În urmă cu un an și jumătate a avut loc primul meu contact cu jocurile From Software. Sigur, strict și prin curiozitatea generată de meme-uri și alte glumițe de pe internet, m-am plimbat și eu ca tot omul prin Dark Souls atunci când s-a lansat versiunea de PC, dar nu cât să-i aprofundez lumea. În fapt, portarea necizelată nu m-a dat pe spate și am decis că o voi lăsa pe altădată. Iată că acest altădată a venit când studioul japonez a lansat pe piață Sekiro, care încă dinaintea apariției m-a cucerit prin estetică și atenția la detaliu, un deliciu pentru fanii culturii japoneze.</description>
-    </item>
-    
-    <item>
-      <title>Willy Morgan and the Curse of Bone Town</title>
-      <link>https://candaparerevista.ro/posts/2020/10/review-willy-morgan/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/10/review-willy-morgan/</guid>
-      <description>De-a lungul timpului au apărut multe jocuri de aventură care au făcut trimiteri variate, mai multe sau mai puține, mai evidente sau mai subtile, la clasicul Monkey Island, dar Willy Morgan &amp;amp; The Curse of Bone Town al italienilor de la imaginarylab este mai degrabă un omagiu adus acestei serii. Aventuri, pirați și comori - Willy Morgan le are pe toate. Dar, spre deosebire de șarmul cu care ne-a cucerit Monkey Island și umorul spumos al lui Guybrush Threepwood, Willy Morgan abordează pirateria cea de toate zilele dintr-o perspectivă a maturizării.</description>
     </item>
     
   </channel>
