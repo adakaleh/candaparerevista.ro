@@ -2739,6 +2739,10 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2022/03/review-blasphemous/</loc>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/blightbound/</loc>
     <lastmod>2020-08-02T00:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -9562,6 +9566,11 @@
   <url>
     <loc>https://candaparerevista.ro/tags/the-game-awards/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/the-game-kitchen/</loc>
     <priority>0</priority>
   </url>
   
