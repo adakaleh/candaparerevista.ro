@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blasphemous - Wounds of Eventide</title>
+      <link>https://candaparerevista.ro/posts/2022/03/review-blasphemous/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/03/review-blasphemous/</guid>
+      <description>Aidoma episcopului Melchiade, exhumat de credincioși, îmbăiat în miruri și împodobit în mătăsuri și aur pentru a fi purtat în procesiuni, astfel și cei de la The Game Kitchen au procedat cu moștenirea cultural-religioasă a Peninsulei Iberice când au creat lumea Cvstodiei.
+Cunoscuți pentru cele două jocuri The Last Door, TGK prin Blasphemous s-au îndepărtat teribil de ceea ce știau. Saltul de la point and click adventure cu pixeli uriași la un action-adventure cu valențe de metroidvania și mici elemente souls-like este în sine o încercare temerară ce merită admirație.</description>
+    </item>
     
     <item>
       <title>Inscryption</title>
@@ -140,15 +150,6 @@ Ancestors: The Humankind Odyssey ne poartă înapoi în timp cu 10 milioane de a
       
       <guid>https://candaparerevista.ro/posts/2021/01/review-total-war-warhammer-ii/</guid>
       <description>Scurți de statură, dar compensînd cu lungimea bărbii, piticii sunt una dintre cele mai bătrîne civilizații ale Lumii Vechi și totodată una destul de atipică. Spre exemplu, piticii nu au divinități în sensul teologic uzual, anume ființe supranaturale care să intervină în chestiuni lumești. Ei își venerează strămoșii, la loc de cinste fiind făurarul Grugni, care i-a scos din paleoliticul piticesc prin meșteșugul metalurgiei, gospodina Valaya, care a descoperit secretul vital al fabricării berii, și supăriciul Grimnir de la care au învățat deprinderea esențială de crăpare a țestelor potrivnice cu securea.</description>
-    </item>
-    
-    <item>
-      <title>Fell Seal: Arbiter&#39;s Mark</title>
-      <link>https://candaparerevista.ro/posts/2021/01/review-fell-seal-arbiter-mark/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/01/review-fell-seal-arbiter-mark/</guid>
-      <description>Ai crede că după decenii de jucat jocuri pe calculator ai fi jucat de toate, dar cu cât joci mai multe cu atât îți dai seama cât de multe mai ai de jucat. Faptul că România, că restul zonei balcanice, din rațiuni pur politice legate de securi și ciocane, a fost „scutită” de influența Nintendo și Sony nu e ceva nou. A fost „scutită” de Dreamcast-uri, de SEGA Genesis, NES-uri și aproape și de prima serie de Playstation-uri, cu toate jocurile care face lumea vestică, dar și depărtat-estică, să cadă în genunchi de nostalgie.</description>
     </item>
     
   </channel>
