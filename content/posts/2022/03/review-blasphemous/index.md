@@ -1,7 +1,7 @@
 ---
 title: Blasphemous - Wounds of Eventide
 type: post
-date: 2022-03-02
+date: 2022-03-007
 authors: fular
 categories:
     - Review
