@@ -9,6 +9,7 @@ tags:
     - Elden Ring
     - From Software
     - Soulslike
+draft: true
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?p=122122
 
