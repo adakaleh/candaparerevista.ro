@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Northern Journey</title>
+      <link>https://candaparerevista.ro/posts/2022/12/review-northern-journey/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/12/review-northern-journey/</guid>
+      <description>Luna august e o lună ciudată pentru jocuri, așa cum e și pentru oameni. August e ca un gard vechi de piatră - ne așezăm pe el vacanțele „dintre ani”, școlari sau bisericești; ne întindem peste el și amânările, și visele, numai de s-ar coace singure spre cules. August e ca un „plin al verii”, dar e și sfârșitul ei totodată, în care soarele, deși mai nemilos că oricând, înclină zilele deja din firmament, scurtându-le spre echinocțiu. Presărat cu sărbători, pregătiri și pauze mai mult sau mai puțin liturgice, luna August e un festival de atmosfere variate, un carusel ce alternează paroxismul aventurier al verii cu adâncimile tihnei tomnatice.</description>
+    </item>
     
     <item>
       <title>Lost in Play</title>
@@ -101,7 +110,7 @@ Condiții:
       
       <guid>https://candaparerevista.ro/blog/2021/10/bonusstage/</guid>
       <description>Surpriză! După Marius Ghinea, cioLAN și Paul Policarp, încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Luând o pauză după 6 ani la revista Level și apoi cele câteva numere din scurta existență a revistei Nivelul 2, Nicolae „ncv” Marin se întoarce acum cu forțe proaspete, ambiții mari și un site nou: BonusStage.ro.
-    BonusStage.ro     În propriile cuvinte, ncv își propune:
+ BonusStage.ro În propriile cuvinte, ncv își propune:
  Review-urile și specialele o să fie cele mai numeroase. Jumătate din recenzii vor fi pentru titlurile testate pe PC.</description>
     </item>
     
@@ -159,18 +168,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
  15 ianuarie: hexceed (Steam)
 17 - 23 ianuarie 18 ianuarie: Everspace 2 (early access) (Steam, gog.com)
  19 ianuarie: Skul: The Hero Slayer (Steam)</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva Anului 2021: Știrile Anului</title>
-      <link>https://candaparerevista.ro/highlights/istorie/2021/stiri/</link>
-      <pubDate>Mon, 05 Jul 2021 00:00:04 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/istorie/2021/stiri/</guid>
-      <description>27 decembrie 2020 - 2 ianuarie (fără știri relevante)
-3 - 9 ianuarie  Epic Games vrea să-și schimbe sediul global, cumpărând în acest sens un fost mall cu o suprafață de 9 hectare. (Polygon, Shacknews, VideoGamesChronicle)
- O parte din angajații Google au înființat primul sindicat din istoria companiei. (Shacknews, GamesIndustry.biz)
- Un reportaj Bloomberg prezintă o parte mai puțin știută din istoria Xbox și povestește cum Microsoft a vrut să facă o intrare puternică pe piața consolelor în urmă cu 20 de an încercând să cumpere mai multe companii, printre care EA, Nintendo, Midway și Square, rămânând până la urmă doar cu Bungie.</description>
     </item>
     
   </channel>

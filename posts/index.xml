@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Northern Journey</title>
+      <link>https://candaparerevista.ro/posts/2022/12/review-northern-journey/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/12/review-northern-journey/</guid>
+      <description>Luna august e o lună ciudată pentru jocuri, așa cum e și pentru oameni. August e ca un gard vechi de piatră - ne așezăm pe el vacanțele „dintre ani”, școlari sau bisericești; ne întindem peste el și amânările, și visele, numai de s-ar coace singure spre cules. August e ca un „plin al verii”, dar e și sfârșitul ei totodată, în care soarele, deși mai nemilos că oricând, înclină zilele deja din firmament, scurtându-le spre echinocțiu. Presărat cu sărbători, pregătiri și pauze mai mult sau mai puțin liturgice, luna August e un festival de atmosfere variate, un carusel ce alternează paroxismul aventurier al verii cu adâncimile tihnei tomnatice.</description>
+    </item>
     
     <item>
       <title>Lost in Play</title>
@@ -142,16 +151,6 @@ Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri
       
       <guid>https://candaparerevista.ro/posts/2021/03/review-total-war-warhammer-iii/</guid>
       <description>Bretonnia este o facțiune încropită parcă pe genunchi dintr-un amalgam de legende Arthuriene, istorii medievale și melancolii provensale tratate într-o manieră care sfîrșește prin a părea drept parodie involuntară. În cazul lui TW:WH, facțiunea nici nu a fost gata pentru lansarea originală, ci a sosit mai tîrziu sub forma unui supliment gratuit în așa numita Old World Edition, fapt care nu o ajută prea mult, căci accentuează impresia unui lucru făcut la repezeală, pentru a ține promisiuni oricum ratate. Toate problemele și defectele jocului sunt amplificate dramatic din perspectiva Bretonniei, iar timpul petrecut aici reprezintă una dintre cele mai triste și frustrante experiențe virtuale de care am avut parte vreodată.</description>
-    </item>
-    
-    <item>
-      <title>Ancestors: The Humankind Odyssey</title>
-      <link>https://candaparerevista.ro/posts/2021/02/review-ancestors-humankind-odyssey/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/02/review-ancestors-humankind-odyssey/</guid>
-      <description>„Privind în urmă la modul simplist, [povestea anomaliilor genetice care au definit specia umană] pare un lanț incredibil de coincidențe.” Acest citat din cartea „Revoluția după Darwin” a jurnalistului Adrian Nicolae, deși menit să ilustreze complexitatea incredibilă a parcursului evoluționar al omenirii, descrie la fel de bine și premisa de la care pleacă acest joc mai puțin obișnuit.
-Ancestors: The Humankind Odyssey ne poartă înapoi în timp cu 10 milioane de ani, în Africa din a doua parte a Neogenului și ne dă în grijă un grup de hominizi dintr-o specie neidentificată pe care trebuie să-i ghidăm, de-a lungul a 8 milioane de ani și nenumărate generații, pe drumul evoluției către genul Homo.</description>
     </item>
     
   </channel>

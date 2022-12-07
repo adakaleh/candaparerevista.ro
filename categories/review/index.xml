@@ -6,10 +6,19 @@
     <description>Recent content in Review on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Northern Journey</title>
+      <link>https://candaparerevista.ro/posts/2022/12/review-northern-journey/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2022/12/review-northern-journey/</guid>
+      <description>Luna august e o lună ciudată pentru jocuri, așa cum e și pentru oameni. August e ca un gard vechi de piatră - ne așezăm pe el vacanțele „dintre ani”, școlari sau bisericești; ne întindem peste el și amânările, și visele, numai de s-ar coace singure spre cules. August e ca un „plin al verii”, dar e și sfârșitul ei totodată, în care soarele, deși mai nemilos că oricând, înclină zilele deja din firmament, scurtându-le spre echinocțiu. Presărat cu sărbători, pregătiri și pauze mai mult sau mai puțin liturgice, luna August e un festival de atmosfere variate, un carusel ce alternează paroxismul aventurier al verii cu adâncimile tihnei tomnatice.</description>
+    </item>
     
     <item>
       <title>Blasphemous - Wounds of Eventide</title>
@@ -140,16 +149,6 @@ Metamorfoza (Die Verwandlung) e sursa evidentă de inspirație, dar nu e și sin
       <guid>https://candaparerevista.ro/posts/2020/10/review-seria-we-were-here/</guid>
       <description>Avea Mark Twain o vorbă, „nu există o metodă mai bună să-ți dai seama dacă îți place sau displace cineva decât să călătorești cu acea persoană”. Ei bine, Mark Twain e învechit și oricum de fapt el și-a pierdut prietenii prin investiții defectuoase. Pentru oamenii prezentului care vor alternative moderne și mai distractive, cea mai bună metodă să-ți dai seama dacă trebuie să pui punct căsniciei cu soția, sau prieteniei cu amicul tău de o viață, este să joci cu ei seria We Were Here.
 WWH e o trilogie care te pune pe ține și încă o persoană în situația de a rezolva varii puzzle-uri într-un mod cooperativ folosind magia prieteniei.</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Flight Simulator</title>
-      <link>https://candaparerevista.ro/posts/2020/10/review-microsoft-flight-simulator/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2020/10/review-microsoft-flight-simulator/</guid>
-      <description>Luna august a acestui an a marcat lansarea celei mai recente iterații, cea cu numărul 13, din legendara serie Microsoft Flight Simulator, care a debutat în 1982, fiind cu 3 ani mai veche chiar decât prima versiune de Windows. Precedentul titlu din serie, Microsoft Flight Simulator X, s-a lansat în 2006 și a fost foarte apreciat la vremea lui, fiind jucat chiar și până în timpurile noastre, dar nevoia de o actualizare se simțea de mult.
-Microsoft a făcut o mișcare îndrăzneață, încredințând dezvoltarea noului joc unui studio fără experiență în domeniul simulatoarelor.</description>
     </item>
     
   </channel>
