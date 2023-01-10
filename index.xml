@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Case of the Golden Idol</title>
+      <link>https://candaparerevista.ro/posts/2023/01/recomandare-case-golden-idol/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2023/01/recomandare-case-golden-idol/</guid>
+      <description>Într-una din diminețile lui decembrie, pe când biroul încă zăcea în amorțeala somnolentă emanată din colegi veniți la lucru, Mihai s-a strecurat tăcut, tiptil, unduindu-se ca trestia în drum spre biroul lui Eric. A văzut lipsa omului căutat și ca să nu-i fie drumul inutil m-a întreținut câteva minute spunându-mi despre apropiat apărutul Pentiment, perorație din care m-am văzut nevoit să-l întrerup pentru a mă scuti de spoilere. A continuat apoi cu un joculeț de care nu aveam habar și a cărui mecanică principală mi l-a entuziasmat fără măsură.
+Colegul manifestat așa inopinat în mijirile timpurii ale zilei m-a îmbolnăvit și pe mine cu entuziasmul său debordant și astfel am dat curs recomandării sale expansive, iar pe parcursul unei săptămâni m-am cufundat în întortocheata poveste a Idolului Auriu.</description>
+    </item>
     
     <item>
       <title>The Night&#39;s Dawn</title>
@@ -119,7 +129,7 @@ Condiții:
       
       <guid>https://candaparerevista.ro/blog/2021/10/bonusstage/</guid>
       <description>Surpriză! După Marius Ghinea, cioLAN și Paul Policarp, încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Luând o pauză după 6 ani la revista Level și apoi cele câteva numere din scurta existență a revistei Nivelul 2, Nicolae „ncv” Marin se întoarce acum cu forțe proaspete, ambiții mari și un site nou: BonusStage.ro.
- BonusStage.ro În propriile cuvinte, ncv își propune:
+    BonusStage.ro     În propriile cuvinte, ncv își propune:
  Review-urile și specialele o să fie cele mai numeroase. Jumătate din recenzii vor fi pentru titlurile testate pe PC.</description>
     </item>
     
@@ -150,15 +160,6 @@ Cât de mult s-au putut schimba lucrurile în doi ani? Ei bine, o să încep cu 
       <guid>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</guid>
       <description>&amp;ldquo;Every moment of anger, hate, deceit, pain, suffering, pleasure, and desire is mirrored in the power of Chaos. When its legions march, they march to return upon us a ruin that is of our own making.&amp;rdquo;
 Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri definitorii pentru subgen, mulți vor arăta înspre Blitzkrieg, Command and Conquer sau Dune II, și puțini înspre Warhammer 40k: Dawn of War. Dawn of War este poate cel mai subapreciat joc de strategie din punct de vedere al influenței sale - dar mai ales, ca joc video capabil de a întrupa un univers fictiv.</description>
-    </item>
-    
-    <item>
-      <title>Retrospectiva Anului 2021: Made în România</title>
-      <link>https://candaparerevista.ro/highlights/istorie/2021/romania/</link>
-      <pubDate>Mon, 05 Jul 2021 00:00:06 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/highlights/istorie/2021/romania/</guid>
-      <description>10 - 16 ianuarie  Exclusivitatea Epic Store pentru Yaga a expirat, iar jocul s-a lansat în sfârșit și pe restul platformelor. (Steam, gog.com, Humble Store)  17 - 23 ianuarie  PalmRide are demo pe Steam. (Steam)  7 - 13 februarie  După o campanie nereușită pe Kickstarter în 2019, jocul Domion revine cu o schimbare de concept și nume (Domion - Trinity Requiem), lansând o versiune alpha pe itch.io. (Romanian Game Developers, itch.io)  14 - 20 februarie  S-a lansat Joy the Pug, un joc românesc creat de studioul Charon Games cu un buget de 500 de dolari.</description>
     </item>
     
   </channel>
