@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rumu on Site-ul comunității LEVEL</title>
+    <link>https://candaparerevista.ro/tags/rumu/</link>
+    <description>Recent content in Rumu on Site-ul comunității LEVEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://candaparerevista.ro/tags/rumu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retrospectiva săptămânii 18-24 noiembrie 2018</title>
+      <link>https://candaparerevista.ro/highlights/2018/2018.11.18/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/highlights/2018/2018.11.18/</guid>
+      <description>Retrospectiva săptămânii este rubrica duminicală în care trecem în revistă evenimentele săptămânii de pe frontul de gaming: știri şi articole (scrise de alții, bineînțeles, că e mai ușor aşa), industrie, lansări, oferte de jocuri, toate numai de savurat la cafeaua de duminică dimineața. (Și la care oricine poate contribui. 1)
+ Știri  Skybound au început să lucreze la sezonul final din The Walking Dead. (Eurogamer, Games Informer, The Verge) Valve nu va mai produce Steam Link după ce stocurile actuale se vor epuiza. (Eurogamer, Games Informer, The Verge, Ars Technica) 20th Century Fox a înregistrat marca Alien: Blackout pentru jocuri video.</description>
+    </item>
+    
+  </channel>
+</rss>

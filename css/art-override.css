@@ -153,8 +153,32 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     opacity: 0.85;
 }
 
+/* player audio articol */
+.post-template .kg-card-markdown .audio-version {
+    margin-bottom: 2em;
+    color: #26a8ed;
+    border: solid 1px #26a8ed;
+    padding: 1em;
+    width: 100%;
+    background-color: rgba(38,168,237,0.1);
+    opacity: 0.9;
+}
+
+.audio-version-label {
+    margin-bottom: 0.5em;
+    text-transform:uppercase;
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.post-template .kg-card-markdown audio {
+    width: 100%;
+    border-radius: 3px;
+}
+
 /* container text articol - primul paragraf */
-.post-template .kg-card-markdown:not(.blog)>p:first-child {
+.post-template .kg-card-markdown:not(.blog)>p:first-of-type  {
     font-size:1.9rem;
     line-height:1.5em;
     font-style:italic;
@@ -469,7 +493,7 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
     height: 100%;
 }
 
-.read-next-feed .post-card:not(.no-image) .post-card-content {
+.read-next-feed .post-card:not(.no-image):not(.featured) .post-card-content {
     /*flex: 0 1 357px;*/
     flex: 0 1 66%;
 }
@@ -594,13 +618,10 @@ content-ul va ocupa 100% din latime */
     border-bottom: 1px solid rgba(0,0,0,0.7);
 }
 
-.nota-plus-minus div {
-    padding: 0 1em;
-}
-
 .nota-plus-minus .rating {
     text-align: center;
     flex: 1 1 20%;
+    padding: 0 0.5em;
 
     /* setari pentru nota si verdict */
     display: flex;
@@ -608,9 +629,20 @@ content-ul va ocupa 100% din latime */
     justify-content: center;
 }
 
-.nota-plus-minus .minuses,
-.nota-plus-minus .pluses {
-    flex: 1 1 40%;
+.nota-plus-minus .liste {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1 1 80%;
+    padding-right: 0.5em;
+}
+
+.nota-plus-minus .liste div {
+    flex: 1 1 33%;
+    padding: 0 0.5em;
+}
+.nota-plus-minus .liste li {
+    font-size: 0.9em;
 }
 
 .caseta-tehnica-section .alternative,
@@ -677,7 +709,8 @@ content-ul va ocupa 100% din latime */
 /* -- end overrides mini-info-box -- */
 
 .pluses li:before,
-.minuses li:before {
+.minuses li:before,
+.other li:before {
     margin-right: 0.7em;
     font-weight: 900;
     background-color: rgba(0,0,0,0.65);
@@ -688,6 +721,7 @@ content-ul va ocupa 100% din latime */
 
 .pluses li:before { content: "+"; }
 .minuses li:before { content: "–"; }
+.other li:before { content: "•"; }
 
 .post-full-content code {
     padding: 0 5px 0;

@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="en-us" />
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Introducere în Unreal Engine 4 (IV) &middot; Site-ul comunității LEVEL</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="referrer" content="no-referrer" />
+
+    <link rel="shortcut icon" href="https://candaparerevista.ro/img/favicon.png" />
+    <link rel="canonical" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/" />
+
+     <meta name="description" content="Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului. Fiecare obiect din Unreal Engine 4 are la bază un material. Acest material influențează modul în care acesta este vizualizat. Materialele pot avea texturi diferite și grade de reflexie diferită. Noi vom face câteva materiale metalice și câteva materiale care să strălucească." /> 
+
+     
+    
+    <meta name="twitter:card" content="summary"/>
+    
+ 
+    <meta name="twitter:title" content="Introducere în Unreal Engine 4 (IV)"/>
+    <meta name="twitter:description" content="Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului. Fiecare obiect din Unreal Engine 4 are la bază un material. Acest material influențează modul în care acesta este vizualizat. Materialele pot avea texturi diferite și grade de reflexie diferită. Noi vom face câteva materiale metalice și câteva materiale care să strălucească."/>
+    <meta name="twitter:url" content="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/" />
+    <meta name="twitter:site" content="@"/>
+
+    <meta property="og:site_name" content="Site-ul comunității LEVEL" />
+    
+    <meta property="og:title" content="Introducere în Unreal Engine 4 (IV)  &middot; ATELIER " />
+    <meta property="og:url" content="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/" />
+    <meta property="article:publisher" content="https://www.facebook.com/comunitatealevel" />
+
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:description" content="
+      
+      
+      mahri726 &middot;
+      
+      Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului. Fiecare obiect din Unreal Engine 4 are la bază un material. Acest material influențează modul în care acesta este vizualizat. Materialele pot avea texturi diferite și grade de reflexie diferită. Noi vom face câteva materiale metalice și câteva materiale care să strălucească." />
+
+    <meta property="article:published_time" content="2018-11-17T00:00:04Z" />
+    <meta property="article:tag" content="GameDev" /><meta property="article:tag" content="Unreal Engine" />
+
+
+
+    
+      <meta property="og:image" content="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/images/ue4-cover.jpg"/>
+
+
+
+    <meta name="generator" content="Hugo 0.42.1" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://candaparerevista.ro/built/screen.css" /> 
+    <link rel="stylesheet" type="text/css" href="https://candaparerevista.ro/css/casper-two.css" /> 
+    <link rel="stylesheet" href="https://candaparerevista.ro/css/libs/highlight/default.css" />
+     <link rel="stylesheet" href="https://candaparerevista.ro/css/main-override.css" />  <link rel="stylesheet" href="https://candaparerevista.ro/css/art-override.css" />  <link rel="stylesheet" href="https://candaparerevista.ro/css/mobile-override.css" />  <link rel="stylesheet" href="https://candaparerevista.ro/css/fonts.css" /> 
+
+     
+
+</head>
+
+
+<body class="post-template">
+  <div class="site-wrapper"> 
+
+<header class="site-header outer"
+  
+  
+>
+  <div class="inner">
+
+    
+<nav class="site-nav">
+  <div class="site-nav-left">
+    
+      <a class="site-nav-logo" href="https://candaparerevista.ro/"><img src="https://candaparerevista.ro/img/car_logo.png" alt="Când Apare Revista" /></a>
+    
+
+    <ul class="nav" role="menu">
+      
+      
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/categories/">Articole</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/categories/featured/">Featured</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/categories/highlights/">Știri</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/authors/">Autori</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/blog/">Blog</a>
+          </li>
+        
+      
+
+      
+        <li class="site-nav-separator">&#183;</li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/despre/">Despre</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/prieteni/">Prieteni</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/revista/">Revista</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/contact/">Contact</a>
+          </li>
+        
+        <li class="site-nav-separator">&#183;</li>
+      
+
+      <li>
+        <a class="forum-button" href="https://forum.candaparerevista.ro">Forum</a>
+      </li>
+    </ul></div>
+
+  <div class="site-nav-right">
+    <div class="social-links">
+      
+      
+      
+
+      
+
+      
+
+    </div>
+
+    <a class="contribuie-button" href="https://candaparerevista.ro/contribuie">Contribuie</a>
+
+  </div>
+
+</nav>
+
+  </div>
+</header>
+
+
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner">
+    
+      
+
+
+
+
+
+
+
+
+<article class="post-full posts post">
+    
+    
+    
+    
+    
+
+    
+    <header class="post-full-header ">
+        
+            <div class="post-full-categories">
+                
+                
+                
+                
+                
+                
+                <span class = "atelier"><a href="https://candaparerevista.ro/categories/atelier/" title="Atelier">Atelier</a></span>
+                
+            </div>
+        
+        <h1 class="post-full-title">Introducere în Unreal Engine 4 (IV)</h1>
+        
+            <h2 class="post-full-subtitle"> Partea IV: Grafică și Audio </h2>
+        
+        <section class="post-full-meta ">
+            <time class="post-full-meta-date" datetime="2018-11-17">17 November 2018</time>
+            
+                
+                
+                    <div class="post-full-meta-author"><a href="https://candaparerevista.ro/authors/mahri726/">mahri726</a></div>
+                
+            
+        </section>
+    </header>
+
+    
+    
+        
+        <figure class="post-full-image" style="background-image: url(https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/images/ue4-cover.jpg)"></figure>
+        
+    
+
+    
+    
+
+    
+    <section class="post-full-content ">
+        <div class="kg-card-markdown ">
+
+            
+            
+                
+                
+                
+            
+
+            
+
+            
+
+<blockquote>
+<p>Acest articol e al patrulea dintr-o serie de 5 articole. Găsiți aici celelalte părți:</p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726">Partea I: Introducere. Epic Games Launcher</a></p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726">Partea II: Introducere în Blueprints - nivelul de joc</a></p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726">Partea III: Introducere în Blueprints - personajele</a></p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726">Partea V: Împachetarea finală și resurse suplimentare</a></p>
+</blockquote>
+
+<p><br></p>
+
+<p>Acum, că am terminat partea de programare, putem să ne ocupăm de aspectul jocului.</p>
+
+<h2 id="materiale">Materiale</h2>
+
+<p><em>Fiecare obiect din Unreal Engine 4 are la bază un material. Acest material influențează modul în care acesta este vizualizat. Materialele pot avea texturi diferite și grade de reflexie diferită. Noi vom face câteva materiale metalice și câteva materiale care să strălucească.</em></p>
+
+<p>Pentru a crea un material, apăsați click dreapta în <strong>Content Browser</strong> și selectați <strong>New Material</strong>. După ce îl creați, îi puteți da o denumire. Eu l-am denumit <em>„metal 1”</em>. Dacă dați două clickuri pe material, se va deschide <strong>Material Editor</strong>. În centrul ecranului, veți vedea un nod cu mai multe pinuri de intrare. Fiecare pin are un rol în definirea aspectului materialului. Le voi enumera pe cele mai importante:</p>
+
+<h4 id="base-colour">Base Colour</h4>
+
+<p>Base colour reprezintă culoarea materialului. Aceasta poate fi și o textură, adică o imagine. Cum poate o imagine să determine aspectul unui material? Pentru a înțelege, voi explica procesul prin care un model 3D poate fi creat.</p>
+
+<p>Modelele 3D se realizează în aplicații speciale precum Maya sau Blender. Un model este alcătuit din puncte numite vertecși, uniți între ei de linii/margini (edges). Minim 3 linii formează o față, numită și poligon. Un ansamblu de fețe formează un model 3D, numit și <em>„mesh”</em>.</p>
+
+<p>Cum se texturează un model? Imaginați-vă un cub de hârtie, pe care vreți să îl pictați. Luați o cariocă și îi desenați marginile pe care vreți să le tăiați. După aceea, cu un cutter, le tăiați, astfel încât să întindeți cubul desfăcut pe o masă. Fiind pe o suprafață plană, este foarte ușor să îl pictați. După aceea, îl asamblați la loc și lipiți tăieturile cu scotch.</p>
+
+<p>În procesul de texturare a unui model 3D, marginile marcate pentru tăiat se numesc F sau cusături. După ce se marchează, urmează despachetarea (<em>unwrapping</em>). Dacă în spațiul 3D, obiectul se poate mișca pe 3 axe, X,Y și Z, pe „masa 2D” există doar două axe numite U și V.</p>
+
+<p>Feţele obiectului despachetat se vor vedea pe „masă”. Acestea vor fi exportate către un program de pictură digitală, cum ar fi Adobe Photoshop, Gimp sau Krita. Artiștii pictează fețele despăturite, rezultatul fiind o textură care se va „mula” pe modelul 3D.</p>
+
+<p>Cu greutate, am făcut o „poză” capului Elementalului din <strong>Elemental Demo</strong>, ca să vedeți că e făcut din triunghiuri. Când importați un model 3D, Unreal Engine 4 împarte poligoanele în triunghiuri, deoarece sunt mai ușor de interpretat de placa grafică.</p>
+
+
+
+
+  <div class="figure-gallery">
+    
+      
+      
+      
+      
+        <figure>
+          <a href = "gallery_materiale/fV4H9Xa.jpg">
+            <img
+                src="gallery_materiale/fV4H9Xa.jpg"
+                alt=" "
+            >
+          </a>
+
+          <figcaption>
+            <span>  </span>
+          </figcaption>
+        </figure>
+      
+    
+      
+      
+      
+      
+        <figure>
+          <a href = "gallery_materiale/EHMif6M.jpg">
+            <img
+                src="gallery_materiale/EHMif6M.jpg"
+                alt=" "
+            >
+          </a>
+
+          <figcaption>
+            <span>  </span>
+          </figcaption>
+        </figure>
+      
+    
+  </div>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dD9CPqSKjTU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<p>(Apropo, puteți folosi în jocurile voastre orice se află în secțiunile <strong>Learn</strong> și <strong>Marketplace</strong>, cu condiția să nu le exportați către alte motoare grafice.)</p>
+
+<h4 id="metallic">Metallic</h4>
+
+<p>Acest parametru determină dacă obiectul este metalic sau nu.</p>
+
+<h4 id="specular">Specular</h4>
+
+<p>La fel ca roughness, dar doar pentru obiecte nemetalice. Nu prea se folosește.</p>
+
+<h4 id="roughness">Roughness</h4>
+
+<p>Ce este o oglindă? Este o sticlă care are la suprafață un strat de argint. Față de un obiect mat, oglinda are foarte puține asperități, drept urmare reflexia luminii este foarte bună. În cazul unui obiect mat, atunci când razele de lumină întâlnesc o suprafață aspră cu denivelări, se împrăștie în toate direcțiile. Parametrul <strong>Roughness</strong> determină gradul de reflexie al materialului.</p>
+
+<h4 id="emmisive-colour">Emmisive Colour</h4>
+
+<p>Se folosește pentru a face obiectele să strălucească.</p>
+
+<h4 id="normal">Normal</h4>
+
+<p>O hartă a normalelor, <strong>normal map</strong> este o textură specială folosită pentru a produce denivelări la nivelul suprafeței obiectelor, fără a modifica geometria lor. Fiecare pixel din hartă are o anumită culoare, care se traduce într-o anumită înălțime a pixelului respectiv raportat la suprafață.</p>
+
+<p>Harta normalelor este foarte utilă, deoarece poți adăuga multe detalii minuscule cum ar fi scoarța unui copac, fără să le modelezi.</p>
+
+<p><br><br></p>
+
+<p>Pentru a construi materialul, vom căuta nodul <strong>Constant</strong>. Acest nod va avea o anumită valoare, pe care o putem modifica din <strong>Details Panel</strong>. O vom schimba în 1, și vom conecta nodul la pinul <strong>Metallic</strong>. Vom mai face încă un nod <strong>Constant</strong>, îl lăsăm la 0 și îl conectăm la pinul <strong>Roughness</strong>.</p>
+
+<p>Acum, vom adăuga nodul <strong>Constant 3 Vector</strong>, vom da dublu click pe el și îi vom schimba culoarea în gri deschis. Urmează să apăsăm butonul <strong>Apply</strong> și așteptăm ca materialul să se compileze.</p>
+
+<p>Acum, materialul ar trebui să fie ca oglinda. Vom închide fereastra, apoi tragem materialul din <strong>Content Browser</strong> deasupra pereților și așteptăm să se compileze shaderele.</p>
+
+<p>(Am observat că dacă apăsați <strong>Ctrl+Shift+Esc</strong> se deschide <strong>Task Manager</strong> și compilarea e mai rapidă.)</p>
+
+<p>Problema este că pereții devin complet negri când le adăugăm materialul. Pentru a rezolva această problemă, vom căuta în <strong>Modes Panel</strong> elementul <strong>Box Reflection Capture</strong> și îl vom adăuga în nivel de mai multe ori, astfel încât îi acopere pe toți. Acum, vom căuta în <strong>Content Browser</strong> materialul <strong>M_Tech_Hex_Tile_Pulse</strong> și îl vom adăuga la podea.</p>
+
+<p>Următorul pas este să adăugăm materialul metalic și la ușă. Dacă o selectați, veți vedea în <strong>Details Panel</strong> că puteți să îi dați un al doilea material, pentru crăpături. Îl puteți alege pe același.</p>
+
+<p>Acum, putem face inamicii să strălucească. Pentru asta, creați un material și recreați graficul alăturat:</p>
+
+
+<figure>
+    
+        <img src="gallery_materiale/6YUlx5I.jpg" />
+    
+    
+</figure>
+
+
+<p>Apoi deschideți tabul <strong>Viewport</strong> din blueprintul <strong>ThirdPerson Character</strong>, selectați-l și schimbați materialele din <strong>Details Panel</strong> cu noul material creat. Voi aplica același tratament și la pușcă, și la bila lansată de aceasta.</p>
+
+<p>Ca jocul să arate mai interesant, am selectat cerul apoi am bifat <strong>Actor hidden in game</strong>.</p>
+
+<h2 id="sunet-și-muzică">Sunet și muzică</h2>
+
+<p><em>Un joc video nu poate fi considerat complet fără sunet. Unul dintre elementele foarte importante pentru pentru atmosferă este muzica. Deoarece pe calculatorul nou nu am instalat niciun program de făcut muzică, m-am gândit să apelez la o soluție web, ca să termin tema jocului cât mai rapid. Aşa am descoperit Soundtrap. Fiind un program web, este mult mai limitat decât programele instalate pe care le foloseam de obicei. Totuși, a fost util. Când Unreal Engine 4 va ajunge la versiunea 4.16, sistemul audio va fi complet schimbat. Deoarece va putea sintetiza și sunete, în unele cazuri, utilizarea programelor externe nu va mai fi necesară.</em></p>
+
+
+<figure>
+    
+        <img src="gallery_materiale/993E3bV.jpg" />
+    
+    
+</figure>
+
+
+<p>O melodie are două componente principale: linia melodică și armonia, adică acorduri. Când compui pentru un joc video, poți porni de la o serie de acorduri, apoi adaugi deasupra linia melodică.</p>
+
+<p>În cazul acestei melodii, armonia este alcătuită dintr-un singur acord, <em>Mi minor</em> sub formă arpegiată, adică fiecare notă este apăsată separat, nu împreună.</p>
+
+<p>Unele jocuri au un sistem muzical dinamic, muzica schimbându-se în funcție de acțiunile jucătorului, tranziția fiind atât de lină încât acesta nici nu poate să observe.</p>
+
+<p>Există un video pe YouTube legat de <strong>Squadron 42</strong>, campania singleplayer pentru <strong>Star Citizen</strong>, în care se vorbește tocmai despre un astfel de sistem. Să sperăm că în Unreal Engine 4.16 acest lucru va fi mult mai ușor de realizat.</p>
+
+<p>Unreal Engine 4, în varianta 4.15, poate importa sunete WAV de 16 biți. Pentu a adăuga în proiect un sunet sau o melodie, îl trageți de pe Desktop în <strong>Content Browser</strong>. După import, este recomandat să fie transformat în <strong>Sound Cue</strong>. Ca să faceți asta, dați click dreapta pe sunet și alegeți <strong>Create Cue</strong>. Dacă deschideți acest <em>cue</em>, se va deschide un grafic, în care puteți să aplicați diverse efecte audio sunetului.</p>
+
+<p>De asemenea, puteți schimba și volumul acestuia. De îndată ce sunetul a fost transformat în <em>cue</em>, acesta poate fi folosit în orice blueprint cu ajutorul nodului <strong>Play Sound 2D</strong>. Pentru a putea rula o melodie nelimitat, acest nod trebuie pus între un <strong>Custom Event</strong> și funcția acestuia. Nodul <strong>Delay</strong> va trebui să aibă exact atâtea secunde cât are melodia, în cazul meu 72 de secunde.</p>
+
+<p>Pentru zgomotul făcut de bombe, am descărcat <em>Cannon1.wav</em> de pe freesound.org. De acolo puteți descărca multe sunete gratuite aflate în domeniul public.</p>
+
+<p>După ce i-am creat un <em>cue</em>, va trebui să adăugăm și <strong>Attenuation</strong> în <strong>Content Browser</strong>. Acest asset este folosit pentru a stabili de la ce distanță se vor auzi zgomotele exploziilor, precum și intensitatea acestora în funcție de distanță. Acum, vom deschide <em>cue</em>-ul, iar în <strong>Details Panel</strong> vom schimba <strong>Attenuation Settings</strong> în <strong>New Sound Attenuation</strong>, assetul pe care tocmai l-am creat.</p>
+
+<p>Următorul pas este să deschidem blueprintul <strong>TNT</strong> și să adăugăm, după nodul <strong>Activate</strong>, <strong>Play sound at location</strong> legat de <strong>Get actor location</strong>. Ultimul pas este să selectăm <em>cue</em>-ul nostru din lista nodului și să compilăm. ■</p>
+
+
+            
+
+            
+
+        </div>
+
+        
+        
+            
+
+
+
+
+  
+
+  <hr>
+  <h4>Galerie imagini</h4>
+  <section class="post-full-content-gallery fotorama-fallback">
+    
+      
+      <a href = "/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/6YUlx5I.jpg"><img class = "gallery-thumb"src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/6YUlx5I_hu75c8b337e370334eee060ef3962eff4b_75556_150x100_fill_q75_box_smart1.jpg" style="display: inline-block;" ></a>
+    
+      
+      <a href = "/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/993E3bV.jpg"><img class = "gallery-thumb"src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/993E3bV_hu85b46f4bc058ebfde42c703aaa111a7c_208687_150x100_fill_q75_box_smart1.jpg" style="display: inline-block;" ></a>
+    
+      
+      <a href = "/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/EHMif6M.jpg"><img class = "gallery-thumb"src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/EHMif6M_hu63a107d401b89a570505d3e58dd5995d_335384_150x100_fill_q75_box_smart1.jpg" style="display: inline-block;" ></a>
+    
+      
+      <a href = "/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/fV4H9Xa.jpg"><img class = "gallery-thumb"src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/fV4H9Xa_hu8fd5f4cb408c46981985ce04cdc0069e_227463_150x100_fill_q75_box_smart1.jpg" style="display: inline-block;" ></a>
+    
+  </section>
+
+  
+    <link rel="stylesheet" href="https://candaparerevista.ro/css/fotorama.css" />
+
+    
+    <div class="fotorama"
+         data-width="100%"
+         data-allowfullscreen="native"
+         data-keyboard="true"
+         data-fit="scaledown"
+         data-nav="thumbs"
+    >
+      
+      
+        
+        <a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/6YUlx5I.jpg"><img src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/6YUlx5I_hu75c8b337e370334eee060ef3962eff4b_75556_150x100_fill_q75_box_smart1.jpg"></a>
+      
+        
+        <a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/993E3bV.jpg"><img src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/993E3bV_hu85b46f4bc058ebfde42c703aaa111a7c_208687_150x100_fill_q75_box_smart1.jpg"></a>
+      
+        
+        <a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/EHMif6M.jpg"><img src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/EHMif6M_hu63a107d401b89a570505d3e58dd5995d_335384_150x100_fill_q75_box_smart1.jpg"></a>
+      
+        
+        <a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/fV4H9Xa.jpg"><img src="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726/gallery_materiale/fV4H9Xa_hu8fd5f4cb408c46981985ce04cdc0069e_227463_150x100_fill_q75_box_smart1.jpg"></a>
+      
+    </div>
+  
+
+        
+
+        
+        
+        <section class="post-full-article-metadata">
+            <hr>
+            
+            
+            
+            <div class = "post-full-article-extra">
+
+
+                
+                
+                
+                    
+                    
+
+                    
+
+                    
+                        <p><span class="post-full-article-extra-categ">Licență articol</span>: <a href="https://candaparerevista.ro/licenses/license-default/">Licența generală</a>&nbsp;&nbsp;</p>
+                    
+                
+
+                
+                    <p><span class="post-full-article-extra-categ">Tags</span>: <a href="https://candaparerevista.ro/tags/gamedev/">#GameDev</a>&nbsp;&nbsp;<a href="https://candaparerevista.ro/tags/unreal-engine/">#Unreal Engine</a>&nbsp;&nbsp;</p>
+                
+
+                
+                    <p>
+                        <span class="post-full-article-extra-categ">Sursa</span>:
+                        
+                            <a href="https://forum.candaparerevista.ro/viewtopic.php?f=77&amp;t=1469">Articolele Comunității / Nivelul 2 Community Edition - Numărul 2</a>
+                        
+                        
+                            (<span>24-02-2017</span>)
+                        
+                    </p>
+                
+
+                
+
+                
+            </div>
+            
+            
+                <p class = "post-forum-link">
+                <span class ="post-forum-link-icon"><svg width="1.5em" height="1.5em"  viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/></svg></span>
+                Pentru comentarii și discuții despre articol vă invităm să vizitați <a href = "https://forum.candaparerevista.ro/viewtopic.php?f=77&amp;t=1469">secțiunea dedicată de pe forum</a>.
+                </p>
+            
+        </section>
+        
+    </section>
+
+    
+    
+    
+    <footer class="post-full-footer">
+      <section class="author-card">
+        
+        <img class="author-profile-image" src="https://candaparerevista.ro/img/author-avatars/mahri726.jpg" alt="mahri726" />
+        <section class="author-card-content">
+            <h4 class="author-card-name"><a href="https://candaparerevista.ro/authors/mahri726">mahri726</a></h4>
+                 <p>Sunt un student pasionat de songwriting, producție muzicală, desen și gamedev. Îmi place să fiu creativ. În prezent lucrez la Yandere Mages, un action-RPG bazat pe Yandere Simulator, cu acțiunea plasată într-un univers fantasy.</p> 
+        </section>
+      </section>
+    </footer>
+    
+</article>
+    
+    
+    
+
+  </div>
+</main>
+
+
+<aside class="read-next outer">
+  <div class="inner">
+    <div class="separator-read-next">Alte Articole</div>
+    <div class="read-next-feed">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+    <article class="post-card   " style="background: ">
+
+    
+      
+      
+      
+        
+        
+        <a class="post-card-image-link" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/">
+          <div class="post-card-image" style="background-image: url(https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/images/ue4-cover_hu6bb41ae2a68c2505f77d32de6b433ef9_293640_0x350_resize_q75_box.jpg)"></div>
+        </a>
+      
+    
+
+
+  <div class="post-card-content">
+    <a class="post-card-content-link" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726/">
+        <header class="post-card-header">
+            
+                
+                
+                
+                
+
+                <div class="post-card-categories" style="border-color: ">
+                    
+                        
+                        
+                        
+                        
+                        <span class = "atelier">Atelier</span>
+                    
+                </div>
+            
+            <h2 class="post-card-title">Introducere în Unreal Engine 4 (V)</h2>
+            
+            <span class="post-card-subtitle">Partea V: Împachetarea finală și resurse suplimentare</span>
+        </header>
+        
+          <section class="post-card-excerpt">
+            <p class="js-text-clamp">
+              
+                După ce am terminat dezvoltarea jocului, îl putem împacheta într-un fișier executabil, însă, înainte de asta trebuie să facem câteva modificări. Iar la final vă voi vorbi despre tutoriale și resurse pe care le puteți accesa.
+              
+            </p>
+          </section>
+        
+    </a>
+
+    <footer class="post-card-meta">
+        
+        
+        
+        
+
+        
+        <img class="author-profile-image" src="https://candaparerevista.ro/img/author-avatars/mahri726.jpg" alt="mahri726" />
+        <div>
+          <span class="post-card-author"><a href="https://candaparerevista.ro/authors/mahri726">mahri726</a></span>
+          <span class="post-card-date">17/11/18</span>
+        </div>
+        <div class="post-card-reading-time">
+            
+            6</div>
+    </footer>
+  </div>
+</article>
+
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+    <article class="post-card   " style="background: ">
+
+    
+      
+      
+      
+        
+        
+        <a class="post-card-image-link" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/">
+          <div class="post-card-image" style="background-image: url(https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/images/ue4-cover_hu6bb41ae2a68c2505f77d32de6b433ef9_293640_0x350_resize_q75_box.jpg)"></div>
+        </a>
+      
+    
+
+
+  <div class="post-card-content">
+    <a class="post-card-content-link" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726/">
+        <header class="post-card-header">
+            
+                
+                
+                
+                
+
+                <div class="post-card-categories" style="border-color: ">
+                    
+                        
+                        
+                        
+                        
+                        <span class = "atelier">Atelier</span>
+                    
+                </div>
+            
+            <h2 class="post-card-title">Introducere în Unreal Engine 4 (III)</h2>
+            
+            <span class="post-card-subtitle">Partea III: Introducere în Blueprints - personajele</span>
+        </header>
+        
+          <section class="post-card-excerpt">
+            <p class="js-text-clamp">
+              
+                În seria de jocuri Half-Life, personajul principal avea un costum menit să îl protejeze de diverse pericole. Costumul avea o proprietate specială: îl punea pe jucător să aibă grijă de o variabilă numită „HP”. Noi vom implementa o astfel de variabilă, a cărei valoare poate fi interpretată de jucător printr-o cifră afișată pe ecran.
+              
+            </p>
+          </section>
+        
+    </a>
+
+    <footer class="post-card-meta">
+        
+        
+        
+        
+
+        
+        <img class="author-profile-image" src="https://candaparerevista.ro/img/author-avatars/mahri726.jpg" alt="mahri726" />
+        <div>
+          <span class="post-card-author"><a href="https://candaparerevista.ro/authors/mahri726">mahri726</a></span>
+          <span class="post-card-date">17/11/18</span>
+        </div>
+        <div class="post-card-reading-time">
+            
+            13</div>
+    </footer>
+  </div>
+</article>
+
+      
+    </div>
+  </div>
+</aside>
+
+
+
+
+
+<footer class="site-footer outer">
+  <div class="site-footer-content inner">
+    <section class="copyright" style="line-height: 1.3em;">
+      <a href="https://candaparerevista.ro/"></a> © 2018-2023 <br>
+      <span style="font-size: 0.8em; color: #555;">Construit cu <a href="https://gohugo.io/">Hugo</a> şi tema <a href="https://github.com/eueung/hugo-casper-two">Casper Two</a></span>
+    </section>
+    <nav class="site-footer-nav">
+        
+        <a href="https://candaparerevista.ro/contact" rel="noopener">Contact</a>
+        <a href="https://forum.candaparerevista.ro" target="_blank" rel="noopener">Forum</a>
+        <a href="https://www.facebook.com/comunitatealevel" target="_blank" rel="noopener">Facebook</a>
+        
+        <a href="https://steamcommunity.com/groups/candaparerevista" target="_blank" rel="noopener">Steam</a>
+        <a href="https://github.com/adakaleh/candaparerevista.ro" target="_blank" rel="noopener">GitHub</a>
+        
+        <a href="https://candaparerevista.ro/index.xml">RSS</a>
+    </nav>
+  </div>
+
+    <!-- Matomo analytics: trafic si vizualizari, toate datele raman pe serverul nostru -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+       
+      _paq.push(['trackPageView']);
+      (function() {
+        var u="//analitice.candaparerevista.ro/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+
+</footer>
+
+</div>
+<script type="text/javascript" src="https://candaparerevista.ro/js/libs/highlight/highlight.pack.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/clamp.min.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/custom.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/fotorama.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script>
+  Array.from(document.getElementsByClassName("fotorama-fallback")).forEach(el => el.style.display = "none");
+  Array.from(document.getElementsByClassName("fotorama")).forEach(el => el.style.display = "block");
+</script>
+
+
+
+    <script>
+
+
+
+
+
+$(document).ready(function () {
+    
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+</body></html>

@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en-us" />
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Introducere în Unreal Engine 4 (I) &middot; Site-ul comunității LEVEL</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="referrer" content="no-referrer" />
+
+    <link rel="shortcut icon" href="https://candaparerevista.ro/img/favicon.png" />
+    <link rel="canonical" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/" />
+
+     <meta name="description" content="Cred că fiecare gamer și-a dorit la un moment dat să facă un joc, drept urmare, am început o nouă serie de articole introductive pentru Unreal Engine 4. Poate, cumva, va stârni interesul cititorilor, iar scena indie românească va fi mai bogată. În acest atelier, vom face un joc FPS cu ajutorul Unreal Engine 4. La sfârşitul ultimei părți a atelierului, se va afla un link de unde veți putea descarcă jocul finalizat." /> 
+
+     
+    
+    <meta name="twitter:card" content="summary"/>
+    
+ 
+    <meta name="twitter:title" content="Introducere în Unreal Engine 4 (I)"/>
+    <meta name="twitter:description" content="Cred că fiecare gamer și-a dorit la un moment dat să facă un joc, drept urmare, am început o nouă serie de articole introductive pentru Unreal Engine 4. Poate, cumva, va stârni interesul cititorilor, iar scena indie românească va fi mai bogată. În acest atelier, vom face un joc FPS cu ajutorul Unreal Engine 4. La sfârşitul ultimei părți a atelierului, se va afla un link de unde veți putea descarcă jocul finalizat."/>
+    <meta name="twitter:url" content="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/" />
+    <meta name="twitter:site" content="@"/>
+
+    <meta property="og:site_name" content="Site-ul comunității LEVEL" />
+    
+    <meta property="og:title" content="Introducere în Unreal Engine 4 (I)  &middot; ATELIER " />
+    <meta property="og:url" content="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/" />
+    <meta property="article:publisher" content="https://www.facebook.com/comunitatealevel" />
+
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:description" content="
+      
+      
+      mahri726 &middot;
+      
+      Cred că fiecare gamer și-a dorit la un moment dat să facă un joc, drept urmare, am început o nouă serie de articole introductive pentru Unreal Engine 4. Poate, cumva, va stârni interesul cititorilor, iar scena indie românească va fi mai bogată. În acest atelier, vom face un joc FPS cu ajutorul Unreal Engine 4. La sfârşitul ultimei părți a atelierului, se va afla un link de unde veți putea descarcă jocul finalizat." />
+
+    <meta property="article:published_time" content="2018-11-17T00:00:01Z" />
+    <meta property="article:tag" content="GameDev" /><meta property="article:tag" content="Unreal Engine" />
+
+
+
+    
+      <meta property="og:image" content="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/images/ue4-cover.jpg"/>
+
+
+
+    <meta name="generator" content="Hugo 0.42.1" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://candaparerevista.ro/built/screen.css" /> 
+    <link rel="stylesheet" type="text/css" href="https://candaparerevista.ro/css/casper-two.css" /> 
+    <link rel="stylesheet" href="https://candaparerevista.ro/css/libs/highlight/default.css" />
+     <link rel="stylesheet" href="https://candaparerevista.ro/css/main-override.css" />  <link rel="stylesheet" href="https://candaparerevista.ro/css/art-override.css" />  <link rel="stylesheet" href="https://candaparerevista.ro/css/mobile-override.css" />  <link rel="stylesheet" href="https://candaparerevista.ro/css/fonts.css" /> 
+
+     
+
+</head>
+
+
+<body class="post-template">
+  <div class="site-wrapper"> 
+
+<header class="site-header outer"
+  
+  
+>
+  <div class="inner">
+
+    
+<nav class="site-nav">
+  <div class="site-nav-left">
+    
+      <a class="site-nav-logo" href="https://candaparerevista.ro/"><img src="https://candaparerevista.ro/img/car_logo.png" alt="Când Apare Revista" /></a>
+    
+
+    <ul class="nav" role="menu">
+      
+      
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/categories/">Articole</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/categories/featured/">Featured</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/categories/highlights/">Știri</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/authors/">Autori</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/blog/">Blog</a>
+          </li>
+        
+      
+
+      
+        <li class="site-nav-separator">&#183;</li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/despre/">Despre</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/prieteni/">Prieteni</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/revista/">Revista</a>
+          </li>
+        
+          <li class="" role="menuitem">
+            <a href="https://candaparerevista.ro/contact/">Contact</a>
+          </li>
+        
+        <li class="site-nav-separator">&#183;</li>
+      
+
+      <li>
+        <a class="forum-button" href="https://forum.candaparerevista.ro">Forum</a>
+      </li>
+    </ul></div>
+
+  <div class="site-nav-right">
+    <div class="social-links">
+      
+      
+      
+
+      
+
+      
+
+    </div>
+
+    <a class="contribuie-button" href="https://candaparerevista.ro/contribuie">Contribuie</a>
+
+  </div>
+
+</nav>
+
+  </div>
+</header>
+
+
+<main id="site-main" class="site-main outer" role="main">
+  <div class="inner">
+    
+      
+
+
+
+
+
+
+
+
+<article class="post-full posts post">
+    
+    
+    
+    
+    
+
+    
+    <header class="post-full-header ">
+        
+            <div class="post-full-categories">
+                
+                
+                
+                
+                
+                
+                <span class = "atelier"><a href="https://candaparerevista.ro/categories/atelier/" title="Atelier">Atelier</a></span>
+                
+            </div>
+        
+        <h1 class="post-full-title">Introducere în Unreal Engine 4 (I)</h1>
+        
+            <h2 class="post-full-subtitle"> Partea I: Introducere. Epic Games Launcher </h2>
+        
+        <section class="post-full-meta ">
+            <time class="post-full-meta-date" datetime="2018-11-17">17 November 2018</time>
+            
+                
+                
+                    <div class="post-full-meta-author"><a href="https://candaparerevista.ro/authors/mahri726/">mahri726</a></div>
+                
+            
+        </section>
+    </header>
+
+    
+    
+        
+        <figure class="post-full-image" style="background-image: url(https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-i-mahri726/images/ue4-cover.jpg)"></figure>
+        
+    
+
+    
+    
+
+    
+    <section class="post-full-content ">
+        <div class="kg-card-markdown ">
+
+            
+            
+                
+                
+                
+            
+
+            
+
+            
+
+<blockquote>
+<p>Acest articol e primul dintr-o serie de 5 articole. Găsiți aici celelalte părți:</p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726">Partea II: Introducere în Blueprints - nivelul de joc</a></p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iii-mahri726">Partea III: Introducere în Blueprints - personajele</a></p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-iv-mahri726">Partea IV: Grafică și Audio</a></p>
+
+<p><a href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-v-mahri726">Partea V: Împachetarea finală și resurse suplimentare</a></p>
+</blockquote>
+
+<p><br></p>
+
+<p>Acum ceva timp, în revista Level, Laura și Sebastian porneau o serie de articole pe tema dezvoltării de jocuri video. Desigur, la acea vreme, uneltele pentru dezvoltare nu erau la îndemâna oricui, iar pe lângă faptul că erau foarte scumpe, necesitau și multă experiență pentru a ajunge la un rezultat cât de cât acceptabil. Astfel, menirea articolelor era mai mult de a oferi o perspectivă generală asupra industriei AAA de la acea vreme, decât să îți explice efectiv cum să faci un joc. Cred că fiecare gamer și-a dorit la un moment dat să facă un joc, drept urmare, am început o nouă serie de articole introductive pentru Unreal Engine 4. Poate, cumva, va stârni interesul cititorilor, iar scena indie românească va fi mai bogată.</p>
+
+<p>Mai întâi, un scurt istoric. Unreal Engine a apărut pe piață odată cu lansarea jocului Unreal de către Epic Games. La vremea respectivă, licențele se obțineau foarte greu. La un moment dat, s-a lansat UDK, editorul pentru Unreal Engine 3, ce putea fi descărcat gratuit. Totuşi, UDK avea anumite limitări. Singurul limbaj de programare era UnrealScript, un limbaj foarte greoi, chiar şi pentru experții în programare. Pentru a putea programa un joc în C++, trebuia să ai acces la codul sursă. Va dați seama că marii publisheri plăteau sume foarte mari pentru acesta, sume pe care majoritatea dezvoltatorilor indie nu şi le puteau permite. Astfel, din ce în ce mai mulți dintre ei s-au îndreptat spre Unity, engine-ul competitiv, în care programarea era mult mai uşoară, deşi grafica nu atingea nivelul motorului Unreal.</p>
+
+<p>Când au văzut succesul de care se bucură Unity, cei de la Epic Games le-au urmat exemplul, şi au lansat Unreal Engine 4 cu o licență mult mai convenabilă pentru dezvoltatorii indie decât cea pentru UDK. Plăteai 20 de dolari, şi aveai access şi la engine, şi la codul sursă. Când lansai jocul, dacă ai fi câştigat într-un trimestru 3.100 de dolari, plăteai 5% din cei 100 care depăşeau. Anul tecut, au renunțat la suma inițială de 20 de dolari, motorul grafic devenind gratuit.</p>
+
+<p>În acest atelier, vom face un joc FPS cu ajutorul Unreal Engine 4. La sfârşitul ultimei părți a atelierului, se va afla un link de unde veți putea descarcă jocul finalizat. Deoarece motorul grafic are un sistem de scripting vizual extrem de capabil, Blueprints, nu va trebui să scriem nici măcar o linie de cod. Toată programarea jocului se realizează cu ajutorul nodurilor de Blueprints. Există jocuri comerciale pe Steam, cum ar fi Alice in Tokio Wonderland, care utilizează doar Blueprints. Dacă faceți un prototip de joc cât mai original, este posibil ca cei de la Epic Games să vă plătească chiar cu mii de dolari fără să vă ceară nimic în schimb, prin programul Unreal Dev Grants.</p>
+
+<h2 id="epic-games-launcher">Epic Games Launcher</h2>
+
+<p>Acestea fiind zise, să începem.</p>
+
+<p>În primul rând, verificați dacă sistemul vă permite să rulați editorul. Potrivit Epic Games:</p>
+
+<blockquote>
+<p>“For developing with UE4, we recommend a desktop PC with Windows 7 64-bit or a Mac with Mac OS X 10.9.2 or later, 8 GB RAM and a quad-core Intel or AMD processor, and a DX11 compatible video card. UE4 will run on desktops and laptops below these recommendations, but performance may be limited.”</p>
+</blockquote>
+
+<p>Eu, ca sistem, am o placă grafică Nvidia GeForce 8600 GT (compatibilă DX10), procesor Dual Core şi 6 GB RAM. Deşi performanța are de suferit, jocurile pot fi dezvoltate. Dacă aveți un sistem mai slab, asemănător cu al meu, am câteva sfaturi pentru a o îmbunătăți. Voi reveni asupra lor imediat.</p>
+
+<p>În al doilea rând, va trebui să descărcați Epic Games Launcher, cu care puteți descărca motorul grafic. Accesați <a href="https://www.unrealengine.com/what-is-unreal-engine-4">această pagină</a>, şi dați click pe Get Started Now. Veți fi redirecționați la o pagină unde vă puteți face contul, apoi urmați restul instrucțiunilor. Ar trebui să ajungeți la pagina Dashboard, unde scrie, sub tab-ul Download, Get Unreal Engine.</p>
+
+<p>După ce ați instalat launcherul şi vă logați, apăsați butonul <code>Library</code>, apoi <code>Add Versions</code>. Atelierul acesta a fost realizat cu varianta 4.11, în cele viitoare este posibil ca anumite lucruri să fie mai diferite.</p>
+
+<p><img src="images/UE-image1.jpg" alt="" /></p>
+
+<p>Începeți instalarea motorului grafic. În secțiunea <em>Learn</em>, puteți descărca resurse gratuite pentru proiectele voastre. Puteți găsi resurse gratuite şi în secțiunea <em>Marketplace</em>, de exemplu asset-urile Infinity Blade.</p>
+
+<p>După ce instalarea s-a finalizat şi ați pornit editorul, selectați <code>File &gt; New Project</code>. Vom începe dezvoltarea jocului de la un şablon, pe care îl vom extinde cu diverse fuctionalități. În noua fereastră, selectați tab-ul <code>New Project</code>, sub-tabul <code>Blueprints</code>, apoi apăsați pe icon-ul <code>First Person</code>. Aveți grijă ca să fie selectată opțiunea <code>With Starter Content</code>, deoarece vom folosi modelele 3D incluse în editor. Apăsați butonul <code>Create Project</code>.</p>
+
+<p><img src="images/UE-image2.jpg" alt="" /></p>
+
+<p>Acum câteva sfaturi pentru cei cu PC-urile mai slabe. Ca să îmbunătățiți performanța, apăsați <code>Settings &gt; Engine Scalability Settings &gt; Low</code> . De asemenea, puteți face fereastra în care vedeți scena cât mai mică, trăgând de despărțitorul superior, inferior şi cele laterale (imaginea de mai jos). În scenele mai complexe, puteți apăsa butonul lit (încercuit cu roşu), şi să selectați unlit, pentru un plus de performanță în defavoarea luminilor şi umbrelor.</p>
+
+<p>Ca interfață, fereastra principala a editorului are mai multe elemente, numite panel-uri:</p>
+
+<p><img src="images/UE-image3.jpg" alt="" /></p>
+
+<h3 id="viewport">Viewport</h3>
+
+<p>Viewport-ul este elementul central, „fereastra” voastră către nivelul pe care îl creați. Vă permite să interacționați cu aceasta în mod direct.</p>
+
+<h3 id="menu">Menu</h3>
+
+<p>De aici vă puteți salva nivelul sau proiectul. De asemenea, puteți accesa <code>Project Settings</code> – setări specifice pentru proiectul vostru, sau <code>Editor Preferences</code>, setări generale pentru editor.</p>
+
+<h3 id="modes">Modes</h3>
+
+<p>De aici puteți adăuga în scenă diferite obiecte, cum ar fi lumini, camere, forme geometrice, etc. De asemenea, puteți să generați un teren, să-l sculptați sau să adăugați vegetație. Ca şi Unreal Engine 3, Unreal Engine 4 are un sistem de „schițat” niveluri, numit BSP. Voi reveni asupra lui în articolele viitoare.</p>
+
+<h3 id="content-browser">Content Browser</h3>
+
+<p>Aici găsiți toate fişierele existente în proiect, de la modele 3D, la texturi, sunete, animații. Puteți importa un fişier extern apăsând butonul import, sau trăgându-l de pe desktop sau din Windows Explorer (drag and drop).</p>
+
+<h3 id="world-outliner">World Outliner</h3>
+
+<p>Aici aveți acces la toate modelele plasate în scenă/nivelul la care lucrați. Le puteți selecta, le puteți face invizibile, sau le puteți şterge. Pentru a face camera să se centreze pe un anumit element din nivel, dați două click-uri pe el în World Outliner.</p>
+
+<h3 id="toolbar">Toolbar</h3>
+
+<p>Aici aveți acces la mai multe funcții. De exemplu, dacă apăsați <code>Play</code>, puteți să testați jocul. Dacă apăsați <code>F8</code> în timp ce jocul rulează, deposedați personajul, drept urmare, nu îl mai puteți controla. Însă, ținând apăsat click dreapta, prin apăsarea tastelor <code>W</code>,<code>A</code>,<code>S</code>,<code>D</code>,<code>Q</code>,<code>E</code>, puteți mişca camera în orice direcție, astfel încât să vedeți acțiunea din toate unghiurile. Dacă apăsați din nou <code>F8</code>, „spiritul” îi intră înapoi în corp, reposedându-l. Un alt buton important este <code>Build</code>. Când îl apăsați, motorul grafic trimite informații legate de iluminarea scenei şi texturile obiectelor la o altă aplicație, Swarm Agent, care porneşte automat.</p>
+
+<p>Swarm Agent face nişte calcule bazate pe proiecția razelor de lumina pe suprafețe, apoi trimite înapoi la motorul grafic informațiile obținute, împreună cu texturile „iluminate”. Interfața Swarm Agent o puteți deschide din taskbar-ul Windows-ului, are un icon specific. Astfel, puteți vedea progresul mai în amănunt. Motorul de iluminare folosit de Swarm Agent se mai numeşte şi Lightmass.</p>
+
+<h3 id="details">Details</h3>
+
+<p>Aici puteți schimba mai multe setări specifice pentru obiectul selectat, cum ar fi locația sau materialul alocat acestuia.</p>
+
+<p>Pentru a mişca camera, se pot folosi mai multe metode de control:</p>
+
+<ol>
+<li><code>Click dreapta</code> + <code>W</code>,<code>A</code>,<code>S</code>,<code>D</code> pentru deplasare pe planul orizontal, sau <code>click dreapta</code> + <code>Q</code>, <code>E</code> pe cel vertical. Pentru a modifica viteza cu care camera se deplasează, puteți folosi rotița de scroll.</li>
+
+<li><p>Modul de control specific pentru programul de modelare şi animație Maya:</p>
+
+<ul>
+<li><code>Alt</code> + <code>Click stânga</code> – rotație</li>
+<li><code>Alt</code> + <code>Click mijloc</code> – translație</li>
+<li><code>Alt</code> + <code>Click dreapta</code> – dolly sau zoom</li>
+</ul></li>
+</ol>
+
+<p>Unreal Engine 4 are un sistem de tutoriale inclus. Pentru a-l accesa, apăsați butonul care clipeşte cu unde verzi, din colțul drept al ferestrei.</p>
+
+<p>Acum vom începe să construim jocul. Apăsați <code>File &gt; New Level</code> şi selectați <code>Default</code>. Puteți să salvați nivelul curent, dacă vreți.</p>
+
+<p>Selectați podeaua/Floor, iar în <code>Details panel</code>, setați X la valoarea 10, Y la 10, ca să avem mai mult spațiu să ne construim nivelul. În <code>Content Browser</code>, navigați în folderul <code>Starter Content</code> &gt; <code>Shapes</code>.</p>
+
+<p><img src="images/UE-image4.jpg" alt="" /></p>
+
+<p>Locul în care jocul începe este marcat cu un gamepad şi un steag. Navigați în apropierea acestuia, şi trageți <code>Shape_Cube</code> lângă el. În fereastra pentru viewport, aveți trei butoane: <code>translate</code> (move), <code>rotate</code> şi <code>scale</code>. Apăsați pe <code>scale</code>, şi trageți de mânerul albastru în sus, astfel încât cutia să ajungă la o înălțime convenabilă.</p>
+
+<p><strong>(1)</strong>: Trageți de mânerul roşu, astfel încât lungimea zidului să crească. Selectați <code>move</code>, apoi, cu tasta <code>Alt</code> apăsată, trageți zidul spre dreapta. Veți observa că nu mutați zidul în sine, ci o copie a acestuia. Acum avem un coridor.</p>
+
+<p><strong>(2)</strong>: Selectați ambele ziduri, ținând apăsată tasta <code>Shift</code>. Țineți apăsat <code>Alt</code>, şi trageți de săgeata roşie, astfel încât să dublăm lungimea coridorului. Selectați bucățile de zid din dreapta, apoi le copiați spre dreapta tot cu <code>Alt</code>.</p>
+
+<p><strong>(3)</strong>: Mutați o bucată din zidul de mijloc mai în spate şi spre stânga.</p>
+
+<p><strong>(4)(7)</strong>: Selectați tot zidul din dreapta, apoi apăsați butonul <code>rotate</code>. Ținând apăsat <code>Alt</code>, îl rotiți spre dreapta cu 90 de grade.</p>
+
+<p><strong>(5)</strong>: Îl plasați în față, apoi îl copiați mai în spate, astfel încât să obținem un spațiu închis.</p>
+
+<p><strong>(6)</strong>: Selectați <code>Light Source</code>, ori din scenă, ori din World Outliner, şi îi reduceți intensitatea la 0.5 în panel-ul <code>Details</code>.</p>
+
+<p>În următoarele părți vom lucra cu <strong>Blueprints</strong>, sistemul de scripting vizual. De asemenea, vom crea inamici, elemente de interfață precum bara de viață şi alte lucruri care s-ar putea găsi într-un shooter. ■</p>
+
+
+            
+
+            
+
+        </div>
+
+        
+        
+            
+
+
+
+        
+
+        
+        
+        <section class="post-full-article-metadata">
+            <hr>
+            
+            
+            
+            <div class = "post-full-article-extra">
+
+
+                
+                
+                
+                    
+                    
+
+                    
+
+                    
+                        <p><span class="post-full-article-extra-categ">Licență articol</span>: <a href="https://candaparerevista.ro/licenses/license-default/">Licența generală</a>&nbsp;&nbsp;</p>
+                    
+                
+
+                
+                    <p><span class="post-full-article-extra-categ">Tags</span>: <a href="https://candaparerevista.ro/tags/gamedev/">#GameDev</a>&nbsp;&nbsp;<a href="https://candaparerevista.ro/tags/unreal-engine/">#Unreal Engine</a>&nbsp;&nbsp;</p>
+                
+
+                
+                    <p>
+                        <span class="post-full-article-extra-categ">Sursa</span>:
+                        
+                            <a href="https://forum.candaparerevista.ro/viewtopic.php?f=77&amp;t=1290">Articolele Comunității / Nivelul 2 Community Edition - Numărul 2</a>
+                        
+                        
+                            (<span>31-05-2016</span>)
+                        
+                    </p>
+                
+
+                
+
+                
+            </div>
+            
+            
+                <p class = "post-forum-link">
+                <span class ="post-forum-link-icon"><svg width="1.5em" height="1.5em"  viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1792 896q0 174-120 321.5t-326 233-450 85.5q-70 0-145-8-198 175-460 242-49 14-114 22-17 2-30.5-9t-17.5-29v-1q-3-4-.5-12t2-10 4.5-9.5l6-9 7-8.5 8-9q7-8 31-34.5t34.5-38 31-39.5 32.5-51 27-59 26-76q-157-89-247.5-220t-90.5-281q0-130 71-248.5t191-204.5 286-136.5 348-50.5q244 0 450 85.5t326 233 120 321.5z"/></svg></span>
+                Pentru comentarii și discuții despre articol vă invităm să vizitați <a href = "https://forum.candaparerevista.ro/viewtopic.php?f=77&amp;t=1290">secțiunea dedicată de pe forum</a>.
+                </p>
+            
+        </section>
+        
+    </section>
+
+    
+    
+    
+    <footer class="post-full-footer">
+      <section class="author-card">
+        
+        <img class="author-profile-image" src="https://candaparerevista.ro/img/author-avatars/mahri726.jpg" alt="mahri726" />
+        <section class="author-card-content">
+            <h4 class="author-card-name"><a href="https://candaparerevista.ro/authors/mahri726">mahri726</a></h4>
+                 <p>Sunt un student pasionat de songwriting, producție muzicală, desen și gamedev. Îmi place să fiu creativ. În prezent lucrez la Yandere Mages, un action-RPG bazat pe Yandere Simulator, cu acțiunea plasată într-un univers fantasy.</p> 
+        </section>
+      </section>
+    </footer>
+    
+</article>
+    
+    
+    
+
+  </div>
+</main>
+
+
+<aside class="read-next outer">
+  <div class="inner">
+    <div class="separator-read-next">Alte Articole</div>
+    <div class="read-next-feed">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+    <article class="post-card   " style="background: ">
+
+    
+      
+      
+      
+        
+        
+        <a class="post-card-image-link" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726/">
+          <div class="post-card-image" style="background-image: url(https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726/images/ue4-cover_hu6bb41ae2a68c2505f77d32de6b433ef9_293640_0x350_resize_q75_box.jpg)"></div>
+        </a>
+      
+    
+
+
+  <div class="post-card-content">
+    <a class="post-card-content-link" href="https://candaparerevista.ro/posts/2018/11/atelier-introducere-unreal-engine-ii-mahri726/">
+        <header class="post-card-header">
+            
+                
+                
+                
+                
+
+                <div class="post-card-categories" style="border-color: ">
+                    
+                        
+                        
+                        
+                        
+                        <span class = "atelier">Atelier</span>
+                    
+                </div>
+            
+            <h2 class="post-card-title">Introducere în Unreal Engine 4 (II)</h2>
+            
+            <span class="post-card-subtitle">Partea II: Introducere în Blueprints - nivelul de joc</span>
+        </header>
+        
+          <section class="post-card-excerpt">
+            <p class="js-text-clamp">
+              
+                Un joc video, spre deosebire de un film, este interactiv. Pentru a realiza mecanicile unui joc în Unreal Engine 4, se poate face programarea cu ajutorul limbajului C++, Blueprints sau amândouă. Blueprints, spre deosebire de C++, este un sistem de scripting vizual. Aceasta înseamnă că dezvoltatorul jocului, în loc să scrie linii de cod într-un document, creează un grafic format din mai multe noduri.
+              
+            </p>
+          </section>
+        
+    </a>
+
+    <footer class="post-card-meta">
+        
+        
+        
+        
+
+        
+        <img class="author-profile-image" src="https://candaparerevista.ro/img/author-avatars/mahri726.jpg" alt="mahri726" />
+        <div>
+          <span class="post-card-author"><a href="https://candaparerevista.ro/authors/mahri726">mahri726</a></span>
+          <span class="post-card-date">17/11/18</span>
+        </div>
+        <div class="post-card-reading-time">
+            
+            15</div>
+    </footer>
+  </div>
+</article>
+
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+    <article class="post-card   " style="background: ">
+
+    
+      
+      
+      
+        
+        
+        <a class="post-card-image-link" href="https://candaparerevista.ro/posts/2018/11/retrospectiva-notelor-de-10/">
+          <div class="post-card-image" style="background-image: url(https://candaparerevista.ro/posts/2018/11/retrospectiva-notelor-de-10/images/note-10-card_hu2d7f92f64e48cfda17e99f247ee0d803_144428_0x350_resize_q75_box.jpg)"></div>
+        </a>
+
+      
+    
+
+
+  <div class="post-card-content">
+    <a class="post-card-content-link" href="https://candaparerevista.ro/posts/2018/11/retrospectiva-notelor-de-10/">
+        <header class="post-card-header">
+            
+                
+                
+                
+                
+
+                <div class="post-card-categories" style="border-color: rgba(143,188,143,0.5)">
+                    
+                        
+                        
+                        
+                        
+                        <span class = "retrospectivă">Retrospectivă</span>
+                    
+                        
+                        /
+                        
+                        
+                        <span class = "level">Level</span>
+                    
+                </div>
+            
+            <h2 class="post-card-title">Notele de 10 din Level</h2>
+            
+            
+        </header>
+        
+          <section class="post-card-excerpt">
+            <p class="js-text-clamp">
+              
+                Când Cristan a terminat de pus cap la cap arhiva virtuală a Level, mi s-a părut c-ar fi interesant să facem câteva retrospective tematice. În ediția de astăzi este vorba despre jocurile notate cu 10 în paginile revistei. Arhiva nu permite deocamdată filtrarea după note, dar am scuturat bine baza de date și iată ce a căzut din ea…
+              
+            </p>
+          </section>
+        
+    </a>
+
+    <footer class="post-card-meta">
+        
+        
+        
+        
+
+        
+        <img class="author-profile-image" src="https://candaparerevista.ro/img/author-avatars/mahdi.jpg" alt="Mahdi" />
+        <div>
+          <span class="post-card-author"><a href="https://candaparerevista.ro/authors/mahdi">Mahdi</a></span>
+          <span class="post-card-date">9/11/18</span>
+        </div>
+        <div class="post-card-reading-time">
+            
+            10</div>
+    </footer>
+  </div>
+</article>
+
+      
+    </div>
+  </div>
+</aside>
+
+
+
+
+
+<footer class="site-footer outer">
+  <div class="site-footer-content inner">
+    <section class="copyright" style="line-height: 1.3em;">
+      <a href="https://candaparerevista.ro/"></a> © 2018-2023 <br>
+      <span style="font-size: 0.8em; color: #555;">Construit cu <a href="https://gohugo.io/">Hugo</a> şi tema <a href="https://github.com/eueung/hugo-casper-two">Casper Two</a></span>
+    </section>
+    <nav class="site-footer-nav">
+        
+        <a href="https://candaparerevista.ro/contact" rel="noopener">Contact</a>
+        <a href="https://forum.candaparerevista.ro" target="_blank" rel="noopener">Forum</a>
+        <a href="https://www.facebook.com/comunitatealevel" target="_blank" rel="noopener">Facebook</a>
+        
+        <a href="https://steamcommunity.com/groups/candaparerevista" target="_blank" rel="noopener">Steam</a>
+        <a href="https://github.com/adakaleh/candaparerevista.ro" target="_blank" rel="noopener">GitHub</a>
+        
+        <a href="https://candaparerevista.ro/index.xml">RSS</a>
+    </nav>
+  </div>
+
+    <!-- Matomo analytics: trafic si vizualizari, toate datele raman pe serverul nostru -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+       
+      _paq.push(['trackPageView']);
+      (function() {
+        var u="//analitice.candaparerevista.ro/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+
+</footer>
+
+</div>
+<script type="text/javascript" src="https://candaparerevista.ro/js/libs/highlight/highlight.pack.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/clamp.min.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/custom.js"></script>
+<script type="text/javascript" src="https://candaparerevista.ro/js/fotorama.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script>
+  Array.from(document.getElementsByClassName("fotorama-fallback")).forEach(el => el.style.display = "none");
+  Array.from(document.getElementsByClassName("fotorama")).forEach(el => el.style.display = "block");
+</script>
+
+
+
+    <script>
+
+
+
+
+
+$(document).ready(function () {
+    
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+</body></html>
