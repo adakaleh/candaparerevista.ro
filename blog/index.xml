@@ -6,169 +6,65 @@
     <description>Recent content in Blogs on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Rămas bun, Xristina</title>
-      <link>https://candaparerevista.ro/blog/2022/01/xristina/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Lansare site (beta)</title>
+      <link>https://candaparerevista.ro/blog/2018/0/beta/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/blog/2022/01/xristina/</guid>
-      <description>Pentru cei care nu o știu, Xristina a fost una dintre noi. Membru al forumului încă de pe vremea Level, a contribuit din rol de colaborator cu articole la revistă și a fost mereu prezentă în viața gamingului românesc.
-Putem afirma cu încredere că a avut o carieră de gamer mai bogată decât a majorității. A creat unul dintre puținele canale de YouTube cu recenzii de jocuri în limba română și un canal de Twitch cu mii de abonați. Scria articole pe site-ul ei (fostul degaming.ro) și era o mare fană a evenimentelor esport atât locale cât și internaționale.</description>
+      <guid>https://candaparerevista.ro/blog/2018/0/beta/</guid>
+      <description>Gata, de acum avem şi site.
+Dintre schimbările vizibile faţă de versiunile anterioare de test ar fi de menţionat:
+ Secţiune nouă: Blogul Comunităţii. Aici vom publica update-uri despre site şi diverse informaţii despre din comunitate (evenimente, gaming nights, etc.). Avem fonturi noi: cu serif pentru pagina articolelor, şi sans serif pentru carduri. Ambele din familia Merriweather, un font open-source şi permisiv cu utilizarea în tot felul de proiecte. Fiecare articol are o licenţă ataşată. În mod implicit (atunci când autorii nu aleg altceva), autorii mențin toate drepturile asupra articolului, iar orice utilizare necesită permisiunea explicită a acestuia.</description>
     </item>
     
     <item>
-      <title>Concurs de Crăciun</title>
-      <link>https://candaparerevista.ro/blog/2021/12/concurs/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <title>Update progres (aprilie 2018)</title>
+      <link>https://candaparerevista.ro/blog/2018/0/update-progres-2/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/blog/2021/12/concurs/</guid>
-      <description>E final de 2021, iată că am supraviețuit și e aproape Crăciunul! După cum ne e bunul obicei, vrem să organizăm din nou un concurs și să îmbogățim colecția de jocuri a unor norocoși.
-Pentru a vă înscrie trebuie doar să răspundeți în topicul dedicat de pe forum la următoarea întrebare:
- Cu ce joc vreți să vă petreceți sărbătorile de iarnă?
- Vă puteți înscrie până în data de 18 decembrie. În 19 decembrie vom extrage prin tragere la sorți trei câștigători.
-Condiții:
- Jocul poate fi în format fizic sau digital, pentru orice consolă actuală sau PC.</description>
+      <guid>https://candaparerevista.ro/blog/2018/0/update-progres-2/</guid>
+      <description>Un alt update: &amp;ldquo;sfârșitul lunii&amp;rdquo; va însemna &amp;ldquo;după Paște&amp;rdquo;, că vom avea mai mult timp liber să lucrăm la site în perioada aia.
+Update 9 aprilie: &amp;ldquo;după Paște&amp;rdquo; se mai prelungeşte puţin (sper că doar vreo săptămână), că nu ne-am potrivit la program. Partea bună în schimb e că am implementat puţin mai multe lucruri decât ne propusesem iniţial, inclusiv din cele programate pentru versiunea finală sau mai târziu.</description>
     </item>
     
     <item>
-      <title>ncv a trecut în BonusStage.ro</title>
-      <link>https://candaparerevista.ro/blog/2021/10/bonusstage/</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:01 +0000</pubDate>
+      <title>Update progres (martie 2018)</title>
+      <link>https://candaparerevista.ro/blog/2018/0/update-progres/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/blog/2021/10/bonusstage/</guid>
-      <description>Surpriză! După Marius Ghinea, cioLAN și Paul Policarp, încă o voce din trecutul revistei Level revine pe internetul românesc cu un proiect dedicat jocurilor de PC și Switch. Luând o pauză după 6 ani la revista Level și apoi cele câteva numere din scurta existență a revistei Nivelul 2, Nicolae „ncv” Marin se întoarce acum cu forțe proaspete, ambiții mari și un site nou: BonusStage.ro.
- BonusStage.ro În propriile cuvinte, ncv își propune:
- Review-urile și specialele o să fie cele mai numeroase. Jumătate din recenzii vor fi pentru titlurile testate pe PC.</description>
+      <guid>https://candaparerevista.ro/blog/2018/0/update-progres/</guid>
+      <description>Un scurt update în ce priveşte lucrul la site:
+ Am reorganizat lista cu ce ar mai fi de făcut, iar planul ar fi următorul (lista cu toate schimbările planificate până acum e pe github):
+ La sfârșitul lunii încercăm să lansăm o versiune beta cu câteva lucruri puse la punct față de versiunea alpha 2 de acum, dintre care mai importante ar fi :
+ Un tagline pe care trebuie să-l alegem Un prim set de articole Pagini de descriere pentru autorii articolelor Pagina Despre  Urmează apoi o perioadă în care să mai finalizăm/adăugăm diverse chestii, apoi îl botezăm v1.</description>
     </item>
     
     <item>
-      <title>Suntem în Revista Știință &amp; Tehnică</title>
-      <link>https://candaparerevista.ro/blog/2020/09/stiintasitehnica/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <title>candaparerevista.ro (alpha 2)</title>
+      <link>https://candaparerevista.ro/blog/2018/0/alpha-2/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/blog/2020/09/stiintasitehnica/</guid>
-      <description>De câteva săptămâni încoace, aproape printr-o întâmplare, s-a înfiripat o colaborare între comunitatea noastră și revista Știință &amp;amp; Tehnică. Astfel, membrii forumului au acum posibilitatea să contribuie cu articole despre jocuri care să aibă legătură tematică cu profilul revistei: știință, inginerie, antropologie, anticipație, medicină etc. Găsiți mai multe detalii pe forum.
-Astfel că, începând de luna asta, avem primul articol publicat. Review-ul jocului Heaven&amp;rsquo;s Vault, scris de un membru al comunității noastre, a apărut în numărul pe septembrie al revistei.
-Un alt articol este deja gata de publicare, iar pe forum ne pregătim de următorul, un articol special la care oricine poate contribui.</description>
+      <guid>https://candaparerevista.ro/blog/2018/0/alpha-2/</guid>
+      <description> O altă versiune, cu câteva modificări:
+Carduri  margini: scos borduri, adăugat umbră; nu sunt sigur de efect, am făcut invers decât se foloseşte în mod curent (cardul devine &amp;ldquo;apăsat&amp;rdquo; la hover, nu se ridică); carduri mai multe pe prima pagină (și puțin mai mici); adăugat categoria articolului pe card;  Articole  subtitlu sub titlu; (exemplu) articolele au la sfârșit și o secțiune cu informații adiționale; am mutat aici și tag-urile; (exemplu) cardurile pentru următorul/precedentul articol sunt mai compacte;  General  umblat la categoriile din meniu şi linkul pentru forum; am adăugat şi un favicon, să fie; câteva modficări la varianta pentru mobil  </description>
     </item>
     
     <item>
-      <title>Patreon</title>
-      <link>https://candaparerevista.ro/blog/2020/06/patreon/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <title>candaparerevista.ro (alpha)</title>
+      <link>https://candaparerevista.ro/blog/2018/0/alpha/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://candaparerevista.ro/blog/2020/06/patreon/</guid>
-      <description>De acum încolo avem o nouă modalitate prin care cine e interesat poate să contribuie la susținerea site-ului și forumului nostru.
-Jaunty, administratorul nevăzut care stă în spatele firelor care alimentează tot ce citiți pe aici, a deschis un cont de Patreon unde puteți contribui cu orice sumă care să ajute la acoperirea costurilor lunare de funcționare a serverelor:
- Jaunty here. După ce revista Level și-a încetat apariția și forumul ei a dispărut subit, am pus bazele noului forum al comunității - forum.candaparerevista.ro - pe care îl găzduiesc din martie 2014.</description>
-    </item>
-    
-    <item>
-      <title>Aniversare 2 ani</title>
-      <link>https://candaparerevista.ro/blog/2020/05/aniversare-2-ani/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2020/05/aniversare-2-ani/</guid>
-      <description>A mai trecut un an. Un an în care site-ul nostru a crescut încet, dar sigur, și a continuat să adauge review-uri, recomandări, știri și chiar și un reportaj de la Gamescom 2019 la deja impresionanta colecție de articole despre lumea jocurilor (și nu numai). Și la fel a crescut și pagina noastră de Steam Curator, unde am ajuns să avem un catalog frumușel de recomandări.
-Totodată, și prietenii noștri au continuat să lucreze. Podcastul Joc și Vorbe a ajuns la episodul 165, iar canalul lor de YouTube a primit mult mai multă atenție.</description>
-    </item>
-    
-    <item>
-      <title>Game Draft XVI</title>
-      <link>https://candaparerevista.ro/blog/2020/05/game-draft-xvi/</link>
-      <pubDate>Sun, 03 May 2020 14:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2020/05/game-draft-xvi/</guid>
-      <description>Bun venit la a XVI-a ediție a Game Draft. De această dată subiectul draftului este reprezentat de secvențele cinematice de introducere din jocuri, fie ele pre-generate, live action ori redate în engine-ul jocului. Destul de simplu, nu? Ei bine, se pare că n-au lipsit ciondănelile cu caracter taxonomic, conceptul de intro fiind disputat cu pasiune de câteva tabere adverse. Dar spiritele s-au mai liniștit între timp, iar pe fundal se mai aude doar sunetul cuțitelor ascuțite în așteptarea rundelor de vot.
-Deși faza de alegere a jocurilor a început deja, încă vă puteți înscrie în competiție.</description>
-    </item>
-    
-    <item>
-      <title>Aniversare 1 An</title>
-      <link>https://candaparerevista.ro/blog/2019/05/aniversare-1-an/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2019/05/aniversare-1-an/</guid>
-      <description>Acum fix un an am deschis porțile site-ului și am publicat primul blog post (chiar dacă ieșirea din „perioada de probă” a fost puțin mai târziu, putem considera ziua de 20 mai ca fiind data de naștere a site-ului). În mod surprinzător, poate, pentru un site fără o direcție clară și menținut fără alte investiții în afară de pasiune și puțin timp liber - fără reclame, clickbait, sau alte monetizări - nu numai că a rezistat până acum, dar a și prosperat1. Pe scurt:
- Numărul de articole a crescut de la 8 la 75 (fără să punem la socoteală rubrica de Highlights); numărul review-urilor a crescut de la 5 la 30.</description>
-    </item>
-    
-    <item>
-      <title>Game Draft XV</title>
-      <link>https://candaparerevista.ro/blog/2019/03/game-draft-xv-update-3/</link>
-      <pubDate>Sun, 24 Mar 2019 08:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2019/03/game-draft-xv-update-3/</guid>
-      <description>&lt;p&gt;Jocul a luat sfârșit. Finala cea mare (și singura) &lt;a href=&#34;https://forum.candaparerevista.ro/viewtopic.php?f=59&amp;amp;t=2107&#34;&gt;s-a desfășurat&lt;/a&gt; între Azad și TG, cu listele de mai jos:&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Game Draft XV</title>
-      <link>https://candaparerevista.ro/blog/2019/03/game-draft-xv-update-2/</link>
-      <pubDate>Sun, 10 Mar 2019 08:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2019/03/game-draft-xv-update-2/</guid>
-      <description>Jocul e în plină desfășurare. Avem acum 16 participanți, iar perioada de alegeri tocmai s-a terminat. Listele sunt finalizate, iar cele 160 de jocuri au intrat deja în faza „duelurilor”.
-Vă așteptăm să votați listele preferate sau doar să urmăriți jocul și să participați la discuții.
-Game Draft XV - The Best Games of the Decade (2009 - 2018)</description>
-    </item>
-    
-    <item>
-      <title>Game Draft XV</title>
-      <link>https://candaparerevista.ro/blog/2019/02/game-draft-xv-update-1/</link>
-      <pubDate>Sun, 24 Feb 2019 08:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2019/02/game-draft-xv-update-1/</guid>
-      <description>Jocul a început și a ajuns deja la jumătatea rundei de alegeri. Celor 11 participanți de la început li s-au alăturat alți 3 pe parcurs, iar până acum au fost alese deja peste 70 de jocuri. Și atenție, vorbim de cele mai bune jocuri ale deceniului, crema cremelor. :)
-Încă vă mai puteți înscrie, dar vă așteptăm pe forum și doar ca să urmăriți jocul, să anticipați câștigătorii, să discutați sau doar să descoperiți jocuri noi de jucat.
-Game Draft XV - The Best Games of the Decade (2009 - 2018)</description>
-    </item>
-    
-    <item>
-      <title>Game Draft XV</title>
-      <link>https://candaparerevista.ro/blog/2019/02/game-draft-xv/</link>
-      <pubDate>Sun, 17 Feb 2019 08:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2019/02/game-draft-xv/</guid>
-      <description>Bun venit la a XV-a ediție a Game Draft. Da, încă mai avem până depășim numărul de jocuri din seria Final Fantasy.
-În acest episod ne vom juca cu jocurile ultimului deceniu. Cum s-a mai văzut la celelalte drafturi, preferințele forumiștilor se îndreaptă de obicei spre jocurile de la începutul anilor 2000; un lucru nu foarte surprinzător, pentru că e o perioadă care s-a suprapus cu copilăria și adolescența multora dintre noi. Vorbim adesea pe forum despre Declin și lăcomia producătorilor din ziua de azi, dar oare chiar nu se mai fac jocuri „ca pe vremuri”?</description>
-    </item>
-    
-    <item>
-      <title>CONCURS</title>
-      <link>https://candaparerevista.ro/blog/2018/11/concurs-mos-nicolae/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2018/11/concurs-mos-nicolae/</guid>
-      <description>Gameri de pretutindeni, cu ocazia lansării site-ului candaparerevista.ro (și fix la timp pentru Moș Niculae!) avem pentru voi un concurs care sperăm să vă placă.
-Cine suntem noi? Cei din comunitatea LEVEL deja ne știți, pentru toți ceilalți, suntem o mână de entuziaști care administrează forumul candaparerevista, urmașul spiritual al forumului revistei LEVEL. De curând am lansat și site-ul pe care vă aflați, unde puteți găsi review-uri scrise de utilizatori de pe forum și retrospective săptămânale din industria jocurilor.
-Cum participați la concurs? Răspundeți aici pe forum la întrebarea „Care e jocul tău preferat din 2018 și de ce?</description>
-    </item>
-    
-    <item>
-      <title>Update schimbări</title>
-      <link>https://candaparerevista.ro/blog/2018/11/noblog/</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2018/11/noblog/</guid>
-      <description>Avem două schimbări mai importante pentru site.
-În primul rând, am scos caseta „Blogul Comunității”. Deși intenția la început era să avem update-uri frecvente, în practică am observat că nu avem atât de mult material încât să fie justificată prezența unei casete fixe într-un loc vizibil, astfel încât o postare de tip blog putea rămâne în același loc luni întregi, ocupând spațiul degeaba. Drept urmare, am scos caseta specială și am integrat postările în rând cu articolele normale. Singura diferență e că le-am dat o culoare diferită și nu au imagini, astfel încât să iasă mai ușor în evidență.</description>
-    </item>
-    
-    <item>
-      <title>Lansare finală site</title>
-      <link>https://candaparerevista.ro/blog/2018/10/gold/</link>
-      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2018/10/gold/</guid>
-      <description>Gata. După 5 luni de „beta”, putem să-l considerăm finalizat. Site-ul e gold. Am ieșit din early access. Ne-am lansat oficial!
-În această perioadă ne-am ocupat de finisarea aspectelor care mai rămăseseră de rezolvat și am mai adăugat și câteva funcționalități noi, astfel încât în momentul de față avem o platformă cu aproape tot ce trebuie pentru a publica ușor materialele create de membrii comunității.
-Și totul e open source, se încarcă repede, JavaScript e redus la minim, nu avem reclame, pentru analytics (vizite/trafic) avem o soluție liberă self-hosted, nu se trimite nimic la Google sau în altă parte.</description>
+      <guid>https://candaparerevista.ro/blog/2018/0/alpha/</guid>
+      <description>candaparerevista.ro va fi poarta către forum, site-ul unde vom pune cele mai reușite articole de-ale forumiștilor, plus noutăți și alte chestii.
+Versiunea alfa este aici.
+Site-ul este static, suplu, construit pe baza Hugo + tema Casper Two.
+Deocamdată ne-am concentrat pe structură, textul e provizoriu. În caseta fiecărui articol avem username + avatar, avem feed, se poate filtra după autor / categorie / tag, plus o mulțime de alte detalii. Dar mai e de lucru, desigur.
+Cu voia oricui vrea să contribuie, sperăm să ajungem să avem și o funcție de căutare, plus eventual o temă mai întunecată.</description>
     </item>
     
   </channel>
