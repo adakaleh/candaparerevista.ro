@@ -3,7 +3,7 @@ title: Throne of Darkness
 type: post
 hideOnHome: true
 date: 2018-10-21T10:00:00
-authors: patrunjelu
+authors: magicake
 categories:
     - Recomandare
 tags:

@@ -3,7 +3,7 @@ title: Stronghold Crusader
 type: post
 hideOnHome: true
 date: 2018-12-09T09:00:00
-authors: patrunjelu
+authors: magicake
 categories:
     - Recomandare
 tags:

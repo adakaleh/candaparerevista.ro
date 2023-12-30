@@ -3,7 +3,7 @@ title: Patrician III
 type: post
 hideOnHome: true
 date: 2018-12-23T08:00:00
-authors: patrunjelu
+authors: magicake
 categories:
     - Recomandare
 tags:

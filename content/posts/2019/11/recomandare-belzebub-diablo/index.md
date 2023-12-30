@@ -2,7 +2,7 @@
 title: "Belzebub (Diablo HD Mod)"
 type: post
 date: 2019-11-14
-authors: patrunjelu
+authors: magicake
 categories:
     - Recomandare
     - MODs

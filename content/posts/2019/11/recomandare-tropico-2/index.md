@@ -2,7 +2,7 @@
 title: "Tropico 2: Pirate Cove"
 type: post
 date: 2019-11-07
-authors: patrunjelu
+authors: magicake
 categories:
     - Recomandare
 tags:

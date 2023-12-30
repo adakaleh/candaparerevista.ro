@@ -47,6 +47,11 @@ juve3332:
   thumbnail: "juve3332.jpg"
   description: "Membru al comunităţii din 2002."
   website: "/"
+magicake:
+  name: "Magicake"
+  thumbnail: "magicake.png"
+  description: "Membru al comunităţii din 1970."
+  website: "/"
 mahdi:
   name: "Mahdi"
   thumbnail: "mahdi.jpg"
@@ -79,11 +84,6 @@ nervozix:
   name: "Nervozix"
   thumbnail: "nervozix.png"
   description: "Membru al comunităţii din 2015."
-  website: "/"
-patrunjelu:
-  name: "Pătrunjelu'"
-  thumbnail: "patrunjelu.jpg"
-  description: "Membru al comunităţii din 1970."
   website: "/"
 quackers:
   name: "Quackers"
@@ -134,10 +134,5 @@ woozie:
 zulu:
   name: "Zulu"
   thumbnail: "zulu.jpg"
-  description: "Membru al comunităţii din 2014."
-  website: "/"
-magicake:
-  name: "Magicake"
-  thumbnail: "magicake.png"
   description: "Membru al comunităţii din 2014."
   website: "/"
