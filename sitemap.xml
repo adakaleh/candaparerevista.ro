@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2024/03/review-blood-west/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2023/10/recomandare-pathless/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url>
@@ -2844,6 +2849,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/blood-west/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/bloodborne/</loc>
     <lastmod>2020-07-12T00:00:01+00:00</lastmod>
     <priority>0</priority>
@@ -5564,6 +5575,12 @@
   </url>
   
   <url>
+    <loc>https://candaparerevista.ro/tags/hyperstrange/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/tags/hypnospace-outlaw/</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -6224,14 +6241,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7792,7 +7809,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8185,14 +8202,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/retro/</loc>
-    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/retro/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/retro/</loc>
+    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8246,7 +8263,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8724,7 +8741,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8802,7 +8819,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/sleepknot/</loc>
-    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

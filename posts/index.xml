@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blood West</title>
+      <link>https://candaparerevista.ro/posts/2024/03/review-blood-west/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2024/03/review-blood-west/</guid>
+      <description>De multe ori în timp mi-a răsărit gândul: &amp;ldquo;băi nene, ce-aș rejuca S.T.A.L.K.E.R&amp;rdquo;. Nu trece mult și de nicăieri apare câte o clonă ce reușește să mă incite și apoi să mă (dez)amăgească, amânându-mi apoteotica revenire în Cordon după piulițe, cartușe de 7.62 și limbi de mistreț fosforescente. Ca și alte serii celebre poprite de timp (Elder Scrolls, Half Life, Heroes of Might and Magic), S.T.A.L.K.E.R a născut sub lipsa sa de noi iterații un întreg subgen de jocuri ce caută să-l reasambleze, conservând cu ortodoxie vibe-ul original: acțiune mereu la limită, mecanici imersive, explorare și gameplay emergent.</description>
+    </item>
     
     <item>
       <title>The Pathless</title>
@@ -143,16 +152,6 @@ Cât de mult s-au putut schimba lucrurile în doi ani? Ei bine, o să încep cu 
       
       <guid>https://candaparerevista.ro/posts/2021/07/review-backbone/</guid>
       <description>Se întâmplă destul de rar să-mi achiziționez un joc în ziua de lansare și chiar mai rar să-l iau în orb fără a ști vreun aspect considerabil despre el. Backbone a zăcut câteva luni în wishlist, încă de dinainte să se concretizeze în altceva mai mult de câteva cadre spilcuite care promiteau un noir-adventure cu animale antropomorfe. Așadar, în preziua lansării m-am hotărât să-i încerc prologul, ca neștiința să nu-mi fie completă, iar după numai câteva minute l-am părăsit pentru a nu-mi strica experiența viitoare cu promisiunea că-l voi cumpăra fără preget.</description>
-    </item>
-    
-    <item>
-      <title>Warhammer 40k: Dawn of War sau inițierea în estetica grimdark</title>
-      <link>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/07/special-warhammer-40k-dawn-of-war/</guid>
-      <description>&amp;ldquo;Every moment of anger, hate, deceit, pain, suffering, pleasure, and desire is mirrored in the power of Chaos. When its legions march, they march to return upon us a ruin that is of our own making.&amp;rdquo;
-Dacă veți întreba veterani ai jocurilor de strategie care sunt niște titluri definitorii pentru subgen, mulți vor arăta înspre Blitzkrieg, Command and Conquer sau Dune II, și puțini înspre Warhammer 40k: Dawn of War. Dawn of War este poate cel mai subapreciat joc de strategie din punct de vedere al influenței sale - dar mai ales, ca joc video capabil de a întrupa un univers fictiv.</description>
     </item>
     
   </channel>
