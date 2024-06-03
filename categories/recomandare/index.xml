@@ -6,10 +6,19 @@
     <description>Recent content in Recomandare on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/recomandare/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Felvidek</title>
+      <link>https://candaparerevista.ro/posts/2024/06/recomandare-felvidek/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2024/06/recomandare-felvidek/</guid>
+      <description>Am mai scris recent despre tendința scenei indie din ultimii ani de a vira stilistic spre grafica &amp;ldquo;PSX&amp;rdquo;, re-adoptând aspectul jocurilor de consolă din era 95-2000&amp;rsquo;ish și începutul 3D-ului. Sensul ăsta cred ca merită aprofundat. În trecut, datorită sunetului comprimat și a poligoanelor puține, posibilitățile tehnice produceau adesea (și mai degrabă neintenționat) o atmosfera bizară și nostalgică. Astăzi, dezvoltatorii indie (adică cei care se păstrează artiști a priori biznisului) par să fi realizat că a retrograda voit jocuri spre acel 3D arhaic produce aproape pe loc un simulator de vise febrile.</description>
+    </item>
     
     <item>
       <title>The Pathless</title>
@@ -146,16 +155,6 @@ Belzebub, eroul poveștii, este de asemenea cunoscut ca Diablo HD Mod, deși nu 
       <guid>https://candaparerevista.ro/posts/2019/07/recomandari-steam-summer-sale-2019/</guid>
       <description>Steam Summer Sale e în toi. În caz că nu v-a făcut nimic cu ochiul până acum sau dacă aveți rețineri în a cheltui prea mult, s-ar putea ca lista care urmează să vă fie de folos. Am strâns pentru voi ce ni s-a părut mai interesant dintre jocurile scoase la ofertă pe Steam, dar nu neapărat dintre cele mai cunoscute. Cele mai multe dintre ele sunt indie și costă sub 10 euro.
 Și nu uitați și de recomandările de pe pagina noastră Steam Curator, pe care nu le-am mai repetat aici.</description>
-    </item>
-    
-    <item>
-      <title>SteamWorld Heist</title>
-      <link>https://candaparerevista.ro/posts/2018/12/recomandare-steamworld-heist-cristan/</link>
-      <pubDate>Sun, 30 Dec 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/12/recomandare-steamworld-heist-cristan/</guid>
-      <description>Inițial intenționam să scriu un review întreg despre SteamWorld Heist, dar am întrerupt jocul la un moment dat și n-am reușit să-l mai reiau. Aș vrea să revin la el odată, dar până atunci o să încerc să-l descriu într-un articol puțin mai scurt, pentru că merită jucat și recomandat.
-Heist este al treilea joc SteamWorld, după SteamWorld Dig și SteamWorld Dig 2, dar nu are mare legătură cu acestea, dincolo de faptul că sunt plasate în același univers robo-steampunk, iar acțiunea se desfășoară după evenimentele din al doilea joc (plus câteva mici easter eggs și referințe, dar care nu contează foarte mult).</description>
     </item>
     
   </channel>

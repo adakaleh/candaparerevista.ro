@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Felvidek</title>
+      <link>https://candaparerevista.ro/posts/2024/06/recomandare-felvidek/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2024/06/recomandare-felvidek/</guid>
+      <description>Am mai scris recent despre tendința scenei indie din ultimii ani de a vira stilistic spre grafica &amp;ldquo;PSX&amp;rdquo;, re-adoptând aspectul jocurilor de consolă din era 95-2000&amp;rsquo;ish și începutul 3D-ului. Sensul ăsta cred ca merită aprofundat. În trecut, datorită sunetului comprimat și a poligoanelor puține, posibilitățile tehnice produceau adesea (și mai degrabă neintenționat) o atmosfera bizară și nostalgică. Astăzi, dezvoltatorii indie (adică cei care se păstrează artiști a priori biznisului) par să fi realizat că a retrograda voit jocuri spre acel 3D arhaic produce aproape pe loc un simulator de vise febrile.</description>
+    </item>
     
     <item>
       <title>Blood West</title>
@@ -147,16 +156,6 @@ Pentru a vă înscrie trebuie doar să răspundeți în topicul dedicat de pe fo
  Vă puteți înscrie până în data de 18 decembrie. În 19 decembrie vom extrage prin tragere la sorți trei câștigători.
 Condiții:
  Jocul poate fi în format fizic sau digital, pentru orice consolă actuală sau PC.</description>
-    </item>
-    
-    <item>
-      <title>Cyberpunk 2077</title>
-      <link>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</guid>
-      <description>Ambiție. Dacă ar fi să folosesc un singur cuvânt ca să descriu Cyberpunk 2077, acela ar fi „ambiție”. Sunt extraordinar de rare jocurile care se chinuie atât de tare să ajungă la lună. Dar dacă aș putea să folosesc două cuvinte, acelea ar fi „ambiție prostească”.
-Dar să o luăm cu începutul: ce e Cyberpunk 2077 de fapt? Poate fi descris ca un fenomen, un val de hype ajuns în topul produselor media contemporane care au generat cele mai mari așteptări, un Avengers: Infinity War al jocurilor video. Iar din perspectiva asta Cyberpunk 2077 a fost un succes — nu cred că există suflet de om care să aibă chiar și tangențial legătură cu gamingul și care să nu fi auzit de, vorbit de sau jucat jocul ăsta.</description>
     </item>
     
   </channel>
