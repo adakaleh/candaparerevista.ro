@@ -6,10 +6,19 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dread Delusion</title>
+      <link>https://candaparerevista.ro/posts/2024/07/review-dread-delusion/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2024/07/review-dread-delusion/</guid>
+      <description>La auzul sintagmei „open-world action-RPG” în 2024 mulți riscă să facă bube &amp;ndash; și pe bună dreptate. În ultimele două decenii, piața s-a înecat sub aplicarea formulei de „open-world” sau „rpg” asupra mai oricărui gen. Dincolo de ambiția de a livra „o lume întreagă” și libertate de acțiune jucătorului, la baza acestei obsesii stă și un efort ingenuu, rareori izbutit, între simulare și imersiune. Originea acestui zel se poate trasa, cred, cu ușurință în anii &amp;lsquo;90, când complexitatea din ce în ce mai mare a tehnologiei și zorii 3D-ului întrezăreau posibilitatea unor lumi simulate în detaliu și-n care roleplaying-ul putea fi dezlănțuit complet.</description>
+    </item>
     
     <item>
       <title>Felvidek</title>
@@ -142,20 +151,6 @@ Cunoscuți pentru cele două jocuri The Last Door, TGK prin Blasphemous s-au în
       <guid>https://candaparerevista.ro/blog/2022/01/xristina/</guid>
       <description>Pentru cei care nu o știu, Xristina a fost una dintre noi. Membru al forumului încă de pe vremea Level, a contribuit din rol de colaborator cu articole la revistă și a fost mereu prezentă în viața gamingului românesc.
 Putem afirma cu încredere că a avut o carieră de gamer mai bogată decât a majorității. A creat unul dintre puținele canale de YouTube cu recenzii de jocuri în limba română și un canal de Twitch cu mii de abonați. Scria articole pe site-ul ei (fostul degaming.ro) și era o mare fană a evenimentelor esport atât locale cât și internaționale.</description>
-    </item>
-    
-    <item>
-      <title>Concurs de Crăciun</title>
-      <link>https://candaparerevista.ro/blog/2021/12/concurs/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/blog/2021/12/concurs/</guid>
-      <description>E final de 2021, iată că am supraviețuit și e aproape Crăciunul! După cum ne e bunul obicei, vrem să organizăm din nou un concurs și să îmbogățim colecția de jocuri a unor norocoși.
-Pentru a vă înscrie trebuie doar să răspundeți în topicul dedicat de pe forum la următoarea întrebare:
- Cu ce joc vreți să vă petreceți sărbătorile de iarnă?
- Vă puteți înscrie până în data de 18 decembrie. În 19 decembrie vom extrage prin tragere la sorți trei câștigători.
-Condiții:
- Jocul poate fi în format fizic sau digital, pentru orice consolă actuală sau PC.</description>
     </item>
     
   </channel>
