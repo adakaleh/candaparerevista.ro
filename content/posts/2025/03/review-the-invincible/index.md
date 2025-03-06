@@ -82,8 +82,6 @@ Cum este de așteptat, inima jocului o constituie povestea și personajele, în 
 
  Aici se află de fapt și una din puținele critici pe care le am de adus jocului, și anume că nu e clar de la început ce opțiuni vor schimba cursul narațiunii, și care doar adaugă o tușă personală în conversații, fără alte implicații. Și nu că ar fi ceva în neregulă cu abordarea asta, dar se întâmplă uneori ca unele alegeri aparent banale să dea naștere într-un mod abrupt la niște consecințe destul de importante, iar alte alegeri care par importante să nu conteze până la urmă absolut deloc.
 
-{{< figure  src="gallery/invincible-02.jpg" caption="Comandantul Novik, partenerul nostru de discuții în cea mai mare parte a jocului. A se observa și aparatura „futuristă”" >}}
-
 {{< figure-multi
   "gallery/invincible-02.jpg|Comandantul Novik, partenerul nostru de discuții în cea mai mare parte a jocului. A se observa și aparatura „futuristă”|"
   "gallery/invincible-03.jpg|Comic book-ul jocului. În centru, echipajul nostru la începutul aventurii, cu Novik în cârje și Yasna cu păr blond.|"
