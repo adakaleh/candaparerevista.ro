@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Invincible</title>
+      <link>https://candaparerevista.ro/posts/2025/03/review-the-invincible/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2025/03/review-the-invincible/</guid>
+      <description>Nu înțeleg prea bine de ce termenul „walking simulator” are o conotație negativă pentru o anumită categorie de gameri. Chiar dacă sunt jocuri cu interactivitate scăzută, cu parcurs liniar sau puzzle-uri simple, asta nu le face jocuri inferioare, ci doar înseamnă că accentul este pus pe poveste și pe experiența în sine, nu pe gameplay. Până la urmă, acest stil de joc este o alegere, în funcție de obiectivul (și constrângerile) dezvoltatorilor. Iar când adaptezi o carte, un walking sim este o alegere la îndemână, simplă dar solidă, ce-ți permite să reproduci relativ ușor experiența citirii unei cărți într-un alt mediu.</description>
+    </item>
     
     <item>
       <title>Dread Delusion</title>
@@ -141,16 +150,6 @@ Cunoscuți pentru cele două jocuri The Last Door, TGK prin Blasphemous s-au în
       <guid>https://candaparerevista.ro/posts/2022/01/recomandare-loop-hero/</guid>
       <description>Tocmai când începeam să cred că s-au cam fumat toate variațiunile pe formula roguelike, Loop Hero mi-a demonstrat că ingeniozitatea indie nu cunoaște limite. Preluând elementele clasice ale rețetei, permadeath și generare procedurală, cei de la Four Quarters au adăugat câteva elemente de deck building, autobattle și chiar strategie, iar rezultatul a fost surprinzător de simplu și adictiv.
 În Loop Hero nu ai niciun control asupra eroului. Acesta parcurge singur un drum legat ca un circuit, și înfruntă toți monștrii random care îi ies în cale. La început există doar drumul - lumea a fost distrusă de către un misterios lich.</description>
-    </item>
-    
-    <item>
-      <title>Cyberpunk 2077</title>
-      <link>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:02 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2021/10/review-cyberpunk-2077/</guid>
-      <description>Ambiție. Dacă ar fi să folosesc un singur cuvânt ca să descriu Cyberpunk 2077, acela ar fi „ambiție”. Sunt extraordinar de rare jocurile care se chinuie atât de tare să ajungă la lună. Dar dacă aș putea să folosesc două cuvinte, acelea ar fi „ambiție prostească”.
-Dar să o luăm cu începutul: ce e Cyberpunk 2077 de fapt? Poate fi descris ca un fenomen, un val de hype ajuns în topul produselor media contemporane care au generat cele mai mari așteptări, un Avengers: Infinity War al jocurilor video. Iar din perspectiva asta Cyberpunk 2077 a fost un succes — nu cred că există suflet de om care să aibă chiar și tangențial legătură cu gamingul și care să nu fi auzit de, vorbit de sau jucat jocul ăsta.</description>
     </item>
     
   </channel>
