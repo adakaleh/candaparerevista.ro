@@ -127,3 +127,6 @@ weight = 100
   name = "Contact"
   url = "/contact/"
   weight = 96
+
+[outputs]
+  home = ["html", "rss", "json"]
