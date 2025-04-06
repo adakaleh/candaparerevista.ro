@@ -330,10 +330,10 @@ a {
 }
 
 .post-card-reading-time svg {
-    width: 20px;
-    height: 20px;
+    width: 13px;
+    height: 13px;
     fill: rgba(128, 128, 128, 0.8);
-    margin-right: 0.5em;
+    margin-right: 0.2em;
 }
 
 .post-card-reading-time {
