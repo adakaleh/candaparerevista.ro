@@ -60,6 +60,11 @@ a {
     opacity: .8;
 }
 
+.site-nav-center {
+    height: 40px;
+    margin-left: auto;
+}
+
 .forum-button {
 
 }
@@ -120,7 +125,7 @@ a {
         position: relative;
         -ms-flex: 1 1 auto;
         flex: 1 1 auto;
-        border-radius: 5px 0 0 5px
+        /*border-radius: 5px 0 0 5px*/
     }
 
     .home-template .post-feed .first-card .post-card-image {
@@ -197,7 +202,7 @@ a {
     /*border: solid 1px lightgray;*/
     /*border: 1px solid rgba(128,128,128, 0.4);*/
     box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);
-
+    border-radius: 0px;
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
     background-color: rgba(255, 250, 245, 0.7);
@@ -218,8 +223,16 @@ a {
 }
 
 /* normal cards image */
-.post-card-image-link {
+/*.post-card-image:hover,*/ .post-card:hover {
+    transform: scale(1.02);
+}
+/*.post-card-image:hover,*/ .post-card:hover {
+    transition: transform .4s
+}
 
+.post-card-image-link {
+    overflow: hidden;
+    border-radius: 0px;
 }
 
 /* normal cards continut container */
@@ -325,10 +338,10 @@ a {
 }
 
 .post-card-reading-time svg {
-    width: 20px;
-    height: 20px;
+    width: 13px;
+    height: 13px;
     fill: rgba(128, 128, 128, 0.8);
-    margin-right: 0.5em;
+    margin-right: 0.2em;
 }
 
 .post-card-reading-time {
