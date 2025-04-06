@@ -14,7 +14,7 @@
   {{ $authorLink := printf "/authors/%s" .Params.authors }}
 
   {{/* Un array de tags din index nu o sa fie citit de scriptul .js, astfel ca trebuie unit intr-un singur string ca sa putem cauta si dupa tags */}}
-  {{ $joinedTags := (delimit ($.Scratch.Get "tags" | default slice) ",") }}
+  {{ $joinedTags := (delimit (.Params.tags | default slice) ",") }}
 
   {{ $categ := $.Scratch.Get "primaCategorie" }}
   {{- $.Scratch.Add "index" (dict "title" (.Title | plainify) "url" .Permalink "author" $authorName "tags" $joinedTags "category" $categ "subcategory" $authorName "summary" (.Description | markdownify | plainify) "content" (.Content | markdownify | plainify) ) -}}

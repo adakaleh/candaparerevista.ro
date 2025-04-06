@@ -252,6 +252,7 @@ Hugo Image Processing: https://gohugo.io/content-management/image-processing/
 * Indexul se construiește la build pe baza template-ului din `<root>\themes\hugo-casper-two\layouts\index.json`. Indexul rezultat se poate accesa la http://localhost:1313/index.json
 * A fost nevoie de niște customizări pentru a include autorii în lista de rezultate - vezi comentariile din template-ul `index.json`
 * Tag-urile `<br>` din descrierea autorilor o să strice layoutul din lista de rezultate, e mai bine să fie înlocuite cu `/n` (vor fi înlocuite înapoi cu `<br>` în template-ul din taxonomy.html)
+* Numărul de rezultate e hardcodat la 200. Limita e setată în două locuri în `search-index-pizza.js` – caută `number_of_results`
 
 # Credits
 * Hugo static site generator: [website](https://gohugo.io/) | [github](https://github.com/gohugoio/hugo)
