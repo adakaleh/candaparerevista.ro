@@ -60,6 +60,11 @@ a {
     opacity: .8;
 }
 
+.site-nav-center {
+    height: 40px;
+    margin-left: auto;
+}
+
 .forum-button {
 
 }

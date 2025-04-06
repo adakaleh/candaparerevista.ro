@@ -8,10 +8,13 @@ type: page
 * <div style="width:235px; height:19px; display: inline-block; background-image: url(../img/email-contact.png); background-repeat: no-repeat; vertical-align: middle;"></div>
 
 ### Forum
-* [contact](https://forum.candaparerevista.ro/memberlist.php?mode=contactadmin)
+* [contact](https://forum.candaparerevista.ro/)
 
 ### Facebook
 * [/comunitatealevel](https://www.facebook.com/comunitatealevel/)
 
 ### Steam
 * [/candaparerevista](https://steamcommunity.com/groups/candaparerevista)
+
+### Patreon
+* [/candaparerevista](https://www.patreon.com/candaparerevista)

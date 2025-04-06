@@ -247,9 +247,17 @@ Hugo Image Processing: https://gohugo.io/content-management/image-processing/
 
 [...] TODO mai mult conținut
 
+# Search
+* Căutarea are nevoie de un index în format json, care e folosit apoi de folosit de motorul de cautare din `search-index-pizza.wasm` si scriptul `search-index-pizza.js` care proceseaza query-urile și rezultatele
+* Indexul se construiește la build pe baza template-ului din `<root>\themes\hugo-casper-two\layouts\index.json`. Indexul rezultat se poate accesa la http://localhost:1313/index.json
+* A fost nevoie de niște customizări pentru a include autorii în lista de rezultate - vezi comentariile din template-ul `index.json`
+* Tag-urile `<br>` din descrierea autorilor o să strice layoutul din lista de rezultate, e mai bine să fie înlocuite cu `/n` (vor fi înlocuite înapoi cu `<br>` în template-ul din taxonomy.html)
+* Numărul de rezultate e hardcodat la 200. Limita e setată în două locuri în `search-index-pizza.js` – caută `number_of_results`
+
 # Credits
 * Hugo static site generator: [website](https://gohugo.io/) | [github](https://github.com/gohugoio/hugo)
 * Casper Two Hugo Theme: [github](https://github.com/eueung/hugo-casper-two)
+* Modul de căutare INFINI Pizza: [website](https://pizza.rs/docs/overview/), [github wasm](https://github.com/infinilabs/pizza-wasm/tree/main), [github js](https://github.com/infinilabs/pizza-searchbox), [tutorial](https://dev.to/medcl/adding-search-functionality-to-a-hugo-static-site-based-on-infini-pizza-for-webassembly-4h5e)
 * Merriweather font: [github](https://github.com/EbenSorkin/Merriweather)
 * Merriweather Sans font: [github](https://github.com/EbenSorkin/Merriweather-Sans)
 
