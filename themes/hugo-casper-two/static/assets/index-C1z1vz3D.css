@@ -1,5 +1,6 @@
 :root {
-  --docsearch-primary-color: rgb(149, 5, 153);
+  /*--docsearch-primary-color: rgb(149, 5, 153);*/ /* culoarea originala */
+  --docsearch-primary-color: rgba(139,0,0,0.8);
   --docsearch-text-color: rgb(28, 30, 33);
   --docsearch-spacing: 12px;
   --docsearch-icon-stroke-width: 1.4;
@@ -35,7 +36,7 @@
 }
 html[data-theme="dark"] {
   --docsearch-text-color: rgb(245, 246, 247);
-  --docsearch-modal-container-background: rgba(9, 10, 17, 0.8);
+  --docsearch-modal-container-background: rgba(9, 10, 17, 1);
   --docsearch-modal-background: rgb(21, 23, 42);
   --docsearch-modal-shadow: inset 1px 1px 0 0 rgb(44, 46, 64),
     0 3px 8px 0 rgb(0, 3, 9);
@@ -67,9 +68,10 @@ html[data-theme="dark"] {
   cursor: pointer;
   display: flex;
   font-weight: 500;
-  height: 36px;
+  height: 1.5em;
   padding: 0 16px 0 8px;
   user-select: none;
+  margin-right: 1em;
 }
 @media (max-width: 768px) {
   .docsearch-btn {
@@ -82,6 +84,11 @@ html[data-theme="dark"] {
 .docsearch-btn > *:last-child {
   margin-right: 0;
 }
+
+.docsearch-modal-btn-icon {
+  width: 16px;
+}
+
 .docsearch-btn:hover,
 .docsearch-btn:active,
 .docsearch-btn:focus {
@@ -101,7 +108,8 @@ html[data-theme="dark"] {
   padding: 0 12px 0 0;
 }
 .docsearch-btn-keys {
-  display: flex;
+  line-height: 0.5em;
+  display: none;
 }
 .docsearch-btn-keys > * {
   margin-right: 4px;
@@ -119,6 +127,7 @@ html[data-theme="dark"] {
   background: var(--docsearch-key-gradient);
   box-shadow: var(--docsearch-key-shadow);
   color: var(--docsearch-muted-color);
+  font-size: 0.5em;
 }
 @media (max-width: 768px) {
   .docsearch-btn-keys,
@@ -140,7 +149,7 @@ html[data-theme="dark"] {
   position: fixed;
   top: 0;
   width: 100vw;
-  z-index: 200;
+  z-index: 400;
 }
 .docsearch-modal {
   display: flex;
@@ -417,6 +426,7 @@ html[data-theme="dark"] {
   position: relative;
   user-select: none;
   z-index: 300;
+  display: none;
 }
 .docsearch-modal-footer-commands {
   color: var(--docsearch-muted-color);
