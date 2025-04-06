@@ -2,7 +2,7 @@
   <div class="site-footer-content inner">
     <section class="copyright" style="line-height: 1.3em;">
       <a href="/">{{.Site.Params.orgName}}</a> {{.Site.Params.copyright}} <br>
-      <span style="font-size: 0.8em; color: #555;">Construit cu <a href="https://gohugo.io/">Hugo</a> şi tema <a href="https://github.com/eueung/hugo-casper-two">Casper Two</a></span>
+      <span style="font-size: 0.8em; color: #555;">Construit cu <a href="https://gohugo.io/">Hugo</a> şi tema <a href="https://github.com/eueung/hugo-casper-two">Casper Two</a>. Modul de căutare de la <a href="https://github.com/infinilabs/pizza-wasm/tree/main">INFINI Pizza</a>  </span>
     </section>
     <nav class="site-footer-nav">
         <!--a href="/">Latest Posts</a-->
@@ -30,6 +30,8 @@
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
       })();
+    </script>
+    <script type="module" src="/assets/search-index-pizza.js">
     </script>
 
 </footer>
