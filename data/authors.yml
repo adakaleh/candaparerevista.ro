@@ -26,7 +26,7 @@ ciolan:
 cristan:
   name: "Cristan"
   thumbnail: "cristan.jpg"
-  description: "Membru al comunităţii din 2002. Contribuitor al site-ului."
+  description: "Membru al comunităţii din 2002. Administrator și contribuitor al site-ului."
   website: "/"
 darth_zombie:
   name: "Darth Zombie"
@@ -55,7 +55,7 @@ magicake:
 mahdi:
   name: "Mahdi"
   thumbnail: "mahdi.jpg"
-  description: "Membru al comunităţii din 2001."
+  description: "Membru al comunităţii din 2001. Administrator și contribuitor al site-ului."
   website: "/"
 mahri726:
   name: "mahri726"
@@ -109,7 +109,7 @@ taikokaira:
 tg:
   name: "TG"
   thumbnail: "tg.jpg"
-  description: "Membru al comunităţii din 2006. Îi plac poneii şi lucrurile roz."
+  description: "Membru al comunităţii din 2006. Îi plac poneii şi lucrurile roz. Administrator și contribuitor al site-ului."
   website: "/"
 triggerix:
   name: "Triggerix"
