@@ -125,7 +125,7 @@ a {
         position: relative;
         -ms-flex: 1 1 auto;
         flex: 1 1 auto;
-        /*border-radius: 5px 0 0 5px*/
+        border-radius: 3px 0 0 3px
     }
 
     .home-template .post-feed .first-card .post-card-image {
@@ -202,7 +202,7 @@ a {
     /*border: solid 1px lightgray;*/
     /*border: 1px solid rgba(128,128,128, 0.4);*/
     box-shadow: 3px 3px 8px rgba(39, 44, 49, .3), 1px 3px 8px rgba(39, 44, 49, .03);
-    border-radius: 0px;
+    border-radius: 3px;
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
     background-color: rgba(255, 250, 245, 0.7);
@@ -223,12 +223,12 @@ a {
 }
 
 /* normal cards image */
-/*.post-card-image:hover,*/ .post-card:hover {
+/*.post-card-image:hover,*/ /*.post-card:hover {
     transform: scale(1.02);
-}
-/*.post-card-image:hover,*/ .post-card:hover {
+}*/
+/*.post-card-image:hover,*/ /*.post-card:hover {
     transition: transform .4s
-}
+}*/
 
 .post-card-image-link {
     overflow: hidden;
