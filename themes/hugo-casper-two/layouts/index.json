@@ -1,13 +1,17 @@
 {{- $.Scratch.Set "index" slice -}}
 {{- range where .Site.RegularPages.ByDate.Reverse "Type" "not in" (slice "page" "json") -}}
 
-{{with .Params.categories }}
-  {{ range first 1 . }}
-    {{ $cat := index $.Site.Data.categorii (lower . )  }}
-    {{ $primaCategorie := $cat.nume | default . }}
-    {{ $.Scratch.Set "primaCategorie" $primaCategorie }}
+  {{ if eq .Type "blog" }}
+    {{ $.Scratch.Set "primaCategorie" "Blog" }}
+  {{ else }}
+    {{with .Params.categories }}
+      {{ range first 1 . }}
+        {{ $cat := index $.Site.Data.categorii (lower . )  }}
+        {{ $primaCategorie := $cat.nume | default . }}
+        {{ $.Scratch.Set "primaCategorie" $primaCategorie }}
+      {{end}}
+    {{end}}
   {{end}}
-{{end}}
 
   {{ $author := index .Site.Data.authors (or .Params.authors .Site.Params.author) }}
   {{ $authorName := $author.name }}
