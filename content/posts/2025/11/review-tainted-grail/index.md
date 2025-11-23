@@ -26,6 +26,10 @@ linkuriExterne:
   1-site-oficial:
     text: Site oficial
     link: https://www.taintedgrail.com
+  2-pr-outreach:
+    text: Pagina firmei de PR Outreach 
+    desc: Aici puteți găsi mai multe informații, screenshots și concept art
+    link: https://pr-outreach.com/en/game/tainted-grail-the-fall-of-avalon,76
 
 infoBox:
   data: '2025-05-23'
@@ -43,7 +47,8 @@ infoBox:
 
 casetaTehnica:
   alternativa:
-    descriere: "Pe lângă influențele deja amintite (TES III-V, Elden Ring, Dark Souls 1-3) jocul aduce aminte și din modurile stand-alone Enderal și Vigilant pentru TES V Skyrim. Le recomand și pe acestea cu căldură din motive asemănatoare cu cele din acest review"
+    nume: "MODs pentru The Elder Scrolls V: Skyrim"
+    descriere: "Pe lângă influențele deja amintite (TES III-V, Elden Ring, Dark Souls 1-3) jocul aduce aminte și din MOD-urile standalone [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/) și [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11894) pentru TES V Skyrim. Le recomand și pe acestea cu căldură din motive asemănatoare cu cele din acest review."
 
 resources:
   - src: images/tainted-grail-card.jpg
