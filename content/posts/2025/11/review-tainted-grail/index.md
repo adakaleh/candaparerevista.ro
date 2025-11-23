@@ -1,7 +1,7 @@
 ---
 title: "Tainted Grail: The Fall of Avalon"
 type: post
-date: 2025-11-22
+date: 2025-11-24
 authors: sleepknot
 featured: true
 categories:
@@ -54,7 +54,7 @@ resources:
   - src: images/tainted-grail-card.jpg
     name: "card-cover-image"
 
-  - src: "images/tainted-grail-cover2.jpg"
+  - src: "images/tainted-grail-cover.jpg"
     name: "feature-image"
 ---
 
@@ -94,7 +94,7 @@ Castelul din început servește ca un tutorial și imediat îți dai seama că l
 
 ## Regatul proscris
 
-Tainted Grail originează într-un boardgame lansat în anul 2019 cu ajutorul celebrului (în Polonia) autor de fantasy contemporan Krzysztof Piskorski. În 2020 studioul polonez Questline lansează primul joc în acest univers – **Tainted Grail: Conquest**, un turn-based strategy – înhămându-se apoi la un action-RPG construit în Unity ce promitea să amestece libertatea unui Skyrim cu world-building-ul unui Dark Souls ^[După spusele dezvoltatorilor: „Ne dorim neliniștea din Dark Souls în lumea vie a lui Skyrim.” (Questline Dev Blog #4, Iulie 2023)].
+Tainted Grail originează într-un boardgame lansat în anul 2019 cu ajutorul celebrului (în Polonia) autor de fantasy contemporan Krzysztof Piskorski. În 2020 studioul polonez Questline lansează primul joc în acest univers – **Tainted Grail: Conquest**, un turn-based strategy – înhămându-se apoi la un action-RPG construit în Unity ce promitea să amestece libertatea unui Skyrim cu world-building-ul unui Dark Souls ^[După spusele dezvoltatorilor: „Ne dorim neliniștea din Dark Souls în lumea vie a lui Skyrim.” ([Questline Dev Blog #4, Iulie 2023)](https://www.youtube.com/watch?v=6xPzV2FPupo)].
 
 Acest joc este Tainted Grail: TFoA (2025), iar universul său reinterpretează legenda arthuriană într-un stil postmodern, evident influențat de seria celor de la From Software, Dark Souls deja fiind un amalgam de mituri europene și orientale coapte în niște căldări de coșmar și apocalipse oculte. Tainted Grail: TFoA abundă în referințe literare și culte până spre compilație, principala intrigă a jocului fiind așa numitul „Wyrdness”, ceața Stephen-King-ească de care umanitatea fuge, refugiindu-se pe insula Avalon sub conducerea regelui Arthur. Aici umanitatea își găsește un nou cămin, masacrând specia de umanoizi nativi și după toate aparențele avansați tehnologic numiți „Fore-dwellers”.
 
@@ -102,7 +102,7 @@ Acest joc este Tainted Grail: TFoA (2025), iar universul său reinterpretează l
 
 Ca instrument narativ, Wyrdness-ul îmbracă referințe religioase druidice/celtice cu ideea multi-dimensionalității unui _witcher_, ceața fiind sursa monștrilor și a mutațiilor ce ajung să corupă lumea. Influențați și de arta lui [Zdzisław Beksiński](https://www.artchive.com/artwork/untitled-zdzislaw-beksinski-1983-poland/), Questline s-au străduit să reprezinte Wyrdness-ul ca un soi de subconștient colectiv ce irupe înapoi spre lume, păcatele și viciile lumii și ale conducătorilor ei întorcându-se să o bântuie prin cacofonii psiho-organice.
 
-Cu fiecare miez al nopții și prin crăpături provocate de suferință și abuz, Wyrdness-ul descinde asupra lumii din Tainted Grail, îmbrăcând lumea cu un luciu nefast și dând formă variilor nenorociri. Ciclul zi-noapte specific open-world-urilor devine astfel amplificat, trezind ceva foarte primitiv în jucător, deoarece Wyrdness-ul face ca inamicii și pericolele să sporească noaptea, laolaltă cu recompensele (un mecanism familiar deja din jocurile survival). Prin poveste și pacing jocul trezește rapid sentimentul că lumea sa stă pe buza entropiei, fiecare problemă și soluție sângeroasă agravând parcă și mai mult fracturile realității. Toate acestea fac ca lumea să se simtă fragilă și cumva mai umană, chaosul științifico-fantastic al Wyrdness-ului exprimând parcă debilitarea unei minți candva atotcuprinzătoare.
+Cu fiecare miez al nopții și prin crăpături provocate de suferință și abuz, Wyrdness-ul descinde asupra lumii din Tainted Grail, îmbrăcând lumea cu un luciu nefast și dând formă variilor nenorociri. Ciclul zi-noapte specific open-world-urilor devine astfel amplificat, trezind ceva foarte primitiv în jucător, deoarece Wyrdness-ul face ca inamicii și pericolele să sporească noaptea, laolaltă cu recompensele (un mecanism familiar deja din jocurile survival). Prin poveste și pacing jocul trezește rapid sentimentul că lumea sa stă pe buza entropiei, fiecare problemă și soluție sângeroasă agravând parcă și mai mult fracturile realității. Toate acestea fac ca lumea să se simtă fragilă și cumva mai umană, chaosul științifico-fantastic al Wyrdness-ului exprimând parcă debilitarea unei minți cândva atotcuprinzătoare.
 
 În această lume eminamente ruinată, comunități de supraviețuitori trăiesc păziți de puținele artefacte lăsate de Regele Arthur, moștenitorii unui regat fragmentat de conflicte și superstiție și asupra căruia însuși arhitectul său, miticul rege, începe să aibă îndoieli revăzându-l prin ochii jucătorului la secole distanță.
 
@@ -111,7 +111,7 @@ Cu fiecare miez al nopții și prin crăpături provocate de suferință și abu
   "gallery/tainted-grail-05.jpg||"
 >}}
 
-Nimic din ce am spus mai sus nu este spoiler, ci abia premiza de la care pornește povestea jocului, un adevărat carusel post-apocaliptic prin medii și influențe ingenios recroite. În cele ce urmează voi aborda pe scurt mecanicile de gameplay, urmând a mă concentra apoi asupra scopului acestui articol: level design și entuziasm estetic.
+Nimic din ce am spus mai sus nu este spoiler, ci abia premisa de la care pornește povestea jocului, un adevărat carusel post-apocaliptic prin medii și influențe ingenios recroite. În cele ce urmează voi aborda pe scurt mecanicile de gameplay, urmând a mă concentra apoi asupra scopului acestui articol: level design și entuziasm estetic.
 
 ## Săbii și gloome
 
