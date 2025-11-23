@@ -68,10 +68,12 @@
     {{ with .alternativa }}
     <div class="caseta-tehnica-section alternative">
       <p class="label">Alternativă</p>
-      {{ if .link }}
-      <p><a href = " {{ .link }}"><span class="joc-recomandat">{{ .nume }}</span></a>: {{ .descriere }}</p>
+      {{ if and .link .nume }}
+        <p><a href = " {{ .link }}"><span class="joc-recomandat">{{ .nume }}</span></a>: {{ .descriere | markdownify }}</p>
+      {{ else if .nume }}
+        <p><span class="joc-recomandat">{{ .nume }}</span>: {{ .descriere | markdownify }}</p>
       {{ else }}
-      <p><span class="joc-recomandat">{{ .nume }}</span>: {{ .descriere }}</p>
+        <p>{{ .descriere | markdownify }}</p>
       {{ end }}
     </div>
     {{ end }}
