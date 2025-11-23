@@ -34,7 +34,7 @@ resources:
 
 ---
 
-Când am văzut prima oară un trailer de la **Lost in Play** am avut o puternică senzație de _narrative adventure_ à la [Little Misfortune]({{<relref "posts/2019/10/review-little-misfortune">}})), punând astfel așteptările pe un anumit eșichier. Când fu să și apară pe la jumătatea lui august, nu ezitai să-l iau în ciuda așteptărilor. Nu-mi displace neapărat genul ăsta de jocuri, dar parcă îmi surâde mai tare ideea de a fi o parte sesizabil activă într-o lume chiar iluzorie.
+Când am văzut prima oară un trailer de la **Lost in Play** am avut o puternică senzație de _narrative adventure_ à la [Little Misfortune]({{<relref "posts/2019/10/review-little-misfortune">}}), punând astfel așteptările pe un anumit eșichier. Când fu să și apară pe la jumătatea lui august, nu ezitai să-l iau în ciuda așteptărilor. Nu-mi displace neapărat genul ăsta de jocuri, dar parcă îmi surâde mai tare ideea de a fi o parte sesizabil activă într-o lume chiar iluzorie.
 
 {{< youtube HDwRZXgKmec >}}
 
