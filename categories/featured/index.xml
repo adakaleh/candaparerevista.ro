@@ -6,10 +6,20 @@
     <description>Recent content in Featured on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tainted Grail: The Fall of Avalon</title>
+      <link>https://candaparerevista.ro/posts/2025/11/review-tainted-grail/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2025/11/review-tainted-grail/</guid>
+      <description>Luna aceasta, pe 11 noiembrie 2025, s-au făcut 14 ani de când Bethesda a lansat The Elder Scrolls V Skyrim, ultima iterație a unei serii foarte îndrăgite și născute cumva aproape de originile PC gaming-ului: simulare, explorare, roleplaying. Dar după 14 ani, câte jocuri mai aduc azi posibilitatea de a salva lumea ca un erou epic, în timp ce te lasă să furi furculițe și să insufli o pereche de papuci cu duhul unei demizeu?
+Diablo, Baldur&amp;rsquo;s Gate, System Shock, GTA, Far Cry 1, multe jocuri definitoare de gen au născut puzderii de noi iterații, în urma lor studiouri noi și vechi pășind din ce în ce mai frecvent pe granița dintre epigonie și imitație.</description>
+    </item>
     
     <item>
       <title>Warhammer 40k: Dawn of War sau inițierea în estetica grimdark</title>
@@ -145,15 +155,6 @@ Pentru Magnetic Ion Armor, Te-am așteptat, Doamne; așteptat-a sufletul meu spr
 Exemple:
 &amp;ldquo;Get back out here, you taffer!&amp;rdquo;  &amp;ldquo;Hey! Someone&amp;rsquo;s been taffing through here!&amp;rdquo;  &amp;ldquo;What the bloody taff!?&amp;rdquo;
 Jocurile seriei THIEF (Thief: The Dark Project [TDP – 1998], lansat într-o ediţie revizuită ca Thief Gold [TG], Thief II: The Metal Age [TMA – 2000], şi Thief: Deadly Shadows [TDS – 2004], create de defunctele Looking Glass Studios şi Ion Storm, distribuite de Eidos Interactive) sunt străvechi.</description>
-    </item>
-    
-    <item>
-      <title>ROME: TOTAL WAR</title>
-      <link>https://candaparerevista.ro/posts/2018/05/retro-rome-total-war-waaagh/</link>
-      <pubDate>Sun, 20 May 2018 20:00:01 +0200</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2018/05/retro-rome-total-war-waaagh/</guid>
-      <description>270 î.e.n. este anul în care Republica Romană devine puterea dominantă a Peninsulei Italice. Din acest motiv, același an dă și startul campaniei din ROME: TOTAL WAR (RTW), campanie dedicată secolelor în care Republica şi-a extins influenţa pe cuprinsul Mediteranei. Trebuie subliniat de la început că, deși aparent ne aflăm în fața unui joc de strategie de proporții grandioase, adevăratul merit al lui RTW este atmosfera. Este un simulator dedicat firilor visătoare cărora le place să se piardă în fantezii romanțate, de multe ori puternic deviate de la realitățile trecutului istoric, într-un areal geografic concentrat pe Bazinul Mediteranean, dar care cuprinde parţial şi Nordul Europei, Stepa Eurasiatică şi Orientul Mijlociu.</description>
     </item>
     
   </channel>

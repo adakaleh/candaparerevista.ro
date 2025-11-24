@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candaparerevista.ro/posts/2025/11/review-tainted-grail/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candaparerevista.ro/posts/2025/03/review-the-invincible/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url>
@@ -4609,7 +4614,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/featured/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6268,14 +6273,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/level/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/level/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/level/</loc>
-    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/level/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7842,7 +7847,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/posts/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8015,6 +8020,12 @@
   <url>
     <loc>https://candaparerevista.ro/tags/quest-for-glory/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/questline/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8235,14 +8246,14 @@
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/tags/retro/</loc>
-    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
+    <loc>https://candaparerevista.ro/categories/retro/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://candaparerevista.ro/categories/retro/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <loc>https://candaparerevista.ro/tags/retro/</loc>
+    <lastmod>2018-05-20T20:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8296,7 +8307,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/categories/review/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8408,7 +8419,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/tags/rpg/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8774,7 +8785,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8852,7 +8863,7 @@
   
   <url>
     <loc>https://candaparerevista.ro/authors/sleepknot/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9507,6 +9518,18 @@
   <url>
     <loc>https://candaparerevista.ro/authors/taikokaira/</loc>
     <lastmod>2018-05-20T20:00:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/tainted-grail/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candaparerevista.ro/tags/tainted-grail-the-fall-of-avalon/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

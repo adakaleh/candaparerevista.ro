@@ -6,10 +6,20 @@
     <description>Recent content on Site-ul comunității LEVEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://candaparerevista.ro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tainted Grail: The Fall of Avalon</title>
+      <link>https://candaparerevista.ro/posts/2025/11/review-tainted-grail/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2025/11/review-tainted-grail/</guid>
+      <description>Luna aceasta, pe 11 noiembrie 2025, s-au făcut 14 ani de când Bethesda a lansat The Elder Scrolls V Skyrim, ultima iterație a unei serii foarte îndrăgite și născute cumva aproape de originile PC gaming-ului: simulare, explorare, roleplaying. Dar după 14 ani, câte jocuri mai aduc azi posibilitatea de a salva lumea ca un erou epic, în timp ce te lasă să furi furculițe și să insufli o pereche de papuci cu duhul unei demizeu?
+Diablo, Baldur&amp;rsquo;s Gate, System Shock, GTA, Far Cry 1, multe jocuri definitoare de gen au născut puzderii de noi iterații, în urma lor studiouri noi și vechi pășind din ce în ce mai frecvent pe granița dintre epigonie și imitație.</description>
+    </item>
     
     <item>
       <title>The Invincible</title>
@@ -109,7 +119,7 @@ Colegul manifestat așa inopinat în mijirile timpurii ale zilei m-a îmbolnăvi
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://candaparerevista.ro/posts/2022/09/recomandare-lost-in-play/</guid>
-      <description>Când am văzut prima oară un trailer de la Lost in Play am avut o puternică senzație de narrative adventure à la Little Misfortune), punând astfel așteptările pe un anumit eșichier. Când fu să și apară pe la jumătatea lui august, nu ezitai să-l iau în ciuda așteptărilor. Nu-mi displace neapărat genul ăsta de jocuri, dar parcă îmi surâde mai tare ideea de a fi o parte sesizabil activă într-o lume chiar iluzorie.
+      <description>Când am văzut prima oară un trailer de la Lost in Play am avut o puternică senzație de narrative adventure à la Little Misfortune, punând astfel așteptările pe un anumit eșichier. Când fu să și apară pe la jumătatea lui august, nu ezitai să-l iau în ciuda așteptărilor. Nu-mi displace neapărat genul ăsta de jocuri, dar parcă îmi surâde mai tare ideea de a fi o parte sesizabil activă într-o lume chiar iluzorie.
 Nu mică mi-a fost surpriza când am descoperit jucând, cum altfel, că Lost in Play este un adventure în sensul clasic al genului.</description>
     </item>
     
@@ -140,16 +150,6 @@ Cunoscuți pentru cele două jocuri The Last Door, TGK prin Blasphemous s-au în
       
       <guid>https://candaparerevista.ro/posts/2022/02/review-inscryption/</guid>
       <description>Inscryption se prezintă ca un „deckbuilding roguelike” și în mod normal această introducere ar fi fost suficientă ca să-i zic pas, deoarece evit cam orice joc bazat pe mecanici de CCG. În general, prefer jocurile cu un parcurs predictibil, în care să am șansa de a învăța și de a depăși provocările prin propriile-mi abilități, decât să fiu nevoit să gestionez niște probabilități și să mă bazez pe norocul sau ghinionul de moment al unor abilități random. Dar pentru că știam că acest joc a fost dezvoltat de Daniel Mullins mi-am depășit cu ușurință toate prejudecățile.</description>
-    </item>
-    
-    <item>
-      <title>Loop Hero</title>
-      <link>https://candaparerevista.ro/posts/2022/01/recomandare-loop-hero/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://candaparerevista.ro/posts/2022/01/recomandare-loop-hero/</guid>
-      <description>Tocmai când începeam să cred că s-au cam fumat toate variațiunile pe formula roguelike, Loop Hero mi-a demonstrat că ingeniozitatea indie nu cunoaște limite. Preluând elementele clasice ale rețetei, permadeath și generare procedurală, cei de la Four Quarters au adăugat câteva elemente de deck building, autobattle și chiar strategie, iar rezultatul a fost surprinzător de simplu și adictiv.
-În Loop Hero nu ai niciun control asupra eroului. Acesta parcurge singur un drum legat ca un circuit, și înfruntă toți monștrii random care îi ies în cale. La început există doar drumul - lumea a fost distrusă de către un misterios lich.</description>
     </item>
     
   </channel>
