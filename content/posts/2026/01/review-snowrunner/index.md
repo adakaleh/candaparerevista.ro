@@ -134,10 +134,3 @@ SnowRunner e imersiv, vast și captivant. Da, teoretic e un _off-road simulator_
 Merită menționate și fragmentele muzicale ce apar în joc, de exemplu tema din Michigan e un fel de combinație armonioasă între începutul de la Down in a Hole (Alice in Chains) și primele acorduri din Lady in Black (varianta Uriah Heep/Iris).
 
 Dacă joci SnowRunner în anotimpul rece și ai un geam deschis prin casă să pătrundă niște aer tare, ai senzația că ești exact acolo, în mijlocul naturii. E o adevărată încântare să conduci prin păduri, iar asta ajută să treci cu vederea părțile mai puțin plăcute ale jocului. ■
-
-- acord
-- descriere autor
-- avatar?
-- caseta tehnica?
-- descriere steam curator
-- descriere articol pentru card 
