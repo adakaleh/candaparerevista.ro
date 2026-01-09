@@ -116,6 +116,11 @@ triggerix:
   thumbnail: "triggerix.jpg"
   description: "Membru al comunităţii din 2018."
   website: "/"
+vlad_dracul:
+  name: "Vlad Dracul"
+  thumbnail: "vlad_dracul.jpg"
+  description: "Membru al comunităţii din 2014"
+  website: "/"
 waaagh:
   name: "Waaagh!"
   thumbnail: "waaagh.jpg"
