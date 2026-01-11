@@ -11,9 +11,9 @@ După cum ştiţi, luna septembrie este luna în care aniversăm apariţia primu
 
 Linkuri relevante:
 
-* [Site ArhivaRevisteVechi](http://arhivarevistevechi.mythweb.ro/) - arhiva LEVEL completă online, cu posibilitate de căutare şi linkuri de download pentru reviste şi suplimente, unde există.
+* [Site ArhivaRevisteVechi](https://arhiva.candaparerevista.ro/) - arhiva LEVEL completă online, cu posibilitate de căutare şi linkuri de download pentru reviste şi suplimente, unde există.
 * [Thread forum "Reviste Vechi"](https://forum.candaparerevista.ro/app.php/arhiva-reviste) - aici e locul discuţiilor despre reviste şi primul loc unde se postează revistele scanate (nu doar Level).
-* [Pagina wiki revista Level](https://revistevechi.awiki.org/level) - un wiki unde sunt centralizate mai toate revistele vechi care au existat în România, dar secțiunea despre Level conține cele mai multe informații.
+* [Pagina wiki revista Level](https://wiki.candaparerevista.ro/level) - un wiki unde sunt centralizate mai toate revistele vechi care au existat în România, dar secțiunea despre Level conține cele mai multe informații.
 
 Iată şi lista celor au contribuit cu reviste scanate de-a lungul vremii:
 
@@ -34,8 +34,8 @@ Mai sunt destule de făcut, baza de date de periat şi funcţiile de căutare de
 
 * [Site ArhivaRevisteVechi](https://github.com/cristan2/ArhivaRevisteVechi) (GitHub)
 * [Baza de date / cuprinsul revistelor](https://github.com/adakaleh/revistevechi-db) (GitHub)
-* [Wiki Reviste Vechi](https://revistevechi.awiki.org/)
+* [Wiki Reviste Vechi](https://wiki.candaparerevista.ro/)
 
-Şi, să nu uităm, un ultim link: threadul aniversar ["LEVEL - 20+ ani!"](https://forum.candaparerevista.ro/viewtopic.php?f=61&t=1619) de pe forum.
+Şi, să nu uităm, un ultim link: threadul aniversar ["LEVEL 20+ ani!"](https://forum.candaparerevista.ro/viewtopic.php?f=61&t=1619) de pe forum.
 
 La mulţi ani, Level! ■
