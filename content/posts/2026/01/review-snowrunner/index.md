@@ -13,7 +13,7 @@ tags:
 
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?t=3416
 
-description: "xxxxxx"
+description: "xxxxxxxxxxx placeholder descriere"
 
 sursa:
   link: https://forum.candaparerevista.ro/viewtopic.php?t=3416
