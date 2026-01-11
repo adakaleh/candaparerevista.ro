@@ -17,6 +17,8 @@ Linkuri rapide:
   * [N2CE SE](#n2ce-se-februarie-2017)
   * [N2CE #2](#n2ce-2-iunie-2017)
 * [LEVEL](#level)
+  * [Arhiva edițiilor tipărite](#arhiva-edițiilor-tipărite)
+  * [Ultimul număr netipărit](#level-nr-192-decembrie-2013-ianuarie-2014)
 
 ![](n2ce_lvl.png)
 
@@ -81,25 +83,38 @@ Al doilea număr „oficial” al revistei, pe lângă faptul că e de două ori
 > * [Download PDF N2CE #2](https://forum.candaparerevista.ro/n2ce/Revista%20N2CE%20%232.pdf)
 > * [Download PDF N2CE #2 mobil](https://forum.candaparerevista.ro/n2ce/Revista%20N2CE%20%232%20lite.pdf) (dimensiune mai mică, pagini individuale, fără imagini interactive)
 > * [Download materiale extra N2CE #2](https://forum.candaparerevista.ro/n2ce/Revista%20N2CE%20%232%20DVD.zip)
-> * [Thread N2CE #2 pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=80&t=1580)</center>
+> * [Thread N2CE #2 pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=80&t=1580)
 
 ---
 
 # LEVEL
+## Arhiva edițiilor tipărite
 
-Pe lângă arhiva completă a tuturor numerelor revistei Level, care au fost digitalizate [mulțumită eforturilor comunității]({{<relref "/blog/2018/09/arhiva-level-completa">}}) și pe care o puteți accesa pe [forum](https://forum.candaparerevista.ro/app.php/arhiva-reviste) sau [online](http://arhiva.candaparerevista.ro/arhiva/editii.php?revista=7) (plus alte informații pe [wiki](https://wiki.candaparerevista.ro/level)), găsiți mai jos și o reconstituire neoficială a ultimului număr din Level, din decembrie 2013, care, deși finalizat, n-a mai apucat să vadă lumina tiparului.
+{{< figure-multi-ext
+    "/blog/2018/09/arhiva-level-completa/images/arhiva-level-completa.jpg|/blog/2018/09/arhiva-level-completa/images/arhiva-level-completa.jpg|"
+>}}
 
-## LEVEL (decembrie 2013 - ianuarie 2014) reconstituit
+Arhiva completă a tuturor numerelor revistei Level, care au fost digitalizate [mulțumită eforturilor comunității]({{<relref "/blog/2018/09/arhiva-level-completa">}}), poate fi accesată pe forum sau online și puteți găsi alte informații pe wiki:
+
+> Linkuri:
+>
+* [Arhiva online](http://arhiva.candaparerevista.ro/arhiva/editii.php?revista=7)
+* [Arhiva PDF](https://debara.candaparerevista.ro/publica%C8%9Bii/ro/reviste/jocuri/Level/) (sau parțial [aici](https://www.mediafire.com/?bu2fr7w63usie))
+* [Wiki Revista Level](https://wiki.candaparerevista.ro/level)
+* [Thread arhiva revistei pe forum](https://forum.candaparerevista.ro/app.php/arhiva-reviste)
+
+## LEVEL nr. 192 (decembrie 2013 - ianuarie 2014)
 
 {{< figure-multi-ext
     "lvl201312_500.png|lvl201312-cover.jpg| "
 >}}
 
-Deși nu conține articole scrise de membrii forumului, acest număr poate fi considerat „al comunității” deoarece a fost reconstruit de un membru al comunității, din articolele publicate pe site-ul N2 și din informații obținute direct de la redactorii Level de la acea vreme, cu o grafică similară revistelor Level care au precedat-o. Nu este complet, și este doar o imagine aproximativă a ceea ce ar fi putut fi, dar, în lipsa adevăratei reviste, este cea mai bună alternativă pe care o avem.
+Ultima ediție a revistei, numărul 192, care ar fi trebuit să apară în decembrie 2013, deși finalizată, n-a mai apucat să vadă lumina tiparului. Mai jos puteți găsi o reconstituire neoficială a acestui număr realizată de un membru al comunității în 2018, pe baza articolelor publicate pe site-ul N2 și din informații obținute direct de la câțiva din redactorii Level de la acea vreme, cu o grafică imaginată, dar similară revistelor Level care au precedat-o. Nu este complet și este doar o imagine aproximativă a ceea ce ar fi putut fi, dar până la publicarea variantei „oficiale” în 2022 a fost cea mai bună alternativă. Mai multe detalii despre reconstituire găsiți pe [thread-ul dedicat](https://forum.candaparerevista.ro/viewtopic.php?f=61&t=2015) de pe forum.
 
-Mai multe detalii despre reconstituire găsiți pe [thread-ul dedicat](https://forum.candaparerevista.ro/viewtopic.php?f=61&t=2015) de pe forum.
+Ulterior, în 2022, pe site-ul N2 a fost publicat și draftul real al numărului 192. [Detalii aici](https://nivelul2.ro/level-ul-ratacit-de-craciun-liber-la-rasfoit/).
 
 > Linkuri:
 > 
-> * [Download PDF LEVEL 2013-12](https://forum.candaparerevista.ro/n2ce/Level%202013-12%20reconstituit.pdf)
-> * [Thread LEVEL 2013-12 pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=61&t=2015)
+* [Download PDF LEVEL 2013-12](https://forum.candaparerevista.ro/n2ce/Level%202013-12%20reconstituit.pdf) (reconstituire)
+* [Thread LEVEL 2013-12 pe forum](https://forum.candaparerevista.ro/viewtopic.php?f=61&t=2015)
+* [Download PDF LEVEL 2013-12](https://nivelul2.ro/level-ul-ratacit-de-craciun-liber-la-rasfoit/) (oficial)
