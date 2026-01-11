@@ -14,7 +14,8 @@
   {{ if eq .Section "authors" }}
     {{ $author := index .Site.Data.authors .Data.Term }}
     <section class="post-full-content category-description">
-      {{ $author.description | safeHTML }}
+      {{ $authorDescription := (replace $author.description "\n" "<br>") }}
+      {{ $authorDescription | safeHTML }}
     </section>
   {{ else}}
     <!-- iar daca ne aflam intr-o categorie cu descriere, afisam

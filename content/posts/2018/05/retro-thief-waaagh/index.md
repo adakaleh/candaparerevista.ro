@@ -13,7 +13,7 @@ tags:
 
 description: "Taffer: bastardizare a lui 'Trickster', utilizată în mod expletiv cu o versatilitate întâlnită în engleza modernă numai în cazul cuvântului care începe cu litera 'f'."
 
-licenta:
+featured: true
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1471
@@ -23,11 +23,11 @@ sursa:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1471
 
 resources:
-  - src:
+  - src: images/thief-card.jpg
     name: "card-cover-image"
 
   - src: images/thief-cover.jpg
-    name: "cover-image"
+    name: "feature-image"
 ---
 
 *Taffer: bastardizare a lui „Trickster”, utilizată în mod expletiv cu o versatilitate întâlnită în engleza modernă numai în cazul cuvântului care începe cu litera „f”.*

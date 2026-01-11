@@ -17,7 +17,7 @@ Folosire
 
 # TODO de adaugat
 # generare linkuri rapide / cuprins
-# afisare site oficial doar daca linkul editiei e catre alt site sau nu exista
+## mentiune editii normale+abonati
 
 # TODO corecturi manuale
 ## fix level cehia + level turcia
@@ -47,9 +47,9 @@ class Revista(object):
     def __init__(self, dict_obj):
         self.nume = dict_obj.get('nume_revista', EMPTY)
         self.tara = dict_obj.get('tara_revista', EMPTY)
-        self.site_revista = dict_obj.get('site_revista', EMPTY)
-        self.link_revista_curenta = dict_obj.get('link_revista_curenta', EMPTY)
-        self.img_link_full = dict_obj.get('img_coperta_full', EMPTY)
+        self.site_revista = dict_obj.get('site_revista', EMPTY).strip()
+        self.link_revista_curenta = dict_obj.get('link_revista_curenta', EMPTY).strip()
+        self.img_link_full = dict_obj.get('img_coperta_full', EMPTY).strip()
         self.luna_curenta = dict_obj.get('luna_curenta', EMPTY)
         self.editie_curenta = dict_obj.get('editie_curenta', EMPTY)
         self.img_thumbnail = dict_obj.get('thumbnail', EMPTY)
@@ -119,7 +119,7 @@ class Revista(object):
             return make_markdown(self.img_thumbnail, self.img_link_full)
 
     def get_site_markdown(self):
-        if self.site_revista != EMPTY:
+        if self.site_revista != EMPTY and not self.link_revista_curenta.startswith(self.site_revista):
             return "[Site {nume}]({link})".format(
                 nume=self.nume,
                 link=self.site_revista)
@@ -138,7 +138,7 @@ def citeste_fisier(fisier_csv):
     print("reading %s" % fisier_csv)
 
     fisier = open(fisier_csv, "r")
-    csv_reader = csv.DictReader(fisier, delimiter=',')
+    csv_reader = csv.DictReader(fisier, delimiter='\t')
     lista_reviste = {}
     for row in csv_reader:
         # print("============")
@@ -158,14 +158,19 @@ def citeste_fisier(fisier_csv):
 
 def make_articol(lista_reviste):
     '''
-    Primeste lista de obiecte tip 'Revista', o proceseaza pe fiecare in parte,
+    Primeste un dictionar cu liste de obiecte tip 'Revista', le proceseaza pe fiecare in parte,
     si genereaza stringul final markdown pentru includere in articol
     '''
     lista_reviste_markdown = []
-
+    print(lista_reviste)
     # itereaza reviste
     for revista in lista_reviste.values():
-        revista_curenta_markdown = proceseaza_revista(revista)
+        nume_revista = revista[0].nume
+        print("iterating revista: {}".format(nume_revista))
+        try:
+            revista_curenta_markdown = proceseaza_revista(revista)
+        except Exception as e:
+            print("problema la revista {}: {}".format(nume_revista), e)
         lista_reviste_markdown.append(revista_curenta_markdown)
 
     # scrie fisier
