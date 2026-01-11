@@ -16,13 +16,17 @@
     {{ $taxonomyName := "categories"}}
     {{ $taxonomy := index $.Site.Taxonomies $taxonomyName }}
     {{ range $key, $value := $taxonomy }}
-    <h3><a href="{{ "/" | relLangURL}}{{ $taxonomyName }}/{{ $key | urlize }}">{{ $key | title }}</a> ({{$value.Count}})&nbsp;</h3>
-      <!-- Afisare lista articole din fiecare categorie -->
-      {{/*  <ul>
-        {{ range $value.Pages}}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>  */}}
+
+      {{ $categorieSiteData := index $.Site.Data.categorii (lower $key) }}
+      {{ $titluCategorie := $categorieSiteData.nume | default $key }}
+
+      <h3><a href="{{ "/" | relLangURL}}{{ $taxonomyName }}/{{ $key | urlize }}">{{ $titluCategorie | title }}</a> ({{$value.Count}})&nbsp;</h3>
+        <!-- Afisare lista articole din fiecare categorie -->
+        {{/*  <ul>
+          {{ range $value.Pages}}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>  */}}
     {{ end }}
   </section>
 </div>

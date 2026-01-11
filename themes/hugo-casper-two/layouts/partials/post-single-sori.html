@@ -85,6 +85,20 @@
                 {{ end }}
             {{ end }}
 
+            {{ if .Resources.ByType "audio"  }}
+                <div class="audio-version"><p class="audio-version-label">Versiune audio</p>
+                    <audio controls>
+                    {{ with .Resources.GetMatch "**.ogg"  }}
+                        <source src="{{.Permalink}}" type="audio/ogg">
+                     {{ end }}
+                    {{ with .Resources.GetMatch "**.mp3"  }}
+                        <source src="{{.Permalink}}" type="audio/mpeg">
+                     {{ end }}
+                     Browserul nu suportă formatul de fișier pentru versiunea audio.
+                    </audio>
+                </div>
+            {{ end }}
+
             {{ .Content }}
 
             {{ with .Params.infoBox }}
@@ -165,7 +179,7 @@
                     <p><span class="post-full-article-extra-categ">Linkuri externe</span>:</p>
                         <ul>
                             {{ range . }}
-                                <li><a href = "{{ .link }}">{{ .text }}</a>: {{ .desc }}</li>
+                                <li><a href = "{{ .link }}">{{ .text }}</a>{{ with .desc }}: {{ . }} {{end}}</li>
                             {{ end }}
                         </ul>
                 {{end}}
@@ -190,7 +204,10 @@
         <img class="author-profile-image" src="{{ $authorThumbnailFile | absURL}}" alt="{{ $authorName }}" />
         <section class="author-card-content">
             <h4 class="author-card-name"><a href="/authors/{{.Params.authors}}">{{$authorName}}</a></h4>
-                {{ with $authorDescription }} <p>{{ . | safeHTML }}</p> {{ end }}
+                {{ with $authorDescription }}
+                    {{ $authorDescPara := (replace . "\n" "<br>") }}
+                    <p>{{ $authorDescPara | safeHTML }}</p>
+                {{ end }}
         </section>
       </section>
     </footer>

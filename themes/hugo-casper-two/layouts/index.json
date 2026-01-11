@@ -1,0 +1,35 @@
+{{- $.Scratch.Set "index" slice -}}
+{{- range where .Site.RegularPages.ByDate.Reverse "Type" "not in" (slice "page" "json") -}}
+
+  {{ if eq .Type "blog" }}
+    {{ $.Scratch.Set "primaCategorie" "Blog" }}
+  {{ else }}
+    {{with .Params.categories }}
+      {{ range first 1 . }}
+        {{ $cat := index $.Site.Data.categorii (lower . )  }}
+        {{ $primaCategorie := $cat.nume | default . }}
+        {{ $.Scratch.Set "primaCategorie" $primaCategorie }}
+      {{end}}
+    {{end}}
+  {{end}}
+
+  {{ $author := index .Site.Data.authors (or .Params.authors .Site.Params.author) }}
+  {{ $authorName := $author.name }}
+  {{ $authorLink := printf "/authors/%s" .Params.authors }}
+
+  {{/* Un array de tags din index nu o sa fie citit de scriptul .js, astfel ca trebuie unit intr-un singur string ca sa putem cauta si dupa tags */}}
+  {{ $joinedTags := (delimit (.Params.tags | default slice) ",") }}
+
+  {{ $categ := $.Scratch.Get "primaCategorie" }}
+  {{- $.Scratch.Add "index" (dict "title" (.Title | plainify) "url" .Permalink "author" $authorName "tags" $joinedTags "category" $categ "subcategory" $authorName "summary" (.Description | markdownify | plainify) "content" (.Content | markdownify | plainify) ) -}}
+
+{{- end -}}
+
+{{/* Lista de rezultate e delimitata dupa categorii. Aici e un workaround pentru a putea include si autorii in lista de rezultate ca o categorie separata.*/}}
+{{ range $authorKey, $author := .Site.Data.authors }}
+  {{ $authorName := $author.name }}
+  {{ $authorDescription := (or $author.description "") }}
+  {{ $.Scratch.Add "index" (dict "title" $authorName "url" (printf "/authors/%s" $authorKey) "author" $authorName "tags" slice "category" "Autori" "subcategory" "" "summary" "" "content" $authorDescription ) -}}
+{{ end }}
+
+{{- $.Scratch.Get "index" | jsonify -}}

@@ -23,7 +23,9 @@
     <meta property="og:description" content="{{ .Site.Params.description }}" />
 {{ end }}
 
-{{if .Params.image }}
+{{ if .Params.facebookImage }}
+    <meta property="og:image" content="{{ .Params.facebookImage | absURL}}"/>
+{{else if .Params.image }}
     <meta property="og:image" content="{{ .Params.image | absURL}}"/>
 {{else if .Resources.GetMatch "feature-image"}}
     {{ $image := .Resources.GetMatch "feature-image"}}

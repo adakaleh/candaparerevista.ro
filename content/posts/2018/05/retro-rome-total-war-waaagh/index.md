@@ -11,7 +11,7 @@ tags:
     - Total War
     - RTS
 
-licenta: 
+featured: true
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1236
@@ -27,11 +27,11 @@ linkuriExterne:
 linkForum: https://forum.candaparerevista.ro/viewtopic.php?f=77&t=1236
 
 resources:
-  - src: 
+  - src: images/rome-tw-card.jpg
     name: "card-cover-image"
 
   - src: images/Rome_Total_War_Artwork_1.jpg
-    name: "cover-image"
+    name: "feature-image"
 ---
 270 î.e.n. este anul în care Republica Romană devine puterea dominantă a Peninsulei Italice. Din acest motiv, același an dă și startul campaniei din ROME: TOTAL WAR (RTW), campanie dedicată secolelor în care Republica şi-a extins influenţa pe cuprinsul Mediteranei. Trebuie subliniat de la început că, deși aparent ne aflăm în fața unui joc de strategie de proporții grandioase, adevăratul merit al lui **RTW** este atmosfera. Este un simulator dedicat firilor visătoare cărora le place să se piardă în fantezii romanțate, de multe ori puternic deviate de la realitățile trecutului istoric, într-un areal geografic concentrat pe Bazinul Mediteranean, dar care cuprinde parţial şi Nordul Europei, Stepa Eurasiatică şi Orientul Mijlociu.
 

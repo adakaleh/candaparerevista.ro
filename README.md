@@ -146,6 +146,17 @@ text articol aici
 text articol aici
 ~~~
 
+#### Imagine pentru facebook
+Imaginea citită de facebook pentru un articol sharuit este cea din parametrul <og:image>. În mod normal, aceasta este aceeași cu imaginea articolului, dar pentru articolele care nu au imagine, sau e nevoie de un override, există parametrul de front-matter `facebookImage: cale/catre/fisier` (unde calea începe din root-ul secțiunii:
+
+~~~
+facebookImage: posts/2018/05/retro-thief-waaagh/images/thief-cover.jpg
+~~~
+
+
+## Audio
+Pentru a introduce o versiune audio a articolului, este suficientă prezența unui fișier audio .mp3 sau .ogg undeva în directorul articolului. Vezi secțiunea Cod de mai jos, partea despre Page Bundles, pentru mai multe detalii.
+
 ## Video
 Pentru video, Hugo are suport built-in pentru clipuri YouTube, dar care dintr-un motiv necunoscut nu merge la noi. Soluția a fost un shortcode custom, care face același lucru.
 
@@ -167,6 +178,9 @@ Articolele trebuie ţinute într-un director propriu, în directorul `content`, 
 ~~~
 content/
 ├── nume-articol/
+│   ├── audio/
+│   │   ├── audio-1.mp3
+│   │   ├── audio-1.ogg
 │   ├── images/
 │   │   ├── image-1.jpg
 │   │   ├── image-2.jpg
@@ -223,6 +237,9 @@ Dimensiunile pentru redimensionare sunt stabilite la nivel de site și stocate �
   cardThumbSize = "x350"
 ~~~
 
+### Versiune audio
+Pentru versiunea audio a unui articol se folosesc resurse de tip audio. Nu este necesar ca aceste resurse să fie specificate în front matter, ci doar să fie prezente oriunde în page bundle (dar pentru organizare e preferabil un director "audio") și vor fi recunoscute automat, indiferent de nume. Dacă sunt mai multe fișiere de același tip, va fi folosit primul. Formatele acceptate sunt .ogg și/sau .mp3 (preferabil ambele, pentru compatibilitate cu toate browserele).
+
 ### Informații suplimentare
 Hugo Page Bundles: https://gohugo.io/content-management/page-bundles
 Hugo Page Resources: https://gohugo.io/content-management/page-resources/
@@ -230,9 +247,17 @@ Hugo Image Processing: https://gohugo.io/content-management/image-processing/
 
 [...] TODO mai mult conținut
 
+# Search
+* Căutarea are nevoie de un index în format json, care e folosit apoi de folosit de motorul de cautare din `search-index-pizza.wasm` si scriptul `search-index-pizza.js` care proceseaza query-urile și rezultatele
+* Indexul se construiește la build pe baza template-ului din `<root>\themes\hugo-casper-two\layouts\index.json`. Indexul rezultat se poate accesa la http://localhost:1313/index.json
+* A fost nevoie de niște customizări pentru a include autorii în lista de rezultate - vezi comentariile din template-ul `index.json`
+* Tag-urile `<br>` din descrierea autorilor o să strice layoutul din lista de rezultate, e mai bine să fie înlocuite cu `/n` (vor fi înlocuite înapoi cu `<br>` în template-ul din taxonomy.html)
+* Numărul de rezultate e hardcodat la 200. Limita e setată în două locuri în `search-index-pizza.js` – caută `number_of_results`
+
 # Credits
 * Hugo static site generator: [website](https://gohugo.io/) | [github](https://github.com/gohugoio/hugo)
 * Casper Two Hugo Theme: [github](https://github.com/eueung/hugo-casper-two)
+* Modul de căutare INFINI Pizza: [website](https://pizza.rs/docs/overview/), [github wasm](https://github.com/infinilabs/pizza-wasm/tree/main), [github js](https://github.com/infinilabs/pizza-searchbox), [tutorial](https://dev.to/medcl/adding-search-functionality-to-a-hugo-static-site-based-on-infini-pizza-for-webassembly-4h5e)
 * Merriweather font: [github](https://github.com/EbenSorkin/Merriweather)
 * Merriweather Sans font: [github](https://github.com/EbenSorkin/Merriweather-Sans)
 

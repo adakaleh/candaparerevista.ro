@@ -3,8 +3,8 @@
   <div class="info-box-container">
     <span class="info-box-item"><span class="label">Data apariției: </span>{{.data}}</span>
     {{ with .producator}}<span class="info-box-item"><span class="label">Producător: </span>{{.}}</span>{{ end }}
-    {{ with .gen}}<span class="info-box-item"><span class="label">Gen: </span>{{ delimit . "," }}</span>{{ end }}
     {{ with .autor }}<span class="info-box-item"><span class="label">Autor: </span>{{.}}</span>{{ end }}
+    {{ with .gen}}<span class="info-box-item"><span class="label">Gen: </span>{{ delimit . "," }}</span>{{ end }}
     {{ with .platforme }}
       <span class="info-box-item"><span class="label">Platforme:</span> {{ delimit . ", " }} </span>
     {{ end }}
@@ -12,6 +12,7 @@
       <span class="info-box-item"><span class="label">Reviews: </span>
         {{ if .metacritic }} <a href = "{{.metacritic}}">Metacritic</a>{{ end }}{{ if and .metacritic .opencritic }}, {{ end }}
         {{ if .opencritic }} <a href = "{{.opencritic}}">OpenCritic</a>{{ end }}
+        {{ if .boardgamegeek }} <a href = "{{.boardgamegeek}}">BoardGameGeek</a>{{ end }}
       </span>
     {{ end }}
     {{ with .cumpara }}

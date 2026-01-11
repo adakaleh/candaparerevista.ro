@@ -13,7 +13,7 @@ tags:
 
 description: "Profit de prezența lui XCOM 2, de care nu m-am putut bucura cum se cuvine, pentru a le aduce (din nou) osanale bravilor săi înaintași, X-Com: Enemy Unknown și X-Com: Terror from the Deep. Pentru cei ce au deschis calculatorul doar în ultimii patru ani, XCOM-ul cu numărul unu al celor de la Firaxis este reboot-ul mai arătos, dar puțin mai sărac în duh și simțire, al seriei X-Com mulsă până la epuizare de către defuncta  Microprose."
 
-licenta: 
+featured: true
 
 sursa:
    link: https://forum.candaparerevista.ro/viewtopic.php?f=80&t=1580
@@ -33,7 +33,7 @@ resources:
     name: "card-cover-image"
 
   - src: images/cover.jpg
-    name: "cover-image"
+    name: "feature-image"
 ---
 
 „Dintru adâncuri strigat-am către Tine, Doamne! Doamne, auzi glasul meu!<br><br>
@@ -45,7 +45,7 @@ Că la Domnul este mila și multă mântuire la El. Și el nu va lăsa Pământu
 
 <br>
 
-Profit de prezența lui XCOM 2, de care nu m-am putut bucura cum se cuvine, pentru a le aduce (din nou) osanale bravilor săi înaintași, X-Com: Enemy Unknown și X-Com: Terror from the Deep. Acum câțiva ani, ca un David modern care s-a luat la trântă nopți la rând cu goliații intergalactici, i-am dedicat un psalm. Publicat pe defunctul site Level și în defuncta revistă Level. Îl puteți admira mai sus, reprodus în întreaga lui splendoare. Eu sunt mîndru de el, dar voi l-ați putea considera o blasfemie. Sau o flagrantă încălcare a drepturilor de autor dacă sunteți unul dintre membrii atei ai fostei clici stăpânitoare de la Level, unde plănuiam să prestez până la sfârșitul veacului. 
+Profit de prezența lui **XCOM 2**, de care nu m-am putut bucura cum se cuvine, pentru a le aduce (din nou) osanale bravilor săi înaintași, **X-Com: Enemy Unknown** și **X-Com: Terror from the Deep**. Acum câțiva ani, ca un David modern care s-a luat la trântă nopți la rând cu goliații intergalactici, i-am dedicat un psalm. Publicat pe defunctul site Level și în defuncta revistă Level. Îl puteți admira mai sus, reprodus în întreaga lui splendoare. Eu sunt mîndru de el, dar voi l-ați putea considera o blasfemie. Sau o flagrantă încălcare a drepturilor de autor dacă sunteți unul dintre membrii atei ai fostei clici stăpânitoare de la Level, unde plănuiam să prestez până la sfârșitul veacului.
 
 Înainte să mă acuzați de blasfemie și să mă nominalizați vără voia mea pentru Grătarul Anului, aflați de la mine că mulțumită Fraților X-Com am redescoperit puterile tămăduitoare ale unei cruci bine făcute. Cred că în primele câteva săptămâni în care am prestat non stop pe ogorul ONG-ului pentru combaterea amenințărilor extraterestre și extracurriculare, mi-am făcut cruce mai des decât în biserică. No, ce vreți, în biserică nu sunt Ethereals și nici Lobstermen care să-mi nimicească jumătate de enoriași până reușește cineva să-i plaseze o plasmă fix în numele Tatălui. Mai aveam puțin și-mi cumpăram mouse pentru stângaci, ca să am mâna dreaptă liberă în caz că văd ceva galben cum iese din umbră. Brrr, încă am coșmare cu homarii cei gălbui din Terror from The Deep. Asta cînd n-am coșmarii cu extratereștrii ăia cu glugă maro din primul. 
 
