@@ -37,7 +37,7 @@ summaryLength = 90
   steamGroup = "candaparerevista"
 
   # forum
-  linkForum = "https://forum.candaparerevista.ro"
+  linkForum = "https://forum.candaparerevista.ro/"
   labelButonForum = "Forum"
 
   metaDescription = ""
