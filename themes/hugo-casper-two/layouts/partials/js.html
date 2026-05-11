@@ -21,3 +21,11 @@
     s.parentNode.insertBefore(g,s)}(document,'script'));
   </script>
 {{ end }}
+
+{{ if .Site.Params.analiticeProprii }}
+  {{ "<!-- Analytics: trafic si vizualizari, toate datele raman pe serverul nostru -->" | safeHTML }}
+  <img src="https://analitice.candaparerevista.ro/pixel.png?s=car&p={{ .RelPermalink }}" />
+{{ end }}
+
+{{ "<!-- Modul de cautare -->" | safeHTML }}
+<script type="module" src="/assets/search-index-pizza.js"></script>

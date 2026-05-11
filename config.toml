@@ -42,6 +42,7 @@ summaryLength = 90
 
   metaDescription = ""
   googleAnalytics = ""
+  analiticeProprii = true
   RSSLink = ""
 
   # logo site si imagine fundal pentru header
