@@ -24,7 +24,7 @@
 
 {{ if .Site.Params.analiticeProprii }}
   {{ "<!-- Analytics: trafic si vizualizari, toate datele raman pe serverul nostru -->" | safeHTML }}
-  <img src="https://analitice.candaparerevista.ro/pixel.png?s=car&p={{ .RelPermalink }}" />
+  <img src="https://analitice.candaparerevista.ro/pixel.png?s=car&p={{ .RelPermalink }}" width="1" height="1" style="position:absolute; left:0px; top:0px;" />
 {{ end }}
 
 {{ "<!-- Modul de cautare -->" | safeHTML }}
