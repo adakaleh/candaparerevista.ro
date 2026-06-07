@@ -1,0 +1,58 @@
+name: Deploy to GitHub Pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check if deployment needed
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Deploying manually..."
+            echo "deploy=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          git fetch origin gh-pages 2>/dev/null || true
+          CURRENT_SHA=$(git rev-parse HEAD)
+          LAST_SHA=$(git show origin/gh-pages:.deployed-sha 2>/dev/null || echo "none")
+          echo "Current master SHA : $CURRENT_SHA"
+          echo "Last deployed SHA  : $LAST_SHA"
+          if [ "$CURRENT_SHA" != "$LAST_SHA" ]; then
+            echo "deploy=true" >> $GITHUB_OUTPUT
+          else
+            echo "No new commits since last deployment — skipping."
+            echo "deploy=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Build site
+        if: steps.check.outputs.deploy == 'true'
+        run: |
+          chmod +x ./hugo/hugo
+          ./hugo/hugo
+          git rev-parse HEAD > public/.deployed-sha
+
+      - name: Deploy to gh-pages
+        if: steps.check.outputs.deploy == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          cd public
+          git init
+          git add --all
+          git commit -m "Publishing to gh-pages ($(git -C .. rev-parse --short HEAD))"
+          git push --force origin HEAD:gh-pages
