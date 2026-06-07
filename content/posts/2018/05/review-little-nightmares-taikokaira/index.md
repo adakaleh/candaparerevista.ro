@@ -23,7 +23,7 @@ resources:
   - src: images/little-nightmares-review-1.jpg
     name: "card-cover-image"
 
-  - src: gallery/ss_328207fbb7a33b95ab6df8bcef7858e670943c17.1920x1080.jpg
+  - src: gallery/little-nightmares-6.jpg
     name: "cover-image"
 ---
 Încă de la Geneză, omului i s-a dat renumele de cea mai complexă şi capabilă specie existentă. Ca orice alt animal, fiinţa în cauză are datoria de a se autoîngriji prin mâncare, somn şi apă, iar lipsa acestor elemente esenţiale poate declanşa revolta propriului organism, precum şi încetarea funcţionării lui. Orice nevoie care rămâne nesatisfăcută duce, cel mai adesea, la incapacitate de mişcare şi, într-un final, la moarte.
@@ -40,7 +40,7 @@ Cu ajutorul obiectelor, poți rezolva și diferite puzzle-uri. Uneori trebuie s�
 
 La începutul jocului trecuse o idee pe lângă mine. Mă întrebam: „Oare nu sunt lucruri colectabile aici?”. Și erau, dar răspunsul mi-a venit destul de târziu, la sfârșitul jocului când am descoperit că dacă strângi tot dintr-o anumită porțiune de nivel, primești o imagine concepută înainte și în timpul creării jocului. Tot ce trebuie să faci e să iei în brațe toți nomii, să aprinzi toate lămpile și să spargi toate statuetele cu Doamna Gheișă. Simplu, nu? Măcar de îmi dădeam seama din prima...
 
-![](gallery/ss_e1c5d77c5eb75ef6a377d4e1e24cfe1dedf9c6c2.1920x1080.jpg)
+![](gallery/little-nightmares-9.jpg)
 
 Ca structură, Little Nightmares e format din cinci capitole: Închisoarea, Adăpostul, Bucătăria, Aria Oaspeților și Districtul Doamnei. Fiecare dintre acestea are locații diferite și, de asemenea, oponenți diferiți. Conform locului cutreierat, chiar și muzica de pe fundal se schimbă, devenind mai sumbră și mai joasă. Coloana sonoră compusă de Tobias Lilja se integrează perfect cu povestea interpretată vizual și reușește să transmită un aer copilăresc, dar straniu, datorită combinațiilor acustice construite pe mai multe planuri.
 
@@ -54,7 +54,7 @@ La trecerea în următorul capitol, îl întâlnești pe Îngrijitor (The Janito
 
 Nici Bucătăria nu e mai sigură, fiind permanent păzită de Șefii Gemeni (The Twin Chefs). Spre deosebire de Îngrijitor, acești inamici au mâini și picioare scurte, corpuri dolofane și o vedere nu prea dezvoltată; din momentul în care te-au văzut, au nevoie de trei secunde să-și dea seama că ești tu și să te fugărească. Din fericire, îi poți evită destul de ușor, ascunzându-te pe sub mobilă. Treaba lor e să gătească pentru Oaspeți, cărora le e așa foame încât ar mânca-o și pe Six... la propriu.
 
-![](gallery/ss_fee20665b36ffa488caeef68c8b98962bbe829ae.1920x1080.jpg)
+![](gallery/little-nightmares-10.jpg)
 
 După cum îi spune numele, Aria Oaspeților adăpostește Musafirii (The Guests/Oaspeții). Cred că am auzit cu toții, măcar o dată, vorba: „Mănânc ca să trăiesc”; ei bine, aici s-ar potrivi mai bine: „Trăiesc ca să mănânc”. Ceea ce îi caracterizează cel mai bine pe acești „oameni” e dorința de a mânca într-una și aproape orice. De altfel, acesta e principalul lucru care îi face periculoși și, pentru că sunt obezi și au mâini scurte, nu se pot apropia de tine decât dacă ajungi prea aproape de capul lor. De picioare nu mai zic nimic, pentru că oricum se târăsc ca să te prindă din urmă.
 

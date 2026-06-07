@@ -1,5 +1,5 @@
 ---
-title: candaparerevista.ro (alpha)
+title: Ne facem site!
 type: blog
 date: '2018-02-11'
 ---

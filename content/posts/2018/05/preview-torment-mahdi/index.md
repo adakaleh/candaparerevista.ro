@@ -20,7 +20,7 @@ resources:
   - src:
     name: "card-cover-image"
 
-  - src: images/TToN-card.png
+  - src: images/TToN-card.jpg
     name: "cover-image"
 ---
 

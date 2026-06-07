@@ -346,10 +346,10 @@ html body.post-template div.site-wrapper main#site-main.site-main.outer div.inne
 
 /* casete separate text */
 .post-full-content-aside {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(70, 26, 18, 0.05);
     padding: 1em;
     color: rgba(70, 26, 18, 0.75);
-    border: 1em solid rgba(255, 255, 0, 1);
+    border: 1em solid rgba(70, 26, 18, 0.75);
     margin: 0 0 1.5em;
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.6rem;
