@@ -35,14 +35,12 @@ disqus.html
 footer.html
 head.html
 
-header-floating-sori.html
 header-sori-error.html
 header-sori-tag.html
 header-sori-term.html
 header-sori.html
 header.html
 
-js-sori.html
 js.html
 
 license-list.html					- card pentru paginile cu licențe
@@ -85,7 +83,5 @@ single.html
 |- post-single.html / post-single-sori.html
 |- disqus.html
 |- readnext-random-sori.html + readnext-article-sori.html
-|- /*header-floating-sori.html*/
 |- footer.html
 |- js.html
-|- js-sori.html

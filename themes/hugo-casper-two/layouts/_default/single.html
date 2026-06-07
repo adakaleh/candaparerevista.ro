@@ -47,13 +47,9 @@
     </div>
   </div>
 </aside>
-
-<!-- dezactivare bara progres din pagina articol -->
-{{/* partial "header-floating-sori" . */}}
 {{end}}
 
 {{ partial "footer" . }}
 </div>
 {{ partial "js" . }}
-{{if eq .Site.Params.singleViewStyle "casper"}}{{ partial "js-sori" . }}{{end}}
 </body></html>
