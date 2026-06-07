@@ -48,11 +48,11 @@ jobs:
       - name: Deploy to gh-pages
         if: steps.check.outputs.deploy == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           cd public
           git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git add --all
           git commit -m "Publishing to gh-pages ($(git -C .. rev-parse --short HEAD))"
           git push --force origin HEAD:gh-pages
