@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviu on Site-ul comunității LEVEL</title>
+    <link>https://candaparerevista.ro/categories/interviu/</link>
+    <description>Recent content in Interviu on Site-ul comunității LEVEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://candaparerevista.ro/categories/interviu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>De vorbă cu Panu Talus - compozitor pentru jocul indie The Way</title>
+      <link>https://candaparerevista.ro/posts/2020/08/interviu-panu-talus/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://candaparerevista.ro/posts/2020/08/interviu-panu-talus/</guid>
+      <description>Recent am dat peste un joc care m-a surprins, așa că hai să vă povestesc ce s-a întâmplat. Obișnuiesc destul de des să răsfoiesc magazinele online de jocuri în căutare de reduceri și să văd ce mai e nou. The Way e un joc pe care l-am mai văzut, dar despre care nu știam mare lucru. Îmi amintesc că am citit pe undeva că ar fi un joc dificil și că nu ar avea controlul foarte prietenos (vorbesc despre versiunea de Nintendo Switch), în schimb screenshot-urile erau foarte faine. Se vedea că s-a depus multă muncă în pixel art și asta m-a lovit direct în nostalgie.</description>
+    </item>
+    
+  </channel>
+</rss>
